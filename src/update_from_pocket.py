@@ -108,11 +108,16 @@ if __name__ == "__main__":
         print('# Movies', file=f)
         print('', file=f)
         for id, item in resp['list'].items():
-    #        pprint(item)
             s = u'- [%s](%s) - %s' % (item.get('resolved_title', item['given_title']), item.get('resolved_url', item['given_url']), item.get('excerpt', ''))
             print(s.encode('utf-8'), file=f)
-    #        f.write()
-    #        print 
+
+    resp, meta = pocket.get(tag='travel')
+    with open(os.path.join(BASE_DIR, 'Travel.md'), 'w') as f:
+        print('# Travel', file=f)
+        print('', file=f)
+        for id, item in resp['list'].items():
+            s = u'- [%s](%s) - %s' % (item.get('resolved_title', item['given_title']), item.get('resolved_url', item['given_url']), item.get('excerpt', ''))
+            print(s.encode('utf-8'), file=f)
 
     # pprint(resp)
     # print 'I have a token %s' % token
