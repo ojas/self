@@ -1,0 +1,37 @@
+# Movies
+
+- [Telegraph Road - Live 1984 Dire Straits](http://www.youtube.com/watch?v=ript5JqSWb8) - dire straits alchemy live tour 1984
+- [Lesser known films that just need some more attention.](http://imgur.com/a/wOt5l) - 
+- [Paraiso Travel (2008)](http://www.imdb.com/title/tt0475860/) - A young seductive woman named Reina, living in Medellin, Colombia, becomes infatuated with finding fortune in New York City. A young man named Marlon desperately falls in love with this rebellious teen.
+- [What the Future Sounded Like (2006)](http://www.youtube.com/watch?v=8KkW8Ul7Q1I) - Brilliant documentary about the birth of electronic music in Britain. The documentary enjoyed screenings at several film festivals around Australia and on AB...
+- [Niñas Mal (2007)](http://www.imdb.com/title/tt0806940/) - The ultimate rebel Adela boasts three tattoos, a body piercing and a recent arrest for alleged indecent behavior.
+- [Ugly Me (2006)](http://www.imdb.com/title/tt0460275/) - "When Amanda is humiliated by her lover and fired from her job, she decides to move to a new town and start over, but this time by making herself up as an ugly woman in an effort to be taken seriously.
+- [Talk to Her (2002)](http://www.imdb.com/title/tt0287467/) - After a chance encounter at a theater, two men, Benigno and Marco, meet at a private clinic where Benigno works. Lydia, Marco's girlfriend and a bullfighter by profession, has been gored and is in a coma.
+- [Interstellar (2014)](http://m.imdb.com/title/tt0816692/?ref_=ext_shr_tw_vi) - Sci-Fi
+- [10 lesser known movies to check out in 2014](https://imgur.com/a/oo5p0) - 
+- [Critics’ 50 Greatest Documentaries of All Time](http://www.bfi.org.uk/sight-sound-magazine/greatest-docs) - The new Sight & Sound Documentary Poll is the result of a ‘why didn’t we think of that before’ moment.
+- [The Zero Theorem - Official Trailer (2014)](http://www.youtube.com/watch?v=rae7_O_6EtU) - Subscribe to Voltage Pictures for all our latest releases: http://bit.ly/1kjjbOyVisit the official site: http://www.thezerotheorem-movie.comLike on Facebook: https://www.facebook.com/TheZeroTheoremFollow on Twitter: http://www.twitter.com/TheZeroTheorem_Purchase the soundtrack: http://bit.ly/1kgDM8u
+- [Agora (film)](http://en.wikipedia.org/wiki/Agora_(film)) - Agora is a 2009 Spanish English-language historical drama film directed by Alejandro Amenábar and written by Amenábar and Mateo Gil.
+- [Máncora (2008)](http://www.imdb.com/title/tt1003023/) - An adventure drama that tells the story of Santiago, a 22-year old from Lima.
+- ["austin stories"](http://www.bing.com/videos/search?q=%22austin+stories%22&FORM=HDRSC3#view=detail&mid=9CCADB6A5F571F13F3A19CCADB6A5F571F13F3A1) - Microsoft Internal This dialog allows Microsoft employees to give confidential feedback on adult content found in Bing Images.
+- [Pump Up the Volume Documentary (Complete Series)](http://www.youtube.com/watch?v=rw-tRL9PUNg) - Pump Up the Volume Documentary - The History of House Music
+- [Love for Rent (2005)](http://www.imdb.com/title/tt0386603/) - Tells the story of Sofia (Angie Cepeda), a Colombian college student struggling with immigration issues in LA, who accepts a $50,000 offer to rent her body and soul and become a surrogate mother to a wealthy couple.
+- [](http://www.youtube.com/watch?v=kJtCTIktZUc) - Share your videos with friends, family, and the world
+- [The TED talk rich 'job creators' don't want you to see](http://www.addictinginfo.org/2013/05/11/banned-ted-talk-job-creator-myth/) - This TED talk isn’t posted on the TED website. Why not? Apparently they feel it’s too politically controversial.
+- [Here Is Everything You Ever Wanted To Know About A French Spaceship](http://jalopnik.com/here-is-everything-you-ever-wanted-to-know-about-a-fren-1619106311?rev=1407705531990&utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow) - 
+- [Bhopal: A Prayer for Rain](http://en.wikipedia.org/wiki/Bhopal:_A_Prayer_for_Rain) - Bhopal: A Prayer for Rain is an upcoming historical-drama film set amidst the real-life Bhopal disaster that had occurred in India on December 2–3, 1984. Martin Sheen, Mischa Barton, Kal Penn, Fagun Thakrar, Tannishtha Chatterjee and Rajpal Yadav have been cast in the lead roles.
+- [The greatest documentaries of all time  AUG 05 2014](http://kottke.org/14/08/the-greatest-documentaries-of-all-time) - Sight and Sound polled 340 critics and filmmakers in search of the world's best documentary films. Here are their top 50. From the list, the top five:  Unless you went to film school or are a big film nerd, you probably haven't seen (or even heard of) the top choice, A Man with a Movie Camera.
+- [Start Fresh: Never Give Up](http://vimeo.com/81096893) - Austin, TX, USA -- Selected works from the HOPE Outdoor Gallery presented using hyperlapse and motion timelapse photographic techniques. All works were painted and filmed in the summer and fall of 2013 using only manual camera movements (i.e. no motion control hardware, sliders, or dollies).
+
+
+
+©
+- [Kevin Kelly : Chapter 15 : Artificial Evolution](http://kk.org/outofcontrol/ch15-a.html) - Cheaper than printing it out: buy the paperback book.   The first time Tom Ray released his tiny hand-made creature into his computer, it reproduced rapidly until hundreds of copies occupied the available memory space.
+- [Jeremiah Johnson (1972)](http://www.imdb.com/title/tt0068762/) - Edit Storyline A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by Indians when he proves to be the match of their warriors in one-to-one combat on the early frontier.
+- [La piel que habito (2011)](http://www.imdb.com/title/tt1189073/) - In honor of his late wife who died in a flaming car accident, scientist, Dr. Robert Ledgard, is trying to synthesize the perfect skin which can withstand burns, cuts or any other kind of damage.
+- [Fling (2008)](http://www.imdb.com/title/tt1003010/) - Young writer, Mason Michael Finch, and his girlfriend, Samantha Cooper, live together but they have an open relationship. They have love affairs with different partners whenever they want and then they tell to each other details of their flings. Written by
+- [Instead of TV, you should watch...](http://unplugthetv.com/) - Instead of TV, you should watch...
+- [The Seal Who Came Home](http://video.pbs.org/video/2365286754/) - 
+- [28 arthouse sci-fi films that will make you smarter (and cooler)](http://www.blastr.com/2014-5-16/28-arthouse-sci-fi-films-will-make-you-smarter-and-cooler) - There's a lot more to "science-fiction cinema" than just Star Wars, Star Trek and the MCU. And "arthouse cinema" doesn't just mean black and white movies in which people sit around and spew witty existential dialogue before bursting into random song.
+- [The American Astronaut](http://en.wikipedia.org/wiki/The_American_Astronaut) - The American Astronaut is a 2001 space-western/musical, directed by and starring Cory McAbee. The film was released on DVD in Spring of 2005. The band Billy Nayer Show, helmed by McAbee, wrote and performed the film's soundtrack.
+- ["Il postino" (original title)](http://www.imdb.com/title/tt0110877/) - Pablo Neruda, the famous Chilean poet, is exiled to a small island for political reasons. On the island, the unemployed son of a poor fisherman is hired as an extra postman due to the huge increase in mail that this causes. Il Postino is to hand-deliver the celebrity's mail to him.
