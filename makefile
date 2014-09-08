@@ -1,3 +1,5 @@
+SHELL := /bin/bash
+
 all: update_mds
 
 update_mds:
