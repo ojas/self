@@ -6,6 +6,7 @@
 - [What the Future Sounded Like (2006)](http://www.youtube.com/watch?v=8KkW8Ul7Q1I) - Brilliant documentary about the birth of electronic music in Britain. The documentary enjoyed screenings at several film festivals around Australia and on AB...
 - [Niñas Mal (2007)](http://www.imdb.com/title/tt0806940/) - The ultimate rebel Adela boasts three tattoos, a body piercing and a recent arrest for alleged indecent behavior.
 - [Ugly Me (2006)](http://www.imdb.com/title/tt0460275/) - "When Amanda is humiliated by her lover and fired from her job, she decides to move to a new town and start over, but this time by making herself up as an ugly woman in an effort to be taken seriously.
+- [Civilisation](http://topdocumentaryfilms.com/civilisation/) - In 1966 BBC Television embarked on its most ambitious documentary series to date.  The eminent art historian Lord Clark was commissioned to write and present an epic examination of Western European culture, defining what he considered to be the crucial phases of its development.
 - [Talk to Her (2002)](http://www.imdb.com/title/tt0287467/) - After a chance encounter at a theater, two men, Benigno and Marco, meet at a private clinic where Benigno works. Lydia, Marco's girlfriend and a bullfighter by profession, has been gored and is in a coma.
 - [Interstellar (2014)](http://m.imdb.com/title/tt0816692/?ref_=ext_shr_tw_vi) - Sci-Fi
 - [10 lesser known movies to check out in 2014](https://imgur.com/a/oo5p0) - 
@@ -26,6 +27,7 @@
 
 
 ©
+- [Not Merely the Finest TV Documentary Series Ever Made](http://nautil.us/issue/7/waste/not-merely-the-finest-tv-documentary-series-ever-made) - A range of dark hilltops appears against a dawn sky. On a ridge in the far distance we can discern a human silhouette. It is someone telling us about the uniqueness of Man. “Man…” says the tiny figure in the landscape, “is not a figure in the landscape…”
 - [Kevin Kelly : Chapter 15 : Artificial Evolution](http://kk.org/outofcontrol/ch15-a.html) - Cheaper than printing it out: buy the paperback book.   The first time Tom Ray released his tiny hand-made creature into his computer, it reproduced rapidly until hundreds of copies occupied the available memory space.
 - [Jeremiah Johnson (1972)](http://www.imdb.com/title/tt0068762/) - Edit Storyline A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by Indians when he proves to be the match of their warriors in one-to-one combat on the early frontier.
 - [1. Introduction to Human Behavioral Biology](http://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D) - (March 29, 2010) Stanford professor Robert Sapolsky gave the opening lecture of the course entitled Human Behavioral Biology and explains the basic premise o...
