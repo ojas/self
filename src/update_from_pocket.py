@@ -87,8 +87,6 @@ if __name__ == "__main__":
     from pprint import pprint
 
     resp, meta = pocket.get(state='all', contentType='image')
-    pprint(resp)
-    print(os.path.join(BASE_DIR, 'Images.md'))
     # resp, meta = pocket.get(tag='to-watch')
     with open(os.path.join(BASE_DIR, 'Images.md'), 'w') as f:
         print('# Images', file=f)
