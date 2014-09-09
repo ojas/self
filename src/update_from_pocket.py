@@ -5,6 +5,7 @@ import webbrowser
 import BaseHTTPServer
 from pocket import Pocket
 import os
+import json
 
 TEMP_SERVER = ('127.0.0.1', 27888)
 POCKET_CONSUMER_KEY = '18137-0cc8336b0b4416b26bab9f50'
@@ -86,22 +87,19 @@ if __name__ == "__main__":
 
     from pprint import pprint
 
+    resp, meta = pocket.get(state='all', sort='oldest', detailType='complete')
+    items = [v for v in resp['list'].values() if 'private' not in v.get('tags', {})]
+    with open(os.path.join(BASE_DIR, 'pocket_backup.json'), 'w') as f:
+        json.dump(items, f, indent=2)
+
     resp, meta = pocket.get(state='all', contentType='image')
-    # resp, meta = pocket.get(tag='to-watch')
     with open(os.path.join(BASE_DIR, 'Images.md'), 'w') as f:
         print('# Images', file=f)
         print('', file=f)
         for id, item in resp['list'].items():
             s = '![%s](%s)' % (item.get('given_title'), item.get('given_url'))
-    #        pprint(item)
-    #        s = u'- [%s](%s) - %s' % (item.get('resolved_title', item['given_title']), item.get('resolved_url', item['given_url']), item.get('excerpt', ''))
             print(s.encode('utf-8'), file=f)
             print('', file=f)
-    #        f.write()
-    #        print 
-
-    #pprint(resp)
-    #exit()
 
     resp, meta = pocket.get(tag='to-watch')
     with open(os.path.join(BASE_DIR, 'Movies.md'), 'w') as f:
