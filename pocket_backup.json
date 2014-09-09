@@ -12565,7 +12565,7 @@
     "given_url": "http://njgeo.org/2014/01/30/mitch-hedberg-and-gis/", 
     "resolved_title": "Mitch Hedberg and GIS", 
     "is_index": "0", 
-    "time_updated": "1408331648", 
+    "time_updated": "1410221442", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -42929,22 +42929,14 @@
     "resolved_title": "Online Interpreter"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1253, 
-    "time_updated": "1407850595", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
+    "is_article": "0", 
     "image": {
       "item_id": "688243487", 
       "src": "http://www.summerofdan.net/.a/6a00d83431352e53ef01a73deb093f970d-pi", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "2", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "", 
     "word_count": "0", 
     "images": {
       "1": {
@@ -42957,14 +42949,28 @@
         "width": "0"
       }
     }, 
-    "given_title": "6a00d83431352e53ef01a73deb093f970d-pi 600\u00d7600 pixels", 
-    "resolved_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01a73deb093f970d-pi", 
-    "is_article": "0", 
-    "item_id": "688243487", 
+    "has_video": "0", 
     "time_added": "1407850594", 
+    "status": "0", 
+    "tags": {
+      "quote": {
+        "item_id": "688243487", 
+        "tag": "quote"
+      }
+    }, 
+    "sort_id": 1253, 
+    "resolved_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01a73deb093f970d-pi", 
+    "item_id": "688243487", 
     "resolved_id": "688243487", 
     "given_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01a73deb093f970d-pi", 
-    "resolved_title": ""
+    "resolved_title": "", 
+    "is_index": "0", 
+    "time_updated": "1410221467", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "6a00d83431352e53ef01a73deb093f970d-pi 600\u00d7600 pixels", 
+    "has_image": "2"
   }, 
   {
     "status": "1", 
@@ -48283,7 +48289,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1287, 
-    "time_updated": "1409276504", 
+    "time_updated": "1410221430", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Pretty much every day someone asks me if there's a tool for solving a specific API problem. While Runscope solves many API problems (particularly debugging, testing and monitoring) for app developers, there are many things we don't do.", 
@@ -48298,7 +48304,13 @@
     "time_added": "1409276504", 
     "resolved_id": "701259563", 
     "given_url": "http://john-sheehan.com/blog/ultimate-api-webhook-backend-service-debugging-testing-monitoring-and-discovery-tools-list", 
-    "resolved_title": "60+ Tools and Services for API and Webhook Logging, Debugging, Testing, Monitoring, Documentation and Discovery \u2014 John Sheehan"
+    "resolved_title": "60+ Tools and Services for API and Webhook Logging, Debugging, Testing, Monitoring, Documentation and Discovery \u2014 John Sheehan", 
+    "tags": {
+      "api": {
+        "item_id": "701259563", 
+        "tag": "api"
+      }
+    }
   }, 
   {
     "status": "0", 
@@ -54141,7 +54153,7 @@
       "width": "600"
     }, 
     "excerpt": "MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "858", 
+    "word_count": "5017", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -54168,6 +54180,42 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
+        "width": "190"
+      }, 
+      "5": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
+        "credit": "Tyler Clay", 
+        "height": "275", 
+        "image_id": "5", 
+        "item_id": "401365344", 
+        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
+        "width": "190"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
+        "credit": "Fabrizio Costantini for The New York Times", 
+        "height": "127", 
+        "image_id": "4", 
+        "item_id": "401365344", 
+        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
+        "width": "190"
+      }, 
+      "7": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "7", 
+        "item_id": "401365344", 
+        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
+        "width": "190"
+      }, 
+      "6": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "6", 
+        "item_id": "401365344", 
+        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
@@ -63254,22 +63302,14 @@
     "resolved_title": "What Consulting Companies Can Learn From Product Companies"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1294, 
-    "time_updated": "1409408784", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
+    "is_article": "0", 
     "image": {
       "item_id": "702638034", 
       "src": "http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c6d599cc970b-pi", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "2", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "", 
     "word_count": "0", 
     "images": {
       "1": {
@@ -63282,14 +63322,28 @@
         "width": "0"
       }
     }, 
-    "given_title": "6a00d83431352e53ef01b7c6d599cc970b-pi 500\u00d7495 pixels", 
-    "resolved_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c6d599cc970b-pi", 
-    "is_article": "0", 
-    "item_id": "702638034", 
+    "has_video": "0", 
     "time_added": "1409408783", 
+    "status": "0", 
+    "tags": {
+      "quote": {
+        "item_id": "702638034", 
+        "tag": "quote"
+      }
+    }, 
+    "sort_id": 1294, 
+    "resolved_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c6d599cc970b-pi", 
+    "item_id": "702638034", 
     "resolved_id": "702638034", 
     "given_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c6d599cc970b-pi", 
-    "resolved_title": ""
+    "resolved_title": "", 
+    "is_index": "0", 
+    "time_updated": "1410221420", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "6a00d83431352e53ef01b7c6d599cc970b-pi 500\u00d7495 pixels", 
+    "has_image": "2"
   }, 
   {
     "status": "0", 
@@ -65463,6 +65517,12 @@
     "has_video": "1", 
     "time_added": "1407875284", 
     "status": "0", 
+    "tags": {
+      "travel": {
+        "item_id": "660394651", 
+        "tag": "travel"
+      }
+    }, 
     "sort_id": 1255, 
     "resolved_url": "http://m.vice.com/read/the-vice-guide-to-glasgow-2014-398", 
     "authors": {
@@ -65478,7 +65538,7 @@
     "given_url": "http://m.vice.com/read/the-vice-guide-to-glasgow-2014-398?utm_source=vicefbus", 
     "resolved_title": "The VICE Guide to Glasgow 2014", 
     "is_index": "0", 
-    "time_updated": "1407875284", 
+    "time_updated": "1410221460", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
