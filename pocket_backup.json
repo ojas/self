@@ -49030,22 +49030,14 @@
     "resolved_title": "Nobody Knows That I Use These Apps"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1269, 
-    "time_updated": "1409249224", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "I was asked today on Twitter about how to find work as a digital nomad. My comments are too long for a Twitter reply and may be interesting to people who don\u2019t follow me on Twitter, so here goes.  @MethyleneGaming Be flexible. Line up work in advance. Get banking set up.", 
+    "is_article": "1", 
     "image": {
       "item_id": "696949200", 
       "src": "http://typicalprogrammer.com/wp-content/uploads/2014/08/IMG_20140417_181920-300x225.jpg", 
       "height": "225", 
       "width": "300"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "I was asked today on Twitter about how to find work as a digital nomad. My comments are too long for a Twitter reply and may be interesting to people who don\u2019t follow me on Twitter, so here goes.  @MethyleneGaming Be flexible. Line up work in advance. Get banking set up.", 
     "word_count": "3282", 
     "images": {
       "1": {
@@ -49085,14 +49077,36 @@
         "width": "300"
       }
     }, 
-    "given_title": "Typical Programmer - How I work as a digital nomad", 
-    "resolved_url": "http://typicalprogrammer.com/how-i-work-as-a-digital-nomad/", 
-    "is_article": "1", 
-    "item_id": "696949200", 
+    "has_video": "0", 
     "time_added": "1408803257", 
+    "status": "1", 
+    "tags": {
+      "travel": {
+        "item_id": "696949200", 
+        "tag": "travel"
+      }, 
+      "work": {
+        "item_id": "696949200", 
+        "tag": "work"
+      }, 
+      "nomad": {
+        "item_id": "696949200", 
+        "tag": "nomad"
+      }
+    }, 
+    "sort_id": 1269, 
+    "resolved_url": "http://typicalprogrammer.com/how-i-work-as-a-digital-nomad/", 
+    "item_id": "696949200", 
     "resolved_id": "696949200", 
     "given_url": "http://typicalprogrammer.com/how-i-work-as-a-digital-nomad/", 
-    "resolved_title": "How I work as a digital nomad"
+    "resolved_title": "How I work as a digital nomad", 
+    "is_index": "0", 
+    "time_updated": "1410270716", 
+    "time_favorited": "0", 
+    "time_read": "1410270716", 
+    "favorite": "0", 
+    "given_title": "Typical Programmer - How I work as a digital nomad", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
