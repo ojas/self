@@ -37207,7 +37207,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "209", 
+    "word_count": "319", 
     "given_title": "Oleg Andreev - Blind signatures for Bitcoin: the ultimate solution to secur", 
     "resolved_url": "http://blog.oleganza.com/post/77474860538/blind-signatures-for-bitcoin-the-ultimate-solution-to", 
     "is_article": "1", 
@@ -70167,6 +70167,50 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "The \u2018Fucking Hipster\u2019 Show | Jacobin", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "0", 
+    "image": {
+      "item_id": "707297598", 
+      "src": "http://foundersgrid.com/wp-content/uploads/2014/09/productivity-hacks.jpg", 
+      "height": "281", 
+      "width": "620"
+    }, 
+    "excerpt": "We talk with 80 startup entrepreneurs who share their most effective productivity tips, tricks and hacks. In part one below we feature what 40 of them had to say (check out part two here). Please do leave your own tips for boosting productivity in the comments below!", 
+    "word_count": "3813", 
+    "images": {
+      "1": {
+        "src": "http://foundersgrid.com/wp-content/uploads/2014/09/productivity-hacks.jpg", 
+        "credit": "", 
+        "height": "281", 
+        "image_id": "1", 
+        "item_id": "707297598", 
+        "caption": "", 
+        "width": "620"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410276778", 
+    "status": "0", 
+    "tags": {
+      "work": {
+        "item_id": "707297598", 
+        "tag": "work"
+      }
+    }, 
+    "sort_id": 1308, 
+    "resolved_url": "http://foundersgrid.com/productivity-hacks", 
+    "item_id": "707297598", 
+    "resolved_id": "707297598", 
+    "given_url": "http://foundersgrid.com/productivity-hacks", 
+    "resolved_title": "Effective Productivity Hacks From 80 Startup Founders \u2013 Part One", 
+    "is_index": "0", 
+    "time_updated": "1410276788", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Productivity Hacks From 80 Entrepreneurs - Part One", 
     "has_image": "1"
   }, 
   {
