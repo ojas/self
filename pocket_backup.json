@@ -17031,7 +17031,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -22771,6 +22771,52 @@
     "resolved_id": "180481995", 
     "given_url": "http://ftalphaville.ft.com/blog/series/beyond-scarcity/", 
     "resolved_title": "Beyond scarcity"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "710410206", 
+      "src": "http://bp3.blogger.com/_WsigvaSjN2g/RtW6XaVH83I/AAAAAAAAAU8/dcdPD_UHneQ/s1600-h/Buddha_Lumbini_Nepal.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Nan-in, a Japanese master during the Meiji era (1868-1912), received a university professor who came to inquire about Zen.  Nan-in served tea. He poured his visitor's cup full, and then kept on pouring.", 
+    "word_count": "91", 
+    "images": {
+      "1": {
+        "src": "http://bp3.blogger.com/_WsigvaSjN2g/RtW6XaVH83I/AAAAAAAAAU8/dcdPD_UHneQ/s1600-h/Buddha_Lumbini_Nepal.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "710410206", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410279630", 
+    "status": "0", 
+    "sort_id": 1309, 
+    "resolved_url": "http://thebuddhistblog.blogspot.com/2007/08/zen-story-cup-of-tea.html", 
+    "authors": {
+      "75148": {
+        "item_id": "710410206", 
+        "url": "", 
+        "author_id": "75148", 
+        "name": "They Call"
+      }
+    }, 
+    "item_id": "710410206", 
+    "resolved_id": "710410206", 
+    "given_url": "http://thebuddhistblog.blogspot.com/2007/08/zen-story-cup-of-tea.html", 
+    "resolved_title": "Zen Story: A Cup of Tea", 
+    "is_index": "0", 
+    "time_updated": "1410279630", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The Buddhist Blog: Zen Story: A Cup of Tea", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
@@ -66730,6 +66776,44 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1310, 
+    "time_updated": "1410279643", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Most of the time I feel smart, successful, and driven - like I\u2019ve got it all figured out.  But last month my wife and I broke up after four years of trying to make a bad match work. It knocked me on my ass, hard. I\u2019ve never felt so wrong and lost. It hurts, bad.", 
+    "image": {
+      "item_id": "710329604", 
+      "src": "http://sivers.org/images/whirlpool.jpg", 
+      "height": "469", 
+      "width": "700"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "403", 
+    "images": {
+      "1": {
+        "src": "http://sivers.org/images/whirlpool.jpg", 
+        "credit": "", 
+        "height": "469", 
+        "image_id": "1", 
+        "item_id": "710329604", 
+        "caption": "", 
+        "width": "700"
+      }
+    }, 
+    "given_title": "I love being wrong | Derek Sivers", 
+    "resolved_url": "http://sivers.org/lw", 
+    "is_article": "1", 
+    "item_id": "710329604", 
+    "time_added": "1410279643", 
+    "resolved_id": "710329604", 
+    "given_url": "http://sivers.org/lw", 
+    "resolved_title": "I love being wrong"
+  }, 
+  {
+    "status": "0", 
     "is_index": "0", 
     "sort_id": 1202, 
     "time_updated": "1405748258", 
@@ -67166,10 +67250,10 @@
     "has_video": "0", 
     "word_count": "3231", 
     "authors": {
-      "23676265": {
+      "23807322": {
         "item_id": "702563219", 
-        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/?utm_content=buffer3ea11&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#", 
-        "author_id": "23676265", 
+        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/?utm_source=loopinsight.com&utm_medium=referral&utm_campaign=Feed%253A+loopinsight%252FKqJb+The+Loop&utm_content=FeedBurner#", 
+        "author_id": "23807322", 
         "name": "Laurie Voss"
       }
     }, 
