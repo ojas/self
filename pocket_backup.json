@@ -55598,7 +55598,7 @@
     "excerpt": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.  Note: gravida at eget metus.", 
     "image": {
       "item_id": "330382830", 
-      "src": "http://designmodo.github.io/Flat-UI/images/exaple-image.jpg", 
+      "src": "http://designmodo.github.io/Flat-UI/docs/assets/img/example-image.jpg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -55608,7 +55608,7 @@
     "word_count": "95", 
     "images": {
       "1": {
-        "src": "http://designmodo.github.io/Flat-UI/images/exaple-image.jpg", 
+        "src": "http://designmodo.github.io/Flat-UI/docs/assets/img/example-image.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -55618,13 +55618,13 @@
       }
     }, 
     "given_title": "Flat UI", 
-    "resolved_url": "http://designmodo.github.io/Flat-UI/", 
+    "resolved_url": "http://designmodo.github.io/Flat-UI", 
     "is_article": "1", 
     "item_id": "330382830", 
     "time_added": "1367293017", 
     "resolved_id": "330382830", 
     "given_url": "http://designmodo.github.io/Flat-UI/", 
-    "resolved_title": "Flat UI : Free Bootstrap Framework and Themes"
+    "resolved_title": "Flat UI"
   }, 
   {
     "status": "0", 
@@ -67870,10 +67870,10 @@
     "has_video": "0", 
     "word_count": "3231", 
     "authors": {
-      "23807322": {
+      "23842390": {
         "item_id": "702563219", 
-        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/?utm_source=loopinsight.com&utm_medium=referral&utm_campaign=Feed%253A+loopinsight%252FKqJb+The+Loop&utm_content=FeedBurner#", 
-        "author_id": "23807322", 
+        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/?utm_content=buffer5839b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#", 
+        "author_id": "23842390", 
         "name": "Laurie Voss"
       }
     }, 
