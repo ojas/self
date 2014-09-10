@@ -2132,6 +2132,61 @@
     "resolved_title": ""
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/v/zDV_dBYp4h0", 
+        "vid": "zDV_dBYp4h0", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "711357613", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "711357613", 
+      "src": "http://img.youtube.com/vi/zDV_dBYp4h0/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "Classic italo-disco from 1983.", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/zDV_dBYp4h0/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "711357613", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1410363436", 
+    "status": "0", 
+    "tags": {
+      "music": {
+        "item_id": "711357613", 
+        "tag": "music"
+      }
+    }, 
+    "sort_id": 1321, 
+    "resolved_url": "https://www.youtube.com/watch?v=zDV_dBYp4h0&list=RDR6Zu-U2yoHk&index=2", 
+    "item_id": "711357613", 
+    "resolved_id": "711357613", 
+    "given_url": "https://www.youtube.com/watch?v=zDV_dBYp4h0&list=RDR6Zu-U2yoHk&index=2", 
+    "resolved_title": "Mr. Flagio - Take a Chance (Italo-disco 1983)", 
+    "is_index": "0", 
+    "time_updated": "1410363445", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Mr. Flagio - Take a Chance (Italo-disco 1983) - YouTube", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "283005567", 
@@ -13916,6 +13971,33 @@
     "resolved_id": "303480687", 
     "given_url": "http://feedproxy.google.com/~r/37signals/beMH/~3/4HpUba03Ls0/3450-when-culture-turns-into-policy", 
     "resolved_title": "When culture turns into policy"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1322, 
+    "time_updated": "1410363460", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "Lifestyle | Sol\u00e9 Bicycles - Single Speed & Fixed Gear Bikes", 
+    "resolved_url": "http://www.solebicycles.com/lifestyle/#/fixtape/sole-fixtape-vol-16", 
+    "is_article": "0", 
+    "item_id": "427060249", 
+    "time_added": "1410363450", 
+    "resolved_id": "427060249", 
+    "given_url": "http://www.solebicycles.com/lifestyle/#/fixtape/sole-fixtape-vol-16", 
+    "resolved_title": "", 
+    "tags": {
+      "music": {
+        "item_id": "427060249", 
+        "tag": "music"
+      }
+    }
   }, 
   {
     "status": "0", 
@@ -30429,6 +30511,63 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/tl_rnm49Et4?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent", 
+        "vid": "tl_rnm49Et4", 
+        "video_id": "1", 
+        "height": "360", 
+        "width": "480", 
+        "item_id": "711357553", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "711357553", 
+      "src": "http://img.youtube.com/vi/tl_rnm49Et4/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/tl_rnm49Et4/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "711357553", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1410363432", 
+    "status": "0", 
+    "sort_id": 1320, 
+    "resolved_url": "http://rockinbeats.wordpress.com/2013/01/11/coco-bill-evita/", 
+    "authors": {
+      "23843813": {
+        "item_id": "711357553", 
+        "url": "http://rockinbeats.wordpress.com/author/rockinbeats/", 
+        "author_id": "23843813", 
+        "name": "rockinbeats"
+      }
+    }, 
+    "item_id": "711357553", 
+    "resolved_id": "711357553", 
+    "given_url": "http://rockinbeats.wordpress.com/2013/01/11/coco-bill-evita/", 
+    "resolved_title": "Coco Bill \u2013 \u201cEvita\u201d", 
+    "is_index": "0", 
+    "time_updated": "1410363433", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Coco Bill \u2013 \u201cEvita\u201d | ROCKIN' THE HOUSE WITH BEATS AND ICE", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "389018907", 
@@ -34814,8 +34953,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1320, 
-    "time_updated": "1410358127", 
+    "sort_id": 1325, 
+    "time_updated": "1410363517", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Dry New Planets and The Search for Dirty Aliens 56,945 views 4 days ago  SciShow Space shares the latest news from space research, including the first definitive detection of water on an exoplanet, and a new theory for how we should search for alien civilizations.", 
@@ -34827,10 +34966,16 @@
     "resolved_url": "https://www.youtube.com/channel/UCrMePiHCWG4Vwqv3t7W9EFg", 
     "is_article": "1", 
     "item_id": "682350052", 
-    "time_added": "1410358127", 
+    "time_added": "1410363512", 
     "resolved_id": "682350052", 
     "given_url": "https://www.youtube.com/channel/UCrMePiHCWG4Vwqv3t7W9EFg", 
-    "resolved_title": "SciShow Space"
+    "resolved_title": "SciShow Space", 
+    "tags": {
+      "to-follow": {
+        "item_id": "682350052", 
+        "tag": "to-follow"
+      }
+    }
   }, 
   {
     "status": "0", 
@@ -52305,6 +52450,58 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "255912353", 
+      "src": "http://scienceline.org/wp-content/uploads/2007/07/timespace.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "In science fiction universes, traveling the galaxy is a snap \u2013 just engage the \u201cwarp\u201d or \u201chyperspeed\u201d drive, and off you go, cruising the cosmos at several times the speed of light.", 
+    "word_count": "783", 
+    "images": {
+      "1": {
+        "src": "http://scienceline.org/wp-content/uploads/2007/07/timespace.jpg", 
+        "credit": "CREDIT: NASA/L.BEWLEY", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "255912353", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410363472", 
+    "status": "0", 
+    "tags": {
+      "physics": {
+        "item_id": "255912353", 
+        "tag": "physics"
+      }
+    }, 
+    "sort_id": 1323, 
+    "resolved_url": "http://scienceline.org/2007/07/ask-romero-speedoflight/", 
+    "authors": {
+      "1910192": {
+        "item_id": "255912353", 
+        "url": "http://scienceline.org/author/josh-romero/", 
+        "author_id": "1910192", 
+        "name": "Joshua J Romero"
+      }
+    }, 
+    "item_id": "255912353", 
+    "resolved_id": "255912353", 
+    "given_url": "http://scienceline.org/2007/07/ask-romero-speedoflight/", 
+    "resolved_title": "How could the universe expand faster than the speed of light? That seems impossible!", 
+    "is_index": "0", 
+    "time_updated": "1410363493", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "How could the universe expand faster than the speed of light? That seems im", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "10374449", 
       "src": "http://ia.media-imdb.com/images/M/MV5BMTczNTU2NjIwOF5BMl5BanBnXkFtZTYwNzExMDg5._V1_SY317_CR15,0,214,317_AL_.jpg", 
       "height": "317", 
@@ -58312,6 +58509,58 @@
     "resolved_id": "360019262", 
     "given_url": "http://ridiculousfish.com/blog/posts/fish_shell.html", 
     "resolved_title": "fish shell 2.0"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "582058462", 
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cavendish_Experiment.png/220px-Cavendish_Experiment.png", 
+      "height": "165", 
+      "width": "220"
+    }, 
+    "excerpt": "John Michell (25 December 1724 \u2013 29 April 1793) was an English natural philosopher and geologist whose work spanned a wide range of subjects from astronomy to geology, optics, and gravitation. He was both a theorist and an experimenter.", 
+    "word_count": "1264", 
+    "images": {
+      "1": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cavendish_Experiment.png/220px-Cavendish_Experiment.png", 
+        "credit": "", 
+        "height": "165", 
+        "image_id": "1", 
+        "item_id": "582058462", 
+        "caption": "\n\nMichell's torsion balance, used in the Cavendish experiment", 
+        "width": "220"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410363502", 
+    "status": "0", 
+    "tags": {
+      "science": {
+        "item_id": "582058462", 
+        "tag": "science"
+      }
+    }, 
+    "sort_id": 1324, 
+    "resolved_url": "http://en.wikipedia.org/wiki/John_Michell", 
+    "authors": {
+      "7331684": {
+        "item_id": "582058462", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "item_id": "582058462", 
+    "resolved_id": "582058462", 
+    "given_url": "http://en.wikipedia.org/wiki/John_Michell", 
+    "resolved_title": "John Michell", 
+    "is_index": "0", 
+    "time_updated": "1410363507", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "John Michell - Wikipedia, the free encyclopedia", 
+    "has_image": "1"
   }, 
   {
     "videos": {
