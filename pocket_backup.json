@@ -9219,6 +9219,52 @@
     "resolved_title": "How to travel around the world for a year"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "305488778", 
+      "src": "http://graphics8.nytimes.com/images/2011/09/06/science/06ANNO/06ANNO-articleInline.jpg", 
+      "height": "158", 
+      "width": "190"
+    }, 
+    "excerpt": "For people with a condition that some scientists call misophonia, mealtime can be torture. The sounds of other people eating \u2014 chewing, chomping, slurping, gurgling \u2014 can send them into an instantaneous, blood-boiling rage.           \u201cThe reaction is irrational,\u201d said Ms.", 
+    "word_count": "804", 
+    "images": {
+      "1": {
+        "src": "http://graphics8.nytimes.com/images/2011/09/06/science/06ANNO/06ANNO-articleInline.jpg", 
+        "credit": "Daniel Bejar", 
+        "height": "158", 
+        "image_id": "1", 
+        "item_id": "305488778", 
+        "caption": "", 
+        "width": "190"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410357110", 
+    "status": "0", 
+    "sort_id": 1319, 
+    "resolved_url": "http://www.nytimes.com/2011/09/06/health/06annoy.html", 
+    "authors": {
+      "34435": {
+        "item_id": "305488778", 
+        "url": "http://topics.nytimes.com/top/reference/timestopics/people/c/joyce_cohen/index.html?inline=nyt-per", 
+        "author_id": "34435", 
+        "name": "JOYCE COHEN"
+      }
+    }, 
+    "item_id": "305488778", 
+    "resolved_id": "101869549", 
+    "given_url": "http://www.nytimes.com/2011/09/06/health/06annoy.html?_r=1&", 
+    "resolved_title": "When a Chomp or a Slurp Is a Trigger for Outrage", 
+    "is_index": "0", 
+    "time_updated": "1410357110", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "For People With Misophonia, a Chomp or a Slurp May Cause Rage - NYTimes.com", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 881, 
@@ -12923,6 +12969,27 @@
     "favorite": "0", 
     "given_title": "Top 10 Dance Tracks Of 2013 : Best Music Of 2013 : NPR", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1317, 
+    "time_updated": "1410356887", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Definition from Wiktionary, the free dictionary  Jump to: navigation, search  English[edit] Noun[edit] clinomania (uncountable) An excessive desire to remain in bed    Categories:", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "24", 
+    "given_title": "clinomania - Wiktionary", 
+    "resolved_url": "http://en.wiktionary.org/wiki/clinomania", 
+    "is_article": "0", 
+    "item_id": "711270861", 
+    "time_added": "1410356886", 
+    "resolved_id": "711270861", 
+    "given_url": "http://en.wiktionary.org/wiki/clinomania", 
+    "resolved_title": "clinomania"
   }, 
   {
     "is_article": "1", 
@@ -34746,6 +34813,27 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1320, 
+    "time_updated": "1410358127", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Dry New Planets and The Search for Dirty Aliens 56,945 views 4 days ago  SciShow Space shares the latest news from space research, including the first definitive detection of water on an exoplanet, and a new theory for how we should search for alien civilizations.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "152", 
+    "given_title": "SciShow Space - YouTube", 
+    "resolved_url": "https://www.youtube.com/channel/UCrMePiHCWG4Vwqv3t7W9EFg", 
+    "is_article": "1", 
+    "item_id": "682350052", 
+    "time_added": "1410358127", 
+    "resolved_id": "682350052", 
+    "given_url": "https://www.youtube.com/channel/UCrMePiHCWG4Vwqv3t7W9EFg", 
+    "resolved_title": "SciShow Space"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 718, 
     "time_updated": "1378215351", 
@@ -35428,6 +35516,52 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Jacques Lu Cont Talks Tracques, Pet Shop Boys, and Les Rythmes Digitales' R", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "711270062", 
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Flemmie_Pansy_Kittrell.jpg/220px-Flemmie_Pansy_Kittrell.jpg", 
+      "height": "220", 
+      "width": "220"
+    }, 
+    "excerpt": "Flemmie Pansy Kittrell (December 25, 1904, Henderson, North Carolina - October 3, 1980) was the first African-American woman to earn a Ph.D. in nutrition.", 
+    "word_count": "762", 
+    "images": {
+      "1": {
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Flemmie_Pansy_Kittrell.jpg/220px-Flemmie_Pansy_Kittrell.jpg", 
+        "credit": "", 
+        "height": "220", 
+        "image_id": "1", 
+        "item_id": "711270062", 
+        "caption": "\n\nFlemmie Kittrell", 
+        "width": "220"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410356808", 
+    "status": "0", 
+    "sort_id": 1315, 
+    "resolved_url": "https://en.wikipedia.org/wiki/Flemmie_Pansy_Kittrell#Career", 
+    "authors": {
+      "7331684": {
+        "item_id": "711270062", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "item_id": "711270062", 
+    "resolved_id": "711270062", 
+    "given_url": "https://en.wikipedia.org/wiki/Flemmie_Pansy_Kittrell#Career", 
+    "resolved_title": "Flemmie Pansy Kittrell", 
+    "is_index": "0", 
+    "time_updated": "1410356810", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Flemmie Pansy Kittrell - Wikipedia, the free encyclopedia", 
     "has_image": "1"
   }, 
   {
@@ -37515,6 +37649,250 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Dawkins Drops the Bomb - YouTube", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "196127334", 
+      "src": "http://www.cracked.com/article_19925_the-5-stupidest-things-ever-done-with-borders.html", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Where you find a border, you usually find somebody pissed off about it. Borders are drawn by wars, treaties and political machinations that sometimes leave things in a state of disarray. And then, sometimes, things get really crazy ...", 
+    "word_count": "3297", 
+    "images": {
+      "20": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/1/1/136211.jpg?v=1", 
+        "credit": "", 
+        "height": "203", 
+        "image_id": "20", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "610"
+      }, 
+      "21": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/5/136205.jpg?v=1", 
+        "credit": "", 
+        "height": "350", 
+        "image_id": "21", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "22": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/6/136206.jpg?v=1", 
+        "credit": "", 
+        "height": "223", 
+        "image_id": "22", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "23": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/1/0/136210_v1.jpg", 
+        "credit": "", 
+        "height": "320", 
+        "image_id": "23", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "319"
+      }, 
+      "1": {
+        "src": "http://www.cracked.com/article_19925_the-5-stupidest-things-ever-done-with-borders.html", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/7/136207_v1.jpg", 
+        "credit": "", 
+        "height": "220", 
+        "image_id": "3", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "2": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/1/3/136213_v1.jpg", 
+        "credit": "", 
+        "height": "203", 
+        "image_id": "2", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "610"
+      }, 
+      "5": {
+        "src": "http://i.crackedcdn.com/phpimages/article/1/9/6/136196_v1.jpg", 
+        "credit": "", 
+        "height": "202", 
+        "image_id": "5", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "520"
+      }, 
+      "4": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/1/6/136216.jpg?v=1", 
+        "credit": "", 
+        "height": "320", 
+        "image_id": "4", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "264"
+      }, 
+      "7": {
+        "src": "http://i.crackedcdn.com/phpimages/article/1/9/9/136199_v1.jpg", 
+        "credit": "", 
+        "height": "245", 
+        "image_id": "7", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "6": {
+        "src": "http://i.crackedcdn.com/phpimages/article/1/9/7/136197.jpg?v=1", 
+        "credit": "", 
+        "height": "245", 
+        "image_id": "6", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "9": {
+        "src": "http://i.crackedcdn.com/phpimages/article/1/9/8/136198_v1.jpg", 
+        "credit": "", 
+        "height": "220", 
+        "image_id": "9", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "8": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/1/5/136215.jpg?v=1", 
+        "credit": "", 
+        "height": "203", 
+        "image_id": "8", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "610"
+      }, 
+      "11": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/8/136208.jpg?v=1", 
+        "credit": "", 
+        "height": "215", 
+        "image_id": "11", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "10": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/0/136200_v1.jpg", 
+        "credit": "", 
+        "height": "231", 
+        "image_id": "10", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "13": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/3/136203_v1.jpg", 
+        "credit": "", 
+        "height": "198", 
+        "image_id": "13", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "12": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/1/4/136214.jpg?v=1", 
+        "credit": "", 
+        "height": "203", 
+        "image_id": "12", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "610"
+      }, 
+      "15": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/2/136202_v1.jpg", 
+        "credit": "", 
+        "height": "320", 
+        "image_id": "15", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "14": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/1/136201.jpg?v=1", 
+        "credit": "", 
+        "height": "245", 
+        "image_id": "14", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "17": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/1/2/136212_v1.jpg", 
+        "credit": "", 
+        "height": "203", 
+        "image_id": "17", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "610"
+      }, 
+      "16": {
+        "src": "http://www.cracked.com/article_19925_the-5-stupidest-things-ever-done-with-borders_p2.html", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "16", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "19": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/4/136204_v1.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "19", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }, 
+      "18": {
+        "src": "http://i.crackedcdn.com/phpimages/article/2/0/9/136209.jpg?v=1", 
+        "credit": "", 
+        "height": "220", 
+        "image_id": "18", 
+        "item_id": "196127334", 
+        "caption": "", 
+        "width": "320"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410356467", 
+    "status": "0", 
+    "sort_id": 1314, 
+    "resolved_url": "http://www.cracked.com/article_19925_the-5-stupidest-things-ever-done-with-borders.html", 
+    "authors": {
+      "10165720": {
+        "item_id": "196127334", 
+        "url": "http://www.cracked.com/members/Skuzbucket", 
+        "author_id": "10165720", 
+        "name": "Xavier Jackson"
+      }
+    }, 
+    "item_id": "196127334", 
+    "resolved_id": "196127334", 
+    "given_url": "http://www.cracked.com/article_19925_the-5-stupidest-things-ever-done-with-borders.html", 
+    "resolved_title": "The 5 Stupidest Things Ever Done With Borders", 
+    "is_index": "0", 
+    "time_updated": "1410356467", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The 5 Stupidest Things Ever Done With Borders | Cracked.com", 
     "has_image": "1"
   }, 
   {
@@ -64638,6 +65016,35 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1313, 
+    "time_updated": "1410356328", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Petrichor (/\u02c8p\u025btr\u0268k\u0254\u0259r/) is the scent of rain on dry earth, or the scent of dust after rain. The word is constructed from Greek, petros, meaning \u2018stone\u2019 + ichor, the fluid that flows in the veins of the gods in Greek mythology.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "326", 
+    "authors": {
+      "7331684": {
+        "item_id": "10586963", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "given_title": "Petrichor - Wikipedia, the free encyclopedia", 
+    "resolved_url": "http://en.wikipedia.org/wiki/Petrichor", 
+    "is_article": "1", 
+    "item_id": "10586963", 
+    "time_added": "1410356328", 
+    "resolved_id": "10586963", 
+    "given_url": "http://en.wikipedia.org/wiki/Petrichor", 
+    "resolved_title": "Petrichor"
+  }, 
+  {
+    "status": "0", 
     "sort_id": 1006, 
     "time_updated": "1393164940", 
     "time_favorited": "0", 
@@ -64944,6 +65351,35 @@
         "tag": "api"
       }
     }
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1318, 
+    "time_updated": "1410357013", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Do you think you have misophonia? Here are the major symptoms of misophonia, also known as selective sound sensitivity, as explained by Dr. Marsha Johnson:  Sufferers often structure their lives in order to avoid trigger sounds, isolating themselves from society.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "122", 
+    "authors": {
+      "23728": {
+        "item_id": "168497462", 
+        "url": "", 
+        "author_id": "23728", 
+        "name": "GAIL DEUTSCH"
+      }
+    }, 
+    "given_title": "Do You Have Misophonia? - ABC News", 
+    "resolved_url": "http://abcnews.go.com/blogs/health/2012/05/17/do-you-have-misophonia/", 
+    "is_article": "1", 
+    "item_id": "168497462", 
+    "time_added": "1410357013", 
+    "resolved_id": "168497462", 
+    "given_url": "http://abcnews.go.com/blogs/health/2012/05/17/do-you-have-misophonia/", 
+    "resolved_title": "Do You Have Misophonia?"
   }, 
   {
     "status": "0", 
@@ -71759,6 +72195,27 @@
     "favorite": "0", 
     "given_title": "20 Hidden Jokes in Arrested Development | Mental Floss", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1316, 
+    "time_updated": "1410356815", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "clinomania - definition of clinomania by The Free Dictionary", 
+    "resolved_url": "http://www.thefreedictionary.com/clinomania", 
+    "is_article": "0", 
+    "item_id": "513144867", 
+    "time_added": "1410356815", 
+    "resolved_id": "513144867", 
+    "given_url": "http://www.thefreedictionary.com/clinomania", 
+    "resolved_title": "clinomania"
   }, 
   {
     "status": "1", 
