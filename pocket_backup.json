@@ -24689,7 +24689,7 @@
       }
     }, 
     "sort_id": 699, 
-    "resolved_url": "http://www.strikemag.org/bullshit-jobs/", 
+    "resolved_url": "http://strikemag.org/bullshit-jobs/", 
     "authors": {
       "21207940": {
         "item_id": "419511321", 
@@ -68119,10 +68119,10 @@
     "has_video": "0", 
     "word_count": "3231", 
     "authors": {
-      "23842390": {
+      "23452990": {
         "item_id": "702563219", 
-        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/?utm_content=buffer5839b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#", 
-        "author_id": "23842390", 
+        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/#", 
+        "author_id": "23452990", 
         "name": "Laurie Voss"
       }
     }, 
