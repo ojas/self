@@ -17549,6 +17549,73 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://player.vimeo.com/video/88922439", 
+        "vid": "88922439", 
+        "video_id": "1", 
+        "height": "400", 
+        "width": "100", 
+        "item_id": "710856802", 
+        "type": "4"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "710856802", 
+      "src": "http://static.nautil.us/2848_5a2756a3cb9cde852cad3c97e120b656.png", 
+      "height": "0", 
+      "width": "733"
+    }, 
+    "excerpt": "If you see a car along that road,\u201d Tyler Nordgren warned me, \u201cdon\u2019t look at the headlights. It\u2019ll ruin your night vision for 2 hours.\u201d Nordgren and I had pitched our tents under the brow of Mount Whitney in the Alabama Hills, a field of boulders near Death Valley.", 
+    "word_count": "2224", 
+    "images": {
+      "1": {
+        "src": "http://static.nautil.us/2848_5a2756a3cb9cde852cad3c97e120b656.png", 
+        "credit": "\u00a92001 Cinzano, P., Flachi, F., Elvidge, C.D", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "710856802", 
+        "caption": "Artificial Skies A map of artificial night sky brightness due to light pollution in North America.", 
+        "width": "733"
+      }, 
+      "3": {
+        "src": "http://static.nautil.us/2804_4ab52371762b735317125e6446a51e8f.png", 
+        "credit": "Courtesy of Tyler Nordgren", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "710856802", 
+        "caption": "starry-eyedTyler Nordgren gazes at the night sky.", 
+        "width": "733"
+      }, 
+      "2": {
+        "src": "http://static.nautil.us/2802_2eb5657d37f474e4c4cf01e4882b8962.png", 
+        "credit": "Tyler Nordgren", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "710856802", 
+        "caption": "see the milky way Images from the poster series created by Tyler Nordgren.", 
+        "width": "733"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1410315437", 
+    "status": "0", 
+    "sort_id": 1312, 
+    "resolved_url": "http://nautil.us/issue/11/light/falling-in-love-with-the-dark", 
+    "item_id": "710856802", 
+    "resolved_id": "568118447", 
+    "given_url": "http://nautil.us/issue/11/light/falling-in-love-with-the-dark?utm_source=tss&utm_medium=desktop&utm_campaign=linkfrom", 
+    "resolved_title": "Falling in Love With the Dark", 
+    "is_index": "0", 
+    "time_updated": "1410315437", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Falling in Love With the Dark - Issue 11: Light - Nautilus", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "276350805", 
