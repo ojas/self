@@ -677,8 +677,8 @@
     "image": {
       "item_id": "438211560", 
       "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
-      "height": "312", 
-      "width": "468"
+      "height": "400", 
+      "width": "600"
     }, 
     "excerpt": "GOD, as we know, works in mysterious ways. Back in the spring of 2011, Gerry Owen, an assistant pastor at a megachurch in Garland, Tex., was reading through the comment cards that worshipers drop in a box at the back of the church after Sunday services.", 
     "word_count": "3435", 
@@ -686,11 +686,11 @@
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
         "credit": "Rex C. Curry for The New York Times", 
-        "height": "312", 
+        "height": "400", 
         "image_id": "1", 
         "item_id": "438211560", 
         "caption": "Melissa Owen, center, in her new coffeehouse in Plano, Tex., which opened with help from a career mentor. ", 
-        "width": "468"
+        "width": "600"
       }, 
       "3": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR-JP4/15-MENTOR-JP4-articleInline.jpg", 
@@ -4956,7 +4956,7 @@
     "time_updated": "1410288433", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Project zimg is a light image storage and processing system. It's written by C and it has high performance in image field. The zimg is designed for high concurrency image server. It supports many features for storing and processing images.  We stand on the shoulders of giants.", 
+    "excerpt": "Project zimg is a light image storage and processing system. It's written by C and it has high performance in image field. The zimg is designed for high concurrency image server. It supports many features for storing and processing images.", 
     "image": {
       "item_id": "408790320", 
       "src": "https://camo.githubusercontent.com/e95e4574a9668a9cf8453cab82dd8698b5c09573/68747470733a2f2f7472617669732d63692e6f72672f627561617a702f7a696d672e7376673f6272616e63683d6d6173746572", 
@@ -4966,7 +4966,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "326", 
+    "word_count": "337", 
     "images": {
       "1": {
         "src": "https://camo.githubusercontent.com/e95e4574a9668a9cf8453cab82dd8698b5c09573/68747470733a2f2f7472617669732d63692e6f72672f627561617a702f7a696d672e7376673f6272616e63683d6d6173746572", 
