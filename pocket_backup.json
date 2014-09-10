@@ -997,22 +997,22 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 1286, 
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           Okay, okay, okay! #Sasquatch2014", 
+    "excerpt": "", 
     "image": {
       "item_id": "124414", 
       "src": "https://abs.twimg.com/a/1410229143/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "245", 
+    "word_count": "0", 
     "images": {
       "1": {
         "src": "https://abs.twimg.com/a/1410229143/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
@@ -1031,7 +1031,7 @@
     "time_added": "1409239467", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": "Twitter"
+    "resolved_title": ""
   }, 
   {
     "videos": {
@@ -1897,25 +1897,86 @@
     "resolved_title": "Children Are Not a Rescue from a Lack of Meaning in Your Life"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "691682143", 
+      "src": "http://www.newrepublic.com/sites/default/files/u31592/article_inset_shulevitz_2.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Sometime in the late \u201950s, Frieda Fromm-Reichmann sat down to write an essay about a subject that had been mostly overlooked by other psychoanalysts up to that point. Even Freud had only touched on it in passing.", 
+    "word_count": "5109", 
+    "images": {
+      "1": {
+        "src": "http://www.newrepublic.com/sites/default/files/u31592/article_inset_shulevitz_2.jpg", 
+        "credit": "Ariel Lee", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "691682143", 
+        "caption": "\nAriel Lee\n", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://www.newrepublic.com/sites/default/files/u31592/article_inset_shulevitz_4.jpg", 
+        "credit": "Ariel Lee", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "691682143", 
+        "caption": "\nAriel Lee\n", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.newrepublic.com/sites/default/files/u31592/article_inset_shulevitz_3.jpg", 
+        "credit": "Ariel Lee", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "691682143", 
+        "caption": "\nAriel Lee\n", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://www.newrepublic.com/sites/default/files/u31592/article_inset_shulevitz_6.jpg", 
+        "credit": "Ariel Lee", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "691682143", 
+        "caption": "\nAriel Lee\n", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://www.newrepublic.com/sites/default/files/u31592/article_inset_shulevitz_5.jpg", 
+        "credit": "Ariel Lee", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "691682143", 
+        "caption": "\nAriel Lee\n", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1408333516", 
     "status": "0", 
-    "is_index": "0", 
     "sort_id": 1267, 
+    "resolved_url": "http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you#", 
+    "authors": {
+      "7100400": {
+        "item_id": "691682143", 
+        "url": "http://www.newrepublic.com/authors/judith-shulevitz", 
+        "author_id": "7100400", 
+        "name": "JUDITH SHULEVITZ"
+      }
+    }, 
+    "item_id": "691682143", 
+    "resolved_id": "356491090", 
+    "given_url": "http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you?src=longreads", 
+    "resolved_title": "The Lethality of Loneliness We now know how it can ravage our body and brain", 
+    "is_index": "0", 
     "time_updated": "1410041511", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
     "given_title": "The Science of Loneliness: How Isolation Can Kill You | New Republic", 
-    "resolved_url": "http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you#", 
-    "is_article": "0", 
-    "item_id": "691682143", 
-    "time_added": "1408333516", 
-    "resolved_id": "356491090", 
-    "given_url": "http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you?src=longreads", 
-    "resolved_title": ""
+    "has_image": "1"
   }, 
   {
     "status": "0", 
