@@ -17297,7 +17297,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -28733,6 +28733,55 @@
     "resolved_id": "139189567", 
     "given_url": "http://panda.readthedocs.org/en/latest/local_development.html", 
     "resolved_title": "Local development & testing\u00b6"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/v/eIho2S0ZahI", 
+        "vid": "eIho2S0ZahI", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "652800687", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "652800687", 
+      "src": "http://img.youtube.com/vi/eIho2S0ZahI/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "Have you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.TEDTalks i", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/eIho2S0ZahI/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "652800687", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1410435764", 
+    "status": "0", 
+    "sort_id": 1326, 
+    "resolved_url": "https://www.youtube.com/watch?v=eIho2S0ZahI", 
+    "item_id": "652800687", 
+    "resolved_id": "652800687", 
+    "given_url": "https://www.youtube.com/watch?v=eIho2S0ZahI", 
+    "resolved_title": "Julian Treasure: How to speak so that people want to listen", 
+    "is_index": "0", 
+    "time_updated": "1410435764", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "\u25b6 Julian Treasure: How to speak so that people want to listen - YouTube", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
