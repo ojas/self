@@ -2179,7 +2179,7 @@
     "given_url": "https://www.youtube.com/watch?v=zDV_dBYp4h0&list=RDR6Zu-U2yoHk&index=2", 
     "resolved_title": "Mr. Flagio - Take a Chance (Italo-disco 1983)", 
     "is_index": "0", 
-    "time_updated": "1410363445", 
+    "time_updated": "1410532579", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -2485,7 +2485,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1329, 
-    "time_updated": "1410496145", 
+    "time_updated": "1410532556", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "My RESTful API design talk is a popular one and I often give it at various meetups around town. Over the course of time, I\u2019ve collected some questions from the audience and aggregated them here. As with any design, tastes differ. Nevertheless, here\u2019s my\u00a0take\u2026", 
@@ -12511,6 +12511,85 @@
     "time_read": "1348063457", 
     "favorite": "0", 
     "given_title": "The 'Busy' Trap - NYTimes.com", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "712232918", 
+      "src": "http://www.simonsfoundation.org/wp-content/uploads/2014/09/Yeast_web2.jpg", 
+      "height": "640", 
+      "width": "640"
+    }, 
+    "excerpt": "In his fourth-floor lab at Harvard University, Michael Desai has created hundreds of identical worlds in order to watch evolution at work. Each of his meticulously controlled environments is home to a separate strain of baker\u2019s yeast.", 
+    "word_count": "1301", 
+    "images": {
+      "1": {
+        "src": "http://www.simonsfoundation.org/wp-content/uploads/2014/09/Yeast_web2.jpg", 
+        "credit": "", 
+        "height": "640", 
+        "image_id": "1", 
+        "item_id": "712232918", 
+        "caption": "\nDaniel Hertzberg for Quanta Magazine\nDifferent strains of yeast grown under identical conditions develop different mutations but ultimately arrive at similar evolutionary endpoints.\n", 
+        "width": "640"
+      }, 
+      "3": {
+        "src": "http://www.simonsfoundation.org/wp-content/uploads/2014/09/Yeast_96wp-300x199.jpg", 
+        "credit": "", 
+        "height": "199", 
+        "image_id": "3", 
+        "item_id": "712232918", 
+        "caption": "\n\nSergey Kryazhimskiy\nTo efficiently analyze many strains of yeast simultaneously, scientists grow them on plates like this one, which has 96 individual wells.\n\n", 
+        "width": "300"
+      }, 
+      "2": {
+        "src": "http://www.simonsfoundation.org/wp-content/uploads/2014/09/Michael-Desai-237x300.jpg", 
+        "credit": "", 
+        "height": "300", 
+        "image_id": "2", 
+        "item_id": "712232918", 
+        "caption": "\n\nSergey Kryazhimskiy\nMichael Desai, a biologist at Harvard University, uses statistical methods to study basic questions in evolution.\n\n", 
+        "width": "237"
+      }, 
+      "4": {
+        "src": "http://www.simonsfoundation.org/wp-content/uploads/2014/09/Sergey_w_robot_web-300x225.jpg", 
+        "credit": "", 
+        "height": "225", 
+        "image_id": "4", 
+        "item_id": "712232918", 
+        "caption": "\n\nCourtesy of Sergey Kryazhimskiy\nFluid-handling robots like this one make it possible to study hundreds of lines of yeast over many generations.\n\n", 
+        "width": "300"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410530891", 
+    "status": "0", 
+    "tags": {
+      "evolution": {
+        "item_id": "712232918", 
+        "tag": "evolution"
+      }
+    }, 
+    "sort_id": 1330, 
+    "resolved_url": "http://www.simonsfoundation.org/quanta/20140911-evolutions-random-paths-all-lead-to-the-same-place/", 
+    "authors": {
+      "19132675": {
+        "item_id": "712232918", 
+        "url": "http://www.simonsfoundation.org/authors/emily-singer/?quanta", 
+        "author_id": "19132675", 
+        "name": "Emily Singer"
+      }
+    }, 
+    "item_id": "712232918", 
+    "resolved_id": "712232918", 
+    "given_url": "http://www.simonsfoundation.org/quanta/20140911-evolutions-random-paths-all-lead-to-the-same-place/", 
+    "resolved_title": "Yeast Study Suggests Genetics Are Random but Evolution Is Not", 
+    "is_index": "0", 
+    "time_updated": "1410532551", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Yeast Study Suggests Genetics Are Random but Evolution Is Not | Simons Foun", 
     "has_image": "1"
   }, 
   {
@@ -30611,6 +30690,12 @@
     "has_video": "1", 
     "time_added": "1410363432", 
     "status": "0", 
+    "tags": {
+      "music": {
+        "item_id": "711357553", 
+        "tag": "music"
+      }
+    }, 
     "sort_id": 1320, 
     "resolved_url": "http://rockinbeats.wordpress.com/2013/01/11/coco-bill-evita/", 
     "authors": {
@@ -30626,7 +30711,7 @@
     "given_url": "http://rockinbeats.wordpress.com/2013/01/11/coco-bill-evita/", 
     "resolved_title": "Coco Bill \u2013 \u201cEvita\u201d", 
     "is_index": "0", 
-    "time_updated": "1410363433", 
+    "time_updated": "1410532598", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
