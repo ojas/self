@@ -38240,6 +38240,35 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1331, 
+    "time_updated": "1410548872", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Today we\u2019re thrilled to announce the release of Spark 1.1! Spark 1.1 introduces many new features along with scale and stability improvements. This post will introduce some key features of Spark 1.1 and provide context on the priorities of Spark for this and the next release.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "725", 
+    "authors": {
+      "16176580": {
+        "item_id": "712577159", 
+        "url": "", 
+        "author_id": "16176580", 
+        "name": "Patrick Wendell"
+      }
+    }, 
+    "given_title": "Announcing Spark 1.1 \u2013 Databricks", 
+    "resolved_url": "http://databricks.com/blog/2014/09/11/announcing-spark-1-1.html", 
+    "is_article": "1", 
+    "item_id": "712577159", 
+    "time_added": "1410548872", 
+    "resolved_id": "712577159", 
+    "given_url": "http://databricks.com/blog/2014/09/11/announcing-spark-1-1.html", 
+    "resolved_title": "Blog"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 994, 
     "time_updated": "1392786237", 
     "time_favorited": "0", 
