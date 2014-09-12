@@ -2484,6 +2484,41 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1329, 
+    "time_updated": "1410496145", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "My RESTful API design talk is a popular one and I often give it at various meetups around town. Over the course of time, I\u2019ve collected some questions from the audience and aggregated them here. As with any design, tastes differ. Nevertheless, here\u2019s my\u00a0take\u2026", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "488", 
+    "authors": {
+      "23751810": {
+        "item_id": "712674324", 
+        "url": "https://plus.google.com/103941734057548347935?rel=author", 
+        "author_id": "23751810", 
+        "name": "Ganesh Swami"
+      }
+    }, 
+    "given_title": "REST APIs: Frequently Asked\u00a0Questions | SILOTA", 
+    "resolved_url": "http://www.silota.com/site-search-blog/rest-api-faq/", 
+    "is_article": "1", 
+    "item_id": "712674324", 
+    "time_added": "1410496139", 
+    "resolved_id": "712674324", 
+    "given_url": "http://www.silota.com/site-search-blog/rest-api-faq/", 
+    "resolved_title": "REST APIs: Frequently Asked\u00a0Questions", 
+    "tags": {
+      "api": {
+        "item_id": "712674324", 
+        "tag": "api"
+      }
+    }
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 303, 
     "time_updated": "1373584191", 
     "time_favorited": "0", 
@@ -45719,6 +45754,89 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1327, 
+    "time_updated": "1410494329", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The first day I tried out Shazam, I was blown away. Next to GPS and surviving the fall down a flight of stairs, being able to recognize a song from a vast corpus of audio was the most incredible thing I'd ever seen my phone do. This recognition works though a process called audio fingerprinting.", 
+    "image": {
+      "item_id": "500503472", 
+      "src": "http://willdrevo.com/images/spectrogram_no_peaks.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "3375", 
+    "images": {
+      "1": {
+        "src": "http://willdrevo.com/images/spectrogram_no_peaks.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "500503472", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://willdrevo.com/images/spectrogram_zoomed.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "500503472", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://willdrevo.com/images/spectrogram_peaks.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "500503472", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://willdrevo.com/images/accuracy.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "500503472", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://willdrevo.com/images/num_fingerprints.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "500503472", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://willdrevo.com/images/matching_time.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "500503472", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Audio Fingerprinting with Python and Numpy", 
+    "resolved_url": "http://willdrevo.com/fingerprinting-and-audio-recognition-with-python.html", 
+    "is_article": "1", 
+    "item_id": "500503472", 
+    "time_added": "1410494329", 
+    "resolved_id": "500503472", 
+    "given_url": "http://willdrevo.com/fingerprinting-and-audio-recognition-with-python.html", 
+    "resolved_title": "Audio Fingerprinting with Python and Numpy"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1259, 
     "time_updated": "1407957261", 
     "time_favorited": "0", 
@@ -66272,6 +66390,71 @@
     "resolved_id": "683236725", 
     "given_url": "http://www.austinhomesearch.com/landlots-for-sale/TX/Austin/78721/6305-Wilcab-Rd-126975565", 
     "resolved_title": "Listing Information"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1328, 
+    "time_updated": "1410494548", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "\u201cExcuse me, but what\u2019s the time?\u201d I\u2019m guessing that you, like me, are guilty of having asked this question, as if it were obvious that there is such a thing as the time. Yet you\u2019ve probably never approached a stranger and asked \u201cExcuse me, but what\u2019s the place?\u201d.", 
+    "image": {
+      "item_id": "519392352", 
+      "src": "http://nautilus-prod.s3.amazonaws.com/book-ad_Tegmark.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1939", 
+    "images": {
+      "1": {
+        "src": "http://nautilus-prod.s3.amazonaws.com/book-ad_Tegmark.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "519392352", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://static.nautil.us/2208_cd3afef9b8b89558cd56638c3631868a.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "519392352", 
+        "caption": "", 
+        "width": "733"
+      }, 
+      "2": {
+        "src": "http://static.nautil.us/2209_db116b39f7a3ac5366079b1d9fe249a5.png", 
+        "credit": "Max Tegmark", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "519392352", 
+        "caption": "The Moon\u2019s Orbit: We can equivalently think of the moon as a position in space that changes over time", 
+        "width": "733"
+      }, 
+      "4": {
+        "src": "http://static.nautil.us/2210_1368ba1ab6ed38bb1f26f36673739d54.png", 
+        "credit": "Max Tegmark", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "519392352", 
+        "caption": "Complexity and Life: The motion of an object corresponds to a pattern in spacetime. An inanimate clump of 10 accelerating particles constitutes a simple pattern", 
+        "width": "733"
+      }
+    }, 
+    "given_title": "Life is a Braid in Spacetime - Issue 9: Time - Nautilus", 
+    "resolved_url": "http://nautil.us/issue/9/time/life-is-a-braid-in-spacetime", 
+    "is_article": "1", 
+    "item_id": "519392352", 
+    "time_added": "1410494548", 
+    "resolved_id": "519392352", 
+    "given_url": "http://nautil.us/issue/9/time/life-is-a-braid-in-spacetime", 
+    "resolved_title": "Life is a Braid in Spacetime"
   }, 
   {
     "is_article": "1", 
