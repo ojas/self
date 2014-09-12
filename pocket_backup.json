@@ -49039,7 +49039,7 @@
       }
     }, 
     "sort_id": 1214, 
-    "resolved_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html#story-continues-7", 
+    "resolved_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html", 
     "authors": {
       "17918641": {
         "item_id": "669197592", 
@@ -68141,10 +68141,10 @@
     "has_video": "0", 
     "word_count": "3231", 
     "authors": {
-      "23895896": {
+      "23452990": {
         "item_id": "702563219", 
-        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/?utm_content=buffera0b14&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer#", 
-        "author_id": "23895896", 
+        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/#", 
+        "author_id": "23452990", 
         "name": "Laurie Voss"
       }
     }, 
