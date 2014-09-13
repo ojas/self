@@ -9460,15 +9460,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "946", 
-    "authors": {
-      "6241996": {
-        "item_id": "262104816", 
-        "url": "http://people.planetpostgresql.org/andrew/", 
-        "author_id": "6241996", 
-        "name": "Andrew Dunstan"
-      }
-    }, 
+    "word_count": "907", 
     "given_title": "Postgres 9.2 \u2013 The Database You Helped Build", 
     "resolved_url": "https://postgres.heroku.com/blog/past/2012/12/6/postgres_92_now_available/", 
     "is_article": "1", 
@@ -68438,10 +68430,10 @@
     "has_video": "0", 
     "word_count": "3231", 
     "authors": {
-      "23927849": {
+      "23452990": {
         "item_id": "702563219", 
-        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/?utm_content=buffer43dda&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer#", 
-        "author_id": "23927849", 
+        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/#", 
+        "author_id": "23452990", 
         "name": "Laurie Voss"
       }
     }, 
