@@ -12881,6 +12881,44 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1332, 
+    "time_updated": "1410642051", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "PARIS \u2014 NOT many Ivy League professors are associated with a type of candy. But Walter Mischel, a professor of psychology at Columbia, doesn\u2019t mind being one of them.  I\u2019m with Mr. Mischel (pronounced me-SHELL) in his tiny home office in Paris, where he spends the summer with his girlfriend.", 
+    "image": {
+      "item_id": "713622518", 
+      "src": "http://static01.nyt.com/images/2013/10/04/opinion/druckerman-contributor/contributors-images-slide-S3XQ-thumbLarge.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1055", 
+    "images": {
+      "1": {
+        "src": "http://static01.nyt.com/images/2013/10/04/opinion/druckerman-contributor/contributors-images-slide-S3XQ-thumbLarge.jpg", 
+        "credit": "Zeloot", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "713622518", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Learning How to Exert Self-Control - NYTimes.com", 
+    "resolved_url": "http://mobile.nytimes.com/2014/09/14/opinion/sunday/learning-self-control.html", 
+    "is_article": "1", 
+    "item_id": "713622518", 
+    "time_added": "1410642051", 
+    "resolved_id": "713297386", 
+    "given_url": "http://mobile.nytimes.com/2014/09/14/opinion/sunday/learning-self-control.html?referrer=&_r=0", 
+    "resolved_title": "Learning How to Exert Self-Control"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 864, 
     "time_updated": "1387476070", 
     "time_favorited": "0", 
