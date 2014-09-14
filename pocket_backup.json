@@ -8115,27 +8115,19 @@
     "time_updated": "1404449508", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Although sometimes construed as humorous, Conway's law was intended as a valid sociological observation. It is based on the reasoning that in order for two separate software modules to interface correctly, the designers and implementers of each module must communicate with each other.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "408", 
-    "authors": {
-      "7331684": {
-        "item_id": "154473512", 
-        "url": "", 
-        "author_id": "7331684", 
-        "name": "From Wikipedia, the free"
-      }
-    }, 
+    "word_count": "0", 
     "given_title": "Conway's law - Wikipedia, the free encyclopedia", 
-    "resolved_url": "http://en.wikipedia.org/wiki/Conway's_law", 
-    "is_article": "1", 
+    "resolved_url": "https://en.wikipedia.org/wiki/Conway\\'s_law", 
+    "is_article": "0", 
     "item_id": "154473512", 
     "time_added": "1389373356", 
     "resolved_id": "154473512", 
     "given_url": "http://en.wikipedia.org/wiki/Conway's_law", 
-    "resolved_title": "Conway's law"
+    "resolved_title": ""
   }, 
   {
     "is_article": "1", 
@@ -14761,7 +14753,7 @@
     "has_video": "0", 
     "word_count": "20", 
     "given_title": "Home - Quora", 
-    "resolved_url": "http://www.quora.com/", 
+    "resolved_url": "http://www.quora.com", 
     "is_article": "0", 
     "item_id": "27693939", 
     "time_added": "1372743851", 
@@ -18101,7 +18093,7 @@
       "width": "0"
     }, 
     "excerpt": "WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct. 15, President Obama\u2019s chief domestic accomplishment was falling apart 24 miles away, at a bustling high-tech data center in suburban Virginia.           HealthCare.", 
-    "word_count": "811", 
+    "word_count": "5950", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
