@@ -10174,6 +10174,33 @@
     "resolved_title": "Free SSL Certificates for Open Source Projects"
   }, 
   {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1336, 
+    "time_updated": "1410791833", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "4827 E Cesar Chavez St Austin, TX, 78702 United States (512) 531-9033 info@sawyerand.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "11", 
+    "given_title": "Sawyer & Co.", 
+    "resolved_url": "http://www.sawyerand.co/", 
+    "is_article": "0", 
+    "item_id": "715115314", 
+    "time_added": "1410791827", 
+    "resolved_id": "715115314", 
+    "given_url": "http://www.sawyerand.co/", 
+    "resolved_title": "Sawyer & Co.", 
+    "tags": {
+      "east-side": {
+        "item_id": "715115314", 
+        "tag": "east-side"
+      }
+    }
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://player.vimeo.com/video/52123602", 
@@ -23478,6 +23505,55 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Watsi | About Us", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/v/aUaInS6HIGo", 
+        "vid": "aUaInS6HIGo", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "122230864", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "122230864", 
+      "src": "http://img.youtube.com/vi/aUaInS6HIGo/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "Check out our new website http://www.evanshealthlab.com/Follow Dr. Mike for new videos! http://twitter.com/docmikeevans A Doctor-Professor answers the old question \"What is the single best thing we can do for our health\" in a completely new way.  Dr. Mike Evans is founder of the Health Design Lab at", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/aUaInS6HIGo/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "122230864", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1410789294", 
+    "status": "0", 
+    "sort_id": 1335, 
+    "resolved_url": "http://www.youtube.com/watch?v=aUaInS6HIGo", 
+    "item_id": "122230864", 
+    "resolved_id": "122230864", 
+    "given_url": "https://www.youtube.com/watch?v=aUaInS6HIGo", 
+    "resolved_title": "23 and 1/2 hours: What is the single best thing we can do for our health?", 
+    "is_index": "0", 
+    "time_updated": "1410789294", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "\u25b6 23 and 1/2 hours: What is the single best thing we can do for our health?", 
     "has_image": "1"
   }, 
   {
@@ -58564,6 +58640,52 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "\u25b6 NSX Type S Super Impression - YouTube", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "693975110", 
+      "src": "http://www.lightspeedmagazine.com/wp-content/uploads/2014/08/Hugo-Award.jpg", 
+      "height": "575", 
+      "width": "575"
+    }, 
+    "excerpt": "Learn more about the Hugos at thehugoawards.org.  Enjoyed this article? Get the rest of this issue in convenient ebook format!", 
+    "word_count": "242", 
+    "images": {
+      "1": {
+        "src": "http://www.lightspeedmagazine.com/wp-content/uploads/2014/08/Hugo-Award.jpg", 
+        "credit": "", 
+        "height": "575", 
+        "image_id": "1", 
+        "item_id": "693975110", 
+        "caption": "", 
+        "width": "575"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410789283", 
+    "status": "0", 
+    "sort_id": 1334, 
+    "resolved_url": "http://www.lightspeedmagazine.com/honors/2014-hugo-award-best-semiprozine/", 
+    "authors": {
+      "23067202": {
+        "item_id": "693975110", 
+        "url": "http://www.lightspeedmagazine.com/authors/lightspeed-magazine/", 
+        "author_id": "23067202", 
+        "name": "Lightspeed Magazine"
+      }
+    }, 
+    "item_id": "693975110", 
+    "resolved_id": "693975110", 
+    "given_url": "http://www.lightspeedmagazine.com/honors/2014-hugo-award-best-semiprozine/", 
+    "resolved_title": "2014 Hugo Award for Best Semiprozine", 
+    "is_index": "0", 
+    "time_updated": "1410789283", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "2014 Hugo Award for Best Semiprozine - Lightspeed Magazine", 
     "has_image": "1"
   }, 
   {
