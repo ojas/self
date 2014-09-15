@@ -46232,6 +46232,50 @@
     "resolved_title": "Divine Irony"
   }, 
   {
+    "is_article": "0", 
+    "image": {
+      "item_id": "715115951", 
+      "src": "http://www.jacobysaustin.com/wp-content/uploads/2014/08/photo-170-700x525.jpg", 
+      "height": "525", 
+      "width": "700"
+    }, 
+    "excerpt": "Jacoby's Restaurant And Mercantile  3235 East Cesar Chavez St. Austin,TX 78702 p.", 
+    "word_count": "11", 
+    "images": {
+      "1": {
+        "src": "http://www.jacobysaustin.com/wp-content/uploads/2014/08/photo-170-700x525.jpg", 
+        "credit": "", 
+        "height": "525", 
+        "image_id": "1", 
+        "item_id": "715115951", 
+        "caption": "", 
+        "width": "700"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410791876", 
+    "status": "0", 
+    "tags": {
+      "east-side": {
+        "item_id": "715115951", 
+        "tag": "east-side"
+      }
+    }, 
+    "sort_id": 1337, 
+    "resolved_url": "http://www.jacobysaustin.com/", 
+    "item_id": "715115951", 
+    "resolved_id": "715115951", 
+    "given_url": "http://www.jacobysaustin.com/", 
+    "resolved_title": "Jacoby's Restaurant & Mercantile Austin, TX", 
+    "is_index": "1", 
+    "time_updated": "1410791881", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Jacoby's Restaurant & Mercantile Austin, TX", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1159, 
@@ -54423,11 +54467,11 @@
     "time_updated": "1410739065", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "The zoom parameter allows you to make the editing area smaller, to give you overall look of the content. Values can be 0.8 to 1. Note: zoom feature is not provided in Firefox browser.  The snippetFile parameter refers to a html file containing snippets collection.", 
+    "excerpt": "The zoom parameter allows you to make the editing area smaller, to give you overall look of the content. Values can be 0.8 to 1.  The snippetFile parameter refers to a html file containing snippets collection. You can add your own snippets in this file.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "52", 
+    "word_count": "43", 
     "given_title": "InnovaStudio Content Builder (contentbuilder.js) - Makes Your Writing Beaut", 
     "resolved_url": "http://innovastudio.com/content-builder.aspx", 
     "is_article": "0", 
@@ -70038,6 +70082,44 @@
     "resolved_id": "303840541", 
     "given_url": "http://www.iheartchaos.com/post/43586601190", 
     "resolved_title": "I Heart Chaos \u2014 A LEGO mold gets retired after making 120 million..."
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1338, 
+    "time_updated": "1410791963", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Grape-like acidity leads into strawberry sweetness and a dark chocolate finish.", 
+    "image": {
+      "item_id": "305817672", 
+      "src": "http://cuveecoffee.com/shop/images/8305/Santa+Rita+Peaberry.jpg?480,480,0,0,80,1453552971", 
+      "height": "480", 
+      "width": "358"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "16", 
+    "images": {
+      "1": {
+        "src": "http://cuveecoffee.com/shop/images/8305/Santa+Rita+Peaberry.jpg?480,480,0,0,80,1453552971", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "1", 
+        "item_id": "305817672", 
+        "caption": "", 
+        "width": "358"
+      }
+    }, 
+    "given_title": "Shop | Cuvee CoffeeCuvee Coffee", 
+    "resolved_url": "http://cuveecoffee.com/shop/", 
+    "is_article": "1", 
+    "item_id": "305817672", 
+    "time_added": "1410791963", 
+    "resolved_id": "305817672", 
+    "given_url": "http://cuveecoffee.com/shop/", 
+    "resolved_title": "Shop : Cuvee CoffeeCuvee Coffee"
   }, 
   {
     "videos": {
