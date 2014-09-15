@@ -54331,6 +54331,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1333, 
+    "time_updated": "1410739065", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The zoom parameter allows you to make the editing area smaller, to give you overall look of the content. Values can be 0.8 to 1. Note: zoom feature is not provided in Firefox browser.  The snippetFile parameter refers to a html file containing snippets collection.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "52", 
+    "given_title": "InnovaStudio Content Builder (contentbuilder.js) - Makes Your Writing Beaut", 
+    "resolved_url": "http://innovastudio.com/content-builder.aspx", 
+    "is_article": "0", 
+    "item_id": "701188653", 
+    "time_added": "1410739065", 
+    "resolved_id": "701188653", 
+    "given_url": "http://innovastudio.com/content-builder.aspx", 
+    "resolved_title": "Makes Your Writing Beautiful & Responsive"
+  }, 
+  {
     "status": "1", 
     "is_index": "0", 
     "sort_id": 1175, 
