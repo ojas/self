@@ -23012,7 +23012,7 @@
     "status": "1", 
     "is_index": "0", 
     "sort_id": 404, 
-    "time_updated": "1367543130", 
+    "time_updated": "1410782785", 
     "time_favorited": "0", 
     "time_read": "1367514679", 
     "excerpt": "The war is over.  The survivors are being rounded up and converted.", 
@@ -23035,7 +23035,17 @@
     "time_added": "1367288561", 
     "resolved_id": "47253653", 
     "given_url": "http://www.lightspeedmagazine.com/fiction/the-long-chase/", 
-    "resolved_title": "The Long Chase"
+    "resolved_title": "The Long Chase", 
+    "tags": {
+      "short story": {
+        "item_id": "47253653", 
+        "tag": "short story"
+      }, 
+      "scifi": {
+        "item_id": "47253653", 
+        "tag": "scifi"
+      }
+    }
   }, 
   {
     "is_article": "1", 
