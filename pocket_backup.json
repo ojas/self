@@ -39851,8 +39851,8 @@
       "height": "0", 
       "width": "175"
     }, 
-    "excerpt": "\u201cThe real enemy is the man who tries to mold the human spirit so that it will not dare to spread its wings.", 
-    "word_count": "1960", 
+    "excerpt": "This concern, it turns out, is hardly new.", 
+    "word_count": "1896", 
     "images": {
       "1": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2012/07/flexner.jpg", 
@@ -39870,10 +39870,10 @@
     "sort_id": 92, 
     "resolved_url": "http://www.brainpickings.org/index.php/2012/07/27/the-usefulness-of-useless-knowledge/", 
     "authors": {
-      "5731": {
+      "23602465": {
         "item_id": "198605676", 
-        "url": "http://www.brainpickings.org/index.php/author/mpopova/", 
-        "author_id": "5731", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
         "name": "Maria Popova"
       }
     }, 
@@ -68754,7 +68754,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1295, 
-    "time_updated": "1410492354", 
+    "time_updated": "1410808594", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "You are bad at giving technical interviews. Yes, you. You\u2019re looking for the wrong skills, hiring the wrong people, and actively screwing yourself and your company.", 
