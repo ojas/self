@@ -3121,6 +3121,52 @@
     "resolved_title": ""
   }, 
   {
+    "is_article": "0", 
+    "image": {
+      "item_id": "177131554", 
+      "src": "http://www.worlddreambank.org/O/OUTSIDRS.JPG", 
+      "height": "466", 
+      "width": "294"
+    }, 
+    "excerpt": "His name was William James Sidis, and his IQ was estimated at between 250 and 300 [8, p. 283]. At eighteen months he could read The New York Times, at two he taught himself Latin, at three he learned Greek. By the time he was an adult he could speak more than forty languages and dialects.", 
+    "word_count": "5370", 
+    "images": {
+      "1": {
+        "src": "http://www.worlddreambank.org/O/OUTSIDRS.JPG", 
+        "credit": "", 
+        "height": "466", 
+        "image_id": "1", 
+        "item_id": "177131554", 
+        "caption": "", 
+        "width": "294"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1410825120", 
+    "status": "0", 
+    "sort_id": 1339, 
+    "resolved_url": "http://www.worlddreambank.org/O/OUTSIDRS.HTM", 
+    "authors": {
+      "3509180": {
+        "item_id": "177131554", 
+        "url": "http://www.worlddreambank.org/2/2AUTHOR.HTM", 
+        "author_id": "3509180", 
+        "name": "Author"
+      }
+    }, 
+    "item_id": "177131554", 
+    "resolved_id": "177131554", 
+    "given_url": "http://www.worlddreambank.org/O/OUTSIDRS.HTM", 
+    "resolved_title": "The Outsiders", 
+    "is_index": "0", 
+    "time_updated": "1410825120", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "World Dream Bank: The Outsiders", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 252, 
