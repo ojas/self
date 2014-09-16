@@ -997,22 +997,22 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1286, 
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           Okay, okay, okay! #Sasquatch2014", 
     "image": {
       "item_id": "124414", 
       "src": "https://abs.twimg.com/a/1410478644/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "0", 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "245", 
     "images": {
       "1": {
         "src": "https://abs.twimg.com/a/1410478644/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
@@ -1031,7 +1031,7 @@
     "time_added": "1409239467", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": ""
+    "resolved_title": "Twitter"
   }, 
   {
     "videos": {
@@ -45217,7 +45217,7 @@
     "is_article": "0", 
     "image": {
       "item_id": "123209256", 
-      "src": "https://mailtrap.io/assets/landing/schema-9527e22b6aba20fe35f79d0ecfbde2b4.png", 
+      "src": "https://mailtrap.io/assets/landing/schema-8f16bb6a4c0931c7b95175d7dc8b05ac.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -45252,7 +45252,7 @@
         "width": "0"
       }, 
       "12": {
-        "src": "https://mailtrap.io/assets/landing/customers/002-482b638456d605bf0f1d2e75521b0eed.png", 
+        "src": "https://mailtrap.io/assets/landing/customers/002-7af80c5b481f5619b8eabe5ef43340bb.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "12", 
@@ -45288,7 +45288,7 @@
         "width": "0"
       }, 
       "16": {
-        "src": "https://mailtrap.io/assets/landing/customers/006-eb6d16fbaccdb64e903f4a1a6ddf1220.png", 
+        "src": "https://mailtrap.io/assets/landing/customers/006-e79538a294c9c83a8e61b01e9c11700b.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "16", 
@@ -45306,7 +45306,7 @@
         "width": "0"
       }, 
       "1": {
-        "src": "https://mailtrap.io/assets/landing/schema-9527e22b6aba20fe35f79d0ecfbde2b4.png", 
+        "src": "https://mailtrap.io/assets/landing/schema-8f16bb6a4c0931c7b95175d7dc8b05ac.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
