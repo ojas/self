@@ -38571,6 +38571,62 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1342, 
+    "time_updated": "1410904781", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Pipelines are an extremely useful (and surprisingly underused) architectural pattern in modern software engineering. The concept of using pipes and filters to control the flow of data through software has been around since the 1970s, when the first Unix shells were created.", 
+    "image": {
+      "item_id": "476022733", 
+      "src": "http://petersobot.com/blog/images/body/pipeline_diagram.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2735", 
+    "images": {
+      "1": {
+        "src": "http://petersobot.com/blog/images/body/pipeline_diagram.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "476022733", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://petersobot.com/blog/images/body/pipeline_stderr.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "476022733", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://petersobot.com/blog/images/body/pipeline_graphs.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "476022733", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Pipes and Filters", 
+    "resolved_url": "http://blog.petersobot.com/pipes-and-filters", 
+    "is_article": "1", 
+    "item_id": "476022733", 
+    "time_added": "1410904781", 
+    "resolved_id": "476022733", 
+    "given_url": "http://blog.petersobot.com/pipes-and-filters", 
+    "resolved_title": "Pipes and Filters"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1032, 
     "time_updated": "1394422736", 
     "time_favorited": "0", 
