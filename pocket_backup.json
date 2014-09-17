@@ -38508,7 +38508,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "725", 
+    "word_count": "729", 
     "authors": {
       "16176580": {
         "item_id": "712577159", 
@@ -44951,7 +44951,7 @@
       }
     }, 
     "given_title": "The reactive manifesto", 
-    "resolved_url": "http://www.reactivemanifesto.org/", 
+    "resolved_url": "http://www.reactivemanifesto.org", 
     "is_article": "0", 
     "item_id": "397992754", 
     "time_added": "1377668790", 
