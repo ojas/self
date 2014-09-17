@@ -44928,50 +44928,23 @@
     "time_updated": "1385945185", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Thank you! And spread the word!  Application requirements have changed dramatically in recent years. Only a few years ago a large application had tens of servers, seconds of response time, hours of offline maintenance and gigabytes of data.", 
+    "excerpt": "Organisations working in disparate domains are independently discovering patterns for building software that look the same. These systems are more robust, more resilient, more flexible and better positioned to meet modern demands.", 
     "image": {
       "item_id": "397992754", 
-      "src": "http://www.reactivemanifesto.org/images/stack.png", 
+      "src": "http://www.reactivemanifesto.org/images/reactive-traits.svg", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2798", 
+    "word_count": "633", 
     "images": {
       "1": {
-        "src": "http://www.reactivemanifesto.org/images/stack.png", 
+        "src": "http://www.reactivemanifesto.org/images/reactive-traits.svg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
-        "item_id": "397992754", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://www.reactivemanifesto.org/images/tank.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "397992754", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://www.reactivemanifesto.org/images/amdahl.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "397992754", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://www.reactivemanifesto.org/images/full-reactive.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
         "item_id": "397992754", 
         "caption": "", 
         "width": "0"
