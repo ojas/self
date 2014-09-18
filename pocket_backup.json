@@ -12951,25 +12951,16 @@
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "PARIS \u2014 NOT many Ivy League professors are associated with a type of candy. But Walter Mischel, a professor of psychology at Columbia, doesn\u2019t mind being one of them.  I\u2019m with Mr. Mischel (pronounced me-SHELL) in his tiny home office in Paris, where he spends the summer with his girlfriend.", 
-    "image": {
-      "item_id": "713622518", 
-      "src": "http://static01.nyt.com/images/2013/10/04/opinion/druckerman-contributor/contributors-images-slide-S3XQ-thumbLarge.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "has_image": "1", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "1055", 
-    "images": {
-      "1": {
-        "src": "http://static01.nyt.com/images/2013/10/04/opinion/druckerman-contributor/contributors-images-slide-S3XQ-thumbLarge.jpg", 
-        "credit": "Zeloot", 
-        "height": "0", 
-        "image_id": "1", 
+    "authors": {
+      "204596": {
         "item_id": "713622518", 
-        "caption": "", 
-        "width": "0"
+        "url": "", 
+        "author_id": "204596", 
+        "name": "PAMELA DRUCKERMAN"
       }
     }, 
     "given_title": "Learning How to Exert Self-Control - NYTimes.com", 
