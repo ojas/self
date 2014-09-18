@@ -11157,6 +11157,33 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1344, 
+    "time_updated": "1411081581", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Generate a random fake name, address, username, password, and (usable) email address for use with online message boards, social media, or whatever else.  fakena.me lets you save the random profile generated for 30 days so you can bookmark it and return. After 30 days, the profile is deleted.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "111", 
+    "given_title": "Fake Name | fakena.me", 
+    "resolved_url": "https://fakena.me", 
+    "is_article": "0", 
+    "item_id": "717964907", 
+    "time_added": "1411081576", 
+    "resolved_id": "717964907", 
+    "given_url": "https://fakena.me/", 
+    "resolved_title": "fakena.me", 
+    "tags": {
+      "fake": {
+        "item_id": "717964907", 
+        "tag": "fake"
+      }
+    }
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "496976553", 
@@ -69623,6 +69650,27 @@
     "favorite": "0", 
     "given_title": "Do You Prioritize Like Eisenhower? | Business on GOOD", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1343, 
+    "time_updated": "1411081571", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Filenames and Pathnames in Shell: How to do it Correctly David A. Wheeler  Many Bourne shell scripts (as run by bash, dash, ash, ksh, and so on) do not handle filenames and pathnames correctly. Some shell programming books teach it wrongly, and even the POSIX standard sometimes gets it wrong.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "7336", 
+    "given_title": "Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on): How to ", 
+    "resolved_url": "http://www.dwheeler.com/essays/filenames-in-shell.html", 
+    "is_article": "0", 
+    "item_id": "73354919", 
+    "time_added": "1411081571", 
+    "resolved_id": "73354919", 
+    "given_url": "http://www.dwheeler.com/essays/filenames-in-shell.html", 
+    "resolved_title": "Filenames and Pathnames in Shell: How to do it Correctly"
   }, 
   {
     "status": "0", 
