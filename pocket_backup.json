@@ -5129,23 +5129,15 @@
     "resolved_title": "Is It Better to Rent or Buy?"
   }, 
   {
-    "status": "0", 
-    "is_index": "1", 
-    "sort_id": 1311, 
-    "time_updated": "1410288433", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Project zimg is a light image storage and processing system. It's written by C and it has high performance in image field. The zimg is designed for high concurrency image server. It supports many features for storing and processing images.", 
+    "is_article": "1", 
     "image": {
       "item_id": "408790320", 
       "src": "https://camo.githubusercontent.com/e95e4574a9668a9cf8453cab82dd8698b5c09573/68747470733a2f2f7472617669732d63692e6f72672f627561617a702f7a696d672e7376673f6272616e63683d6d6173746572", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "337", 
+    "excerpt": "Project zimg is a lightweight image storage and processing system. It's written in C and it has high performance in image field. The zimg is designed for high concurrency image server. It supports many features for storing and processing images.  The zimg is an image storage and processing server.", 
+    "word_count": "586", 
     "images": {
       "1": {
         "src": "https://camo.githubusercontent.com/e95e4574a9668a9cf8453cab82dd8698b5c09573/68747470733a2f2f7472617669732d63692e6f72672f627561617a702f7a696d672e7376673f6272616e63683d6d6173746572", 
@@ -5175,14 +5167,30 @@
         "width": "0"
       }
     }, 
-    "given_title": "buaazp/zimg", 
-    "resolved_url": "https://github.com/buaazp/zimg", 
-    "is_article": "1", 
-    "item_id": "408790320", 
+    "has_video": "0", 
     "time_added": "1410288433", 
+    "status": "0", 
+    "sort_id": 1311, 
+    "resolved_url": "https://github.com/buaazp/zimg", 
+    "authors": {
+      "24181312": {
+        "item_id": "408790320", 
+        "url": "https://github.com/buaazp", 
+        "author_id": "24181312", 
+        "name": "buaazp"
+      }
+    }, 
+    "item_id": "408790320", 
     "resolved_id": "408790320", 
     "given_url": "https://github.com/buaazp/zimg", 
-    "resolved_title": "buaazp/zimg \u00b7 GitHub"
+    "resolved_title": "buaazp/zimg", 
+    "is_index": "1", 
+    "time_updated": "1410288433", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "buaazp/zimg", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
@@ -11167,9 +11175,17 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "119", 
+    "word_count": "124", 
+    "authors": {
+      "24180797": {
+        "item_id": "717964907", 
+        "url": "http://twitter.com/share?text=Fake%20name%20generator%20for%20social%20media%20profiles%20-%20protect%20your%20privacy!&url=https%3A%2F%2Ffakena.me&hashtags=privacy", 
+        "author_id": "24180797", 
+        "name": "Twitter"
+      }
+    }, 
     "given_title": "Fake Name | fakena.me", 
-    "resolved_url": "https://fakena.me", 
+    "resolved_url": "https://fakena.me/", 
     "is_article": "0", 
     "item_id": "717964907", 
     "time_added": "1411081576", 
