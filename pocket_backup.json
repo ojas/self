@@ -35224,7 +35224,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "56167662", 
-      "src": "http://www.newyorker.com/wp-content/uploads/2010/11/101129_r20264_p886-320.jpg", 
+      "src": "http://www.newyorker.com/wp-content/uploads/2010/11/101129_r20264_p886-872.jpg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -35232,7 +35232,7 @@
     "word_count": "7847", 
     "images": {
       "1": {
-        "src": "http://www.newyorker.com/wp-content/uploads/2010/11/101129_r20264_p886-320.jpg", 
+        "src": "http://www.newyorker.com/wp-content/uploads/2010/11/101129_r20264_p886-872.jpg", 
         "credit": " JOOST SWARTE", 
         "height": "0", 
         "image_id": "1", 
@@ -40827,6 +40827,50 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "David Deutsch: A new way to explain explanation ... - Lapidarium notes", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "0", 
+    "image": {
+      "item_id": "458892449", 
+      "src": "https://www.interviewcake.com/static/images/testimonials/ryan_b.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Interview Cake is like an extended mock interview that offers hints when you get stuck and explains how to arrive at the answer, not just what the answer is.  This is not just another technical question database.", 
+    "word_count": "564", 
+    "images": {
+      "1": {
+        "src": "https://www.interviewcake.com/static/images/testimonials/ryan_b.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "458892449", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1411172668", 
+    "status": "0", 
+    "tags": {
+      "interview": {
+        "item_id": "458892449", 
+        "tag": "interview"
+      }
+    }, 
+    "sort_id": 1347, 
+    "resolved_url": "https://www.interviewcake.com/", 
+    "item_id": "458892449", 
+    "resolved_id": "458892449", 
+    "given_url": "https://www.interviewcake.com/", 
+    "resolved_title": "Kick Serious Butt\nAt Coding Interviews", 
+    "is_index": "1", 
+    "time_updated": "1411172673", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Interview Cake: Coding Interview Questions and Tips", 
     "has_image": "1"
   }, 
   {
