@@ -9700,7 +9700,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2850", 
+    "word_count": "2998", 
     "images": {
       "1": {
         "src": "http://turbo.paulstamatiou.com/uploads/2014/01/pstam-enable-bucket-s3-site-hosting.jpg", 
@@ -9712,7 +9712,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://pstam-cloud.s3.amazonaws.com/uploads/2014/01/pstam-aws-billing-console.jpg", 
+        "src": "http://turbo.paulstamatiou.com/uploads/2014/01/pstam-aws-billing-console.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -46779,7 +46779,7 @@
     "time_added": "1411157017", 
     "status": "0", 
     "sort_id": 1346, 
-    "resolved_url": "http://www.designkit.org", 
+    "resolved_url": "http://www.designkit.org/", 
     "item_id": "718611705", 
     "resolved_id": "718611705", 
     "given_url": "http://www.designkit.org/", 
