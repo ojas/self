@@ -18008,7 +18008,7 @@
       "height": "360", 
       "width": "640"
     }, 
-    "excerpt": "Dokku is a mini-Heroku powered by Docker written in less than 100 lines of Bash. Once it\u2019s set up on a host, you can push Heroku-compatible applications to it via Git. They\u2019ll build using Heroku buildpacks and then run in isolated containers.", 
+    "excerpt": "Dokku is a mini-Heroku powered by Docker written in less than 100 lines of Bash. Once it's set up on a host, you can push Heroku-compatible applications to it via Git. They'll build using Heroku buildpacks and then run in isolated containers.", 
     "word_count": "129", 
     "images": {
       "1": {
@@ -46783,7 +46783,7 @@
     "time_added": "1411157017", 
     "status": "0", 
     "sort_id": 1346, 
-    "resolved_url": "http://www.designkit.org", 
+    "resolved_url": "http://www.designkit.org/", 
     "item_id": "718611705", 
     "resolved_id": "718611705", 
     "given_url": "http://www.designkit.org/", 
