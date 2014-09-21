@@ -18045,31 +18045,17 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "518300658", 
-      "src": "http://www.newyorker.com/wp-content/uploads/2014/01/open-office-320.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "In 1973, my high school, Acton-Boxborough Regional, in Acton, Massachusetts, moved to a sprawling brick building at the foot of a hill. Inspired by architectural trends of the preceding decade, the classrooms in one of its wings didn\u2019t have doors.", 
-    "word_count": "1099", 
-    "images": {
-      "1": {
-        "src": "http://www.newyorker.com/wp-content/uploads/2014/01/open-office-320.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "518300658", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1389205463", 
     "status": "0", 
+    "is_index": "0", 
     "sort_id": 901, 
-    "resolved_url": "http://www.newyorker.com/online/blogs/currency/2014/01/the-open-office-trap.html", 
+    "time_updated": "1394123408", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "In 1973, my high school, Acton-Boxborough Regional, in Acton, Massachusetts, moved to a sprawling brick building at the foot of a hill. Inspired by architectural trends of the preceding decade, the classrooms in one of its wings didn\u2019t have doors.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1099", 
     "authors": {
       "21989659": {
         "item_id": "518300658", 
@@ -18078,17 +18064,14 @@
         "name": "Maria Konnikova"
       }
     }, 
+    "given_title": "The Open-Office Trap : The New Yorker", 
+    "resolved_url": "http://www.newyorker.com/online/blogs/currency/2014/01/the-open-office-trap.html", 
+    "is_article": "1", 
     "item_id": "518300658", 
+    "time_added": "1389205463", 
     "resolved_id": "518300658", 
     "given_url": "http://www.newyorker.com/online/blogs/currency/2014/01/the-open-office-trap.html", 
-    "resolved_title": "The Open-Office Trap", 
-    "is_index": "0", 
-    "time_updated": "1394123408", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "The Open-Office Trap : The New Yorker", 
-    "has_image": "0"
+    "resolved_title": "The Open-Office Trap"
   }, 
   {
     "videos": {
