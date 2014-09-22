@@ -24553,6 +24553,41 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1350, 
+    "time_updated": "1411417155", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "J. Pierpont Morgan died in 1913 with a fortune of about $1.5 billion in today\u2019s dollars. For his sway over Wall Street he was nicknamed \u201cJupiter,\u201d after the Roman king of the gods.  In 2013, four hedge fund managers\u00a0took home\u00a0over $2 billion as income each, with the top manager pocketing $3.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2400", 
+    "authors": {
+      "4216634": {
+        "item_id": "711520917", 
+        "url": "", 
+        "author_id": "4216634", 
+        "name": "Dan Wang"
+      }
+    }, 
+    "given_title": "What are hedge funds, and what social functions do they serve? | Dan Wang", 
+    "resolved_url": "http://danwang.co/what-are-hedge-funds-and-what-social-functions-do-they-serve/", 
+    "is_article": "1", 
+    "item_id": "711520917", 
+    "time_added": "1411417150", 
+    "resolved_id": "711520917", 
+    "given_url": "http://danwang.co/what-are-hedge-funds-and-what-social-functions-do-they-serve/", 
+    "resolved_title": "What are hedge funds, and what social functions do they serve?", 
+    "tags": {
+      "finance": {
+        "item_id": "711520917", 
+        "tag": "finance"
+      }
+    }
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "432353941", 
@@ -38210,6 +38245,62 @@
     "favorite": "0", 
     "given_title": "Dawkins Drops the Bomb - YouTube", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1351, 
+    "time_updated": "1411420603", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "An anonymous man bet \u00a3900,000 on a \"No\" vote in the Scottish independence referendum. He won. Here he talks through his thought process.  This was not a reckless gamble. Losing this money would have seriously hurt.", 
+    "image": {
+      "item_id": "720834240", 
+      "src": "http://news.bbcimg.co.uk/media/images/77743000/jpg/_77743884_220914chequeforwinnings.jpg", 
+      "height": "351", 
+      "width": "624"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "688", 
+    "images": {
+      "1": {
+        "src": "http://news.bbcimg.co.uk/media/images/77743000/jpg/_77743884_220914chequeforwinnings.jpg", 
+        "credit": "", 
+        "height": "351", 
+        "image_id": "1", 
+        "item_id": "720834240", 
+        "caption": "", 
+        "width": "624"
+      }, 
+      "3": {
+        "src": "http://news.bbcimg.co.uk/media/images/77746000/jpg/_77746435_windows_getty.jpg", 
+        "credit": "", 
+        "height": "351", 
+        "image_id": "3", 
+        "item_id": "720834240", 
+        "caption": "", 
+        "width": "624"
+      }, 
+      "2": {
+        "src": "http://news.bbcimg.co.uk/media/images/77748000/jpg/_77748741_77748740.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "720834240", 
+        "caption": "Anonymous gambler: \"Don't try this at home\"", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "BBC News - 'Why I bet \u00a3900k on the Scottish referendum'", 
+    "resolved_url": "http://www.bbc.com/news/magazine-29314400", 
+    "is_article": "1", 
+    "item_id": "720834240", 
+    "time_added": "1411420603", 
+    "resolved_id": "720834240", 
+    "given_url": "http://www.bbc.com/news/magazine-29314400", 
+    "resolved_title": "'Why I bet \u00a3900k on the Scottish referendum'"
   }, 
   {
     "is_article": "1", 
@@ -69183,10 +69274,10 @@
     "has_video": "0", 
     "word_count": "3231", 
     "authors": {
-      "24266211": {
+      "23452990": {
         "item_id": "702563219", 
-        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/?utm_source=API%27s+Need+to+Know+newsletter&utm_campaign=a81eec7bd6-Need_to_Know_September_2_20149_2_2014&utm_medium=email&utm_term=0_e3bf78af04-a81eec7bd6-45796029#", 
-        "author_id": "24266211", 
+        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/#", 
+        "author_id": "23452990", 
         "name": "Laurie Voss"
       }
     }, 
