@@ -17658,7 +17658,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -43282,7 +43282,7 @@
       }
     }, 
     "given_title": "The Future of JavaScript MVC Frameworks", 
-    "resolved_url": "http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/", 
+    "resolved_url": "http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs", 
     "is_article": "1", 
     "item_id": "505695662", 
     "time_added": "1388805028", 
