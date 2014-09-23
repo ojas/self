@@ -11645,7 +11645,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1975", 
+    "word_count": "1930", 
     "given_title": "Realtime Django Using Node.js and Socket.IO - Max Burstein's Blog", 
     "resolved_url": "http://maxburstein.com/blog/realtime-django-using-nodejs-and-socketio/", 
     "is_article": "1", 
@@ -11653,7 +11653,7 @@
     "time_added": "1399528388", 
     "resolved_id": "281022006", 
     "given_url": "http://maxburstein.com/blog/realtime-django-using-nodejs-and-socketio/", 
-    "resolved_title": "Realtime Django Using Node.js and Socket.IO (Posted on January 12th, 2013)"
+    "resolved_title": "Realtime Django Using Node.js and Socket.IO"
   }, 
   {
     "status": "0", 
@@ -35726,6 +35726,55 @@
     "resolved_id": "669400436", 
     "given_url": "https://austin.craigslist.org/rvs/4567777301.html", 
     "resolved_title": ""
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/v/ypsQkF_Qboo", 
+        "vid": "ypsQkF_Qboo", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "721726255", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "721726255", 
+      "src": "http://img.youtube.com/vi/ypsQkF_Qboo/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "Feel free to follow me on any of my pages:http://maja-stina.com/http://twitter.com/maja_stinahttp://facebook.com/maja.stina.modelhttp://maja-stina.tumblr.com/", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/ypsQkF_Qboo/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "721726255", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1411485414", 
+    "status": "0", 
+    "sort_id": 1353, 
+    "resolved_url": "https://www.youtube.com/watch?v=ypsQkF_Qboo&list=TLt7ZQenZD0ZQuIReyky88N3tvx-A7hJTv", 
+    "item_id": "721726255", 
+    "resolved_id": "721726255", 
+    "given_url": "https://www.youtube.com/watch?v=ypsQkF_Qboo&list=TLt7ZQenZD0ZQuIReyky88N3tvx-A7hJTv", 
+    "resolved_title": "Sex Education - How to be a Great Kisser", 
+    "is_index": "0", 
+    "time_updated": "1411485415", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Sex Education - How to be a Great Kisser - YouTube", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
