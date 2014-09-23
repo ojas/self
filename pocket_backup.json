@@ -2190,7 +2190,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "283005567", 
-      "src": "http://cdn2.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
+      "src": "http://cdn0.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -2198,7 +2198,7 @@
     "word_count": "2081", 
     "images": {
       "1": {
-        "src": "http://cdn2.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
+        "src": "http://cdn0.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -12621,7 +12621,7 @@
     "time_added": "1348062671", 
     "status": "1", 
     "sort_id": 44, 
-    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
+    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap", 
     "authors": {
       "185472": {
         "item_id": "185909912", 
