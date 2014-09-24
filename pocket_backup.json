@@ -8995,6 +8995,27 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1355, 
+    "time_updated": "1411522274", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "I have a theory, which has not let me down so far, that there is an inverse relationship between imagination and money. Because the more money and technology that is available to [create] a work, the less imagination there will be in it.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "38005", 
+    "given_title": "Quotes", 
+    "resolved_url": "http://worrydream.com/quotes/#richard-feynman-surely-you-1", 
+    "is_article": "0", 
+    "item_id": "74997758", 
+    "time_added": "1411522274", 
+    "resolved_id": "74997758", 
+    "given_url": "http://worrydream.com/quotes/#richard-feynman-surely-you-1", 
+    "resolved_title": "Quotes"
+  }, 
+  {
+    "status": "0", 
     "is_index": "0", 
     "sort_id": 1027, 
     "time_updated": "1397429445", 
@@ -47144,6 +47165,27 @@
         "tag": "weirdness"
       }
     }
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1354, 
+    "time_updated": "1411521537", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "We were comparing two SaaS applications. One gave us a better quote, so we asked the second if they would match it. They wouldn\u2019t, but their founder, wrote us an email explaining:\u00a0", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "427", 
+    "given_title": "This email may be worth millions of dollars in sales - startup thoughts", 
+    "resolved_url": "http://josephwalla.com/this-email-may-be-worth-millions-of-dollars-in-sales", 
+    "is_article": "1", 
+    "item_id": "721927859", 
+    "time_added": "1411521537", 
+    "resolved_id": "721927859", 
+    "given_url": "http://josephwalla.com/this-email-may-be-worth-millions-of-dollars-in-sales", 
+    "resolved_title": "This email may be worth millions of dollars in sales"
   }, 
   {
     "status": "0", 
