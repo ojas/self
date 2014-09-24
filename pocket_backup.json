@@ -12621,7 +12621,7 @@
     "time_added": "1348062671", 
     "status": "1", 
     "sort_id": 44, 
-    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap", 
+    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
     "authors": {
       "185472": {
         "item_id": "185909912", 
@@ -43030,7 +43030,7 @@
     "has_video": "0", 
     "word_count": "1", 
     "given_title": "For 40 Years, This Russian Family Was Cut Off From All Human Contact, Unawa", 
-    "resolved_url": "http://www.smithsonianmag.com/history-archaeology/For-40-Years-This-Russian-Family-Was-Cut-Off-From-Human-Contact-Unaware-of-World-War-II-188843001.html#.UYFEHHrxP6I.twitter", 
+    "resolved_url": "http://www.smithsonianmag.com/history-archaeology/For-40-Years-This-Russian-Family-Was-Cut-Off-From-Human-Contact-Unaware-of-World-War-II-188843001.html", 
     "is_article": "0", 
     "item_id": "290568384", 
     "time_added": "1359570394", 
@@ -46838,7 +46838,7 @@
     "time_added": "1411157017", 
     "status": "0", 
     "sort_id": 1346, 
-    "resolved_url": "http://www.designkit.org/", 
+    "resolved_url": "http://www.designkit.org", 
     "item_id": "718611705", 
     "resolved_id": "718611705", 
     "given_url": "http://www.designkit.org/", 
@@ -55967,7 +55967,7 @@
       "width": "600"
     }, 
     "excerpt": "MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "5017", 
+    "word_count": "858", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -55994,42 +55994,6 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
-        "width": "190"
-      }, 
-      "5": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
-        "credit": "Tyler Clay", 
-        "height": "275", 
-        "image_id": "5", 
-        "item_id": "401365344", 
-        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
-        "width": "190"
-      }, 
-      "4": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
-        "credit": "Fabrizio Costantini for The New York Times", 
-        "height": "127", 
-        "image_id": "4", 
-        "item_id": "401365344", 
-        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
-        "width": "190"
-      }, 
-      "7": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "7", 
-        "item_id": "401365344", 
-        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
-        "width": "190"
-      }, 
-      "6": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "6", 
-        "item_id": "401365344", 
-        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
@@ -64017,9 +63981,9 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "1", 
-    "word_count": "329", 
+    "word_count": "326", 
     "given_title": "Free Beautiful Online Survey & Form Builder | Typeform", 
-    "resolved_url": "http://typeform.com", 
+    "resolved_url": "http://www.typeform.com", 
     "is_article": "0", 
     "item_id": "185448643", 
     "time_added": "1405632582", 
