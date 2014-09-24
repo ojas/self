@@ -38841,6 +38841,70 @@
     "resolved_title": "Timeline Photos"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "722863429", 
+      "src": "http://tech.plug.dj/wp-content/uploads/2014/09/perf_wo_gevent.png", 
+      "height": "199", 
+      "width": "957"
+    }, 
+    "excerpt": "NOTE: To clarify \u2013 migrating a single \u201crecord\u201d required gathering information from several separate tables in mongo, restructuring that data, and then performing several inserts into PostgreSQL. This lack of a 1-to-1 mapping made simple export/import options less viable.", 
+    "word_count": "573", 
+    "images": {
+      "1": {
+        "src": "http://tech.plug.dj/wp-content/uploads/2014/09/perf_wo_gevent.png", 
+        "credit": "", 
+        "height": "199", 
+        "image_id": "1", 
+        "item_id": "722863429", 
+        "caption": "", 
+        "width": "957"
+      }, 
+      "3": {
+        "src": "http://tech.plug.dj/wp-content/uploads/2014/09/Untitled-Diagram-2.png", 
+        "credit": "", 
+        "height": "242", 
+        "image_id": "3", 
+        "item_id": "722863429", 
+        "caption": "", 
+        "width": "763"
+      }, 
+      "2": {
+        "src": "http://tech.plug.dj/wp-content/uploads/2014/09/perf_w_gevent.png", 
+        "credit": "", 
+        "height": "200", 
+        "image_id": "2", 
+        "item_id": "722863429", 
+        "caption": "", 
+        "width": "929"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1411592574", 
+    "status": "0", 
+    "sort_id": 1357, 
+    "resolved_url": "http://tech.plug.dj/2014/09/24/how-to-migrate-50mm-records-from-mongo-to-postgresql-in-less-than-a-day/", 
+    "authors": {
+      "24359472": {
+        "item_id": "722863429", 
+        "url": "http://tech.plug.dj/author/e-scrivner/", 
+        "author_id": "24359472", 
+        "name": "Eric Scrivner"
+      }
+    }, 
+    "item_id": "722863429", 
+    "resolved_id": "722863429", 
+    "given_url": "http://tech.plug.dj/2014/09/24/how-to-migrate-50mm-records-from-mongo-to-postgresql-in-less-than-a-day/", 
+    "resolved_title": "How To Migrate 50M+ Records From Mongo To PostgreSQL In Less Than A Day", 
+    "is_index": "0", 
+    "time_updated": "1411592574", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "How To Migrate 50MM  Records From Mongo To PostgreSQL In Less Than A Day | ", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "329916072", 
@@ -56009,7 +56073,7 @@
       "width": "600"
     }, 
     "excerpt": "MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "858", 
+    "word_count": "5017", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -56036,6 +56100,42 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
+        "width": "190"
+      }, 
+      "5": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
+        "credit": "Tyler Clay", 
+        "height": "275", 
+        "image_id": "5", 
+        "item_id": "401365344", 
+        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
+        "width": "190"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
+        "credit": "Fabrizio Costantini for The New York Times", 
+        "height": "127", 
+        "image_id": "4", 
+        "item_id": "401365344", 
+        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
+        "width": "190"
+      }, 
+      "7": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "7", 
+        "item_id": "401365344", 
+        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
+        "width": "190"
+      }, 
+      "6": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "6", 
+        "item_id": "401365344", 
+        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
@@ -72782,7 +72882,7 @@
     "time_added": "1408803273", 
     "status": "0", 
     "sort_id": 1271, 
-    "resolved_url": "http://www.wired.com/2014/08/what-makes-us-fat", 
+    "resolved_url": "http://www.wired.com/2014/08/what-makes-us-fat/", 
     "authors": {
       "146546": {
         "item_id": "693932926", 
