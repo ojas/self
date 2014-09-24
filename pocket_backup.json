@@ -56009,7 +56009,7 @@
       "width": "600"
     }, 
     "excerpt": "MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "5017", 
+    "word_count": "858", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -56036,42 +56036,6 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
-        "width": "190"
-      }, 
-      "5": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
-        "credit": "Tyler Clay", 
-        "height": "275", 
-        "image_id": "5", 
-        "item_id": "401365344", 
-        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
-        "width": "190"
-      }, 
-      "4": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
-        "credit": "Fabrizio Costantini for The New York Times", 
-        "height": "127", 
-        "image_id": "4", 
-        "item_id": "401365344", 
-        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
-        "width": "190"
-      }, 
-      "7": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "7", 
-        "item_id": "401365344", 
-        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
-        "width": "190"
-      }, 
-      "6": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "6", 
-        "item_id": "401365344", 
-        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
@@ -66603,6 +66567,63 @@
     "resolved_id": "612548588", 
     "given_url": "http://puzlet.com/m/b00f5", 
     "resolved_title": "Puzlet"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "https://www.youtube.com/embed/0w9R_foNLrg?enablejsapi=1&wmode=transparent&modestbranding=1&rel=0&fs=1&showinfo=0", 
+        "vid": "0w9R_foNLrg", 
+        "video_id": "1", 
+        "height": "480", 
+        "width": "100", 
+        "item_id": "483268398", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "483268398", 
+      "src": "http://img.youtube.com/vi/0w9R_foNLrg/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "Back A universe smaller than the observable", 
+    "word_count": "7", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/0w9R_foNLrg/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "483268398", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1411561230", 
+    "status": "0", 
+    "sort_id": 1356, 
+    "resolved_url": "https://www.khanacademy.org/science/cosmology-and-astronomy/universe-scale-topic/big-bang-expansion-topic/v/a-universe-smaller-than-the-observable", 
+    "authors": {
+      "11403722": {
+        "item_id": "483268398", 
+        "url": "https://www.khanacademy.org/science/biology", 
+        "author_id": "11403722", 
+        "name": "Biology"
+      }
+    }, 
+    "item_id": "483268398", 
+    "resolved_id": "483268398", 
+    "given_url": "https://www.khanacademy.org/science/cosmology-and-astronomy/universe-scale-topic/big-bang-expansion-topic/v/a-universe-smaller-than-the-observable", 
+    "resolved_title": "Big bang and expansion of the universe", 
+    "is_index": "0", 
+    "time_updated": "1411561230", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "A universe smaller than the observable | Big bang and expansion of the univ", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
