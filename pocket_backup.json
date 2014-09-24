@@ -11196,7 +11196,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "124", 
+    "word_count": "125", 
     "authors": {
       "24180797": {
         "item_id": "717964907", 
@@ -56009,7 +56009,7 @@
       "width": "600"
     }, 
     "excerpt": "MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "858", 
+    "word_count": "5017", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -56036,6 +56036,42 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
+        "width": "190"
+      }, 
+      "5": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
+        "credit": "Tyler Clay", 
+        "height": "275", 
+        "image_id": "5", 
+        "item_id": "401365344", 
+        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
+        "width": "190"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
+        "credit": "Fabrizio Costantini for The New York Times", 
+        "height": "127", 
+        "image_id": "4", 
+        "item_id": "401365344", 
+        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
+        "width": "190"
+      }, 
+      "7": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "7", 
+        "item_id": "401365344", 
+        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
+        "width": "190"
+      }, 
+      "6": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "6", 
+        "item_id": "401365344", 
+        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
@@ -72667,57 +72703,57 @@
         "width": "0"
       }, 
       "3": {
+        "src": "http://www.wired.com/wp-content/uploads/2014/08/ff_nusi12_f.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "693932926", 
+        "caption": "2002", 
+        "width": "0"
+      }, 
+      "2": {
         "src": "http://www.wired.com/wp-content/uploads/2014/08/ff_nusi2_f.jpg", 
         "credit": " Adam Voorhes", 
         "height": "0", 
-        "image_id": "3", 
+        "image_id": "2", 
         "item_id": "693932926", 
         "caption": "Gary Taubes  Peter Yang", 
         "width": "0"
       }, 
       "5": {
-        "src": "http://www.wired.com/wp-content/uploads/2014/08/ff_nusi10_f.jpg", 
+        "src": "http://www.wired.com/wp-content/uploads/2014/08/ff_nusi11_f.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
         "item_id": "693932926", 
-        "caption": "2007", 
+        "caption": "2014", 
         "width": "0"
       }, 
       "4": {
-        "src": "http://www.wired.com/wp-content/uploads/2014/08/ff_nusi12_f.jpg", 
+        "src": "http://www.wired.com/wp-content/uploads/2014/08/ff_nusi10_f.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "693932926", 
-        "caption": "2002", 
+        "caption": "2007", 
         "width": "0"
       }, 
       "7": {
-        "src": "http://www.wired.com/wp-content/uploads/2014/08/ff_nusi_f.jpg", 
-        "credit": " Adam Voorhes", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "693932926", 
-        "caption": "Peter Attia  Peter Yang", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "http://www.wired.com/wp-content/uploads/2014/08/ff_nusi11_f.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "693932926", 
-        "caption": "2014", 
-        "width": "0"
-      }, 
-      "8": {
         "src": "http://www.wired.com/wp-content/uploads/2014/04/in-line11.jpg", 
         "credit": "", 
         "height": "0", 
-        "image_id": "8", 
+        "image_id": "7", 
         "item_id": "693932926", 
         "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://www.wired.com/wp-content/uploads/2014/08/ff_nusi_f.jpg", 
+        "credit": " Adam Voorhes", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "693932926", 
+        "caption": "Peter Attia  Peter Yang", 
         "width": "0"
       }
     }, 
