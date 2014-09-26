@@ -17679,7 +17679,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -66072,99 +66072,36 @@
     "time_updated": "1378420365", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Absolutely love the support team at @HarpPlatform. Helped debug an issue in a matter of minutes. Amazing service.", 
+    "excerpt": "There\u2019s a lot of publishing tools for advanced developers, but there are no simple tools for publishing fast, secure and robust sites. If you\u2019re a web developer, your productivity is most likely being hurt by some of these pains:", 
     "image": {
       "item_id": "228450004", 
-      "src": "https://www.harp.io/img/clients/dojotime.jpg", 
+      "src": "https://www.harp.io/img/quotes/brock.jpg", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "47", 
+    "word_count": "648", 
     "images": {
       "1": {
-        "src": "https://www.harp.io/img/clients/dojotime.jpg", 
+        "src": "https://www.harp.io/img/quotes/brock.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "228450004", 
         "caption": "", 
         "width": "0"
-      }, 
-      "3": {
-        "src": "https://www.harp.io/img/clients/houseorr.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "228450004", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "https://www.harp.io/img/clients/genomejs.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "228450004", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "https://www.harp.io/img/clients/webtype.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "228450004", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "https://www.harp.io/img/clients/wantering.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "228450004", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "7": {
-        "src": "https://www.harp.io/img/tw/joe.jpeg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "228450004", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "https://www.harp.io/img/clients/kapizan.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "228450004", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "https://www.harp.io/img/tw/cw.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "228450004", 
-        "caption": "", 
-        "width": "0"
       }
     }, 
     "given_title": "Harp Platform", 
-    "resolved_url": "http://harp.io/", 
+    "resolved_url": "https://www.harp.io", 
     "is_article": "0", 
     "item_id": "228450004", 
     "time_added": "1378420365", 
     "resolved_id": "228450004", 
     "given_url": "https://harp.io/", 
-    "resolved_title": "Harp Platform"
+    "resolved_title": "Effortless web publishing through Dropbox"
   }, 
   {
     "is_article": "1", 
