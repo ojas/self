@@ -2624,6 +2624,14 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "1030", 
+    "authors": {
+      "2475506": {
+        "item_id": "332656443", 
+        "url": "", 
+        "author_id": "2475506", 
+        "name": "Unknown"
+      }
+    }, 
     "given_title": "Wealthfront Engineering: Reactive.js: Functional Reactive Programming in Ja", 
     "resolved_url": "http://eng.wealthfront.com/2013/04/reactivejs-functional-reactive.html", 
     "is_article": "1", 
