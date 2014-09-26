@@ -5129,6 +5129,55 @@
     "resolved_title": "Is It Better to Rent or Buy?"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "//www.youtube.com/embed/kSSSPVPB4zI", 
+        "vid": "kSSSPVPB4zI", 
+        "video_id": "1", 
+        "height": "315", 
+        "width": "560", 
+        "item_id": "724306974", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "724306974", 
+      "src": "http://img.youtube.com/vi/kSSSPVPB4zI/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "Whenever I hear someone describe him or herself as an \"entrepreneur\" I can't help but cringe a little. It's not the word alone - I don't have the same reaction to extensions like entrepreneurship or entrepreneurial - it's very much the context in which entrepreneur is used that causes me discomfort.", 
+    "word_count": "373", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/kSSSPVPB4zI/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "724306974", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1411750104", 
+    "status": "0", 
+    "sort_id": 1361, 
+    "resolved_url": "http://unsolicited.consulting/article/entrepreneur-is-a-silly-word", 
+    "item_id": "724306974", 
+    "resolved_id": "724306974", 
+    "given_url": "http://unsolicited.consulting/article/entrepreneur-is-a-silly-word", 
+    "resolved_title": "Entrepreneur is a Silly Word", 
+    "is_index": "0", 
+    "time_updated": "1411750104", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Entrepreneur is a Silly Word | Unsolicited Consulting", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "408790320", 
@@ -58302,6 +58351,44 @@
     "resolved_id": "666785310", 
     "given_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01a511dafe5e970c-pi", 
     "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1360, 
+    "time_updated": "1411747412", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The structure of this tutorial assumes an intermediate level knowledge of Python but not much else. No knowledge of concurrency is expected.", 
+    "image": {
+      "item_id": "332424134", 
+      "src": "http://sdiehl.github.io/gevent-tutorial/flow.gif", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "4254", 
+    "images": {
+      "1": {
+        "src": "http://sdiehl.github.io/gevent-tutorial/flow.gif", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "332424134", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Gevent Tutorial", 
+    "resolved_url": "http://sdiehl.github.io/gevent-tutorial/", 
+    "is_article": "1", 
+    "item_id": "332424134", 
+    "time_added": "1411747412", 
+    "resolved_id": "332424134", 
+    "given_url": "http://sdiehl.github.io/gevent-tutorial/#real-world-applications", 
+    "resolved_title": "Gevent Tutorial"
   }, 
   {
     "videos": {
