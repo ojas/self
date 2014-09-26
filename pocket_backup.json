@@ -29586,6 +29586,65 @@
     "resolved_title": "Build your own Litecoin Mining Rig, part 5: Mining FAQ"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "//www.youtube.com/embed/Z80kyLcG6JI?rel=0", 
+        "vid": "Z80kyLcG6JI", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "573586781", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "573586781", 
+      "src": "http://img.youtube.com/vi/Z80kyLcG6JI/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "Make Excel fly with Python! Replace your VBA code with Python, a powerful yet easy-to-use programming language that is highly suited for numerical analysis. Supports Windows & Mac! Current Release (Sept 23rd 2014): v0.2.2, see release notes. \u00a9 2014 ZOOMER ANALYTICS LLC. ALL RIGHTS RESERVED.", 
+    "word_count": "44", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/Z80kyLcG6JI/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "573586781", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1411741409", 
+    "status": "0", 
+    "tags": {
+      "python": {
+        "item_id": "573586781", 
+        "tag": "python"
+      }, 
+      "excel": {
+        "item_id": "573586781", 
+        "tag": "excel"
+      }
+    }, 
+    "sort_id": 1359, 
+    "resolved_url": "http://xlwings.org/", 
+    "item_id": "573586781", 
+    "resolved_id": "573586781", 
+    "given_url": "http://xlwings.org/", 
+    "resolved_title": "Make Excel fly with Python!", 
+    "is_index": "1", 
+    "time_updated": "1411741417", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "xlwings - Replace Excel VBA with Python!", 
+    "has_image": "0"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 592, 
