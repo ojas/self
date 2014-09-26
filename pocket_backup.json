@@ -17679,7 +17679,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -22860,7 +22860,15 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1865", 
+    "word_count": "9521", 
+    "authors": {
+      "24419169": {
+        "item_id": "634361156", 
+        "url": "https://github.com/cjbarber", 
+        "author_id": "24419169", 
+        "name": "cjbarber"
+      }
+    }, 
     "given_title": "cjbarber/ToolsOfTheTrade", 
     "resolved_url": "https://github.com/cjbarber/ToolsOfTheTrade", 
     "is_article": "1", 
@@ -22868,7 +22876,7 @@
     "time_added": "1405631690", 
     "resolved_id": "634361156", 
     "given_url": "https://github.com/cjbarber/ToolsOfTheTrade#user-content-continuous-integrationcode-quality", 
-    "resolved_title": "cjbarber/ToolsOfTheTrade \u00b7 GitHub", 
+    "resolved_title": "cjbarber/ToolsOfTheTrade", 
     "tags": {
       "startup": {
         "item_id": "634361156", 
