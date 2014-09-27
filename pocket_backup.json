@@ -40520,6 +40520,35 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1367, 
+    "time_updated": "1411828122", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "One of the hardest things for us to do is to envision a future that is different from the present. For instance, we live in an age of paralyzed politics, so it is hard, in the here and now, to imagine what could change that.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "821", 
+    "authors": {
+      "6701852": {
+        "item_id": "724783594", 
+        "url": "http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/joenocera/index.html", 
+        "author_id": "6701852", 
+        "name": "Joe Nocera"
+      }
+    }, 
+    "given_title": "Income Inequality and N.R.A. Dominance May Not Last Forever - NYTimes.com", 
+    "resolved_url": "http://www.nytimes.com/2014/09/27/opinion/joe-nocera-paralysis-isnt-inevitable.html", 
+    "is_article": "1", 
+    "item_id": "724783594", 
+    "time_added": "1411828122", 
+    "resolved_id": "724753797", 
+    "given_url": "http://www.nytimes.com/2014/09/27/opinion/joe-nocera-paralysis-isnt-inevitable.html?smid=tw-share", 
+    "resolved_title": "Income Inequality and N.R.A. Dominance May Not Last Forever"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 978, 
     "time_updated": "1391620183", 
