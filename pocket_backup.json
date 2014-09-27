@@ -10390,6 +10390,33 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1368, 
+    "time_updated": "1411838917", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "CanJS is a JavaScript library that makes developing complex applications simple and fast. Easy-to-learn, small, and unassuming of your application structure, but with modern features like custom tags and 2-way binding. Creating apps is easy and maintainable.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "72", 
+    "given_title": "CanJS", 
+    "resolved_url": "http://canjs.com/", 
+    "is_article": "0", 
+    "item_id": "334156271", 
+    "time_added": "1411838908", 
+    "resolved_id": "334156271", 
+    "given_url": "http://canjs.com/", 
+    "resolved_title": "CanJS", 
+    "tags": {
+      "javascript": {
+        "item_id": "334156271", 
+        "tag": "javascript"
+      }
+    }
+  }, 
+  {
+    "status": "0", 
     "is_index": "0", 
     "sort_id": 933, 
     "time_updated": "1390602332", 
