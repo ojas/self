@@ -17568,6 +17568,52 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "724017047", 
+      "src": "http://cdn-imgs-mag.aeon.co/images/2014/09/RTR3CWHI.jpg", 
+      "height": "601", 
+      "width": "960"
+    }, 
+    "excerpt": "Here is a remarkable fact about identical twins: they have the same DNA, and therefore the same \u2018genetic fingerprint\u2019, yet their actual fingerprints (such as they might leave behind on a murder weapon) are different, and can be told apart in standard police observations.", 
+    "word_count": "3433", 
+    "images": {
+      "1": {
+        "src": "http://cdn-imgs-mag.aeon.co/images/2014/09/RTR3CWHI.jpg", 
+        "credit": "", 
+        "height": "601", 
+        "image_id": "1", 
+        "item_id": "724017047", 
+        "caption": "", 
+        "width": "960"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1411839942", 
+    "status": "0", 
+    "sort_id": 1369, 
+    "resolved_url": "http://aeon.co/magazine/science/why-the-symbol-of-life-is-a-loop-not-a-helix/", 
+    "authors": {
+      "24410669": {
+        "item_id": "724017047", 
+        "url": "http://aeon.co/magazine/author/jamie-davies/", 
+        "author_id": "24410669", 
+        "name": "Jamie Davies"
+      }
+    }, 
+    "item_id": "724017047", 
+    "resolved_id": "724017047", 
+    "given_url": "http://aeon.co/magazine/science/why-the-symbol-of-life-is-a-loop-not-a-helix/", 
+    "resolved_title": "A closed loop", 
+    "is_index": "0", 
+    "time_updated": "1411839942", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The symbol of life should be a loop, not a helix \u2013 Jamie Davies \u2013 Aeon", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "229328535", 
       "src": "http://assets.rollingstone.com/assets/images/story/mitt-romneys-real-agenda-20120928/1000x600/20120924-romney-600x-1348498972.jpg", 
       "height": "0", 
