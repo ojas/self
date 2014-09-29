@@ -17962,10 +17962,10 @@
     "has_video": "0", 
     "word_count": "3231", 
     "authors": {
-      "24449381": {
+      "23452990": {
         "item_id": "702563219", 
-        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/?utm_source=Netguru+%257C+Newsletter&utm_campaign=ce1f2c9d84-newsletter_Sep_20149_4_2014&utm_medium=email&utm_term=0_4534051d06-ce1f2c9d84-95594805&goal=0_4534051d06-ce1f2c9d84-95594805#", 
-        "author_id": "24449381", 
+        "url": "http://qz.com/258066/this-is-why-you-dont-hire-good-developers/#", 
+        "author_id": "23452990", 
         "name": "Laurie Voss"
       }
     }, 
@@ -37686,6 +37686,53 @@
     "favorite": "0", 
     "given_title": "How a Cat Boosts Your Creativity", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1372, 
+    "time_updated": "1411977641", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "When Pyotr Stolyarsky died in 1944, he was considered Russia\u2019 s greatest violin teacher. He counted among his pupils a coterie of stars, including David Oistrakh and Nathan Milstein, and a school for gifted musicians in his native Odessa was named after him in 1933.", 
+    "image": {
+      "item_id": "581147216", 
+      "src": "http://static.nautil.us/1395_14d9e8007c9b41f57891c48e07c23f57.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1986", 
+    "images": {
+      "1": {
+        "src": "http://static.nautil.us/1395_14d9e8007c9b41f57891c48e07c23f57.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "581147216", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://static.nautil.us/1365_cf1f78fe923afe05f7597da2be7a3da8.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "581147216", 
+        "caption": "", 
+        "width": "733"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://m.nautil.us/issue/6/secret-codes/teaching-me-softly", 
+    "is_article": "1", 
+    "item_id": "581147216", 
+    "time_added": "1411977638", 
+    "resolved_id": "581147216", 
+    "given_url": "http://m.nautil.us/issue/6/secret-codes/teaching-me-softly", 
+    "resolved_title": "Teaching Me Softly"
   }, 
   {
     "is_article": "1", 
