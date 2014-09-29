@@ -63149,6 +63149,35 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1373, 
+    "time_updated": "1412031991", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "TORRANCE, Calif., Sept. 29, 2014 \u2013 Toyota Motor Sales, U.S.A., Inc.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "195", 
+    "authors": {
+      "15242590": {
+        "item_id": "726866468", 
+        "url": "http://corporatenews.pressroom.toyota.com/corporate/biographies/", 
+        "author_id": "15242590", 
+        "name": "Executive Bios"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://toyotanews.pressroom.toyota.com/releases/toyota+tacoma+recall+sept29.htm", 
+    "is_article": "1", 
+    "item_id": "726866468", 
+    "time_added": "1412031988", 
+    "resolved_id": "726866468", 
+    "given_url": "http://toyotanews.pressroom.toyota.com/releases/toyota+tacoma+recall+sept29.htm", 
+    "resolved_title": "Toyota Announces Voluntary Recall of Certain Tacoma Pickup Trucks for Rear Leaf Springs"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 150, 
     "time_updated": "1351873457", 
