@@ -649,6 +649,27 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1371, 
+    "time_updated": "1411975750", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Start a $3.2 billion company by building your own learning thermostat with the Spark Core.  Open the door via web, Android app or RFID tag.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "292", 
+    "given_title": "Spark projects - Hackster.io", 
+    "resolved_url": "http://spark.hackster.io/", 
+    "is_article": "0", 
+    "item_id": "617728693", 
+    "time_added": "1411975750", 
+    "resolved_id": "617728693", 
+    "given_url": "http://spark.hackster.io/", 
+    "resolved_title": "Spark projects - Hackster.io"
+  }, 
+  {
+    "status": "0", 
     "is_index": "0", 
     "sort_id": 920, 
     "time_updated": "1391134656", 
@@ -16772,22 +16793,22 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 1286, 
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           Okay, okay, okay! #Sasquatch2014", 
+    "excerpt": "", 
     "image": {
       "item_id": "124414", 
       "src": "https://abs.twimg.com/a/1411577873/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "245", 
+    "word_count": "0", 
     "images": {
       "1": {
         "src": "https://abs.twimg.com/a/1411577873/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
@@ -16806,7 +16827,7 @@
     "time_added": "1409239467", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": "Welcome to Twitter."
+    "resolved_title": ""
   }, 
   {
     "videos": {
@@ -59373,6 +59394,27 @@
     "favorite": "0", 
     "given_title": "Akashi Kaiky\u014d Bridge - Wikipedia, the free encyclopedia", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1370, 
+    "time_updated": "1411975568", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "When you have to build a web application, you are often asked to add search. The magnifying glass is something that we now add to wireframes without even knowing what we are going to search.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "3983", 
+    "given_title": "Postgres full-text search is Good Enough!", 
+    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/#1", 
+    "is_article": "1", 
+    "item_id": "573355474", 
+    "time_added": "1411975568", 
+    "resolved_id": "573355474", 
+    "given_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/#1", 
+    "resolved_title": "Postgres full-text search is Good Enough!"
   }, 
   {
     "status": "0", 
