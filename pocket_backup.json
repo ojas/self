@@ -25311,50 +25311,25 @@
     "resolved_title": "Timeline Photos"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "373034784", 
-      "src": "http://cdn-imgs.aeonmagazine.com/images/2013/06/Staff-at-Zynga-office.jpg", 
-      "height": "601", 
-      "width": "960"
-    }, 
-    "excerpt": "There\u2019s this great moment in the documentary Jiro Dreams of Sushi (2011) when the world\u2019s most celebrated sushi chef turns to his son, who is leaving to start his own restaurant, and says: \u2018You have no home to come back to.", 
-    "word_count": "3548", 
-    "images": {
-      "1": {
-        "src": "http://cdn-imgs.aeonmagazine.com/images/2013/06/Staff-at-Zynga-office.jpg", 
-        "credit": " Jason Madara/Gallery Stock", 
-        "height": "601", 
-        "image_id": "1", 
-        "item_id": "373034784", 
-        "caption": "Relax, you're at work. Photo by Jason Madara/Gallery Stock", 
-        "width": "960"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1370879690", 
     "status": "1", 
-    "sort_id": 563, 
-    "resolved_url": "http://www.aeonmagazine.com/living-together/james-somers-web-developer-money/", 
-    "authors": {
-      "10494339": {
-        "item_id": "373034784", 
-        "url": "http://www.aeonmagazine.com/author/james-somers/", 
-        "author_id": "10494339", 
-        "name": "James Somers"
-      }
-    }, 
-    "item_id": "373034784", 
-    "resolved_id": "373034784", 
-    "given_url": "http://www.aeonmagazine.com/living-together/james-somers-web-developer-money/", 
-    "resolved_title": "James Somers \u2013 Web developer money", 
     "is_index": "0", 
+    "sort_id": 563, 
     "time_updated": "1370884839", 
     "time_favorited": "0", 
     "time_read": "1370884839", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "James Somers \u2013 Web developer money", 
-    "has_image": "1"
+    "resolved_url": "http://www.aeonmagazine.com/living-together/james-somers-web-developer-money/", 
+    "is_article": "0", 
+    "item_id": "373034784", 
+    "time_added": "1370879690", 
+    "resolved_id": "373034784", 
+    "given_url": "http://www.aeonmagazine.com/living-together/james-somers-web-developer-money/", 
+    "resolved_title": ""
   }, 
   {
     "is_article": "0", 
@@ -59871,7 +59846,7 @@
     "has_video": "0", 
     "word_count": "3983", 
     "given_title": "Postgres full-text search is Good Enough!", 
-    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/#1", 
+    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/", 
     "is_article": "1", 
     "item_id": "573355474", 
     "time_added": "1411975568", 
