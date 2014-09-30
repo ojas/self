@@ -32674,7 +32674,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "413", 
+    "word_count": "424", 
     "images": {
       "1": {
         "src": "https://www.mailpile.is/img/forkme_right_red_aa0000.png", 
@@ -32686,7 +32686,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "https://www.mailpile.is/img/app-inbox.png", 
+        "src": "https://www.mailpile.is/img/open-source.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -32695,7 +32695,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "https://www.mailpile.is/img/logo-512x512.png", 
+        "src": "https://www.mailpile.is/img/app-inbox.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -32765,7 +32765,7 @@
     "time_added": "1405566165", 
     "resolved_id": "410116293", 
     "given_url": "https://www.mailpile.is/", 
-    "resolved_title": "Alpha II"
+    "resolved_title": "Mailpile: Let's take e-mail back!"
   }, 
   {
     "status": "0", 
