@@ -30307,6 +30307,325 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1377, 
+    "time_updated": "1412090121", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "In 1990, Susan Orlean published a book called Saturday Night, in which she set out to document how Americans spend their weekly reprieve from work. \u201cSaturday night,\u201d she wrote, \u201cis when you want to do what you want to do and not what you have to do.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "15683", 
+    "images": {
+      "25": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_Russell_Conwell.jpg.CROP.original-original.jpg", 
+        "credit": "Photo via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "25", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "26": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_HomesteadSteel.jpg.CROP.original-original.jpg", 
+        "credit": "Photo courtesy Library of Congress", 
+        "height": "0", 
+        "image_id": "26", 
+        "item_id": "726601573", 
+        "caption": "Carnegie Steel Plant, Homestead, Pennsylvania, 1905.", 
+        "width": "0"
+      }, 
+      "27": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_WilliamLawrenceBishop.jpg.CROP.original-original.jpg", 
+        "credit": "Photo via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "27", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "20": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_ThomasAScott.jpg.CROP.original-original.jpg", 
+        "credit": "Photo courtesy Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "20", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "21": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-AndrewCarnegie400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "21", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "22": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_Rockefeller.jpg.CROP.original-original.jpg", 
+        "credit": "Photo courtesy Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "22", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "23": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_HenryClayFrick.jpg.CROP.original-original.jpg", 
+        "credit": "Photo via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "23", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "28": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-LouisBorgenicht400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "28", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "29": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-06_MaryAntin.jpg.CROP.original-original.jpg", 
+        "credit": "Photo via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "29", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-HilltopSteakhouse.jpg.CROP.original-original.jpg", 
+        "credit": " Bold Willie/Flickr", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "726601573", 
+        "caption": "The Hilltop Steakhouse, Saugus, Massachusetts.", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-01_JWinthrop.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-FrankGiuffrida400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-01_Bootstrap.gif.CROP.original-original.gif", 
+        "credit": "GIF  Lisa Larson-Walker/Slate", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-01_HenryClay.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "11": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-02_FranklinArrival.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Project Gutenberg", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-BenFranklin400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-02_WilliamTempleFranklin.jpg.CROP.original-original.jpg", 
+        "credit": "Image viaYale University Art Gallery", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-02_CottonMather.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-AmosLawrence400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-dropcap-fresca-A.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "17": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-HoratioAlger400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "17", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "16": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-03_ParsonWeems.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "16", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "19": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-dropcap-fresca-O.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "19", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "18": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-04_JacobRiisChildren.jpg.CROP.original-original.jpg", 
+        "credit": " Jacob Riis via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "18", 
+        "item_id": "726601573", 
+        "caption": "Children sleeping on Mulberry Street, New York, 1890.", 
+        "width": "0"
+      }, 
+      "31": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-dropcap-fresca-T.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "31", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "30": {
+        "src": "http://www.slate.com/content/dam/slate/Slate%20Plus/articles/2014/09/140915_PLUS_SwansburgWinterPromo.jpg.CROP.promo-small2.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "30", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "37": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-08_Truck.jpg.CROP.original-original.jpg", 
+        "credit": " Lisa Larson-Walker/Slate", 
+        "height": "0", 
+        "image_id": "37", 
+        "item_id": "726601573", 
+        "caption": "Toy pick-up truck with \u201cEastern Roofing\u201d painted on the bed, a boyhood gift from father to son.", 
+        "width": "0"
+      }, 
+      "36": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-08_BunkerHill.jpg.CROP.original-original.jpg", 
+        "credit": "Photo courtesy Library of Congress", 
+        "height": "0", 
+        "image_id": "36", 
+        "item_id": "726601573", 
+        "caption": "The Bunker Hill Monument, Charlestown, Massachusetts, at the turn of the 20th century.", 
+        "width": "0"
+      }, 
+      "35": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-Bees.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "35", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "34": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-JackSwansburg400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "34", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "33": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-07_SherylSandberg.jpg.CROP.original-original.jpg", 
+        "credit": " Justin Sullivan/Getty Images", 
+        "height": "0", 
+        "image_id": "33", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "32": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-SophiaAmoruso400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "32", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "authors": {
+      "2554043": {
+        "item_id": "726601573", 
+        "url": "http://www.slate.com/authors.john_swansburg.html", 
+        "author_id": "2554043", 
+        "name": "John Swansburg"
+      }
+    }, 
+    "given_title": "The self-made man, history of a myth: From Ben Franklin, to Andrew Carnegie", 
+    "resolved_url": "http://www.slate.com/articles/news_and_politics/history/2014/09/the_self_made_man_history_of_a_myth_from_ben_franklin_to_andrew_carnegie.html", 
+    "is_article": "1", 
+    "item_id": "726601573", 
+    "time_added": "1412090121", 
+    "resolved_id": "726601573", 
+    "given_url": "http://www.slate.com/articles/news_and_politics/history/2014/09/the_self_made_man_history_of_a_myth_from_ben_franklin_to_andrew_carnegie.html", 
+    "resolved_title": "From Ben Franklin, to Andrew Carnegie, to Sophia Amoruso."
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "390651254", 
@@ -62640,7 +62959,7 @@
       "width": "0"
     }, 
     "excerpt": "Go directly to NYT Critics' Picks Rotten Tomatoes Fresh High Definition | Action & Adventure Anime & Animation Children & Family Classics Comedy Documentary Drama Faith & Spirituality Foreign Horror Independent Music & Musicals Romance Sci-Fi & Fantasy Special Interest Sports & Fitness Te", 
-    "word_count": "84", 
+    "word_count": "79", 
     "images": {
       "1": {
         "src": "http://instantwatcher.com/images/available_appstore.png", 
@@ -62671,19 +62990,19 @@
       }
     }, 
     "sort_id": 710, 
-    "resolved_url": "http://www.instantwatcher.com/", 
+    "resolved_url": "http://instantwatcher.com/", 
     "authors": {
-      "8642745": {
+      "24563151": {
         "item_id": "5776796", 
-        "url": "http://instantwatcher.com/people/93003", 
-        "author_id": "8642745", 
-        "name": "Forest Whitaker"
+        "url": "http://instantwatcher.com/people/91261", 
+        "author_id": "24563151", 
+        "name": "Bradley Cooper"
       }, 
-      "23709455": {
+      "24563152": {
         "item_id": "5776796", 
-        "url": "http://instantwatcher.com/people/117827", 
-        "author_id": "23709455", 
-        "name": "Robin Williams"
+        "url": "http://instantwatcher.com/people/113361", 
+        "author_id": "24563152", 
+        "name": "Jennifer Lawrence"
       }
     }, 
     "item_id": "5776796", 
