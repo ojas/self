@@ -3962,6 +3962,44 @@
     "resolved_title": "adobe/brackets \u00b7 GitHub"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1376, 
+    "time_updated": "1412086679", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The goal of this article is to provide a very practical guide to deploying a machine learning solution at scale.", 
+    "image": {
+      "item_id": "723611343", 
+      "src": "http://totems.co/wp-content/uploads/2014/09/visu_nn_threshold_0_8.png", 
+      "height": "620", 
+      "width": "1632"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2532", 
+    "images": {
+      "1": {
+        "src": "http://totems.co/wp-content/uploads/2014/09/visu_nn_threshold_0_8.png", 
+        "credit": "", 
+        "height": "620", 
+        "image_id": "1", 
+        "item_id": "723611343", 
+        "caption": "", 
+        "width": "1632"
+      }
+    }, 
+    "given_title": "Using Machine Learning and NodeJS to detect the gender of Instagram Users |", 
+    "resolved_url": "http://totems.co/blog/machine-learning-nodejs-gender-instagram/", 
+    "is_article": "1", 
+    "item_id": "723611343", 
+    "time_added": "1412086679", 
+    "resolved_id": "723611343", 
+    "given_url": "http://totems.co/blog/machine-learning-nodejs-gender-instagram/", 
+    "resolved_title": "Using Machine Learning and NodeJS to detect the gender of Instagram Users"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "276350805", 
@@ -18104,7 +18142,7 @@
     "time_added": "1408333516", 
     "status": "0", 
     "sort_id": 1267, 
-    "resolved_url": "http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you", 
+    "resolved_url": "http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you#", 
     "authors": {
       "7100400": {
         "item_id": "691682143", 
