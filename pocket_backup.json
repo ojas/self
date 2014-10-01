@@ -650,7 +650,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1371, 
+    "sort_id": 1370, 
     "time_updated": "1411975750", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -3964,7 +3964,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1376, 
+    "sort_id": 1375, 
     "time_updated": "1412086679", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -10450,7 +10450,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1368, 
+    "sort_id": 1367, 
     "time_updated": "1411838917", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -17648,7 +17648,7 @@
     "has_video": "0", 
     "time_added": "1411839942", 
     "status": "0", 
-    "sort_id": 1369, 
+    "sort_id": 1368, 
     "resolved_url": "http://aeon.co/magazine/science/why-the-symbol-of-life-is-a-loop-not-a-helix/", 
     "authors": {
       "24410669": {
@@ -30284,8 +30284,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1377, 
-    "time_updated": "1412130763", 
+    "sort_id": 1376, 
+    "time_updated": "1412183461", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "In 1990, Susan Orlean published a book called Saturday Night, in which she set out to document how Americans spend their weekly reprieve from work. \u201cSaturday night,\u201d she wrote, \u201cis when you want to do what you want to do and not what you have to do.", 
@@ -31183,25 +31183,68 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "111343443", 
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Akashi_Bridge.JPG/250px-Akashi_Bridge.JPG", 
+      "height": "166", 
+      "width": "250"
+    }, 
+    "excerpt": "The Akashi-Kaiky\u014d Bridge (\u660e\u77f3\u6d77\u5ce1\u5927\u6a4b, Akashi Kaiky\u014d \u014c-hashi?), also known as the Pearl Bridge, has the longest central span of any suspension bridge in the world,[2] at 1,991 metres (6,532\u00a0ft). It is located in Japan and was completed in 1998.", 
+    "word_count": "741", 
+    "images": {
+      "1": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Akashi_Bridge.JPG/250px-Akashi_Bridge.JPG", 
+        "credit": "", 
+        "height": "166", 
+        "image_id": "1", 
+        "item_id": "111343443", 
+        "caption": "", 
+        "width": "250"
+      }, 
+      "3": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Akashi-Bridge-2.jpg/160px-Akashi-Bridge-2.jpg", 
+        "credit": "", 
+        "height": "215", 
+        "image_id": "3", 
+        "item_id": "111343443", 
+        "caption": "\n\nMain supporting towers", 
+        "width": "160"
+      }, 
+      "2": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/250px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png", 
+        "credit": "", 
+        "height": "226", 
+        "image_id": "2", 
+        "item_id": "111343443", 
+        "caption": "", 
+        "width": "250"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1398489437", 
     "status": "0", 
-    "is_index": "1", 
-    "sort_id": 1365, 
-    "time_updated": "1411769649", 
+    "sort_id": 1078, 
+    "resolved_url": "http://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge", 
+    "authors": {
+      "4171866": {
+        "item_id": "111343443", 
+        "url": "http://en.wikipedia.org/wiki/Honshu-Shikoku_Bridge_Authority", 
+        "author_id": "4171866", 
+        "name": "Honshu-Shikoku Bridge Authority"
+      }
+    }, 
+    "item_id": "111343443", 
+    "resolved_id": "111343443", 
+    "given_url": "http://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge", 
+    "resolved_title": "Akashi Kaiky\u014d Bridge", 
+    "is_index": "0", 
+    "time_updated": "1398489438", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Undo any change you make, including deletions.", 
-    "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "9", 
-    "given_title": "Airtable", 
-    "resolved_url": "https://airtable.com/features", 
-    "is_article": "1", 
-    "item_id": "724540459", 
-    "time_added": "1411769649", 
-    "resolved_id": "724540459", 
-    "given_url": "https://airtable.com/features", 
-    "resolved_title": "Airtable"
+    "given_title": "Akashi Kaiky\u014d Bridge - Wikipedia, the free encyclopedia", 
+    "has_image": "1"
   }, 
   {
     "status": "1", 
@@ -34565,22 +34608,14 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "1", 
-    "sort_id": 1366, 
-    "time_updated": "1411772362", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "The Salt Creek/Horse Canyon four-wheel-drive road is impassable. More \u00bb  Canyonlands invites you to explore a wilderness of countless canyons and fantastically formed buttes carved by the Colorado River and its tributaries.", 
+    "is_article": "0", 
     "image": {
       "item_id": "14561177", 
       "src": "http://www.nps.gov/imr/cany/images/55DAAD8B-1DD8-B71C-0E5C1CE3B1216B21.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "The Salt Creek/Horse Canyon four-wheel-drive road is impassable. More \u00bb  Canyonlands invites you to explore a wilderness of countless canyons and fantastically formed buttes carved by the Colorado River and its tributaries.", 
     "word_count": "334", 
     "images": {
       "1": {
@@ -34593,14 +34628,28 @@
         "width": "0"
       }
     }, 
-    "given_title": "", 
-    "resolved_url": "http://www.nps.gov/cany/index.htm", 
-    "is_article": "0", 
-    "item_id": "14561177", 
+    "has_video": "0", 
     "time_added": "1411772360", 
+    "status": "0", 
+    "tags": {
+      "travel": {
+        "item_id": "14561177", 
+        "tag": "travel"
+      }
+    }, 
+    "sort_id": 1365, 
+    "resolved_url": "http://www.nps.gov/cany/index.htm", 
+    "item_id": "14561177", 
     "resolved_id": "14561177", 
     "given_url": "http://www.nps.gov/cany/index.htm", 
-    "resolved_title": "Canyonlands National Park - Canyonlands National Park"
+    "resolved_title": "Canyonlands National Park - Canyonlands National Park", 
+    "is_index": "1", 
+    "time_updated": "1412183498", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
@@ -38066,8 +38115,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1372, 
-    "time_updated": "1411977641", 
+    "sort_id": 1371, 
+    "time_updated": "1412183475", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "When Pyotr Stolyarsky died in 1944, he was considered Russia\u2019 s greatest violin teacher. He counted among his pupils a coterie of stars, including David Oistrakh and Nathan Milstein, and a school for gifted musicians in his native Odessa was named after him in 1933.", 
@@ -41038,7 +41087,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1367, 
+    "sort_id": 1366, 
     "time_updated": "1411828122", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -58215,7 +58264,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1375, 
+    "sort_id": 1374, 
     "time_updated": "1412036746", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -59778,7 +59827,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1374, 
+    "sort_id": 1373, 
     "time_updated": "1412036627", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -59797,73 +59846,9 @@
     "resolved_title": ""
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "111343443", 
-      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Akashi_Bridge.JPG/250px-Akashi_Bridge.JPG", 
-      "height": "166", 
-      "width": "250"
-    }, 
-    "excerpt": "The Akashi-Kaiky\u014d Bridge (\u660e\u77f3\u6d77\u5ce1\u5927\u6a4b, Akashi Kaiky\u014d \u014c-hashi?), also known as the Pearl Bridge, has the longest central span of any suspension bridge in the world,[2] at 1,991 metres (6,532\u00a0ft). It is located in Japan and was completed in 1998.", 
-    "word_count": "741", 
-    "images": {
-      "1": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Akashi_Bridge.JPG/250px-Akashi_Bridge.JPG", 
-        "credit": "", 
-        "height": "166", 
-        "image_id": "1", 
-        "item_id": "111343443", 
-        "caption": "", 
-        "width": "250"
-      }, 
-      "3": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Akashi-Bridge-2.jpg/160px-Akashi-Bridge-2.jpg", 
-        "credit": "", 
-        "height": "215", 
-        "image_id": "3", 
-        "item_id": "111343443", 
-        "caption": "\n\nMain supporting towers", 
-        "width": "160"
-      }, 
-      "2": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/250px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png", 
-        "credit": "", 
-        "height": "226", 
-        "image_id": "2", 
-        "item_id": "111343443", 
-        "caption": "", 
-        "width": "250"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1398489437", 
-    "status": "0", 
-    "sort_id": 1078, 
-    "resolved_url": "http://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge", 
-    "authors": {
-      "4171866": {
-        "item_id": "111343443", 
-        "url": "http://en.wikipedia.org/wiki/Honshu-Shikoku_Bridge_Authority", 
-        "author_id": "4171866", 
-        "name": "Honshu-Shikoku Bridge Authority"
-      }
-    }, 
-    "item_id": "111343443", 
-    "resolved_id": "111343443", 
-    "given_url": "http://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge", 
-    "resolved_title": "Akashi Kaiky\u014d Bridge", 
-    "is_index": "0", 
-    "time_updated": "1398489438", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "Akashi Kaiky\u014d Bridge - Wikipedia, the free encyclopedia", 
-    "has_image": "1"
-  }, 
-  {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1370, 
+    "sort_id": 1369, 
     "time_updated": "1411975568", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -63551,7 +63536,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1373, 
+    "sort_id": 1372, 
     "time_updated": "1412031991", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -72929,7 +72914,7 @@
     "given_url": "https://medium.com/@benhuh/i-have-46-thanksgiving-dinners-left-with-my-family-after-that-ill-be-dead-ab4cb249eadf", 
     "resolved_title": "I have 46 Thanksgiving dinners left with my family. After that, I\u2019ll be dead. \u2014 Medium", 
     "is_index": "0", 
-    "time_updated": "1411755916", 
+    "time_updated": "1412183850", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
