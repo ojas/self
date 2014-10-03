@@ -65616,37 +65616,11 @@
     "time_updated": "1369606080", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "An Amazon.com Best Book of 2013. This behind the scenes story of the 8th most popular website in the\u2026", 
-    "image": {
-      "item_id": "253943655", 
-      "src": "http://scottberkun.com/wp-content/uploads/2013/09/YWP-lowres.jpg", 
-      "height": "447", 
-      "width": "300"
-    }, 
-    "has_image": "1", 
+    "excerpt": "There were plenty of high profile people at the Economist event in March, but hands down the best session was a simple interview with Ed Catmull, the president of Pixar\u00a0[update: he has a book out now called Creativity, Inc.].", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "23", 
-    "images": {
-      "1": {
-        "src": "http://scottberkun.com/wp-content/uploads/2013/09/YWP-lowres.jpg", 
-        "credit": "", 
-        "height": "447", 
-        "image_id": "1", 
-        "item_id": "253943655", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "2": {
-        "src": "http://i0.wp.com/scottberkun.com/wp-content/uploads/2013/09/YWP-reviewbrick-square100.jpg?resize=150%2C150", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "253943655", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
+    "word_count": "1512", 
     "given_title": "Inside Pixar\u2019s Leadership", 
     "resolved_url": "http://scottberkun.com/2010/inside-pixars-leadership/", 
     "is_article": "1", 
@@ -72901,7 +72875,7 @@
       }
     }, 
     "given_title": "Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni", 
-    "resolved_url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api", 
+    "resolved_url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful", 
     "is_article": "0", 
     "item_id": "368052398", 
     "time_added": "1382935205", 
