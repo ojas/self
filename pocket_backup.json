@@ -5906,29 +5906,56 @@
     "time_favorited": "0", 
     "videos": {
       "1": {
-        "src": "https://s3-eu-west-1.amazonaws.com/typeform-media-static/video-beta-public-site-en.mp4", 
+        "src": "https://d1l5otzdmvom4p.cloudfront.net/assets/vid/dog.mp4?v=1", 
         "vid": "", 
         "video_id": "1", 
-        "height": "354", 
-        "width": "613", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "185448643", 
+        "type": "5"
+      }, 
+      "3": {
+        "src": "https://d1l5otzdmvom4p.cloudfront.net/assets/vid/man.mp4?v=1", 
+        "vid": "", 
+        "video_id": "3", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "185448643", 
+        "type": "5"
+      }, 
+      "2": {
+        "src": "https://d1l5otzdmvom4p.cloudfront.net/assets/vid/dog-full.mp4?v=1", 
+        "vid": "", 
+        "video_id": "2", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "185448643", 
+        "type": "5"
+      }, 
+      "4": {
+        "src": "https://d1l5otzdmvom4p.cloudfront.net/assets/vid/platform.mp4?v=1", 
+        "vid": "", 
+        "video_id": "4", 
+        "height": "0", 
+        "width": "0", 
         "item_id": "185448643", 
         "type": "5"
       }
     }, 
     "time_read": "0", 
-    "excerpt": "Draw your users in when it comes to answering your questions online by offering them a seamless experience and interface across devices and platforms.  Typeforms make respondents feel at home with a format inspired by human conversation. They make users say \u201cAwesome!\u201d", 
+    "excerpt": "Ask awesomely Menu Log in Build a typeform Subscribe to blog     NEXT  Meet the next generation ofonline forms & surveys Show me a typeform NEXT Easily build beautiful                Build a typeform freeorLearn more", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "1", 
-    "word_count": "326", 
+    "word_count": "34", 
     "given_title": "Free Beautiful Online Survey & Form Builder | Typeform", 
-    "resolved_url": "http://www.typeform.com", 
+    "resolved_url": "http://www.typeform.com/", 
     "is_article": "0", 
     "item_id": "185448643", 
     "time_added": "1405632582", 
     "resolved_id": "185448643", 
     "given_url": "http://www.typeform.com/", 
-    "resolved_title": "beautiful survey tool"
+    "resolved_title": "Free Beautiful Online Survey & Form Builder | Typeform"
   }, 
   {
     "is_article": "1", 
@@ -14918,10 +14945,10 @@
     "sort_id": 110, 
     "resolved_url": "http://www.brainpickings.org/index.php/2012/10/12/the-science-of-lucid-dreaming/", 
     "authors": {
-      "5731": {
+      "23602465": {
         "item_id": "235352098", 
-        "url": "http://www.brainpickings.org/index.php/author/mpopova/", 
-        "author_id": "5731", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
         "name": "Maria Popova"
       }
     }, 
@@ -20519,17 +20546,17 @@
     "sort_id": 349, 
     "resolved_url": "http://www.brainpickings.org/index.php/2013/02/21/cat-haters-handbook-tomi-ungerer-william-cole/", 
     "authors": {
-      "5731": {
+      "23602465": {
         "item_id": "303832564", 
-        "url": "http://www.brainpickings.org/index.php/author/mpopova/", 
-        "author_id": "5731", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
         "name": "Maria Popova"
       }
     }, 
     "item_id": "303832564", 
     "resolved_id": "303832564", 
     "given_url": "http://www.brainpickings.org/index.php/2013/02/21/cat-haters-handbook-tomi-ungerer-william-cole/", 
-    "resolved_title": "A Cat-Hater\u2019s Handbook: Irreverent Vintage Gem Illustrated by Tomi Ungerer", 
+    "resolved_title": "Irreverent Vintage Gem Illustrated by Tomi Ungerer", 
     "is_index": "0", 
     "time_updated": "1364480906", 
     "time_favorited": "0", 
@@ -31066,7 +31093,7 @@
         "height": "0", 
         "image_id": "9", 
         "item_id": "266058085", 
-        "caption": "\n", 
+        "caption": "", 
         "width": "0"
       }, 
       "8": {
@@ -31095,10 +31122,10 @@
     "sort_id": 275, 
     "resolved_url": "http://www.brainpickings.org/index.php/2012/12/14/how-to-avoid-work/", 
     "authors": {
-      "5731": {
+      "23602465": {
         "item_id": "266058085", 
-        "url": "http://www.brainpickings.org/index.php/author/mpopova/", 
-        "author_id": "5731", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
         "name": "Maria Popova"
       }
     }, 
