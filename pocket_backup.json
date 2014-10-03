@@ -14842,7 +14842,7 @@
     "given_url": "http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac", 
     "resolved_title": "Hacker's Guide to Setting up Your Mac", 
     "is_index": "0", 
-    "time_updated": "1412283457", 
+    "time_updated": "1412350119", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -17755,7 +17755,7 @@
     "given_url": "http://aeon.co/magazine/science/why-the-symbol-of-life-is-a-loop-not-a-helix/", 
     "resolved_title": "A closed loop", 
     "is_index": "0", 
-    "time_updated": "1411888003", 
+    "time_updated": "1412350119", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -18125,7 +18125,15 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2097", 
+    "word_count": "2099", 
+    "authors": {
+      "24655174": {
+        "item_id": "54328251", 
+        "url": "https://github.com/micha", 
+        "author_id": "24655174", 
+        "name": "micha"
+      }
+    }, 
     "given_title": "micha/resty", 
     "resolved_url": "https://github.com/micha/resty", 
     "is_article": "1", 
@@ -18133,7 +18141,7 @@
     "time_added": "1379394155", 
     "resolved_id": "54328251", 
     "given_url": "https://github.com/micha/resty", 
-    "resolved_title": "micha/resty \u00b7 GitHub"
+    "resolved_title": "micha/resty"
   }, 
   {
     "status": "0", 
@@ -53318,7 +53326,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1364, 
-    "time_updated": "1411769276", 
+    "time_updated": "1412350119", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Undo any change you make, including deletions.", 
@@ -67105,7 +67113,7 @@
     "given_url": "http://unsolicited.consulting/article/entrepreneur-is-a-silly-word", 
     "resolved_title": "Entrepreneur is a Silly Word", 
     "is_index": "0", 
-    "time_updated": "1411753234", 
+    "time_updated": "1412350119", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -69820,6 +69828,124 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "How To Migrate 50MM  Records From Mongo To PostgreSQL In Less Than A Day | ", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "727545190", 
+      "src": "http://i.ytimg.com/vi/OL_V_y2zYR4/0.jpg", 
+      "height": "295", 
+      "width": "420"
+    }, 
+    "excerpt": "For some months, Amtrak was my home. It began simply somewhat unintentionally. A friend was getting married in Spokane, Washington, I was in New York, and the 45 day Amtrak pass was cheaper than rent. And so, I was on a train stopped in Washington DC.", 
+    "word_count": "9869", 
+    "images": {
+      "1": {
+        "src": "http://i.ytimg.com/vi/OL_V_y2zYR4/0.jpg", 
+        "credit": "", 
+        "height": "295", 
+        "image_id": "1", 
+        "item_id": "727545190", 
+        "caption": "", 
+        "width": "420"
+      }, 
+      "3": {
+        "src": "http://i2.wp.com/spnzr.com/wp-content/uploads/2014/05/saunders-iowa1.jpg?resize=1140%2C760", 
+        "credit": "John Winthrop, A Model for Christian Charity, 1630", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "727545190", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://i0.wp.com/spnzr.com/wp-content/uploads/2014/05/amtrak-map1-300x200.jpg?resize=300%2C200", 
+        "credit": "overheard on The City of New Orleans", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "727545190", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://i2.wp.com/spnzr.com/wp-content/uploads/2014/05/IndianWarfaremenu-1-430x331.jpg?resize=430%2C331", 
+        "credit": "a Montanan cowboy, Chicago-bound for a woman he\u2019d met on LDS Mingle", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "727545190", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://i.ytimg.com/vi/P-p5bTHT3e8/0.jpg", 
+        "credit": "", 
+        "height": "295", 
+        "image_id": "4", 
+        "item_id": "727545190", 
+        "caption": "", 
+        "width": "420"
+      }, 
+      "7": {
+        "src": "http://i1.wp.com/spnzr.com/wp-content/uploads/2014/08/1030376111.jpg", 
+        "credit": "Walt Whitman, Leaves of Grass, 1900", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "727545190", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://i1.wp.com/spnzr.com/wp-content/uploads/2014/08/US_Military_Railroads_engine_General_Haupt1.jpg?resize=430%2C310", 
+        "credit": "aboard The Crescent", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "727545190", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://i.ytimg.com/vi/SXd-d7MbcQ0/0.jpg", 
+        "credit": "", 
+        "height": "295", 
+        "image_id": "9", 
+        "item_id": "727545190", 
+        "caption": "", 
+        "width": "420"
+      }, 
+      "8": {
+        "src": "http://i1.wp.com/spnzr.com/wp-content/uploads/2014/08/1877-strike1.jpg", 
+        "credit": "Ruford B Hayes, President of the United States, 1886", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "727545190", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1412348327", 
+    "status": "0", 
+    "sort_id": 1381, 
+    "resolved_url": "http://spnzr.com/aboard-amtrak", 
+    "authors": {
+      "2498091": {
+        "item_id": "727545190", 
+        "url": "", 
+        "author_id": "2498091", 
+        "name": "Elvis Presley"
+      }
+    }, 
+    "item_id": "727545190", 
+    "resolved_id": "727545190", 
+    "given_url": "http://spnzr.com/aboard-amtrak", 
+    "resolved_title": "Aboard Amtrak", 
+    "is_index": "0", 
+    "time_updated": "1412348327", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "/// index /// spencer mccormick", 
     "has_image": "1"
   }, 
   {
@@ -73241,7 +73367,7 @@
     "given_url": "https://medium.com/@benhuh/i-have-46-thanksgiving-dinners-left-with-my-family-after-that-ill-be-dead-ab4cb249eadf", 
     "resolved_title": "I have 46 Thanksgiving dinners left with my family. After that, I\u2019ll be dead. \u2014 Medium", 
     "is_index": "0", 
-    "time_updated": "1412183850", 
+    "time_updated": "1412350119", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
