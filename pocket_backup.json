@@ -8665,7 +8665,7 @@
     "given_url": "https://zapier.com/blog/how-to-hire-remote-team/", 
     "resolved_title": "From 3 to 16: How to Hire and Build a Remote Team", 
     "is_index": "0", 
-    "time_updated": "1412368331", 
+    "time_updated": "1412368704", 
     "time_favorited": "1412367498", 
     "time_read": "0", 
     "favorite": "1", 
@@ -34463,6 +34463,45 @@
     "resolved_id": "381873210", 
     "given_url": "http://www.jeff.wilcox.name/2013/06/secure-linux-vms-with-ssh-certificates/", 
     "resolved_title": "Creating secure Linux VMs in Azure with SSH key pairs"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1383, 
+    "time_updated": "1412369365", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "I\u2019m pretty happy with the hiring process at Treehouse. Over the course of my career, I\u2019ve been through (and conducted) interviews that ranged from borderline inane (\u201cWhy are manhole covers round?\u201d) to pretty intense (\u201cHere are some coding problems. You have 10 hours. Begin.\u201d).", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1201", 
+    "authors": {
+      "3012907": {
+        "item_id": "370239422", 
+        "url": "", 
+        "author_id": "3012907", 
+        "name": "Tommy Morgan"
+      }
+    }, 
+    "given_title": "How We Hire Developers at Treehouse - The Well-Bred Grapefruit", 
+    "resolved_url": "http://wellbredgrapefruit.com/blog/2013/06/01/how-we-hire-developers-at-treehouse/", 
+    "is_article": "1", 
+    "item_id": "370239422", 
+    "time_added": "1412369355", 
+    "resolved_id": "370239422", 
+    "given_url": "http://wellbredgrapefruit.com/blog/2013/06/01/how-we-hire-developers-at-treehouse/", 
+    "resolved_title": "How We Hire Developers at Treehouse", 
+    "tags": {
+      "interview": {
+        "item_id": "370239422", 
+        "tag": "interview"
+      }, 
+      "hiring": {
+        "item_id": "370239422", 
+        "tag": "hiring"
+      }
+    }
   }, 
   {
     "is_article": "1", 
