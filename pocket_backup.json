@@ -72953,11 +72953,11 @@
         "caption": "Globular cluster Messier 69.  ESA/NASA", 
         "width": "670"
       }, 
-      "3": {
+      "2": {
         "src": "http://www.wired.com/wp-content/uploads/2014/08/marcela-carena_web.jpg", 
         "credit": "", 
         "height": "473", 
-        "image_id": "3", 
+        "image_id": "2", 
         "item_id": "698287948", 
         "caption": "Marcela Carena, a senior scientist at Fermi National Accelerator Laboratory in Batavia, Ill.  Courtesy of Marcela Carena", 
         "width": "315"
@@ -72967,7 +72967,7 @@
     "time_added": "1409314839", 
     "status": "0", 
     "sort_id": 1290, 
-    "resolved_url": "http://www.wired.com/2014/08/multiverse", 
+    "resolved_url": "http://www.wired.com/2014/08/multiverse/", 
     "authors": {
       "25658": {
         "item_id": "698287948", 
