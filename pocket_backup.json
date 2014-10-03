@@ -8665,10 +8665,10 @@
     "given_url": "https://zapier.com/blog/how-to-hire-remote-team/", 
     "resolved_title": "From 3 to 16: How to Hire and Build a Remote Team", 
     "is_index": "0", 
-    "time_updated": "1410893665", 
-    "time_favorited": "0", 
+    "time_updated": "1412368331", 
+    "time_favorited": "1412367498", 
     "time_read": "0", 
-    "favorite": "0", 
+    "favorite": "1", 
     "given_title": "From 3 to 16: How to Hire and Build a Remote Team - Zapier", 
     "has_image": "1"
   }, 
@@ -14852,10 +14852,10 @@
     "given_url": "http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac", 
     "resolved_title": "Hacker's Guide to Setting up Your Mac", 
     "is_index": "0", 
-    "time_updated": "1412350119", 
-    "time_favorited": "0", 
+    "time_updated": "1412367394", 
+    "time_favorited": "1412367393", 
     "time_read": "0", 
-    "favorite": "0", 
+    "favorite": "1", 
     "given_title": "Lapwing Labs", 
     "has_image": "1"
   }, 
@@ -18093,7 +18093,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1295, 
-    "time_updated": "1411230552", 
+    "time_updated": "1412367574", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "You are bad at giving technical interviews. Yes, you. You\u2019re looking for the wrong skills, hiring the wrong people, and actively screwing yourself and your company.", 
@@ -23990,7 +23990,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 188, 
-    "time_updated": "1374154334", 
+    "time_updated": "1412368628", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "These sorts of questions are great, because they can help identify winners even amongst the nervous, \u201cI don\u2019t interview well\u201d types of people who may warm up and shine on the job. And I\u2019ve hired a lot of great people who don\u2019t interview especially well.", 
@@ -31916,27 +31916,19 @@
     "time_updated": "1410152006", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Save time by using your Facebook account to sign up for LinkedIn.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "16", 
-    "authors": {
-      "23752193": {
-        "item_id": "709236733", 
-        "url": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Ftrk%3Dprof-connections-name%26id%3D112345%26authType%3Dname%26authToken%3DtS0w&fromSignIn=", 
-        "author_id": "23752193", 
-        "name": "Sign"
-      }
-    }, 
+    "word_count": "0", 
     "given_title": "John Cole | LinkedIn", 
     "resolved_url": "https://www.linkedin.com/profile/view?id=112345&authType=name&authToken=tS0w&trk=prof-connections-name", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "709236733", 
     "time_added": "1410152005", 
     "resolved_id": "709236733", 
     "given_url": "https://www.linkedin.com/profile/view?id=112345&authType=name&authToken=tS0w&trk=prof-connections-name", 
-    "resolved_title": "To join LinkedIn, sign up below...it's free!"
+    "resolved_title": "LinkedIn : LinkedIn"
   }, 
   {
     "is_article": "1", 
@@ -47612,7 +47604,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1333, 
-    "time_updated": "1411230615", 
+    "time_updated": "1412367523", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "The zoom parameter allows you to make the editing area smaller, to give you overall look of the content. Values can be 0.8 to 1.  The snippetFile parameter refers to a html file containing snippets collection. You can add your own snippets in this file.", 
@@ -69939,7 +69931,7 @@
     }, 
     "has_video": "0", 
     "time_added": "1412348327", 
-    "status": "0", 
+    "status": "1", 
     "sort_id": 1381, 
     "resolved_url": "http://spnzr.com/aboard-amtrak", 
     "authors": {
@@ -69955,9 +69947,9 @@
     "given_url": "http://spnzr.com/aboard-amtrak", 
     "resolved_title": "Aboard Amtrak", 
     "is_index": "0", 
-    "time_updated": "1412358968", 
+    "time_updated": "1412367389", 
     "time_favorited": "0", 
-    "time_read": "0", 
+    "time_read": "1412367388", 
     "favorite": "0", 
     "given_title": "/// index /// spencer mccormick", 
     "has_image": "1"
@@ -72709,7 +72701,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -72887,8 +72879,8 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1328, 
-    "time_updated": "1410718210", 
-    "time_favorited": "0", 
+    "time_updated": "1412367531", 
+    "time_favorited": "1412367530", 
     "time_read": "0", 
     "excerpt": "\u201cExcuse me, but what\u2019s the time?\u201d I\u2019m guessing that you, like me, are guilty of having asked this question, as if it were obvious that there is such a thing as the time. Yet you\u2019ve probably never approached a stranger and asked \u201cExcuse me, but what\u2019s the place?\u201d.", 
     "image": {
@@ -72898,7 +72890,7 @@
       "width": "0"
     }, 
     "has_image": "1", 
-    "favorite": "0", 
+    "favorite": "1", 
     "has_video": "0", 
     "word_count": "1939", 
     "images": {
@@ -73348,7 +73340,7 @@
     }, 
     "has_video": "0", 
     "time_added": "1411755916", 
-    "status": "0", 
+    "status": "1", 
     "sort_id": 1363, 
     "resolved_url": "https://medium.com/@benhuh/i-have-46-thanksgiving-dinners-left-with-my-family-after-that-ill-be-dead-ab4cb249eadf", 
     "authors": {
@@ -73364,9 +73356,9 @@
     "given_url": "https://medium.com/@benhuh/i-have-46-thanksgiving-dinners-left-with-my-family-after-that-ill-be-dead-ab4cb249eadf", 
     "resolved_title": "I have 46 Thanksgiving dinners left with my family. After that, I\u2019ll be dead. \u2014 Medium", 
     "is_index": "0", 
-    "time_updated": "1412350119", 
+    "time_updated": "1412367418", 
     "time_favorited": "0", 
-    "time_read": "0", 
+    "time_read": "1412367417", 
     "favorite": "0", 
     "given_title": "I have 46 Thanksgiving dinners left with my family. After that, I\u2019ll be dea", 
     "has_image": "1"
