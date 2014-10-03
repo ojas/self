@@ -28,6 +28,8 @@
 
 ![Congress](http://xkcd.com/1127/)
 
+![6a00d83431352e53ef017ee8d74917970d-pi (500×749)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8d74917970d-pi)
+
 ![6a00d83431352e53ef01a3fb3c4eff970b-pi 500×689 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fb3c4eff970b-pi)
 
 ![6a00d83431352e53ef01a3fd437854970b-pi 500×500 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fd437854970b-pi)
@@ -48,7 +50,7 @@
 
 ![6a00d83431352e53ef017ee7e66d4a970d-pi (500×386)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee7e66d4a970d-pi)
 
-![6a00d83431352e53ef017ee8d74917970d-pi (500×749)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8d74917970d-pi)
+![6a00d83431352e53ef01bb078d877f970d-pi 500×625 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01bb078d877f970d-pi)
 
 ![6a00d83431352e53ef01901c86bec3970b-pi (500×362)](http://www.summerofdan.net/.a/6a00d83431352e53ef01901c86bec3970b-pi)
 

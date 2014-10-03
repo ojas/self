@@ -34235,6 +34235,44 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1382, 
+    "time_updated": "1412360609", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "image": {
+      "item_id": "730216373", 
+      "src": "http://www.summerofdan.net/.a/6a00d83431352e53ef01bb078d877f970d-pi", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "2", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://www.summerofdan.net/.a/6a00d83431352e53ef01bb078d877f970d-pi", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "730216373", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "6a00d83431352e53ef01bb078d877f970d-pi 500\u00d7625 pixels", 
+    "resolved_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01bb078d877f970d-pi", 
+    "is_article": "0", 
+    "item_id": "730216373", 
+    "time_added": "1412360608", 
+    "resolved_id": "730216373", 
+    "given_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01bb078d877f970d-pi", 
+    "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1202, 
     "time_updated": "1405748258", 
     "time_favorited": "0", 
@@ -69788,7 +69826,7 @@
       "width": "420"
     }, 
     "excerpt": "For some months, Amtrak was my home. It began simply somewhat unintentionally. A friend was getting married in Spokane, Washington, I was in New York, and the 45 day Amtrak pass was cheaper than rent. And so, I was on a train stopped in Washington DC.", 
-    "word_count": "9869", 
+    "word_count": "9927", 
     "images": {
       "1": {
         "src": "http://i.ytimg.com/vi/OL_V_y2zYR4/0.jpg", 
@@ -69890,7 +69928,7 @@
     "given_url": "http://spnzr.com/aboard-amtrak", 
     "resolved_title": "Aboard Amtrak", 
     "is_index": "0", 
-    "time_updated": "1412357218", 
+    "time_updated": "1412358968", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -72644,7 +72682,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
