@@ -8089,6 +8089,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1386, 
+    "time_updated": "1412447472", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "A recent article devoted to the macho side of programming made the bald and unvarnished statement: Real Programmers write in FORTRAN.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1425", 
+    "given_title": "The New Hacker's Dictionary - The Story of Mel, a Real Programmer", 
+    "resolved_url": "http://www.outpost9.com/reference/jargon/jargon_49.html", 
+    "is_article": "1", 
+    "item_id": "730749864", 
+    "time_added": "1412447472", 
+    "resolved_id": "730749864", 
+    "given_url": "http://www.outpost9.com/reference/jargon/jargon_49.html", 
+    "resolved_title": "The Story of Mel, a Real Programmer"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1227, 
     "time_updated": "1406194066", 
     "time_favorited": "0", 
@@ -29051,8 +29072,8 @@
       "height": "276", 
       "width": "460"
     }, 
-    "excerpt": "America is a country that is now utterly divided when it comes to its society, its economy, its politics. There are definitely two Americas.", 
-    "word_count": "2938", 
+    "excerpt": "The creator of The Wire, David Simon, delivered an impromptu speech about the divide between rich and poor in America at the Festival of Dangerous Ideas in Sydney, and how capitalism has lost sight of its social compact.", 
+    "word_count": "2981", 
     "images": {
       "1": {
         "src": "http://static.guim.co.uk/sys-images/Observer/Pix/pictures/2013/12/7/1386426689660/The-Wire-creator-David-Si-008.jpg", 
