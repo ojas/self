@@ -17848,6 +17848,133 @@
     "resolved_title": "Game Theory Paradox Explained: Losing Strategy that Wins"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "730800225", 
+      "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool.jpg", 
+      "height": "0", 
+      "width": "180"
+    }, 
+    "excerpt": "Don\u2019t Go Back to School is a stimulating read in its entirety and a fine addition to these essential books on education.  Brain Pickings has a free weekly newsletter. It comes out on Sundays and offers the week\u2019s best articles. Here\u2019s what to expect. Like? Sign up.", 
+    "word_count": "207", 
+    "images": {
+      "10": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool7.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "730800225", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "1": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "730800225", 
+        "caption": "", 
+        "width": "180"
+      }, 
+      "3": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool5.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "730800225", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "2": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "730800225", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "5": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool3.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "730800225", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "4": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool2.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "730800225", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "7": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool6.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "730800225", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "6": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool4.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "730800225", 
+        "caption": "do", 
+        "width": "500"
+      }, 
+      "9": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool8.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "730800225", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "8": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool9.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "730800225", 
+        "caption": "", 
+        "width": "500"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1412437118", 
+    "status": "0", 
+    "sort_id": 1384, 
+    "resolved_url": "http://www.brainpickings.org/2013/05/13/dont-go-back-to-school-kio-stark/?utm_content=buffer5dc2f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer", 
+    "authors": {
+      "23602465": {
+        "item_id": "730800225", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
+        "name": "Maria Popova"
+      }
+    }, 
+    "item_id": "730800225", 
+    "resolved_id": "730800225", 
+    "given_url": "http://www.brainpickings.org/2013/05/13/dont-go-back-to-school-kio-stark/?utm_content=buffer5dc2f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer", 
+    "resolved_title": "Don\u2019t Go Back to School", 
+    "is_index": "0", 
+    "time_updated": "1412437120", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 272, 
@@ -28287,6 +28414,27 @@
     "favorite": "0", 
     "given_title": "HEART - STAIRWAY TO HEAVEN in HD - The Kennedy Center Honors LED ZEPPELIN, ", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1385, 
+    "time_updated": "1412437595", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Welcome to engineering management. It\u2019s fun, it\u2019s exhausting, it\u2019s rewarding \u2014 but most importantly it\u2019s new! What worked for you before won\u2019t work now. You\u2019ll have to acquire a new set of skills, and shed some bad habits in the process. Here is a short guide to get you started.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1118", 
+    "given_title": "44 engineering management lessons", 
+    "resolved_url": "http://www.defmacro.org/2014/10/03/engman.html", 
+    "is_article": "1", 
+    "item_id": "730194090", 
+    "time_added": "1412437595", 
+    "resolved_id": "730194090", 
+    "given_url": "http://www.defmacro.org/2014/10/03/engman.html", 
+    "resolved_title": "44 engineering management lessons"
   }, 
   {
     "videos": {
