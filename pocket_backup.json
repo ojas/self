@@ -26418,6 +26418,27 @@
     "resolved_title": ""
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1388, 
+    "time_updated": "1412463741", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "GONZALES, TX. downtown commercial property", 
+    "resolved_url": "https://austin.craigslist.org/reo/4695420871.html", 
+    "is_article": "0", 
+    "item_id": "731032537", 
+    "time_added": "1412463740", 
+    "resolved_id": "731032537", 
+    "given_url": "https://austin.craigslist.org/reo/4695420871.html", 
+    "resolved_title": ""
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "356739515", 
@@ -60437,7 +60458,7 @@
     "has_video": "0", 
     "word_count": "3983", 
     "given_title": "Postgres full-text search is Good Enough!", 
-    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/#1", 
+    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/", 
     "is_article": "1", 
     "item_id": "573355474", 
     "time_added": "1411975568", 
@@ -69315,6 +69336,47 @@
     "resolved_title": "Expert JavaScript and Front-End Web Development Training Videos"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1389, 
+    "time_updated": "1412464014", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "images": {
+      "3": {
+        "src": "http://images.craigslist.org/00404_kusLRqBFZuB_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "731034278", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://images.craigslist.org/00W0W_eJsBhOx3deK_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "731034278", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Commercial Lot Minutes From Formula Race Track", 
+    "resolved_url": "https://austin.craigslist.org/reb/4659523789.html", 
+    "is_article": "0", 
+    "item_id": "731034278", 
+    "time_added": "1412464013", 
+    "resolved_id": "731034278", 
+    "given_url": "https://austin.craigslist.org/reb/4659523789.html", 
+    "resolved_title": "$90000 Commercial Lot Minutes From Formula Race Track (3205 Highway 71 East)"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/rUaj7rj6MI8?rel=0", 
@@ -70230,7 +70292,7 @@
       "width": "600"
     }, 
     "excerpt": "MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "858", 
+    "word_count": "5017", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -70257,6 +70319,42 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
+        "width": "190"
+      }, 
+      "5": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
+        "credit": "Tyler Clay", 
+        "height": "275", 
+        "image_id": "5", 
+        "item_id": "401365344", 
+        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
+        "width": "190"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
+        "credit": "Fabrizio Costantini for The New York Times", 
+        "height": "127", 
+        "image_id": "4", 
+        "item_id": "401365344", 
+        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
+        "width": "190"
+      }, 
+      "7": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "7", 
+        "item_id": "401365344", 
+        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
+        "width": "190"
+      }, 
+      "6": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "6", 
+        "item_id": "401365344", 
+        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
