@@ -35734,7 +35734,7 @@
     "is_article": "0", 
     "image": {
       "item_id": "451245729", 
-      "src": "http://dat-data.com/images/dat-diagram.png", 
+      "src": "http://dat-data.com/img/dat-diagram.png", 
       "height": "0", 
       "width": "675"
     }, 
@@ -35742,7 +35742,7 @@
     "word_count": "134", 
     "images": {
       "1": {
-        "src": "http://dat-data.com/images/dat-diagram.png", 
+        "src": "http://dat-data.com/img/dat-diagram.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -35751,7 +35751,7 @@
         "width": "675"
       }, 
       "3": {
-        "src": "http://dat-data.com/images/dat-hex-2.png", 
+        "src": "http://dat-data.com/img/dat-hex-2.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -35760,7 +35760,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://dat-data.com/images/dat-hex-1.png", 
+        "src": "http://dat-data.com/img/dat-hex-1.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -35769,7 +35769,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "http://dat-data.com/images/sloan.png", 
+        "src": "http://dat-data.com/img/sloan.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -35778,7 +35778,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://dat-data.com/images/dat-hex-3.png", 
+        "src": "http://dat-data.com/img/dat-hex-3.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -35787,7 +35787,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "http://dat-data.com/images/usodi.png", 
+        "src": "http://dat-data.com/img/usodi.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -35796,7 +35796,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://dat-data.com/images/knight.png", 
+        "src": "http://dat-data.com/img/knight.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -35815,7 +35815,7 @@
       }
     }, 
     "sort_id": 1080, 
-    "resolved_url": "http://dat-data.com", 
+    "resolved_url": "http://dat-data.com/", 
     "item_id": "451245729", 
     "resolved_id": "451245729", 
     "given_url": "http://dat-data.com/", 
@@ -60381,6 +60381,27 @@
     "favorite": "0", 
     "given_title": "Mars and the Mind of Man: Carl Sagan, Ray Bradbury and Arthur C. Clarke in ", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1387, 
+    "time_updated": "1412448205", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "TXR has clean, easy to understand and maintain internals that are a pleasure to work with. Be sure to read the HACKING guide.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2152", 
+    "given_title": "TXR Language", 
+    "resolved_url": "http://www.nongnu.org/txr", 
+    "is_article": "0", 
+    "item_id": "19995326", 
+    "time_added": "1412448205", 
+    "resolved_id": "19995326", 
+    "given_url": "http://www.nongnu.org/txr/", 
+    "resolved_title": "TXR Language"
   }, 
   {
     "status": "0", 
