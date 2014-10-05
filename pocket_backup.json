@@ -4498,6 +4498,72 @@
     "resolved_title": "Growing From $5,000 to $25,000 in MRR"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/8aufuwMiKmE?feature=oembed", 
+        "vid": "8aufuwMiKmE", 
+        "video_id": "1", 
+        "height": "375", 
+        "width": "500", 
+        "item_id": "695358565", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "695358565", 
+      "src": "http://cdn-imgs-mag.aeon.co/images/2012/09/alanwatts_final.jpg", 
+      "height": "601", 
+      "width": "960"
+    }, 
+    "excerpt": "Ever since I was a child, I have been acutely sensitive to the idea \u2014 in the way that other people seem to feel only after bereavement or some shocking unexpected event \u2014 that the human intellect is unable, finally, to make sense of the world: everything is contradiction and paradox, and no", 
+    "word_count": "3753", 
+    "images": {
+      "1": {
+        "src": "http://cdn-imgs-mag.aeon.co/images/2012/09/alanwatts_final.jpg", 
+        "credit": "", 
+        "height": "601", 
+        "image_id": "1", 
+        "item_id": "695358565", 
+        "caption": "", 
+        "width": "960"
+      }, 
+      "2": {
+        "src": "http://cdn-imgs.aeonmagazine.com/images/2012/09/50565041-Lott-Watts-Haiku-Zen-634x397.jpg", 
+        "credit": " Nat Farbman/Time Life Pictures/Getty", 
+        "height": "397", 
+        "image_id": "2", 
+        "item_id": "695358565", 
+        "caption": "", 
+        "width": "634"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1412522249", 
+    "status": "0", 
+    "sort_id": 1392, 
+    "resolved_url": "http://aeon.co/magazine/philosophy/tim-lott-zen-buddhism-alan-watts/", 
+    "authors": {
+      "14356947": {
+        "item_id": "695358565", 
+        "url": "http://aeon.co/magazine/author/tim-lott/", 
+        "author_id": "14356947", 
+        "name": "Tim Lott"
+      }
+    }, 
+    "item_id": "695358565", 
+    "resolved_id": "695358565", 
+    "given_url": "http://aeon.co/magazine/philosophy/tim-lott-zen-buddhism-alan-watts/", 
+    "resolved_title": "Off-beat Zen", 
+    "is_index": "0", 
+    "time_updated": "1412522249", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Tim Lott \u2013 Zen Buddhism and Alan Watts", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 1297, 
@@ -41452,7 +41518,7 @@
       }
     }, 
     "given_title": "", 
-    "resolved_url": "http://www.multivax.com/last_question.html", 
+    "resolved_url": "http://www.multivax.com/last_question.html#", 
     "is_article": "0", 
     "item_id": "13323", 
     "time_added": "1397437620", 
@@ -61008,7 +61074,7 @@
       "width": "0"
     }, 
     "excerpt": "WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct. 15, President Obama\u2019s chief domestic accomplishment was falling apart 24 miles away, at a bustling high-tech data center in suburban Virginia.           HealthCare.", 
-    "word_count": "5950", 
+    "word_count": "811", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
