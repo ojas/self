@@ -31283,7 +31283,7 @@
         "height": "0", 
         "image_id": "9", 
         "item_id": "266058085", 
-        "caption": "", 
+        "caption": "\n", 
         "width": "0"
       }, 
       "8": {
@@ -60458,7 +60458,7 @@
     "has_video": "0", 
     "word_count": "3983", 
     "given_title": "Postgres full-text search is Good Enough!", 
-    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/", 
+    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/#1", 
     "is_article": "1", 
     "item_id": "573355474", 
     "time_added": "1411975568", 
@@ -62220,6 +62220,53 @@
     "resolved_id": "354614626", 
     "given_url": "http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/", 
     "resolved_title": "Python Best Practice Patterns by Vladimir Keleshev (Notes)"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1390, 
+    "time_updated": "1412470779", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Why does one startup succeed wildly while another with a similar model and talented team fails miserably? Case studies might highlight the winner\u2019s flexible business model or responsive community management. They might point to the failure\u2019s wasted budget or poor product planning.", 
+    "image": {
+      "item_id": "730231342", 
+      "src": "http://frcs3.s3.amazonaws.com.global.prod.fastly.net/library/rowImage/jerry.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "3118", 
+    "images": {
+      "1": {
+        "src": "http://frcs3.s3.amazonaws.com.global.prod.fastly.net/library/rowImage/jerry.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "730231342", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://frcs3.s3.amazonaws.com.global.prod.fastly.net/library/rowImage/ann.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "730231342", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Power Up Your Team with Nonviolent Communication Principles", 
+    "resolved_url": "http://firstround.com/article/power-up-your-team-with-nonviolent-communication-principles", 
+    "is_article": "1", 
+    "item_id": "730231342", 
+    "time_added": "1412470779", 
+    "resolved_id": "730231342", 
+    "given_url": "http://firstround.com/article/power-up-your-team-with-nonviolent-communication-principles", 
+    "resolved_title": "Power Up Your Team with Nonviolent Communication Principles"
   }, 
   {
     "is_article": "1", 
