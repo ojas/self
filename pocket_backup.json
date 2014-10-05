@@ -25973,7 +25973,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "867", 
+    "word_count": "879", 
     "given_title": "Two-Factor Authentication | Tumblr", 
     "resolved_url": "http://www.tumblr.com/docs/en/two_factor_auth", 
     "is_article": "1", 
@@ -36285,30 +36285,13 @@
     "time_updated": "1390325540", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Skip to main content Releases Varnish Cache 4.0.1 Tue, 2014-06-24 14:53 Varnish Cache 4.0.0 Thu, 2014-04-10 14:24 Varnish Cache 4.0.0-beta1 Mon, 2014-03-31 14:49 All releases Twitter bitfalls Some serious pro level @varnishcache debugging: http://t.co/815oIZ0exg hightoxicity @varnishcache Varnish 4.", 
-    "image": {
-      "item_id": "29615883", 
-      "src": "https://www.varnish-cache.org/sites/all/themes/varnish_d7/images/banner_1.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
+    "excerpt": "Skip to main content Releases Varnish Cache 4.0.1 Tue, 2014-06-24 14:53 Varnish Cache 4.0.0 Thu, 2014-04-10 14:24 Varnish Cache 4.0.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "234", 
-    "images": {
-      "1": {
-        "src": "https://www.varnish-cache.org/sites/all/themes/varnish_d7/images/banner_1.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "29615883", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
+    "word_count": "346", 
     "given_title": "Front page | Varnish Community", 
-    "resolved_url": "https://www.varnish-cache.org/", 
+    "resolved_url": "http://www.varnish-cache.org/", 
     "is_article": "0", 
     "item_id": "29615883", 
     "time_added": "1390325540", 
