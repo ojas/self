@@ -17750,17 +17750,11 @@
     "sort_id": 360, 
     "resolved_url": "http://jalopnik.com/if-the-ron-howards-rush-trailer-doesnt-give-you-goose-471178911", 
     "authors": {
-      "9501244": {
+      "11424": {
         "item_id": "331817985", 
         "url": "", 
-        "author_id": "9501244", 
-        "name": "on Jalopnik"
-      }, 
-      "10396099": {
-        "item_id": "331817985", 
-        "url": "http://travis.kinja.com", 
-        "author_id": "10396099", 
-        "name": "Travis Okulski"
+        "author_id": "11424", 
+        "name": "The Numbers"
       }
     }, 
     "item_id": "331817985", 
