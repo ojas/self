@@ -8564,7 +8564,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 80, 
-    "time_updated": "1374154448", 
+    "time_updated": "1412606524", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "At Everlane, we\u2019re reimagining the way fashion works. We have no physical stores, no middlemen taking their cut and no crazy brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com for under $100.", 
@@ -8752,7 +8752,7 @@
     "given_url": "https://zapier.com/blog/how-to-hire-remote-team/", 
     "resolved_title": "From 3 to 16: How to Hire and Build a Remote Team", 
     "is_index": "0", 
-    "time_updated": "1412368704", 
+    "time_updated": "1412607708", 
     "time_favorited": "1412367498", 
     "time_read": "0", 
     "favorite": "1", 
@@ -18301,7 +18301,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1295, 
-    "time_updated": "1412367574", 
+    "time_updated": "1412608233", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "You are bad at giving technical interviews. Yes, you. You\u2019re looking for the wrong skills, hiring the wrong people, and actively screwing yourself and your company.", 
@@ -34767,7 +34767,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1383, 
-    "time_updated": "1412369365", 
+    "time_updated": "1412608186", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "I\u2019m pretty happy with the hiring process at Treehouse. Over the course of my career, I\u2019ve been through (and conducted) interviews that ranged from borderline inane (\u201cWhy are manhole covers round?\u201d) to pretty intense (\u201cHere are some coding problems. You have 10 hours. Begin.\u201d).", 
@@ -64315,6 +64315,37 @@
     "resolved_id": "255842433", 
     "given_url": "http://feeds.danielmiessler.com/~r/danielmiessler/~3/zpwds4EHgT8/jacques-mattheij-imagining-what-elon-musk-might-mean-by-hyperloop", 
     "resolved_title": "Jacques Mattheij Imagining What Elon Musk Might Mean by \u2018Hyperloop\u2019"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1395, 
+    "time_updated": "1412608647", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Hiring web developers is like simultaneously enduring a flood and a drought. You are overwhelmed with resumes yet struggle mightily to find folks worthy of your team. We seriously consider hiring about 10% of the folks I interview at SeatGeek.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "698", 
+    "given_title": "Interview Heuristics", 
+    "resolved_url": "http://jackg.org/interview-heuristics", 
+    "is_article": "1", 
+    "item_id": "166621636", 
+    "time_added": "1412608642", 
+    "resolved_id": "166621636", 
+    "given_url": "http://jackg.org/interview-heuristics", 
+    "resolved_title": "Interview Heuristics", 
+    "tags": {
+      "interview": {
+        "item_id": "166621636", 
+        "tag": "interview"
+      }, 
+      "hiring": {
+        "item_id": "166621636", 
+        "tag": "hiring"
+      }
+    }
   }, 
   {
     "status": "0", 
