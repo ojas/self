@@ -28692,6 +28692,55 @@
   {
     "videos": {
       "1": {
+        "src": "http://www.youtube.com/v/gLosKcg0K6Y", 
+        "vid": "gLosKcg0K6Y", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "731067951", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "731067951", 
+      "src": "http://img.youtube.com/vi/gLosKcg0K6Y/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "From the album \"Volume One\".View full screen for best results.http://trs80.comMusic and video by Jay Rajeck.\u00a9\u2117Vinyl InternationalFollow TRS-80 online:http://flic.kr/s/aHsjE77biAhttp://last.fm/music/TRS-80http://facebook.com/TRS80musichttp://soundcloud.com/vinyl_internati...", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/gLosKcg0K6Y/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "731067951", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1412603937", 
+    "status": "0", 
+    "sort_id": 1393, 
+    "resolved_url": "http://www.youtube.com/watch?v=gLosKcg0K6Y", 
+    "item_id": "731067951", 
+    "resolved_id": "731067951", 
+    "given_url": "https://www.youtube.com/watch?v=gLosKcg0K6Y#t=36", 
+    "resolved_title": "TRS-80 \u2022 Formula '71", 
+    "is_index": "0", 
+    "time_updated": "1412603937", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "\u25b6 TRS-80 \u2022 Formula '71 - YouTube", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
         "src": "http://www.youtube.com/embed/lHfjvYzr-3g?rel=0", 
         "vid": "lHfjvYzr-3g", 
         "video_id": "1", 
@@ -71619,6 +71668,27 @@
     "resolved_id": "488232500", 
     "given_url": "http://web.archive.org/web/20091003023412/http://tothink.com/mnemonic/wordlist.txt", 
     "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1394, 
+    "time_updated": "1412604669", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Tel: (203) 629-3890 \u2022 Toll Free: (800) 721-8781 \u2022 Fax: (203) 629-1621 342 West Putnam Ave, Greenwich, CT 06830", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "9", 
+    "given_title": "Miller Motorcars", 
+    "resolved_url": "http://www.millermotorcars.com/inventory.php?type=ALL&make=MCLAREN&gclid=CKPNvJ-YmMECFQsKaQodkCgAfQ", 
+    "is_article": "0", 
+    "item_id": "732202137", 
+    "time_added": "1412604667", 
+    "resolved_id": "732202137", 
+    "given_url": "http://www.millermotorcars.com/inventory.php?type=ALL&make=MCLAREN&gclid=CKPNvJ-YmMECFQsKaQodkCgAfQ", 
+    "resolved_title": "Miller Motorcars"
   }, 
   {
     "videos": {
