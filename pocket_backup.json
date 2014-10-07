@@ -53999,6 +53999,35 @@
     "resolved_title": "Transactional Email from MailChimp - Mandrill"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1396, 
+    "time_updated": "1412640245", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Every once in a great while, something happens on television that you know while you\u2019re watching it: Well, this is unusual. Those old enough to know what I\u2019m talking about when I say \u201cAl Campanis\u201d  will remember that that was one of your more extreme cases.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1262", 
+    "authors": {
+      "2497773": {
+        "item_id": "731691256", 
+        "url": "http://www.thedailybeast.com/contributors/michael-tomasky.html", 
+        "author_id": "2497773", 
+        "name": "Michael Tomasky"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.thedailybeast.com/articles/2014/10/05/bill-maher-1-ben-affleck-0.html", 
+    "is_article": "1", 
+    "item_id": "731691256", 
+    "time_added": "1412640243", 
+    "resolved_id": "731691256", 
+    "given_url": "http://www.thedailybeast.com/articles/2014/10/05/bill-maher-1-ben-affleck-0.html", 
+    "resolved_title": "Bill Maher 1, Ben Affleck 0"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/CKCvf8E7V1g", 
