@@ -34316,8 +34316,8 @@
     "image": {
       "item_id": "438211560", 
       "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
-      "height": "312", 
-      "width": "468"
+      "height": "400", 
+      "width": "600"
     }, 
     "excerpt": "GOD, as we know, works in mysterious ways. Back in the spring of 2011, Gerry Owen, an assistant pastor at a megachurch in Garland, Tex., was reading through the comment cards that worshipers drop in a box at the back of the church after Sunday services.", 
     "word_count": "3435", 
@@ -34325,11 +34325,11 @@
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
         "credit": "Rex C. Curry for The New York Times", 
-        "height": "312", 
+        "height": "400", 
         "image_id": "1", 
         "item_id": "438211560", 
         "caption": "Melissa Owen, center, in her new coffeehouse in Plano, Tex., which opened with help from a career mentor. ", 
-        "width": "468"
+        "width": "600"
       }, 
       "3": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR-JP4/15-MENTOR-JP4-articleInline.jpg", 
