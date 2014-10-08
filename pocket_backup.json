@@ -6009,7 +6009,7 @@
       }
     }, 
     "time_read": "0", 
-    "excerpt": "Ask awesomely Menu Log in Build a typeform Subscribe to blog     NEXT  Meet the next generation ofonline forms & surveys Show me a typeform NEXT Easily build beautiful                Build a typeform freeorLearn more", 
+    "excerpt": "Ask awesomely Menu Log in Build a typeform Subscribe to blog     NEXT  Meet the next generation ofonline forms & surveys Show me a typeform NEXT Easily create beautiful                Build a typeform freeorLearn more", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "1", 
@@ -35626,6 +35626,35 @@
     "resolved_id": "23592236", 
     "given_url": "http://archive.ncsa.illinois.edu/prajlich/forster.html", 
     "resolved_title": "THE MACHINE STOPS"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1399, 
+    "time_updated": "1412784585", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Academics constantly complain about being overworked, yet they also praise their freedom to decide how and when to work as one of the great advantages of their job. This seems contradictory.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "935", 
+    "authors": {
+      "2575899": {
+        "item_id": "733820119", 
+        "url": "http://www.blogger.com/profile/09333191187316058782", 
+        "author_id": "2575899", 
+        "name": "Togelius"
+      }
+    }, 
+    "given_title": "Togelius: The Curse of Increasing Marginal Work Utility, or Why I Work So M", 
+    "resolved_url": "http://togelius.blogspot.com/2014/02/the-curse-of-increasing-marginal-work.html", 
+    "is_article": "1", 
+    "item_id": "733820119", 
+    "time_added": "1412784585", 
+    "resolved_id": "733820119", 
+    "given_url": "http://togelius.blogspot.com/2014/02/the-curse-of-increasing-marginal-work.html", 
+    "resolved_title": "The Curse of Increasing Marginal Work Utility, or Why I Work So Much"
   }, 
   {
     "status": "0", 
@@ -73457,7 +73486,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/#postComment", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
