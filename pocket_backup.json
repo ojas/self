@@ -23445,7 +23445,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "125", 
+    "word_count": "130", 
     "authors": {
       "24180797": {
         "item_id": "717964907", 
@@ -23455,7 +23455,7 @@
       }
     }, 
     "given_title": "Fake Name | fakena.me", 
-    "resolved_url": "https://fakena.me/", 
+    "resolved_url": "http://fakena.me", 
     "is_article": "0", 
     "item_id": "717964907", 
     "time_added": "1411081576", 
