@@ -50620,6 +50620,178 @@
     "resolved_title": "10Best Readers' Choice"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "1588432", 
+      "src": "http://upload.wikimedia.org/wikipedia/en/math/b/3/1/b31ae757827459ee658f8c9793a17295.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "The Banach\u2013Tarski paradox is a theorem in set theoretic geometry which states the following: Given a solid ball in 3\u2011dimensional space, there exists a decomposition of the ball into a finite number of non-overlapping pieces (i.e.", 
+    "word_count": "4727", 
+    "images": {
+      "11": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/1/2/6/1261b1fbda283f910a81fa892d36695f.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/f/7/7/f7738af5b1fec0c2137ca7c7cb1f3ee8.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/a/c/6/ac69472ef144d2991798b40182897228.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/c/5/2/c52c8ca5526f094c4d45922819955c0b.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/e/4/3/e438344a85d6fd5b879d76872dfe7b24.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "17": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/7/3/a/73ab923adf18477be785b289d16753ca.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "17", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "16": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/9/6/7/967d194372b28556a355fa3977bdf806.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "16", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "19": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/a/b/5/ab543a3de71af10270830e31af27b8b8.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "19", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "18": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/b/d/4/bd4674da61ceb3d316cb2e16b6583955.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "18", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/b/3/1/b31ae757827459ee658f8c9793a17295.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/5/d/a/5dad874174cb602f69ac9b18e17e343d.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/7/7/a/77a54170d14664ede9f5c646572132c7.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/d/0/4/d04c231b7403b7c4a2a7388301db05fb.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/7/7/f/77f77f3f9a2f45d93c1c257fc901925a.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/math/0/c/c/0cc175b9c0f1b6a831c399e269772661.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "1588432", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1412737825", 
+    "status": "0", 
+    "sort_id": 1398, 
+    "resolved_url": "http://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox", 
+    "authors": {
+      "412315": {
+        "item_id": "1588432", 
+        "url": "", 
+        "author_id": "412315", 
+        "name": "David Morgan-Mar"
+      }
+    }, 
+    "item_id": "1588432", 
+    "resolved_id": "1588432", 
+    "given_url": "https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox", 
+    "resolved_title": "Banach\u2013Tarski paradox", 
+    "is_index": "0", 
+    "time_updated": "1412737825", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Banach\u2013Tarski paradox - Wikipedia, the free encyclopedia", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 250, 
@@ -73285,7 +73457,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
