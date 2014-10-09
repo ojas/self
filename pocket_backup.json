@@ -650,7 +650,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1370, 
+    "sort_id": 1368, 
     "time_updated": "1411975750", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -736,7 +736,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1354, 
+    "sort_id": 1352, 
     "time_updated": "1412130763", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -3964,7 +3964,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1375, 
+    "sort_id": 1373, 
     "time_updated": "1412086679", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -4541,7 +4541,7 @@
     "has_video": "1", 
     "time_added": "1412522249", 
     "status": "0", 
-    "sort_id": 1392, 
+    "sort_id": 1390, 
     "resolved_url": "http://aeon.co/magazine/philosophy/tim-lott-zen-buddhism-alan-watts/", 
     "authors": {
       "14356947": {
@@ -5888,7 +5888,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1350, 
+    "sort_id": 1348, 
     "time_updated": "1411528417", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -7801,24 +7801,7 @@
     "time_updated": "1392011623", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "image": {
-      "item_id": "543401182", 
-      "src": "http://www.library.uow.edu.au/content/groups/webasset/@web/documents/siteelement/img_logo_uow.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
     "favorite": "0", 
-    "images": {
-      "1": {
-        "src": "http://www.library.uow.edu.au/content/groups/webasset/@web/documents/siteelement/img_logo_uow.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "543401182", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
     "given_title": "Winter Caravanning in the Outer Hebrides - YouTube", 
     "item_id": "543401182", 
     "time_added": "1392011623", 
@@ -8172,7 +8155,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1386, 
+    "sort_id": 1384, 
     "time_updated": "1412447472", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -10071,7 +10054,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1362, 
+    "sort_id": 1360, 
     "time_updated": "1411755862", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -10581,7 +10564,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1367, 
+    "sort_id": 1365, 
     "time_updated": "1411838917", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -12934,7 +12917,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1377, 
+    "sort_id": 1375, 
     "time_updated": "1412201044", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -14941,7 +14924,7 @@
     "has_video": "0", 
     "time_added": "1412283457", 
     "status": "0", 
-    "sort_id": 1380, 
+    "sort_id": 1378, 
     "resolved_url": "http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac", 
     "authors": {
       "16439178": {
@@ -16161,22 +16144,14 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1399, 
-    "time_updated": "1412819994", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
+    "is_article": "0", 
     "image": {
       "item_id": "734498099", 
       "src": "http://photos-g.ak.instagram.com/hphotos-ak-xaf1/10724604_568405019953686_1155521141_n.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "2", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "", 
     "word_count": "0", 
     "images": {
       "1": {
@@ -16189,14 +16164,28 @@
         "width": "0"
       }
     }, 
-    "given_title": "", 
-    "resolved_url": "http://instagram.com/p/t55n4VkMUe/", 
-    "is_article": "0", 
-    "item_id": "734498099", 
+    "has_video": "0", 
     "time_added": "1412819992", 
+    "status": "0", 
+    "tags": {
+      "travel": {
+        "item_id": "734498099", 
+        "tag": "travel"
+      }
+    }, 
+    "sort_id": 1397, 
+    "resolved_url": "http://instagram.com/p/t55n4VkMUe/", 
+    "item_id": "734498099", 
     "resolved_id": "734498099", 
     "given_url": "http://instagram.com/p/t55n4VkMUe/", 
-    "resolved_title": "polerstuff's photo on Instagram"
+    "resolved_title": "polerstuff's photo on Instagram", 
+    "is_index": "0", 
+    "time_updated": "1412884955", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "2"
   }, 
   {
     "is_article": "1", 
@@ -17886,7 +17875,7 @@
     "has_video": "0", 
     "time_added": "1411839942", 
     "status": "0", 
-    "sort_id": 1368, 
+    "sort_id": 1366, 
     "resolved_url": "http://aeon.co/magazine/science/why-the-symbol-of-life-is-a-loop-not-a-helix/", 
     "authors": {
       "24410669": {
@@ -18088,7 +18077,7 @@
     "has_video": "0", 
     "time_added": "1412437118", 
     "status": "0", 
-    "sort_id": 1384, 
+    "sort_id": 1382, 
     "resolved_url": "http://www.brainpickings.org/2013/05/13/dont-go-back-to-school-kio-stark/?utm_content=buffer5dc2f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer", 
     "authors": {
       "23602465": {
@@ -23974,29 +23963,8 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1348, 
-    "time_updated": "1411256425", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
-    "given_title": "1998 Ferrari F-355 Spider Convertible", 
-    "resolved_url": "http://minneapolis.craigslist.org/csw/cto/4647782060.html", 
-    "is_article": "0", 
-    "item_id": "719605669", 
-    "time_added": "1411256424", 
-    "resolved_id": "719605669", 
-    "given_url": "http://minneapolis.craigslist.org/csw/cto/4647782060.html", 
-    "resolved_title": ""
-  }, 
-  {
-    "status": "0", 
     "is_index": "1", 
-    "sort_id": 1359, 
+    "sort_id": 1357, 
     "time_updated": "1411741417", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -25104,24 +25072,7 @@
     "time_updated": "1386722087", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "image": {
-      "item_id": "499206072", 
-      "src": "http://www.library.uow.edu.au/content/groups/webasset/@web/documents/siteelement/img_logo_uow.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
     "favorite": "0", 
-    "images": {
-      "1": {
-        "src": "http://www.library.uow.edu.au/content/groups/webasset/@web/documents/siteelement/img_logo_uow.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "499206072", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
     "given_title": "AnDevCon: A Deep Dive into RenderScript - NewCircle", 
     "item_id": "499206072", 
     "time_added": "1386722087", 
@@ -25266,7 +25217,7 @@
     "has_video": "2", 
     "time_added": "1411485414", 
     "status": "0", 
-    "sort_id": 1353, 
+    "sort_id": 1351, 
     "resolved_url": "https://www.youtube.com/watch?v=ypsQkF_Qboo&list=TLt7ZQenZD0ZQuIReyky88N3tvx-A7hJTv", 
     "item_id": "721726255", 
     "resolved_id": "721726255", 
@@ -26552,7 +26503,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1388, 
+    "sort_id": 1386, 
     "time_updated": "1412463741", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -28592,7 +28543,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1385, 
+    "sort_id": 1383, 
     "time_updated": "1412761861", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -28796,7 +28747,7 @@
     "has_video": "2", 
     "time_added": "1412603937", 
     "status": "0", 
-    "sort_id": 1393, 
+    "sort_id": 1391, 
     "resolved_url": "http://www.youtube.com/watch?v=gLosKcg0K6Y", 
     "item_id": "731067951", 
     "resolved_id": "731067951", 
@@ -30765,7 +30716,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1376, 
+    "sort_id": 1374, 
     "time_updated": "1412183461", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -32194,27 +32145,6 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1349, 
-    "time_updated": "1411259567", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
-    "given_title": "2004 FERRARI 360 MODENA SPIDER *********** F1 SHIFT ******************", 
-    "resolved_url": "http://losangeles.craigslist.org/sgv/cto/4676055162.html", 
-    "is_article": "0", 
-    "item_id": "719625059", 
-    "time_added": "1411259566", 
-    "resolved_id": "719625059", 
-    "given_url": "http://losangeles.craigslist.org/sgv/cto/4676055162.html", 
-    "resolved_title": ""
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
     "sort_id": 280, 
     "time_updated": "1363735773", 
     "time_favorited": "0", 
@@ -33411,7 +33341,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1378, 
+    "sort_id": 1376, 
     "time_updated": "1412273697", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -34616,7 +34546,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1382, 
+    "sort_id": 1380, 
     "time_updated": "1412360609", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -34829,7 +34759,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1383, 
+    "sort_id": 1381, 
     "time_updated": "1412608186", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -35333,7 +35263,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1365, 
+    "sort_id": 1363, 
     "resolved_url": "http://www.nps.gov/cany/index.htm", 
     "item_id": "14561177", 
     "resolved_id": "14561177", 
@@ -35702,7 +35632,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1398, 
+    "sort_id": 1396, 
     "time_updated": "1412787744", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -36054,6 +35984,50 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Dat", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "0", 
+    "image": {
+      "item_id": "718298605", 
+      "src": "http://c1.tacdn.com/img2/maps/icons/loading_spinner.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "We noticed that you're using an unsupported browser. The TripAdvisor website may not display properly. We support the following browsers: Windows: Internet Explorer, Mozilla Firefox, Google Chrome. Mac: Safari.", 
+    "word_count": "1017", 
+    "images": {
+      "1": {
+        "src": "http://c1.tacdn.com/img2/maps/icons/loading_spinner.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "718298605", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1412884980", 
+    "status": "0", 
+    "tags": {
+      "travel": {
+        "item_id": "718298605", 
+        "tag": "travel"
+      }
+    }, 
+    "sort_id": 1398, 
+    "resolved_url": "http://www.tripadvisor.com/Attraction_Review-g154910-d187024-Reviews-Johnston_Canyon-Banff_National_Park_Alberta.html", 
+    "item_id": "718298605", 
+    "resolved_id": "718298605", 
+    "given_url": "http://www.tripadvisor.com/Attraction_Review-g154910-d187024-Reviews-Johnston_Canyon-Banff_National_Park_Alberta.html", 
+    "resolved_title": "Johnston Canyon", 
+    "is_index": "0", 
+    "time_updated": "1412884984", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Johnston Canyon - Banff National Park - Reviews of Johnston Canyon - TripAd", 
     "has_image": "1"
   }, 
   {
@@ -38290,7 +38264,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1352, 
+    "sort_id": 1350, 
     "time_updated": "1411428026", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -38829,7 +38803,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1371, 
+    "sort_id": 1369, 
     "time_updated": "1412183475", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -41801,7 +41775,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1366, 
+    "sort_id": 1364, 
     "time_updated": "1411828122", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -45971,7 +45945,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1391, 
+    "sort_id": 1389, 
     "resolved_url": "http://instagram.com/p/twPX49EMeQ/", 
     "item_id": "731395353", 
     "resolved_id": "731395353", 
@@ -48028,7 +48002,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1360, 
+    "sort_id": 1358, 
     "time_updated": "1411747412", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -49550,7 +49524,7 @@
     "has_video": "0", 
     "time_added": "1412275842", 
     "status": "0", 
-    "sort_id": 1379, 
+    "sort_id": 1377, 
     "resolved_url": "http://www.mikeperham.com/2014/10/02/introducing-inspeqtor/", 
     "authors": {
       "19615570": {
@@ -50537,7 +50511,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1397, 
+    "sort_id": 1395, 
     "time_updated": "1412698690", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -52157,7 +52131,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1351, 
+    "sort_id": 1349, 
     "time_updated": "1411420603", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -53849,7 +53823,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1364, 
+    "sort_id": 1362, 
     "time_updated": "1412350119", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -54146,7 +54120,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1396, 
+    "sort_id": 1394, 
     "time_updated": "1412761861", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -59144,7 +59118,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1374, 
+    "sort_id": 1372, 
     "time_updated": "1412036746", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -59856,24 +59830,7 @@
     "time_updated": "1394042379", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "image": {
-      "item_id": "562021906", 
-      "src": "http://www.library.uow.edu.au/content/groups/webasset/@web/documents/siteelement/img_logo_uow.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
     "favorite": "0", 
-    "images": {
-      "1": {
-        "src": "http://www.library.uow.edu.au/content/groups/webasset/@web/documents/siteelement/img_logo_uow.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "562021906", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
     "given_title": "it not the end of the world it just the start of me and you lyrics - Google", 
     "item_id": "562021906", 
     "time_added": "1394042379", 
@@ -60724,7 +60681,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1387, 
+    "sort_id": 1385, 
     "time_updated": "1412448205", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -60745,7 +60702,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1373, 
+    "sort_id": 1371, 
     "time_updated": "1412036627", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -60766,7 +60723,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1369, 
+    "sort_id": 1367, 
     "time_updated": "1411975568", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -62542,7 +62499,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1390, 
+    "sort_id": 1388, 
     "time_updated": "1412470779", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -62816,7 +62773,7 @@
       }
     }, 
     "sort_id": 699, 
-    "resolved_url": "http://www.strikemag.org/bullshit-jobs/", 
+    "resolved_url": "http://strikemag.org/bullshit-jobs/", 
     "authors": {
       "21207940": {
         "item_id": "419511321", 
@@ -64501,7 +64458,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1395, 
+    "sort_id": 1393, 
     "time_updated": "1412608647", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -64532,7 +64489,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1372, 
+    "sort_id": 1370, 
     "time_updated": "1412031991", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67758,7 +67715,7 @@
     "has_video": "1", 
     "time_added": "1411750104", 
     "status": "0", 
-    "sort_id": 1361, 
+    "sort_id": 1359, 
     "resolved_url": "http://unsolicited.consulting/article/entrepreneur-is-a-silly-word", 
     "item_id": "724306974", 
     "resolved_id": "724306974", 
@@ -68329,7 +68286,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1355, 
+    "sort_id": 1353, 
     "time_updated": "1411522274", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -69734,7 +69691,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1389, 
+    "sort_id": 1387, 
     "time_updated": "1412464014", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -70501,7 +70458,7 @@
     "has_video": "0", 
     "time_added": "1411592574", 
     "status": "0", 
-    "sort_id": 1357, 
+    "sort_id": 1355, 
     "resolved_url": "http://tech.plug.dj/2014/09/24/how-to-migrate-50mm-records-from-mongo-to-postgresql-in-less-than-a-day/", 
     "authors": {
       "24359472": {
@@ -70619,7 +70576,7 @@
     "has_video": "0", 
     "time_added": "1412348327", 
     "status": "1", 
-    "sort_id": 1381, 
+    "sort_id": 1379, 
     "resolved_url": "http://spnzr.com/aboard-amtrak", 
     "authors": {
       "2498091": {
@@ -71737,7 +71694,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1358, 
+    "sort_id": 1356, 
     "time_updated": "1411616426", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -71885,7 +71842,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1394, 
+    "sort_id": 1392, 
     "time_updated": "1412604669", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -73923,24 +73880,7 @@
     "time_updated": "1393164940", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "image": {
-      "item_id": "553800303", 
-      "src": "http://www.library.uow.edu.au/content/groups/webasset/@web/documents/siteelement/img_logo_uow.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
     "favorite": "0", 
-    "images": {
-      "1": {
-        "src": "http://www.library.uow.edu.au/content/groups/webasset/@web/documents/siteelement/img_logo_uow.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "553800303", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
     "given_title": "Rohit Sharma", 
     "item_id": "553800303", 
     "time_added": "1393164940", 
@@ -74011,7 +73951,7 @@
     "has_video": "1", 
     "time_added": "1411561230", 
     "status": "0", 
-    "sort_id": 1356, 
+    "sort_id": 1354, 
     "resolved_url": "https://www.khanacademy.org/science/cosmology-and-astronomy/universe-scale-topic/big-bang-expansion-topic/v/a-universe-smaller-than-the-observable", 
     "authors": {
       "11403722": {
@@ -74066,7 +74006,7 @@
     "has_video": "0", 
     "time_added": "1411755916", 
     "status": "1", 
-    "sort_id": 1363, 
+    "sort_id": 1361, 
     "resolved_url": "https://medium.com/@benhuh/i-have-46-thanksgiving-dinners-left-with-my-family-after-that-ill-be-dead-ab4cb249eadf", 
     "authors": {
       "13293592": {
