@@ -2302,7 +2302,7 @@
     "time_added": "1408074571", 
     "status": "0", 
     "sort_id": 1264, 
-    "resolved_url": "http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041", 
+    "resolved_url": "http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/", 
     "authors": {
       "10203527": {
         "item_id": "689836321", 
@@ -8440,7 +8440,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "735594013", 
-      "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_5.jpg?m=1376689109g", 
+      "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_11.jpg?m=1376689109g", 
       "height": "230", 
       "width": "548"
     }, 
@@ -8448,7 +8448,7 @@
     "word_count": "1879", 
     "images": {
       "1": {
-        "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_5.jpg?m=1376689109g", 
+        "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_11.jpg?m=1376689109g", 
         "credit": "", 
         "height": "230", 
         "image_id": "1", 
