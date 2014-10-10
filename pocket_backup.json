@@ -2285,8 +2285,8 @@
       "height": "430", 
       "width": "570"
     }, 
-    "excerpt": "It's not too late to ditch the ad-based business model and build a better web. Ron Carlson\u2019s\u00a0short story\u00a0\u201cWhat We Wanted To Do\u201d\u00a0takes the form of an apology from a villager who failed to protect his comrades from marauding Visigoths.", 
-    "word_count": "5297", 
+    "excerpt": "It's not too late to ditch the ad-based business model and build a better web. FacebookTwitterLinkedInGoogle+EmailPrintComments Ron Carlson\u2019s\u00a0short story\u00a0\u201cWhat We Wanted To Do\u201d\u00a0takes the form of an apology from a villager who failed to protect his comrades from marauding Visigoths.", 
+    "word_count": "5301", 
     "images": {
       "1": {
         "src": "http://cdn.theatlantic.com/static/newsroom/img/mt/2014/08/795px_The_Fall_of_Man_1616_Hendrik_Goltzius-1/lead.jpg?naavl5", 
@@ -2302,7 +2302,7 @@
     "time_added": "1408074571", 
     "status": "0", 
     "sort_id": 1264, 
-    "resolved_url": "http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/", 
+    "resolved_url": "http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041", 
     "authors": {
       "10203527": {
         "item_id": "689836321", 
@@ -41679,7 +41679,7 @@
       }
     }, 
     "sort_id": 1132, 
-    "resolved_url": "http://ianfeather.co.uk/a-maintainable-style-guide/", 
+    "resolved_url": "http://ianfeather.co.uk/a-maintainable-style-guide", 
     "item_id": "623653283", 
     "resolved_id": "623653283", 
     "given_url": "http://ianfeather.co.uk/a-maintainable-style-guide/", 
@@ -75091,7 +75091,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1836", 
+    "word_count": "1835", 
     "given_title": "A non-magical introduction to Pip and Virtualenv for Python beginners - Blo", 
     "resolved_url": "http://dabapps.com/blog/introduction-to-pip-and-virtualenv-python/", 
     "is_article": "1", 
