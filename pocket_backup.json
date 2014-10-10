@@ -8437,6 +8437,76 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "735594013", 
+      "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_5.jpg?m=1376689109g", 
+      "height": "230", 
+      "width": "548"
+    }, 
+    "excerpt": "To his 21 rules, I\u2019ve added a few of my own tricks. Please share your own rules and tips in the comments!  Why are you traveling?", 
+    "word_count": "1879", 
+    "images": {
+      "1": {
+        "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_5.jpg?m=1376689109g", 
+        "credit": "", 
+        "height": "230", 
+        "image_id": "1", 
+        "item_id": "735594013", 
+        "caption": "", 
+        "width": "548"
+      }, 
+      "3": {
+        "src": "http://fhww.files.wordpress.com/2013/07/5015699055_341d243f21.jpg?w=640", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "735594013", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://fhww.files.wordpress.com/2013/07/5481288261_042f8f6e2b.jpg?w=640", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "735594013", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1412965675", 
+    "status": "0", 
+    "tags": {
+      "travel": {
+        "item_id": "735594013", 
+        "tag": "travel"
+      }
+    }, 
+    "sort_id": 1399, 
+    "resolved_url": "http://fourhourworkweek.com/2013/07/14/how-to-travel-21-contrarian-rules/#more-9724", 
+    "authors": {
+      "2477551": {
+        "item_id": "735594013", 
+        "url": "", 
+        "author_id": "2477551", 
+        "name": "Ryan"
+      }
+    }, 
+    "item_id": "735594013", 
+    "resolved_id": "595772705", 
+    "given_url": "http://fourhourworkweek.com/2013/07/14/how-to-travel-21-contrarian-rules/?utm_content=buffer04343&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer#more-9724", 
+    "resolved_title": "The Blog of Author Tim Ferriss", 
+    "is_index": "0", 
+    "time_updated": "1412965679", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "How to Travel: 21 Contrarian Rules | The Blog of Author Tim Ferriss", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 409, 
@@ -61239,7 +61309,7 @@
       "width": "0"
     }, 
     "excerpt": "WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct. 15, President Obama\u2019s chief domestic accomplishment was falling apart 24 miles away, at a bustling high-tech data center in suburban Virginia.           HealthCare.", 
-    "word_count": "811", 
+    "word_count": "5950", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
@@ -66191,6 +66261,85 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Fling (2008) - IMDb", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "615906678", 
+      "src": "http://fhww.files.wordpress.com/2008/07/2194168162_eee2f6ca21.jpg?w=450", 
+      "height": "318", 
+      "width": "450"
+    }, 
+    "excerpt": "The unbelievable Oregon coastline. (Photo: liquidskyarts)  Six weeks ago I conducted my first social media travel experiment.", 
+    "word_count": "1050", 
+    "images": {
+      "1": {
+        "src": "http://fhww.files.wordpress.com/2008/07/2194168162_eee2f6ca21.jpg?w=450", 
+        "credit": "", 
+        "height": "318", 
+        "image_id": "1", 
+        "item_id": "615906678", 
+        "caption": "", 
+        "width": "450"
+      }, 
+      "3": {
+        "src": "http://fhww.files.wordpress.com/2008/07/2599631253_97f9c3dbaf.jpg?w=450", 
+        "credit": "", 
+        "height": "300", 
+        "image_id": "3", 
+        "item_id": "615906678", 
+        "caption": "", 
+        "width": "450"
+      }, 
+      "2": {
+        "src": "http://fhww.files.wordpress.com/2008/07/2630660826_f468db8bf8.jpg?w=450", 
+        "credit": "", 
+        "height": "338", 
+        "image_id": "2", 
+        "item_id": "615906678", 
+        "caption": "", 
+        "width": "450"
+      }, 
+      "4": {
+        "src": "http://s1.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_11.jpg?m=1376689109g", 
+        "credit": "", 
+        "height": "230", 
+        "image_id": "4", 
+        "item_id": "615906678", 
+        "caption": "", 
+        "width": "548"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1412965778", 
+    "status": "0", 
+    "tags": {
+      "travel": {
+        "item_id": "615906678", 
+        "tag": "travel"
+      }
+    }, 
+    "sort_id": 1400, 
+    "resolved_url": "http://fourhourworkweek.com/2008/07/30/12-gems-of-the-pacific-northwest-coast-plus-200-tweets-my-thoughts-on-practical-twitter-use/", 
+    "authors": {
+      "18543212": {
+        "item_id": "615906678", 
+        "url": "http://fourhourworkweek.com/author/admin/", 
+        "author_id": "18543212", 
+        "name": "Tim Ferriss"
+      }
+    }, 
+    "item_id": "615906678", 
+    "resolved_id": "615906678", 
+    "given_url": "http://fourhourworkweek.com/2008/07/30/12-gems-of-the-pacific-northwest-coast-plus-200-tweets-my-thoughts-on-practical-twitter-use/", 
+    "resolved_title": "The Blog of Author Tim Ferriss", 
+    "is_index": "0", 
+    "time_updated": "1412965781", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "12  Gems of the Pacific Northwest Coast (Plus: 200 Tweets \u2013 My Thoughts on ", 
     "has_image": "1"
   }, 
   {
