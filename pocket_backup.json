@@ -34827,6 +34827,88 @@
     "resolved_title": "Creating secure Linux VMs in Azure with SSH key pairs"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "732004736", 
+      "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/dianeackerman_thehumanage.jpg", 
+      "height": "0", 
+      "width": "195"
+    }, 
+    "excerpt": "To tell humanity its own story is a task no less herculean, and at last we have a poet \u2014 Sagan\u2019s favorite poet, no less \u2014 to marry science and wonder.", 
+    "word_count": "3161", 
+    "images": {
+      "1": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/dianeackerman_thehumanage.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "732004736", 
+        "caption": "", 
+        "width": "195"
+      }, 
+      "3": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/icub.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "732004736", 
+        "caption": "\n", 
+        "width": "480"
+      }, 
+      "2": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2014/01/aliceinquantumland1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "732004736", 
+        "caption": "\n", 
+        "width": "480"
+      }, 
+      "5": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2014/08/taschen_bookofmiracles9.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "732004736", 
+        "caption": "\n", 
+        "width": "480"
+      }, 
+      "4": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2014/01/aliceinquantumland7.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "732004736", 
+        "caption": "\n", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1413085179", 
+    "status": "0", 
+    "sort_id": 1401, 
+    "resolved_url": "http://www.brainpickings.org/2014/10/06/diane-ackerman-human-age/", 
+    "authors": {
+      "23602465": {
+        "item_id": "732004736", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
+        "name": "Maria Popova"
+      }
+    }, 
+    "item_id": "732004736", 
+    "resolved_id": "732004736", 
+    "given_url": "http://www.brainpickings.org/2014/10/06/diane-ackerman-human-age/", 
+    "resolved_title": "What the Future of Robots Reveals About the Human Condition", 
+    "is_index": "0", 
+    "time_updated": "1413085181", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1381, 
