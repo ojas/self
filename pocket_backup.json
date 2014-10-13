@@ -47142,7 +47142,7 @@
       "width": "0"
     }, 
     "excerpt": "Python has a terrible rep when it comes to its parallel processing capabilities. Ignoring the standard arguments about its threads and the GIL (which are mostly valid), the real problem I see with parallelism in Python isn't a technical one, but a pedagogical one.", 
-    "word_count": "1253", 
+    "word_count": "1262", 
     "images": {
       "1": {
         "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*ZwRvSeMWp30HonAefgOKGg.png", 
