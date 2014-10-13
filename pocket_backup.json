@@ -38823,7 +38823,7 @@
     "excerpt": "RethinkDB is built to store JSON documents, and scale to multiple machines with very little effort. It has a pleasant query language that supports really useful queries like table joins and group by, and is easy to setup and learn.", 
     "image": {
       "item_id": "15281707", 
-      "src": "http://www.rethinkdb.com/assets/images/docs/api_illustrations/quickstart.png", 
+      "src": "http://rethinkdb.com/assets/images/docs/api_illustrations/quickstart.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -38833,7 +38833,7 @@
     "word_count": "363", 
     "images": {
       "1": {
-        "src": "http://www.rethinkdb.com/assets/images/docs/api_illustrations/quickstart.png", 
+        "src": "http://rethinkdb.com/assets/images/docs/api_illustrations/quickstart.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
