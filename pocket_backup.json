@@ -41074,7 +41074,7 @@
     "time_added": "1413259243", 
     "status": "0", 
     "sort_id": 1402, 
-    "resolved_url": "http://www.locomotivecms.com/articles/we-tried-to-solve-the-open-source-revenue-equation#.VD0ic6W4iBa", 
+    "resolved_url": "http://www.locomotivecms.com/articles/we-tried-to-solve-the-open-source-revenue-equation", 
     "authors": {
       "9157795": {
         "item_id": "735182626", 
@@ -54395,17 +54395,17 @@
     "excerpt": "Wherever you and your customers are, Mandrill can deliver your email in milliseconds. We\u2019ve got servers all over the world.  Mandrill is a scalable and affordable email infrastructure service, with all the marketing-friendly analytics tools you\u2019ve come to expect from MailChimp.", 
     "image": {
       "item_id": "146287809", 
-      "src": "http://mandrill.com/assets/images/home/mc-logo-2380f23a.png", 
+      "src": "http://www.mandrill.com/assets/images/home/mc-logo-2380f23a.png", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "328", 
+    "word_count": "333", 
     "images": {
       "1": {
-        "src": "http://mandrill.com/assets/images/home/mc-logo-2380f23a.png", 
+        "src": "http://www.mandrill.com/assets/images/home/mc-logo-2380f23a.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -54415,7 +54415,7 @@
       }
     }, 
     "given_title": "Transactional Email from MailChimp - Mandrill", 
-    "resolved_url": "http://mandrill.com", 
+    "resolved_url": "http://www.mandrill.com", 
     "is_article": "0", 
     "item_id": "146287809", 
     "time_added": "1369890163", 
@@ -61039,7 +61039,7 @@
     "has_video": "0", 
     "word_count": "3983", 
     "given_title": "Postgres full-text search is Good Enough!", 
-    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/", 
+    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/#1", 
     "is_article": "1", 
     "item_id": "573355474", 
     "time_added": "1411975568", 
