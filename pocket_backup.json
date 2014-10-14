@@ -36005,11 +36005,28 @@
     "time_updated": "1388603770", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Ambient sounds to wash away distraction.  I'm sorry but A Soft Murmur doesn't work properly on iPhones, iPads or iPods. You might like Rainy Mood or Coffitivity instead.", 
-    "has_image": "0", 
+    "excerpt": "A SOFT MURMUR Ambient sounds to wash away distraction.", 
+    "image": {
+      "item_id": "414163543", 
+      "src": "http://asoftmurmur.com/img/gp.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "69", 
+    "word_count": "23", 
+    "images": {
+      "1": {
+        "src": "http://asoftmurmur.com/img/gp.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "414163543", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
     "given_title": "A Soft Murmur", 
     "resolved_url": "http://asoftmurmur.com/", 
     "is_article": "0", 
