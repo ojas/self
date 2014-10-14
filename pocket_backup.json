@@ -40942,6 +40942,61 @@
     "resolved_title": "Mathematical Brain Teaser #3"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "735182626", 
+      "src": "http://www.locomotivecms.com/sites/518d01737d0cca6914003b78/assets/5433e7812c1cc49a4b000475/open-source-challenges.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "As you may have noticed, we\u2019ve been really quiet these past few months. And yet, we were not partying hard or on vacation. No, we\u2019ve been working extra long hours to develop V3.", 
+    "word_count": "1759", 
+    "images": {
+      "1": {
+        "src": "http://www.locomotivecms.com/sites/518d01737d0cca6914003b78/assets/5433e7812c1cc49a4b000475/open-source-challenges.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "735182626", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.locomotivecms.com/sites/518d01737d0cca6914003b78/assets/5433dfd42c1cc4d2b6000336/V3-launch-date.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "735182626", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1413259243", 
+    "status": "0", 
+    "sort_id": 1402, 
+    "resolved_url": "http://www.locomotivecms.com/articles/we-tried-to-solve-the-open-source-revenue-equation#.VDyT0iANUvO.twitter", 
+    "authors": {
+      "9157795": {
+        "item_id": "735182626", 
+        "url": "", 
+        "author_id": "9157795", 
+        "name": "Estelle Lafforgue"
+      }
+    }, 
+    "item_id": "735182626", 
+    "resolved_id": "735182626", 
+    "given_url": "http://www.locomotivecms.com/articles/we-tried-to-solve-the-open-source-revenue-equation#.VDx97b7EM0q", 
+    "resolved_title": "The difficulties we face to monetize our open source project", 
+    "is_index": "0", 
+    "time_updated": "1413259243", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The difficulties we face to monetize our open source project", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1113, 
