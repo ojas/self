@@ -6015,7 +6015,7 @@
     "has_video": "1", 
     "word_count": "34", 
     "given_title": "Free Beautiful Online Survey & Form Builder | Typeform", 
-    "resolved_url": "http://www.typeform.com/", 
+    "resolved_url": "http://www.typeform.com", 
     "is_article": "0", 
     "item_id": "185448643", 
     "time_added": "1405632582", 
@@ -45658,20 +45658,20 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "You\u2019ll need a timeline and a plan of action to get your idea out into the world. A Roadmap keeps you on time and on target.  As you share your learnings, hidden patterns are likely to emerge. Here\u2019s how to spot and make sense of them.", 
-    "word_count": "128", 
+    "excerpt": "Having the people you\u2019re designing for make and explain a collage can help you understand their values and thought processes.  Once you\u2019ve had a chance to Download Your Learnings it\u2019s time to make sense of them. One way is to share the most inspiring stories you\u2019ve heard with your teammates.", 
+    "word_count": "132", 
     "images": {
       "11": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/stories/admin_images/000/000/035/original/MIA_kayla_lg_web.jpg?1411100189", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/stories/admin_images/000/000/050/original/Stacy_post_770x380_web.jpg?1413268217", 
         "credit": "", 
         "height": "0", 
         "image_id": "11", 
         "item_id": "718611705", 
-        "caption": "\nConversation Starters\nby Michaela D'Amico\nAgriculture\n", 
+        "caption": "\nCard Sort\nby Stacy Barnes\nAgriculture\n", 
         "width": "0"
       }, 
       "10": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/results/thumbnail_images/000/000/005/original/Brilliance_case-study.jpg?1409709942", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/results/thumbnail_images/000/000/002/original/Bezos_-case-study.jpg?1409708930", 
         "credit": "", 
         "height": "0", 
         "image_id": "10", 
@@ -45680,12 +45680,12 @@
         "width": "0"
       }, 
       "12": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/resources/cover_images/000/000/001/original/HCDToolkit.png?1411004604", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/resources/cover_images/000/000/005/original/_Acumen.png?1411004270", 
         "credit": "", 
         "height": "0", 
         "image_id": "12", 
         "item_id": "718611705", 
-        "caption": "\nHCD Toolkit\nA step-by-step guide to the elements of human-centered design\n", 
+        "caption": "\nDesign Kit: The Course for Human-Centered Design\nA seven-week course that will introduce you to the concepts of human-centered design.\n", 
         "width": "0"
       }, 
       "1": {
@@ -45734,7 +45734,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/procedures/cover_images/000/000/007/original/Roadmap_575x575.png?1409087518", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/procedures/cover_images/000/000/025/original/Collage_575x575.png?1409103828", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -45752,7 +45752,7 @@
         "width": "0"
       }, 
       "9": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/mindsets/thumbnail_images/000/000/006/original/John_02_web.jpg?1409803537", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/mindsets/thumbnail_images/000/000/002/original/Krista_web.jpg?1409803623", 
         "credit": "", 
         "height": "0", 
         "image_id": "9", 
@@ -45761,7 +45761,7 @@
         "width": "0"
       }, 
       "8": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/procedures/cover_images/000/000/005/original/Find_themes_575x575.png?1409087363", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/procedures/cover_images/000/000/013/original/Share_inspiring_stories_575x575.png?1409096288", 
         "credit": "", 
         "height": "0", 
         "image_id": "8", 
