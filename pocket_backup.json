@@ -58082,6 +58082,52 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "740876374", 
+      "src": "http://www.roadandtrack.com/cm/roadandtrack/site_images/placeholder16x9.gif", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "More than $50,000 for a Japanese sports car? From a country that, a scant quarter-century ago, produced exercises in rolling gingerbread that slogged along with modified forklift engines? And from a company that, until recently, specialized in bread-and-butter sedans and zippy little commuter cars", 
+    "word_count": "3324", 
+    "images": {
+      "1": {
+        "src": "http://www.roadandtrack.com/cm/roadandtrack/site_images/placeholder16x9.gif", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "740876374", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1413485723", 
+    "status": "0", 
+    "sort_id": 1407, 
+    "resolved_url": "http://www.roadandtrack.com/car-reviews/first-drives/first-drive-1990-acura-nsx?src=spr_FBPAGE&spr_id=1459_99967330", 
+    "authors": {
+      "224325": {
+        "item_id": "740876374", 
+        "url": "", 
+        "author_id": "224325", 
+        "name": "ROAD"
+      }
+    }, 
+    "item_id": "740876374", 
+    "resolved_id": "740876374", 
+    "given_url": "http://www.roadandtrack.com/car-reviews/first-drives/first-drive-1990-acura-nsx?src=spr_FBPAGE&spr_id=1459_99967330", 
+    "resolved_title": "First Drive: 1990 Acura NSX", 
+    "is_index": "0", 
+    "time_updated": "1413485724", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 473, 
