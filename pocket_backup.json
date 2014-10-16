@@ -21878,6 +21878,35 @@
     "resolved_title": ""
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1404, 
+    "time_updated": "1413425097", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The swamp is dark and thick and swarming with birds ruffling in the moss-covered cypress trees. Insects are drawn by the light of my storm lantern, moths and mosquitoes buzzing on the back wall.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "7149", 
+    "authors": {
+      "22521402": {
+        "item_id": "739739419", 
+        "url": "", 
+        "author_id": "22521402", 
+        "name": "Anthony Taille"
+      }
+    }, 
+    "given_title": "We\u2019re The Last Ones \u2014 Medium", 
+    "resolved_url": "https://medium.com/@anthonytaille/were-the-last-ones-3600af8392a3", 
+    "is_article": "1", 
+    "item_id": "739739419", 
+    "time_added": "1413425097", 
+    "resolved_id": "739739419", 
+    "given_url": "https://medium.com/@anthonytaille/were-the-last-ones-3600af8392a3", 
+    "resolved_title": "We\u2019re The Last Ones \u2014 Medium"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://player.vimeo.com/video/88922439", 
@@ -60236,6 +60265,61 @@
     "resolved_id": "21716131", 
     "given_url": "http://www.ctlab.org/documents/How%20Complex%20Systems%20Fail.pdf", 
     "resolved_title": ""
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "573025326", 
+      "src": "http://static01.nyt.com/images/2014/03/20/business/20state-web1/20state-web1-master675.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "For years, techies have argued that getting an extra monitor or two for your desktop computer is an especially effective way to increase personal productivity. The logic seemed airtight: Two (or more) computer monitors means more room on your virtual desktop, which means more room to do your work.", 
+    "word_count": "1105", 
+    "images": {
+      "1": {
+        "src": "http://static01.nyt.com/images/2014/03/20/business/20state-web1/20state-web1-master675.jpg", 
+        "credit": "\n            \n            Peter DaSilva for The New York Times        ", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "573025326", 
+        "caption": "Farhad Manjoo, tech columnist for The New York Times, turned off the monitor to his left at home in California. He said the return to a single display was punishingly cramped at first, but soon helped him improve his focus on work.\n                        \n            Credit\n            Peter DaSilva for The New York Times        \n            ", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://static01.nyt.com/images/2014/03/20/business/20state-illo/20state-illo-master315.jpg", 
+        "credit": "\n            \n            Stuart Goldenberg        ", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "573025326", 
+        "caption": "\n            Credit\n            Stuart Goldenberg        \n            ", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1413426138", 
+    "status": "0", 
+    "sort_id": 1405, 
+    "resolved_url": "http://www.nytimes.com/2014/03/20/technology/personaltech/surviving-and-thriving-in-a-one-monitor-world.html", 
+    "authors": {
+      "16451238": {
+        "item_id": "573025326", 
+        "url": "http://topics.nytimes.com/top/reference/timestopics/people/m/farhad_manjoo/index.html", 
+        "author_id": "16451238", 
+        "name": "FARHAD MANJOO"
+      }
+    }, 
+    "item_id": "573025326", 
+    "resolved_id": "573018948", 
+    "given_url": "http://www.nytimes.com/2014/03/20/technology/personaltech/surviving-and-thriving-in-a-one-monitor-world.html?_r=1", 
+    "resolved_title": "Discovering Two Screens Aren\u2019t Better Than One", 
+    "is_index": "0", 
+    "time_updated": "1413426138", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Discovering Two Screens Aren\u2019t Better Than One - NYTimes.com", 
+    "has_image": "1"
   }, 
   {
     "videos": {
