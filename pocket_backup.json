@@ -71623,17 +71623,6 @@
     "resolved_title": "Onion Post on Saudi Arabia Electronically Tracking Their Women"
   }, 
   {
-    "videos": {
-      "1": {
-        "src": "http://video1.nytimes.com/video/2014/03/31/27219_1_opdoc-slomo_wg_16x9_l_3g_mob.mp4", 
-        "vid": "", 
-        "video_id": "1", 
-        "height": "0", 
-        "width": "0", 
-        "item_id": "585919331", 
-        "type": "5"
-      }
-    }, 
     "is_article": "1", 
     "image": {
       "item_id": "585919331", 
@@ -71654,7 +71643,7 @@
         "width": "0"
       }
     }, 
-    "has_video": "1", 
+    "has_video": "0", 
     "time_added": "1396615159", 
     "status": "1", 
     "sort_id": 1055, 
