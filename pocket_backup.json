@@ -9421,17 +9421,6 @@
     "has_image": "1"
   }, 
   {
-    "videos": {
-      "1": {
-        "src": "http://video1.nytimes.com/video/2013/11/20/23776_1_gillen-bitcoins_wg_16x9_l_3g_mob.mp4", 
-        "vid": "", 
-        "video_id": "1", 
-        "height": "0", 
-        "width": "0", 
-        "item_id": "528571482", 
-        "type": "5"
-      }
-    }, 
     "is_article": "1", 
     "image": {
       "item_id": "528571482", 
@@ -9452,7 +9441,7 @@
         "width": "0"
       }
     }, 
-    "has_video": "1", 
+    "has_video": "0", 
     "time_added": "1390343560", 
     "status": "1", 
     "sort_id": 940, 
