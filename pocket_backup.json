@@ -6755,6 +6755,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1409, 
+    "time_updated": "1413652754", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "YEAR & MODEL: 2002 NSX-T FULL VIN #:JH4NA21652T000044 CURRENT MILEAGE:57,100 COLOR (EXT/INT):Spa Yellow TRANSMISSION:6 speed manual. LOCATION OF VEHICLE (CITY/STATE): Riverside, CA CONTACT VIA (E-mail, PM, phone number, etc.): PM me here. PRICE (MUST STATE A PRICE, IS IT FIRM OR OBO?): $54.9k OBO", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1347", 
+    "given_title": "2002 NSX-T Yellow/Black, JH4NA21652T000044", 
+    "resolved_url": "http://www.nsxprime.com/forum/showthread.php/173109-2002-NSX-T-Yellow-Black-JH4NA21652T000044", 
+    "is_article": "0", 
+    "item_id": "742534788", 
+    "time_added": "1413652752", 
+    "resolved_id": "742534788", 
+    "given_url": "http://www.nsxprime.com/forum/showthread.php/173109-2002-NSX-T-Yellow-Black-JH4NA21652T000044", 
+    "resolved_title": "2002 NSX-T Yellow/Black, JH4NA21652T000044"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 899, 
     "time_updated": "1389207143", 
     "time_favorited": "0", 
@@ -41671,7 +41692,7 @@
       "width": "570"
     }, 
     "excerpt": "When hedge funds use bots to buy and sell stocks within milliseconds, they're not improving the market. They're rigging the market. Greed is good, and high-speed trading is better\u2014if you want to rig the market (Wikimedia Commons)I wasn't sure I'd heard him right.", 
-    "word_count": "1015", 
+    "word_count": "1610", 
     "images": {
       "1": {
         "src": "http://cdn.theatlantic.com/newsroom/img/posts/Gekko.jpg.jpg", 
@@ -75694,15 +75715,15 @@
     "is_article": "0", 
     "image": {
       "item_id": "358100412", 
-      "src": "http://www.polymer-project.org/images/logos/p-logo.svg", 
+      "src": "https://www.polymer-project.org/images/logos/p-logo.svg", 
       "height": "0", 
       "width": "0"
     }, 
     "excerpt": "Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond.", 
-    "word_count": "145", 
+    "word_count": "162", 
     "images": {
       "1": {
-        "src": "http://www.polymer-project.org/images/logos/p-logo.svg", 
+        "src": "https://www.polymer-project.org/images/logos/p-logo.svg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -75711,7 +75732,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://www.polymer-project.org/images/logos/polymer_video_thumb.jpg", 
+        "src": "https://www.polymer-project.org/images/logos/polymer_video_thumb.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -75720,7 +75741,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://www.polymer-project.org/images/sampler-paper.png", 
+        "src": "https://www.polymer-project.org/images/sampler-paper.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -75729,7 +75750,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "http://www.polymer-project.org/images/paper-calculator.png", 
+        "src": "https://www.polymer-project.org/images/paper-calculator.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -75738,7 +75759,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://www.polymer-project.org/images/sampler-paper-square.png", 
+        "src": "https://www.polymer-project.org/images/sampler-paper-square.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
