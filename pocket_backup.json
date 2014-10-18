@@ -19356,25 +19356,50 @@
     "resolved_title": "The long reach of reason"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "69951312", 
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/150px-Great_Seal_of_the_United_States_%28obverse%29.svg.png", 
+      "height": "150", 
+      "width": "150"
+    }, 
+    "excerpt": "A charitable remainder unitrust is an irrevocable trust created under the authority of Internal Revenue Code \u00a7 664[1] (\"Code\").", 
+    "word_count": "2032", 
+    "images": {
+      "1": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/150px-Great_Seal_of_the_United_States_%28obverse%29.svg.png", 
+        "credit": "", 
+        "height": "150", 
+        "image_id": "1", 
+        "item_id": "69951312", 
+        "caption": "", 
+        "width": "150"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1386827667", 
     "status": "0", 
-    "is_index": "0", 
     "sort_id": 852, 
+    "resolved_url": "http://en.wikipedia.org/wiki/Charitable_remainder_unitrust", 
+    "authors": {
+      "7331684": {
+        "item_id": "69951312", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "item_id": "69951312", 
+    "resolved_id": "69951312", 
+    "given_url": "http://en.wikipedia.org/wiki/Charitable_remainder_unitrust", 
+    "resolved_title": "Charitable remainder unitrust", 
+    "is_index": "0", 
     "time_updated": "1386827667", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "A charitable remainder unitrust is an irrevocable trust created under the authority of Internal Revenue Code \u00a7 664[1] (\"Code\").", 
-    "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "1810", 
     "given_title": "Charitable remainder unitrust - Wikipedia, the free encyclopedia", 
-    "resolved_url": "http://en.wikipedia.org/wiki/Charitable_remainder_unitrust", 
-    "is_article": "1", 
-    "item_id": "69951312", 
-    "time_added": "1386827667", 
-    "resolved_id": "69951312", 
-    "given_url": "http://en.wikipedia.org/wiki/Charitable_remainder_unitrust", 
-    "resolved_title": "Charitable remainder unitrust"
+    "has_image": "1"
   }, 
   {
     "status": "0", 
