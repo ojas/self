@@ -22095,6 +22095,52 @@
     "resolved_title": "Borrisokane"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "741807925", 
+      "src": "http://cdn.theatlantic.com/static/newsroom/img/mt/2014/10/shutterstock_105474239/lead.jpg?ndln5z", 
+      "height": "440", 
+      "width": "570"
+    }, 
+    "excerpt": "There\u2019s a certain sinking feeling one gets when thinking of the perfect thing to say just a moment too late. Perhaps a witty parting word could have made all the difference.", 
+    "word_count": "874", 
+    "images": {
+      "1": {
+        "src": "http://cdn.theatlantic.com/static/newsroom/img/mt/2014/10/shutterstock_105474239/lead.jpg?ndln5z", 
+        "credit": "", 
+        "height": "440", 
+        "image_id": "1", 
+        "item_id": "741807925", 
+        "caption": "\n                                \n                            Cris Kelly/Shutterstock                                    ", 
+        "width": "570"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1413766108", 
+    "status": "0", 
+    "sort_id": 1410, 
+    "resolved_url": "http://www.theatlantic.com/health/archive/2014/10/more-languages-better-brain/381193/", 
+    "authors": {
+      "19615840": {
+        "item_id": "741807925", 
+        "url": "http://www.theatlantic.com/cody-c-delistraty/", 
+        "author_id": "19615840", 
+        "name": "\u200bCody C. Delistraty"
+      }
+    }, 
+    "item_id": "741807925", 
+    "resolved_id": "741801643", 
+    "given_url": "http://www.theatlantic.com/health/archive/2014/10/more-languages-better-brain/381193/?single_page=true", 
+    "resolved_title": "For a Better Brain, Learn Another Language", 
+    "is_index": "0", 
+    "time_updated": "1413766108", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "For a Better Brain, Learn Another Language - The Atlantic", 
+    "has_image": "1"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/v/T8nJKWJTsUg", 
