@@ -20002,6 +20002,55 @@
   {
     "videos": {
       "1": {
+        "src": "http://www.youtube.com/v/GIKnhUVFbog", 
+        "vid": "GIKnhUVFbog", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "744024617", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "744024617", 
+      "src": "http://img.youtube.com/vi/GIKnhUVFbog/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/GIKnhUVFbog/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "744024617", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1413822789", 
+    "status": "0", 
+    "sort_id": 1414, 
+    "resolved_url": "https://www.youtube.com/watch?v=GIKnhUVFbog&feature=youtu.be", 
+    "item_id": "744024617", 
+    "resolved_id": "744024617", 
+    "given_url": "https://www.youtube.com/watch?v=GIKnhUVFbog&feature=youtu.be", 
+    "resolved_title": "Orbit DVD's First Commercial (minute version)", 
+    "is_index": "0", 
+    "time_updated": "1413822790", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Orbit DVD's First Commercial (minute version) - YouTube", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
         "src": "http://player.vimeo.com/video/30456390?title=0&byline=0&portrait=0", 
         "vid": "30456390", 
         "video_id": "1", 
@@ -74113,7 +74162,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
