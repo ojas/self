@@ -10848,7 +10848,7 @@
       }
     }, 
     "given_title": "Macaw | The code-savvy web design tool.", 
-    "resolved_url": "http://macaw.co", 
+    "resolved_url": "http://macaw.co/", 
     "is_article": "0", 
     "item_id": "336345161", 
     "time_added": "1374637169", 
@@ -25954,7 +25954,7 @@
       }
     }, 
     "given_title": "ZEN PENCILS \u00bb 157. AMY POEHLER: Great people do things before they\u2019re ready", 
-    "resolved_url": "http://zenpencils.com/comic/157-amy-poehler-great-people-do-things-before-theyre-ready/", 
+    "resolved_url": "http://zenpencils.com/comic/157-amy-poehler-great-people-do-things-before-theyre-ready/#.VEV1mIu5ybc.twitter", 
     "is_article": "1", 
     "item_id": "684746015", 
     "time_added": "1407902805", 
@@ -59956,6 +59956,80 @@
     "resolved_id": "223954842", 
     "given_url": "http://www.linleygroup.com/newsletters/newsletter_detail.php?num=4881", 
     "resolved_title": "How Apple Designed Own CPU For A6"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "743720173", 
+      "src": "http://chronicle.com/img/photos/biz/photo_55447_wide_large.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Some might consider it a high honor to have their livelihood ridiculed on the right-wing talk-show circuit. Benjamin Kline Hunnicutt did not.", 
+    "word_count": "2607", 
+    "images": {
+      "1": {
+        "src": "http://chronicle.com/img/photos/biz/photo_55447_wide_large.jpg", 
+        "credit": "Matthew Holst for The Chronicle Review", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "743720173", 
+        "caption": "Not so long ago, writes Benjamin Hunnicutt, a professor of leisure studies at the U. of Iowa, Americans expected technological and social progress to lead to reduced working hours.", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://chronicle.com/img/photos/biz/chronreview.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "743720173", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://chronicle.com/img/photos/biz/Leisure-inline.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "743720173", 
+        "caption": "Related Articles -- ", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1413838632", 
+    "status": "0", 
+    "tags": {
+      "work": {
+        "item_id": "743720173", 
+        "tag": "work"
+      }, 
+      "employment": {
+        "item_id": "743720173", 
+        "tag": "employment"
+      }
+    }, 
+    "sort_id": 1415, 
+    "resolved_url": "http://chronicle.com/article/Time-to-Imagine/149395", 
+    "authors": {
+      "2550384": {
+        "item_id": "743720173", 
+        "url": "", 
+        "author_id": "2550384", 
+        "name": "Nathan Schneider"
+      }
+    }, 
+    "item_id": "743720173", 
+    "resolved_id": "743720173", 
+    "given_url": "http://chronicle.com/article/Time-to-Imagine/149395", 
+    "resolved_title": "Time to Imagine : The Chronicle Review : The Chronicle of Higher Education", 
+    "is_index": "0", 
+    "time_updated": "1413838641", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Time to Imagine - The Chronicle Review - The Chronicle of Higher Education", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
