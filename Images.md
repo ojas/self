@@ -38,7 +38,7 @@
 
 ![aNeDGq4_460sa_v1.gif (460×331)](http://d24w6bsrhbeh9d.cloudfront.net/photo/aNeDGq4_460sa_v1.gif)
 
-![6a00d83431352e53ef019b03c8d6d0970d-pi 500×660 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef019b03c8d6d0970d-pi)
+![Ride North - Imgur](http://imgur.com/a/RPa0L)
 
 ![6a00d83431352e53ef01a73dfe6c74970d-pi 500×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73dfe6c74970d-pi)
 
@@ -89,6 +89,8 @@
 ![6a00d83431352e53ef0191044ee03b970c-pi (500×329)](http://www.summerofdan.net/.a/6a00d83431352e53ef0191044ee03b970c-pi)
 
 ![6a00d83431352e53ef01a3fd2b61b3970b-pi 347×260 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fd2b61b3970b-pi)
+
+![6a00d83431352e53ef019b03c8d6d0970d-pi 500×660 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef019b03c8d6d0970d-pi)
 
 ![6a00d83431352e53ef01a511dafe5e970c-pi 346×260 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511dafe5e970c-pi)
 
