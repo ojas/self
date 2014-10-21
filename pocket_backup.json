@@ -867,7 +867,7 @@
       }
     }, 
     "given_title": "Apache Kafka", 
-    "resolved_url": "http://kafka.apache.org/documentation.html#design", 
+    "resolved_url": "http://kafka.apache.org/documentation.html#gettingStarted", 
     "is_article": "1", 
     "item_id": "418064385", 
     "time_added": "1394727555", 
@@ -40888,12 +40888,12 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
+    "status": "1", 
     "is_index": "0", 
     "sort_id": 1418, 
-    "time_updated": "1413900581", 
+    "time_updated": "1413907072", 
     "time_favorited": "0", 
-    "time_read": "0", 
+    "time_read": "1413907072", 
     "excerpt": "Syria, Iraq, Ukraine, Liberia, Ferguson: Summer 2014 has been full of terrible news. NPR's Arun Rath talks to Harvard's Steven Pinker to try to answer the question: Is the world getting more messy?  Copyright \u00a9 2014 NPR. For personal, noncommercial use only. See Terms of Use.", 
     "has_image": "0", 
     "favorite": "0", 
@@ -60065,7 +60065,7 @@
     }, 
     "has_video": "0", 
     "time_added": "1413838632", 
-    "status": "0", 
+    "status": "1", 
     "tags": {
       "work": {
         "item_id": "743720173", 
@@ -60091,9 +60091,9 @@
     "given_url": "http://chronicle.com/article/Time-to-Imagine/149395", 
     "resolved_title": "Time to Imagine : The Chronicle Review : The Chronicle of Higher Education", 
     "is_index": "0", 
-    "time_updated": "1413838641", 
+    "time_updated": "1413907177", 
     "time_favorited": "0", 
-    "time_read": "0", 
+    "time_read": "1413907177", 
     "favorite": "0", 
     "given_title": "Time to Imagine - The Chronicle Review - The Chronicle of Higher Education", 
     "has_image": "1"
