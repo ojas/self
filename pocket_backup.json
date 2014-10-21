@@ -44688,7 +44688,7 @@
       }
     }, 
     "given_title": "Learning How to Exert Self-Control - NYTimes.com", 
-    "resolved_url": "http://mobile.nytimes.com/2014/09/14/opinion/sunday/learning-self-control.html", 
+    "resolved_url": "http://mobile.nytimes.com/2014/09/14/opinion/sunday/learning-self-control.html#modal-sharetools", 
     "is_article": "1", 
     "item_id": "713622518", 
     "time_added": "1410642051", 
@@ -65447,6 +65447,52 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "100426588", 
+      "src": "http://www.ark.cs.cmu.edu/TweetNLP/deptree.jpg", 
+      "height": "0", 
+      "width": "100"
+    }, 
+    "excerpt": "We provide a dependency parser for English tweets, TweeboParser . The parser is trained on a subset of a new labeled corpus for 929 tweets (12,318 tokens) drawn from the POS-tagged tweet corpus of Owoputi et al. (2013) , Tweebank .", 
+    "word_count": "253", 
+    "images": {
+      "1": {
+        "src": "http://www.ark.cs.cmu.edu/TweetNLP/deptree.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "100426588", 
+        "caption": "", 
+        "width": "100"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1413928827", 
+    "status": "0", 
+    "sort_id": 1419, 
+    "resolved_url": "http://www.ark.cs.cmu.edu/TweetNLP/", 
+    "authors": {
+      "5092075": {
+        "item_id": "100426588", 
+        "url": "http://people.csail.mit.edu/jacobe", 
+        "author_id": "5092075", 
+        "name": "Jacob Eisenstein"
+      }
+    }, 
+    "item_id": "100426588", 
+    "resolved_id": "100426588", 
+    "given_url": "http://www.ark.cs.cmu.edu/TweetNLP/", 
+    "resolved_title": "Twitter Natural Language Processing : Noah's ARK", 
+    "is_index": "1", 
+    "time_updated": "1413928827", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Twitter Natural Language Processing -- Noah's ARK", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 995, 
@@ -74375,7 +74421,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/#postComment", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
