@@ -65447,14 +65447,22 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1419, 
+    "time_updated": "1413928827", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "We provide a dependency parser for English tweets, TweeboParser . The parser is trained on a subset of a new labeled corpus for 929 tweets (12,318 tokens) drawn from the POS-tagged tweet corpus of Owoputi et al. (2013) , Tweebank .", 
     "image": {
       "item_id": "100426588", 
       "src": "http://www.ark.cs.cmu.edu/TweetNLP/deptree.jpg", 
       "height": "0", 
       "width": "100"
     }, 
-    "excerpt": "We provide a dependency parser for English tweets, TweeboParser . The parser is trained on a subset of a new labeled corpus for 929 tweets (12,318 tokens) drawn from the POS-tagged tweet corpus of Owoputi et al. (2013) , Tweebank .", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
     "word_count": "253", 
     "images": {
       "1": {
@@ -65467,30 +65475,14 @@
         "width": "100"
       }
     }, 
-    "has_video": "0", 
-    "time_added": "1413928827", 
-    "status": "0", 
-    "sort_id": 1419, 
+    "given_title": "Twitter Natural Language Processing -- Noah's ARK", 
     "resolved_url": "http://www.ark.cs.cmu.edu/TweetNLP/", 
-    "authors": {
-      "5092075": {
-        "item_id": "100426588", 
-        "url": "http://people.csail.mit.edu/jacobe", 
-        "author_id": "5092075", 
-        "name": "Jacob Eisenstein"
-      }
-    }, 
+    "is_article": "1", 
     "item_id": "100426588", 
+    "time_added": "1413928827", 
     "resolved_id": "100426588", 
     "given_url": "http://www.ark.cs.cmu.edu/TweetNLP/", 
-    "resolved_title": "Twitter Natural Language Processing : Noah's ARK", 
-    "is_index": "1", 
-    "time_updated": "1413928827", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "Twitter Natural Language Processing -- Noah's ARK", 
-    "has_image": "1"
+    "resolved_title": "Twitter Natural Language Processing : Noah's ARK"
   }, 
   {
     "status": "0", 
