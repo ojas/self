@@ -34784,7 +34784,7 @@
       "width": "600"
     }, 
     "excerpt": "GOD, as we know, works in mysterious ways. Back in the spring of 2011, Gerry Owen, an assistant pastor at a megachurch in Garland, Tex., was reading through the comment cards that worshipers drop in a box at the back of the church after Sunday services.", 
-    "word_count": "845", 
+    "word_count": "3435", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
@@ -34795,6 +34795,15 @@
         "caption": "Melissa Owen, center, in her new coffeehouse in Plano, Tex., which opened with help from a career mentor. ", 
         "width": "600"
       }, 
+      "3": {
+        "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR-JP4/15-MENTOR-JP4-articleInline.jpg", 
+        "credit": "Christopher Capozziello for The New York Times", 
+        "height": "293", 
+        "image_id": "3", 
+        "item_id": "438211560", 
+        "caption": "The coffeehouse mentor Duncan Goodall in his shop in New Haven. His No.\u00a01 rule for those aspiring to his line of work: \u201cFigure out your niche.\u201d Then, he says, cater to it, in everything from shop d\u00e9cor to advertising.                            ", 
+        "width": "190"
+      }, 
       "2": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR2-cake/15-MENTOR2SUB-1379017197323-articleInline.jpg", 
         "credit": "Rex C. Curry for The New York Times", 
@@ -34802,6 +34811,15 @@
         "image_id": "2", 
         "item_id": "438211560", 
         "caption": "Cake balls at Ms. Owen's shop on opening day.                            ", 
+        "width": "190"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR-JP6/15-MENTOR-JP6-articleInline.jpg", 
+        "credit": "Rex C. Curry for The New York Times", 
+        "height": "157", 
+        "image_id": "4", 
+        "item_id": "438211560", 
+        "caption": "Gerry and Melissa Owen in their Plano shop. While Ms. Owen has quit her job as a nurse, Mr. Owen kept his as an assistant pastor. Of their mentor\u2019s tips for starting the shop, Mr. Owen says, \u201cHis ideas still echo.\u201d                            ", 
         "width": "190"
       }
     }, 
@@ -60245,7 +60263,7 @@
       }
     }, 
     "sort_id": 1415, 
-    "resolved_url": "http://chronicle.com/article/Time-to-Imagine/149395", 
+    "resolved_url": "http://chronicle.com/article/Time-to-Imagine/149395/", 
     "authors": {
       "2550384": {
         "item_id": "743720173", 
@@ -71945,7 +71963,7 @@
       "width": "600"
     }, 
     "excerpt": "MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "5017", 
+    "word_count": "858", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -71972,42 +71990,6 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
-        "width": "190"
-      }, 
-      "5": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
-        "credit": "Tyler Clay", 
-        "height": "275", 
-        "image_id": "5", 
-        "item_id": "401365344", 
-        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
-        "width": "190"
-      }, 
-      "4": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
-        "credit": "Fabrizio Costantini for The New York Times", 
-        "height": "127", 
-        "image_id": "4", 
-        "item_id": "401365344", 
-        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
-        "width": "190"
-      }, 
-      "7": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "7", 
-        "item_id": "401365344", 
-        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
-        "width": "190"
-      }, 
-      "6": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "6", 
-        "item_id": "401365344", 
-        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
