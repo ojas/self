@@ -22278,7 +22278,7 @@
       "width": "570"
     }, 
     "excerpt": "There\u2019s a certain sinking feeling one gets when thinking of the perfect thing to say just a moment too late. Perhaps a witty parting word could have made all the difference.", 
-    "word_count": "527", 
+    "word_count": "1401", 
     "images": {
       "1": {
         "src": "http://cdn.theatlantic.com/static/newsroom/img/mt/2014/10/shutterstock_105474239/lead.jpg?ndln5z", 
@@ -60168,7 +60168,7 @@
       }
     }, 
     "sort_id": 1415, 
-    "resolved_url": "http://chronicle.com/article/Time-to-Imagine/149395/", 
+    "resolved_url": "http://chronicle.com/article/Time-to-Imagine/149395", 
     "authors": {
       "2550384": {
         "item_id": "743720173", 
@@ -65516,7 +65516,7 @@
       }
     }, 
     "given_title": "Twitter Natural Language Processing -- Noah's ARK", 
-    "resolved_url": "http://www.ark.cs.cmu.edu/TweetNLP", 
+    "resolved_url": "http://www.ark.cs.cmu.edu/TweetNLP/", 
     "is_article": "1", 
     "item_id": "100426588", 
     "time_added": "1413928827", 
