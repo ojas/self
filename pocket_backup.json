@@ -1626,7 +1626,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "https://wac.A8B5.edgecastcdn.net/80A8B5/static-assets/assets/homepage/companies-badge-06fcc3728c0c0f1b56a9396399cac3d8.png", 
+        "src": "https://wac.A8B5.edgecastcdn.net/80A8B5/static-assets/assets/homepage/companies-badge-c71e44edde4510d138b6e392046d6334.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -1654,7 +1654,7 @@
       }
     }, 
     "given_title": "Learn Web Design, Web Development, and More | Treehouse", 
-    "resolved_url": "https://teamtreehouse.com/", 
+    "resolved_url": "http://teamtreehouse.com/", 
     "is_article": "0", 
     "item_id": "100571499", 
     "time_added": "1369769479", 
@@ -17267,6 +17267,27 @@
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
     "resolved_title": "Welcome to Twitter."
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1425, 
+    "time_updated": "1414075902", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "custom kit cars canopy - Google Search", 
+    "resolved_url": "https://www.google.com/search?q=custom+kit+cars+canopy&client=safari&rls=en&biw=1439&bih=802&tbm=isch&tbo=u&source=univ&sa=X&ei=GX5IVI3oHMKMyAT0xYDADA&ved=0CD8QsAQ", 
+    "is_article": "0", 
+    "item_id": "746744939", 
+    "time_added": "1414075900", 
+    "resolved_id": "746744939", 
+    "given_url": "https://www.google.com/search?q=custom+kit+cars+canopy&client=safari&rls=en&biw=1439&bih=802&tbm=isch&tbo=u&source=univ&sa=X&ei=GX5IVI3oHMKMyAT0xYDADA&ved=0CD8QsAQ", 
+    "resolved_title": "custom kit cars canopy"
   }, 
   {
     "videos": {
@@ -47972,7 +47993,7 @@
     "item_id": "689184535", 
     "resolved_id": "689184535", 
     "given_url": "https://medium.com/message/how-to-be-polite-9bf1e69e888c", 
-    "resolved_title": "How to Be Polite \u2014 The Message \u2014 Medium", 
+    "resolved_title": "How to Be Polite", 
     "is_index": "0", 
     "time_updated": "1410492354", 
     "time_favorited": "0", 
@@ -56478,6 +56499,62 @@
     "resolved_id": "209928417", 
     "given_url": "http://www.aaronsw.com/weblog/rawnerve", 
     "resolved_title": "Raw Nerve (Aaron Swartz's Raw Thought)"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1426, 
+    "time_updated": "1414075965", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "It's simple, We put our money into trades, Unmatched Advertising, We offer Financing, Global Exposure, Quick Turnover, Care and Respect for your Vehicle.", 
+    "image": {
+      "item_id": "746745836", 
+      "src": "http://dealeraccelerate-all.s3.amazonaws.com/ag/images/1/4/4/0/1440/112814_4c2eb0ff77_low_res.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "62", 
+    "images": {
+      "1": {
+        "src": "http://dealeraccelerate-all.s3.amazonaws.com/ag/images/1/4/4/0/1440/112814_4c2eb0ff77_low_res.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "746745836", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://dealeraccelerate-all.s3.amazonaws.com/ag/images/9/8/4/984/85782_039c5100a0_low_res.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "746745836", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://dealeraccelerate-all.s3.amazonaws.com/ag/images/1/4/2/6/1426/108326_11bbfe0bfe_low_res.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "746745836", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Welcome To GR Auto Gallery | GR Auto Gallery", 
+    "resolved_url": "http://www.grautogallery.com/", 
+    "is_article": "0", 
+    "item_id": "746745836", 
+    "time_added": "1414075964", 
+    "resolved_id": "746745836", 
+    "given_url": "http://www.grautogallery.com/", 
+    "resolved_title": "Welcome To GR Auto Gallery | GR Auto Gallery"
   }, 
   {
     "status": "1", 
@@ -73050,6 +73127,52 @@
     "resolved_id": "488232500", 
     "given_url": "http://web.archive.org/web/20091003023412/http://tothink.com/mnemonic/wordlist.txt", 
     "resolved_title": ""
+  }, 
+  {
+    "is_article": "0", 
+    "image": {
+      "item_id": "746744869", 
+      "src": "http://priceofhistoys.com/wp-content/uploads/2009/03/custom-brubaker-box-kit-car-31.jpg", 
+      "height": "225", 
+      "width": "300"
+    }, 
+    "excerpt": "", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://priceofhistoys.com/wp-content/uploads/2009/03/custom-brubaker-box-kit-car-31.jpg", 
+        "credit": "", 
+        "height": "225", 
+        "image_id": "1", 
+        "item_id": "746744869", 
+        "caption": "", 
+        "width": "300"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1414075896", 
+    "status": "0", 
+    "sort_id": 1424, 
+    "resolved_url": "http://priceofhistoys.com/2009/03/07/more-brubaker-box-photos/custom-brubaker-box-kit-car-3/", 
+    "authors": {
+      "20181660": {
+        "item_id": "746744869", 
+        "url": "http://priceofhistoys.com/author/shannon-larratt/", 
+        "author_id": "20181660", 
+        "name": "Shannon Larratt"
+      }
+    }, 
+    "item_id": "746744869", 
+    "resolved_id": "746744869", 
+    "given_url": "http://priceofhistoys.com/2009/03/07/more-brubaker-box-photos/custom-brubaker-box-kit-car-3/", 
+    "resolved_title": "custom-brubaker-box-kit-car-30 Comment", 
+    "is_index": "0", 
+    "time_updated": "1414075901", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "custom-brubaker-box-kit-car-3 | Price Of His Toys", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
