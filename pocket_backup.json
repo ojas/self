@@ -12420,6 +12420,73 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1423, 
+    "time_updated": "1414038938", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Warren Mosler, starved of orders and staff, is quitting the supercar business and trying to sell his company.\u00a0In 26 years, Mosler sold fewer than 200 cars and now is down to two employees and one remaining car at his southern Florida headquarters. He hasn\u2019t sold a car for the past two years.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1115", 
+    "images": {
+      "3": {
+        "src": "http://blog.caranddriver.com/wp-content/uploads/2012/11/MT900.jpg", 
+        "credit": "", 
+        "height": "413", 
+        "image_id": "3", 
+        "item_id": "251465932", 
+        "caption": "", 
+        "width": "626"
+      }, 
+      "2": {
+        "src": "http://blog.caranddriver.com/wp-content/uploads/2012/11/RaptorGTR-at-Festivals-of-Speed-Miami-front-sm.jpeg", 
+        "credit": "", 
+        "height": "395", 
+        "image_id": "2", 
+        "item_id": "251465932", 
+        "caption": "", 
+        "width": "626"
+      }, 
+      "5": {
+        "src": "http://blog.caranddriver.com/wp-content/uploads/2012/11/Mosler-racer.jpg", 
+        "credit": "", 
+        "height": "415", 
+        "image_id": "5", 
+        "item_id": "251465932", 
+        "caption": "", 
+        "width": "626"
+      }, 
+      "4": {
+        "src": "http://blog.caranddriver.com/wp-content/uploads/2012/11/RaptorGTR-at-Festivals-of-Speed-rear-sm.jpeg", 
+        "credit": "", 
+        "height": "365", 
+        "image_id": "4", 
+        "item_id": "251465932", 
+        "caption": "", 
+        "width": "626"
+      }
+    }, 
+    "authors": {
+      "3060461": {
+        "item_id": "251465932", 
+        "url": "http://www.caranddriver.com/search/all/author/CLIFFORD+ATIYEH", 
+        "author_id": "3060461", 
+        "name": "CLIFFORD ATIYEH"
+      }
+    }, 
+    "given_title": "The Final Days of Mosler \u2013 News \u2013\u00a0Car and Driver | Car and Driver Blog", 
+    "resolved_url": "http://blog.caranddriver.com/the-final-days-of-mosler-one-supercar-left-to-move-company-for-sale/", 
+    "is_article": "1", 
+    "item_id": "251465932", 
+    "time_added": "1414038938", 
+    "resolved_id": "251465932", 
+    "given_url": "http://blog.caranddriver.com/the-final-days-of-mosler-one-supercar-left-to-move-company-for-sale/", 
+    "resolved_title": "The Final Days of Mosler \u2013 News \u2013\u00a0Car and Driver"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "350357634", 
@@ -34696,7 +34763,7 @@
       "width": "600"
     }, 
     "excerpt": "GOD, as we know, works in mysterious ways. Back in the spring of 2011, Gerry Owen, an assistant pastor at a megachurch in Garland, Tex., was reading through the comment cards that worshipers drop in a box at the back of the church after Sunday services.", 
-    "word_count": "3435", 
+    "word_count": "845", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
@@ -34707,15 +34774,6 @@
         "caption": "Melissa Owen, center, in her new coffeehouse in Plano, Tex., which opened with help from a career mentor. ", 
         "width": "600"
       }, 
-      "3": {
-        "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR-JP4/15-MENTOR-JP4-articleInline.jpg", 
-        "credit": "Christopher Capozziello for The New York Times", 
-        "height": "293", 
-        "image_id": "3", 
-        "item_id": "438211560", 
-        "caption": "The coffeehouse mentor Duncan Goodall in his shop in New Haven. His No.\u00a01 rule for those aspiring to his line of work: \u201cFigure out your niche.\u201d Then, he says, cater to it, in everything from shop d\u00e9cor to advertising.                            ", 
-        "width": "190"
-      }, 
       "2": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR2-cake/15-MENTOR2SUB-1379017197323-articleInline.jpg", 
         "credit": "Rex C. Curry for The New York Times", 
@@ -34723,15 +34781,6 @@
         "image_id": "2", 
         "item_id": "438211560", 
         "caption": "Cake balls at Ms. Owen's shop on opening day.                            ", 
-        "width": "190"
-      }, 
-      "4": {
-        "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR-JP6/15-MENTOR-JP6-articleInline.jpg", 
-        "credit": "Rex C. Curry for The New York Times", 
-        "height": "157", 
-        "image_id": "4", 
-        "item_id": "438211560", 
-        "caption": "Gerry and Melissa Owen in their Plano shop. While Ms. Owen has quit her job as a nurse, Mr. Owen kept his as an assistant pastor. Of their mentor\u2019s tips for starting the shop, Mr. Owen says, \u201cHis ideas still echo.\u201d                            ", 
         "width": "190"
       }
     }, 
@@ -66592,6 +66641,143 @@
         "tag": "webdev"
       }
     }
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1422, 
+    "time_updated": "1414036184", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "image": {
+      "item_id": "647663288", 
+      "src": "http://hymanltd.com/wp/wp-content/uploads/2014/01/50661-640x480.jpg", 
+      "height": "480", 
+      "width": "640"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "images": {
+      "11": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2014/01/5070-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "11", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "10": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2013/08/4822-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "10", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "12": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2014/05/5137-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "12", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "1": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2014/01/50661-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "1", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "3": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2014/05/5141-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "3", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "2": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2013/07/4804-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "2", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "5": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2013/11/4967-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "5", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "4": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2014/03/5103-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "4", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "7": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2013/11/5009-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "7", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "6": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2014/01/5034-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "6", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "9": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2013/11/5017-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "9", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "8": {
+        "src": "http://hymanltd.com/wp/wp-content/uploads/2013/11/5011-640x480.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "8", 
+        "item_id": "647663288", 
+        "caption": "", 
+        "width": "640"
+      }
+    }, 
+    "given_title": "Inventory | Hyman Ltd. Classic Cars", 
+    "resolved_url": "http://hymanltd.com/view/inventory/", 
+    "is_article": "0", 
+    "item_id": "647663288", 
+    "time_added": "1414036184", 
+    "resolved_id": "647663288", 
+    "given_url": "http://hymanltd.com/view/inventory/", 
+    "resolved_title": "Inventory"
   }, 
   {
     "status": "0", 
