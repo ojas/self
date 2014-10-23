@@ -69145,7 +69145,7 @@
       "width": "0"
     }, 
     "excerpt": "We know how most black holes in the Universe form: from the deaths of very massive stars (maybe 20 times the mass of our Sun and up), giving rise to black holes maybe three times our Sun\u2019s mass and upwards.", 
-    "word_count": "1910", 
+    "word_count": "1927", 
     "images": {
       "11": {
         "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*dKe0RYj1uhK8RpHugBKz_Q.jpeg", 
@@ -69181,6 +69181,15 @@
         "image_id": "12", 
         "item_id": "641267377", 
         "caption": "Image composite credits: False color: X-ray image from the Chandra X-ray Observatory;contours: 1.4 GHz radio image from the Very Large Array.", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/fit/c/160/160/1*VH9usPh601npohqlvpnxvg.jpeg", 
+        "credit": " Image  NASA / ESA / Andrew C. Fabian / Remco C. E. van den Bosch (MPIA)", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "641267377", 
+        "caption": "", 
         "width": "0"
       }, 
       "1": {
