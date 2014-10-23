@@ -20004,11 +20004,11 @@
     "time_updated": "1411081571", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Filenames and Pathnames in Shell: How to do it Correctly David A. Wheeler  Many Bourne shell scripts (as run by bash, dash, ash, ksh, and so on) do not handle filenames and pathnames correctly. Some shell programming books teach it wrongly, and even the POSIX standard sometimes gets it wrong.", 
+    "excerpt": "Filenames and Pathnames in Shell: How to do it Correctly David A. Wheeler  Many Bourne shell scripts (as run by bash, dash, ash, ksh, and so on) do not handle filenames and pathnames correctly on Unix-like/POSIX systems.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "7346", 
+    "word_count": "7485", 
     "given_title": "Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on): How to ", 
     "resolved_url": "http://www.dwheeler.com/essays/filenames-in-shell.html", 
     "is_article": "0", 
@@ -52359,23 +52359,15 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "1", 
-    "sort_id": 1109, 
-    "time_updated": "1399907315", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Roshi implements a time-series event storage via a LWW-element-set CRDT with inline garbage collection. Roshi is a stateless, distributed layer on top of Redis and is implemented in Go. It is partition tolerant, highly available and eventually consistent.", 
+    "is_article": "1", 
     "image": {
       "item_id": "525647205", 
       "src": "https://camo.githubusercontent.com/29f8a2b1fcbc9945ea998fa8b0c301307673dd42/68747470733a2f2f7472617669732d63692e6f72672f736f756e64636c6f75642f726f7368692e706e67", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "1390", 
+    "excerpt": "Roshi implements a time-series event storage via a LWW-element-set CRDT with limited inline garbage collection. Roshi is a stateless, distributed layer on top of Redis and is implemented in Go. It is partition tolerant, highly available and eventually consistent.", 
+    "word_count": "1958", 
     "images": {
       "1": {
         "src": "https://camo.githubusercontent.com/29f8a2b1fcbc9945ea998fa8b0c301307673dd42/68747470733a2f2f7472617669732d63692e6f72672f736f756e64636c6f75642f726f7368692e706e67", 
@@ -52386,8 +52378,17 @@
         "caption": "", 
         "width": "0"
       }, 
+      "3": {
+        "src": "https://camo.githubusercontent.com/a58ab4eb770cc1429d291d77ced4cf5f88d9154f/687474703a2f2f692e696d6775722e636f6d2f5345654b7175572e706e67", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "525647205", 
+        "caption": "", 
+        "width": "0"
+      }, 
       "2": {
-        "src": "https://camo.githubusercontent.com/561c0f9d9eb3eb22970718f6f08938d3fa4b0a88/687474703a2f2f692e696d6775722e636f6d2f433277324a79732e706e67", 
+        "src": "https://camo.githubusercontent.com/ee18d99ba5cf66085462907ecc08a00aea9b06e7/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f736f756e64636c6f75642f726f7368693f7374617475732e737667", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -52396,14 +52397,30 @@
         "width": "0"
       }
     }, 
-    "given_title": "soundcloud/roshi", 
-    "resolved_url": "https://github.com/soundcloud/roshi", 
-    "is_article": "1", 
-    "item_id": "525647205", 
+    "has_video": "0", 
     "time_added": "1399907315", 
+    "status": "0", 
+    "sort_id": 1109, 
+    "resolved_url": "https://github.com/soundcloud/roshi", 
+    "authors": {
+      "24188900": {
+        "item_id": "525647205", 
+        "url": "https://github.com/peterbourgon", 
+        "author_id": "24188900", 
+        "name": "peterbourgon"
+      }
+    }, 
+    "item_id": "525647205", 
     "resolved_id": "525647205", 
     "given_url": "https://github.com/soundcloud/roshi", 
-    "resolved_title": "soundcloud/roshi \u00b7 GitHub"
+    "resolved_title": "soundcloud/roshi", 
+    "is_index": "1", 
+    "time_updated": "1399907315", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "soundcloud/roshi", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
