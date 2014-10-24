@@ -22299,7 +22299,7 @@
       "width": "570"
     }, 
     "excerpt": "There\u2019s a certain sinking feeling one gets when thinking of the perfect thing to say just a moment too late. Perhaps a witty parting word could have made all the difference.", 
-    "word_count": "1401", 
+    "word_count": "874", 
     "images": {
       "1": {
         "src": "http://cdn.theatlantic.com/static/newsroom/img/mt/2014/10/shutterstock_105474239/lead.jpg?ndln5z", 
@@ -39491,65 +39491,31 @@
     "resolved_title": "Teaching Me Softly"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "669197592", 
-      "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720COVER/0720COVER-master495.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "ABD AL-RAHMAN III was an emir and caliph of C\u00f3rdoba in 10th-century Spain. He was an absolute ruler who lived in complete luxury. Here\u2019s how he assessed his life:  Fame, riches and pleasure beyond imagination. Sound great? He went on to write:", 
-    "word_count": "2208", 
-    "images": {
-      "1": {
-        "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720COVER/0720COVER-master495.jpg", 
-        "credit": "\n            \n            Andrew DeGraff        ", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "669197592", 
-        "caption": "\n            Credit\n            Andrew DeGraff        \n            ", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720unhappinessJUMP/0720unhappinessJUMP-blog427.jpg", 
-        "credit": "\n            \n            Andrew DeGraff        ", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "669197592", 
-        "caption": "\n            Credit\n            Andrew DeGraff        \n            ", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1405950232", 
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1214, 
+    "time_updated": "1412761861", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "Love People, Not Pleasure - NYTimes.com", 
+    "resolved_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html", 
+    "is_article": "0", 
+    "item_id": "669197592", 
+    "time_added": "1405950232", 
+    "resolved_id": "669197603", 
+    "given_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html?_r=1", 
+    "resolved_title": "", 
     "tags": {
       "happiness": {
         "item_id": "669197592", 
         "tag": "happiness"
       }
-    }, 
-    "sort_id": 1214, 
-    "resolved_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html", 
-    "authors": {
-      "17918641": {
-        "item_id": "669197592", 
-        "url": "http://topics.nytimes.com/top/reference/timestopics/people/b/arthur_c_brooks/index.html", 
-        "author_id": "17918641", 
-        "name": "Arthur C. Brooks"
-      }
-    }, 
-    "item_id": "669197592", 
-    "resolved_id": "669197603", 
-    "given_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html?_r=1", 
-    "resolved_title": "Love People, Not Pleasure", 
-    "is_index": "0", 
-    "time_updated": "1412761861", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "Love People, Not Pleasure - NYTimes.com", 
-    "has_image": "1"
+    }
   }, 
   {
     "videos": {
@@ -47208,6 +47174,17 @@
     "resolved_title": "Smiley News Blog"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "//player.vimeo.com/video/44182484", 
+        "vid": "44182484", 
+        "video_id": "1", 
+        "height": "281", 
+        "width": "500", 
+        "item_id": "98175635", 
+        "type": "4"
+      }
+    }, 
     "is_article": "1", 
     "image": {
       "item_id": "98175635", 
@@ -47216,7 +47193,7 @@
       "width": "500"
     }, 
     "excerpt": "This comprehensive primer on the internal operations of WebKit and Gecko is the result of much research done by Israeli developer Tali Garsiel. Over a few years, she reviewed all the published data about browser internals (see Resources) and spent a lot of time reading web browser source code.", 
-    "word_count": "10688", 
+    "word_count": "10700", 
     "images": {
       "24": {
         "src": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/image069.png", 
@@ -47444,7 +47421,7 @@
         "width": "150"
       }
     }, 
-    "has_video": "0", 
+    "has_video": "1", 
     "time_added": "1346212979", 
     "status": "0", 
     "sort_id": 5, 
@@ -76565,7 +76542,7 @@
       }
     }, 
     "sort_id": 566, 
-    "resolved_url": "https://www.polymer-project.org/", 
+    "resolved_url": "http://polymer-project.org/", 
     "item_id": "358100412", 
     "resolved_id": "358100412", 
     "given_url": "http://www.polymer-project.org/", 
