@@ -14216,6 +14216,27 @@
     "resolved_title": "Religious Ragings : for-all-mankind : dannysauruswrecks : This just..."
   }, 
   {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1427, 
+    "time_updated": "1414250099", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Sorry, Well Workouts requires iOS 7 or greater, the Android Chrome browser, or Internet Explorer 11. Try going to www.nytimes.com/7-minute-workout on your phone.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "24", 
+    "given_title": "Workouts", 
+    "resolved_url": "http://well.blogs.nytimes.com/projects/workouts/", 
+    "is_article": "0", 
+    "item_id": "747580378", 
+    "time_added": "1414250099", 
+    "resolved_id": "747580378", 
+    "given_url": "http://well.blogs.nytimes.com/projects/workouts/", 
+    "resolved_title": "Well Workouts"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "471276137", 
@@ -17748,7 +17769,7 @@
       }
     }, 
     "sort_id": 69, 
-    "resolved_url": "http://worrydream.com/LearnableProgramming", 
+    "resolved_url": "http://worrydream.com/LearnableProgramming/", 
     "item_id": "228364941", 
     "resolved_id": "228364941", 
     "given_url": "http://worrydream.com/LearnableProgramming/", 
@@ -74822,7 +74843,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
