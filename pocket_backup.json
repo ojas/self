@@ -20379,6 +20379,88 @@
     "resolved_title": "Explore \u2013 Famous truths on learning from designer Bilyana..."
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "746094749", 
+      "src": "http://static01.nyt.com/images/2014/10/26/magazine/26counterclockwise2/26counterclockwise2-master1050-v11.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "One day in the fall of 1981, eight men in their 70s stepped out of a van in front of a converted monastery in New Hampshire. They shuffled forward, a few of them arthritically stooped, a couple with canes. Then they passed through the door and entered a time warp.", 
+    "word_count": "5508", 
+    "images": {
+      "1": {
+        "src": "http://static01.nyt.com/images/2014/10/26/magazine/26counterclockwise2/26counterclockwise2-master1050-v11.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "746094749", 
+        "caption": "\n            Credit\n            Photo illustrations by Zachary Scott for The New York Times. Hair and Makeup: Bruce Spaulding Fuller, Aimee Macabeo, Stephanie Daniel. Wardobe: Gillean McLeod. Set and Props: Patrick Muller. Retouching: Electric Art, Amy Dresser.        ", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://static01.nyt.com/images/2014/10/26/magazine/26CounterClockwise-slide-DHKA/26CounterClockwise-slide-DHKA-blog427.jpg", 
+        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.         ", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "746094749", 
+        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.         \n            ", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-8IGX/2626counterclockwise-slide-8IGX-blog427.jpg", 
+        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.        ", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "746094749", 
+        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.        \n            ", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-TNNM/2626counterclockwise-slide-TNNM-blog427.jpg", 
+        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.        ", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "746094749", 
+        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.        \n            ", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-2PGC/2626counterclockwise-slide-2PGC-blog427.jpg", 
+        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.        ", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "746094749", 
+        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.        \n            ", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1414257934", 
+    "status": "0", 
+    "sort_id": 1430, 
+    "resolved_url": "http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html", 
+    "authors": {
+      "106871": {
+        "item_id": "746094749", 
+        "url": "", 
+        "author_id": "106871", 
+        "name": "BRUCE GRIERSON"
+      }
+    }, 
+    "item_id": "746094749", 
+    "resolved_id": "745560498", 
+    "given_url": "http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?emc=eta1", 
+    "resolved_title": "What if Age Is Nothing but a Mind-Set?", 
+    "is_index": "0", 
+    "time_updated": "1414257934", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "What if Age Is Nothing but a Mind-Set? - NYTimes.com", 
+    "has_image": "1"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://vimeo.com/play_redirect?clip_id=66289020&quality=hd", 
@@ -46797,6 +46879,61 @@
     "resolved_id": "438999706", 
     "given_url": "http://zenhabits.net/pixar/", 
     "resolved_title": "8 Creativity Lessons from a Pixar Animator"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "515265839", 
+      "src": "http://revolution-computing.typepad.com/.a/6a010534b1db25970b019b0172129c970c-800wi", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "If, like me, you struggled to understand the Fourier Transformation when you first learned about it, this succinct one-sentence colour-coded explanation from Stuart Riffle probably comes several years too late:  Stuart provides a more detailed explanation here.", 
+    "word_count": "262", 
+    "images": {
+      "1": {
+        "src": "http://revolution-computing.typepad.com/.a/6a010534b1db25970b019b0172129c970c-800wi", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "515265839", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://a0.typepad.com/6a0105360ba1c6970c019b017f99c0970b-400wi", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "515265839", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1414256960", 
+    "status": "0", 
+    "sort_id": 1429, 
+    "resolved_url": "http://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html", 
+    "authors": {
+      "2476663": {
+        "item_id": "515265839", 
+        "url": "http://profile.typepad.com/revolutiondavid", 
+        "author_id": "2476663", 
+        "name": "David Smith"
+      }
+    }, 
+    "item_id": "515265839", 
+    "resolved_id": "515265839", 
+    "given_url": "http://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html", 
+    "resolved_title": "The Fourier Transform, explained in one sentence", 
+    "is_index": "0", 
+    "time_updated": "1414256960", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The Fourier Transform, explained in one sentence", 
+    "has_image": "1"
   }, 
   {
     "is_article": "0", 
