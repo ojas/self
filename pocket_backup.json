@@ -10487,7 +10487,7 @@
       "width": "480"
     }, 
     "excerpt": "A few of his main points: It\u2019s not moral to prolong the lives of the poor who are suffering when you could be alleviating their suffering instead. Amusing the poor doesn\u2019t help the poor, and in fact it\u2019s mean, as it binds them to their subordinate place.", 
-    "word_count": "499", 
+    "word_count": "435", 
     "images": {
       "1": {
         "src": "http://img.youtube.com/vi/hpAMbpQ8J7g/0.jpg", 
@@ -12107,11 +12107,11 @@
   {
     "videos": {
       "1": {
-        "src": "http://www.youtube.com/embed/bMtyhVqV4nc?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&rel=0&showinfo=1&showsearch=0", 
-        "vid": "bMtyhVqV4nc", 
+        "src": "https://www.youtube.com/embed/VQ2bjy71PAc?feature=oembed", 
+        "vid": "VQ2bjy71PAc", 
         "video_id": "1", 
-        "height": "281", 
-        "width": "500", 
+        "height": "393", 
+        "width": "700", 
         "item_id": "148613092", 
         "type": "1"
       }
@@ -12119,15 +12119,15 @@
     "is_article": "0", 
     "image": {
       "item_id": "148613092", 
-      "src": "http://img.youtube.com/vi/bMtyhVqV4nc/0.jpg", 
+      "src": "http://img.youtube.com/vi/VQ2bjy71PAc/0.jpg", 
       "height": "360", 
       "width": "480"
     }, 
     "excerpt": "Instead of TV, you should watch...", 
-    "word_count": "17", 
+    "word_count": "14", 
     "images": {
       "1": {
-        "src": "http://img.youtube.com/vi/bMtyhVqV4nc/0.jpg", 
+        "src": "http://img.youtube.com/vi/VQ2bjy71PAc/0.jpg", 
         "credit": "", 
         "height": "360", 
         "image_id": "1", 
@@ -32452,6 +32452,27 @@
     "resolved_id": "351174215", 
     "given_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef01901bcf002c970b-pi", 
     "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1431, 
+    "time_updated": "1414266383", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Skip to main content YOUR DETAIL AWAITS. CALL 512.266.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "9", 
+    "given_title": "Texas Shine", 
+    "resolved_url": "http://www.texasshine.com/", 
+    "is_article": "0", 
+    "item_id": "748554967", 
+    "time_added": "1414266380", 
+    "resolved_id": "748554967", 
+    "given_url": "http://www.texasshine.com/", 
+    "resolved_title": "Texas Shine"
   }, 
   {
     "status": "0", 
