@@ -6,6 +6,7 @@
 - [Instagram](http://instagram.com/p/srBO9ikMaC/) - 
 - [The Blog of Author Tim Ferriss](http://fourhourworkweek.com/2013/07/14/how-to-travel-21-contrarian-rules/#more-9724) - To his 21 rules, I’ve added a few of my own tricks. Please share your own rules and tips in the comments!  Why are you traveling?
 - [Instagram](http://instagram.com/p/jrg9PsilKD/) - 
+- [So you want to visit Tasmania?](http://imgur.com/a/QkPso) - 
 - [To Sua Ocean Trench](http://www.samoa.travel/sightseeing/x40/to-sua-ocean-trench) - To Sua Ocean Trench is one of the ideallic sites that is located in Lotofaga village. Few sites are situated in the same area, including blowholes, and an incredible small beach on the western side. To Sua is otherwise translated as 'big hole' that is converted into a large swimming area.
 - [The Blog of Author Tim Ferriss](http://fourhourworkweek.com/2008/07/30/12-gems-of-the-pacific-northwest-coast-plus-200-tweets-my-thoughts-on-practical-twitter-use/) - The unbelievable Oregon coastline. (Photo: liquidskyarts)  Six weeks ago I conducted my first social media travel experiment.
 - [Baatara gorge waterfall -](http://2il.org/baatara-gorge-waterfall/) - The Baatara gorge waterfall, also known by the name of the Baatara Pothole Waterfall is an unexpected waterfall situated in the village of Balaa in the middle of the 2 cities of Laqlouq and Tannourine in Lebanon falls from a height of 255 metres(837 ft) into the Baatara Pothole, a cave of Jurassic s
