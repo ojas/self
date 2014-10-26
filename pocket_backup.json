@@ -4249,6 +4249,44 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1437, 
+    "time_updated": "1414358542", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Entrepreneurs who change the world aren\u2019t self-made. They\u2019re just \u2026  We like to believe is that there\u2019s some secret formula to building a big world-changing business.", 
+    "image": {
+      "item_id": "749221603", 
+      "src": "http://media.tumblr.com/e96fef6642190ed370187212760be329/tumblr_inline_ne2eikT48G1rneiz8.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "376", 
+    "images": {
+      "1": {
+        "src": "http://media.tumblr.com/e96fef6642190ed370187212760be329/tumblr_inline_ne2eikT48G1rneiz8.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "749221603", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "The Naive Optimist \u2022 Entrepreneurs think they're badass", 
+    "resolved_url": "http://ryancarson.com/post/101015286840/entrepreneurs-think-theyre-badass", 
+    "is_article": "1", 
+    "item_id": "749221603", 
+    "time_added": "1414358542", 
+    "resolved_id": "749221603", 
+    "given_url": "http://ryancarson.com/post/101015286840/entrepreneurs-think-theyre-badass", 
+    "resolved_title": "The Naive Optimist : Entrepreneurs think they're badass"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 353, 
     "time_updated": "1364849888", 
     "time_favorited": "0", 
