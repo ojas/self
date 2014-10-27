@@ -27238,6 +27238,115 @@
     "resolved_title": "Font Awesome"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "729018275", 
+      "src": "http://images.bwbx.io/cms/2014-10-01/current_304x415.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Six laps into the 2008 Monaco Grand Prix, Lewis Hamilton\u2019s McLaren race car skidded on the rain-slicked pavement, bumped against a barrier, and blew out its right rear tire. At the time, Hamilton, a gifted, impatient driver and one of auto racing\u2019s biggest stars, was in second place.", 
+    "word_count": "4183", 
+    "images": {
+      "1": {
+        "src": "http://images.bwbx.io/cms/2014-10-01/current_304x415.jpg", 
+        "credit": "Photo Illustration  Justin Metz; Photo: Mike and Claire", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "729018275", 
+        "caption": "How this week's cover was made", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://images.bwbx.io/cms/2014-10-01/feat_mclaren41__08__315.jpg", 
+        "credit": "Photograph  Jason Larkin for Bloomberg Businessweek", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "729018275", 
+        "caption": "McLaren Applied Technologies head McGrath", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://images.bwbx.io/cms/2014-10-01/feat_mclaren41__02__630.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "729018275", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://images.bwbx.io/cms/2014-10-01/feat_mclaren41__03__630.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "729018275", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://images.bwbx.io/cms/2014-10-01/feat_mclaren41__04__630.jpg", 
+        "credit": "Photograph  Jason Larkin for Bloomberg Businessweek", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "729018275", 
+        "caption": "Engineers and programmers prepare the simulator for a test", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://images.bwbx.io/cms/2014-10-01/feat_mclaren41__05__630.jpg", 
+        "credit": "Photograph  Jason Larkin for Bloomberg Businessweek", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "729018275", 
+        "caption": "McLaren keeps some of its past winners in working order", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://images.bwbx.io/cms/2014-10-01/feat_mclaren41__06__315.jpg", 
+        "credit": "Photograph  Jason Larkin for Bloomberg Businessweek", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "729018275", 
+        "caption": "Bradley with one of the bikes he designed for Specialized", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://images.bwbx.io/cms/2014-10-01/feat_mclaren41__07__315.jpg", 
+        "credit": "Photograph  Jason Larkin for Bloomberg Businessweek", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "729018275", 
+        "caption": "Hargrove has worked with doctors, drillers, and Olympians", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1414448790", 
+    "status": "0", 
+    "sort_id": 1439, 
+    "resolved_url": "http://www.businessweek.com/articles/2014-10-02/mclaren-uses-racing-expertise-in-data-driven-consulting", 
+    "authors": {
+      "2488380": {
+        "item_id": "729018275", 
+        "url": "http://www.businessweek.com/authors/911-drake-bennett", 
+        "author_id": "2488380", 
+        "name": "Drake Bennett"
+      }
+    }, 
+    "item_id": "729018275", 
+    "resolved_id": "729018275", 
+    "given_url": "http://www.businessweek.com/articles/2014-10-02/mclaren-uses-racing-expertise-in-data-driven-consulting", 
+    "resolved_title": "What Can the McLaren Racing Team Teach the Rest of Us?", 
+    "is_index": "0", 
+    "time_updated": "1414448790", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "McLaren Uses Racing Expertise in Data-Driven Consulting - Businessweek", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 1120, 
