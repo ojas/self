@@ -2316,7 +2316,7 @@
     "given_url": "http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/", 
     "resolved_title": "The Internet's Original Sin", 
     "is_index": "0", 
-    "time_updated": "1408871215", 
+    "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -3965,7 +3965,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1373, 
-    "time_updated": "1412086679", 
+    "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "The goal of this article is to provide a very practical guide to deploying a machine learning solution at scale.", 
@@ -8881,7 +8881,7 @@
     "given_url": "https://zapier.com/blog/how-to-hire-remote-team/", 
     "resolved_title": "From 3 to 16: How to Hire and Build a Remote Team", 
     "is_index": "0", 
-    "time_updated": "1412607708", 
+    "time_updated": "1414379900", 
     "time_favorited": "1412367498", 
     "time_read": "0", 
     "favorite": "1", 
@@ -14321,7 +14321,7 @@
     "status": "0", 
     "is_index": "1", 
     "sort_id": 1427, 
-    "time_updated": "1414250099", 
+    "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Sorry, Well Workouts requires iOS 7 or greater, the Android Chrome browser, or Internet Explorer 11. Try going to www.nytimes.com/7-minute-workout on your phone.", 
@@ -17363,25 +17363,25 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1286, 
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           Okay, okay, okay! #Sasquatch2014", 
     "image": {
       "item_id": "124414", 
-      "src": "https://abs.twimg.com/a/1413573160/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
+      "src": "https://abs.twimg.com/a/1414171008/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "0", 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "245", 
     "images": {
       "1": {
-        "src": "https://abs.twimg.com/a/1413573160/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
+        "src": "https://abs.twimg.com/a/1414171008/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -17397,7 +17397,7 @@
     "time_added": "1409239467", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": ""
+    "resolved_title": "Welcome to Twitter."
   }, 
   {
     "status": "0", 
@@ -20491,7 +20491,7 @@
     "given_url": "http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?emc=eta1", 
     "resolved_title": "What if Age Is Nothing but a Mind-Set?", 
     "is_index": "0", 
-    "time_updated": "1414257934", 
+    "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -26351,7 +26351,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1259, 
-    "time_updated": "1407957261", 
+    "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Amy Poehler is one of my favourite funny people, known for her portrayal as Pawnee\u2019s Leslie Knope in Parks and Recreation, which I\u2019m a big fan of. She\u2019s also a Saturday Night Live alum and co-founded the influential improv school, The Upright Citizens Brigade Theatre.", 
@@ -39810,7 +39810,7 @@
     "given_url": "http://graydon2.dreamwidth.org/193447.html", 
     "resolved_title": "always bet on text", 
     "is_index": "0", 
-    "time_updated": "1413290888", 
+    "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -69162,7 +69162,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1416, 
-    "time_updated": "1413899509", 
+    "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "In 1959, I worked as a scientist at Allied Research Associates in Boston. The company was an MIT spinoff that originally focused on the effects of nuclear weapons on aircraft structures.", 
@@ -69665,29 +69665,29 @@
     "image": {
       "item_id": "231913385", 
       "src": "http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20121006_STD001_0.jpg", 
-      "height": "335", 
-      "width": "595"
+      "height": "0", 
+      "width": "0"
     }, 
     "excerpt": "IN 1882 W.S. Gilbert wrote, to a tune by Sir Arthur Sullivan, a ditty that went \u201cI often think it\u2019s comical how Nature always does contrive/that every boy and every gal that\u2019s born into the world alive/is either a little Liberal or else a little Conservative.\u201d", 
-    "word_count": "1544", 
+    "word_count": "1565", 
     "images": {
       "1": {
         "src": "http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20121006_STD001_0.jpg", 
         "credit": "", 
-        "height": "335", 
+        "height": "0", 
         "image_id": "1", 
         "item_id": "231913385", 
         "caption": "", 
-        "width": "595"
+        "width": "0"
       }, 
       "2": {
         "src": "http://cdn.static-economist.com/sites/default/files/imagecache/290-width/images/print-edition/20121006_STC023.png", 
         "credit": "", 
-        "height": "317", 
+        "height": "0", 
         "image_id": "2", 
         "item_id": "231913385", 
         "caption": "", 
-        "width": "290"
+        "width": "0"
       }
     }, 
     "has_video": "0", 
