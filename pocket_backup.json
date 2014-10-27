@@ -4276,7 +4276,7 @@
       }
     }, 
     "given_title": "The Naive Optimist \u2022 Entrepreneurs think they're badass", 
-    "resolved_url": "http://ryancarson.com/post/101015286840/entrepreneurs-think-theyre-badass#sthash.yLhxPzWG.uxfs", 
+    "resolved_url": "http://ryancarson.com/post/101015286840/entrepreneurs-think-theyre-badass", 
     "is_article": "1", 
     "item_id": "749221603", 
     "time_added": "1414358542", 
@@ -60235,19 +60235,27 @@
     "time_updated": "1404449508", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "Although sometimes construed as humorous, Conway's law was intended as a valid sociological observation. It is based on the reasoning that in order for two separate software modules to interface correctly, the designers and implementers of each module must communicate with each other.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "408", 
+    "authors": {
+      "7331684": {
+        "item_id": "154473512", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
     "given_title": "Conway's law - Wikipedia, the free encyclopedia", 
-    "resolved_url": "https://en.wikipedia.org/wiki/Conway\\'s_law", 
-    "is_article": "0", 
+    "resolved_url": "http://en.wikipedia.org/wiki/Conway's_law", 
+    "is_article": "1", 
     "item_id": "154473512", 
     "time_added": "1389373356", 
     "resolved_id": "154473512", 
     "given_url": "http://en.wikipedia.org/wiki/Conway's_law", 
-    "resolved_title": ""
+    "resolved_title": "Conway's law"
   }, 
   {
     "is_article": "1", 
