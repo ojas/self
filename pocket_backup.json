@@ -53157,6 +53157,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1441, 
+    "time_updated": "1414464604", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "15", 
+    "given_title": "Honda S2000", 
+    "resolved_url": "https://dallas.craigslist.org/ndf/cto/4722157288.html", 
+    "is_article": "1", 
+    "item_id": "750400111", 
+    "time_added": "1414464603", 
+    "resolved_id": "750400111", 
+    "given_url": "https://dallas.craigslist.org/ndf/cto/4722157288.html", 
+    "resolved_title": "Honda S2000 - $12000 (Corinth)"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/1BSR3sZdhU4?rel=0", 
@@ -74320,6 +74341,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1442, 
+    "time_updated": "1414464817", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "2001 Honda S2000", 
+    "resolved_url": "https://dallas.craigslist.org/ftw/cto/4711297262.html", 
+    "is_article": "0", 
+    "item_id": "750402095", 
+    "time_added": "1414464816", 
+    "resolved_id": "750402095", 
+    "given_url": "https://dallas.craigslist.org/ftw/cto/4711297262.html", 
+    "resolved_title": ""
+  }, 
+  {
     "status": "1", 
     "is_index": "1", 
     "sort_id": 564, 
@@ -75789,7 +75831,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
