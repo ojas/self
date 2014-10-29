@@ -28658,7 +28658,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "744", 
+    "word_count": "815", 
     "given_title": "React: Another Level of Indirection | LispCast", 
     "resolved_url": "http://www.lispcast.com/react-another-level-of-indirection", 
     "is_article": "1", 
@@ -66703,7 +66703,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 1419, 
     "time_updated": "1413928827", 
     "time_favorited": "0", 
@@ -71197,8 +71197,8 @@
       "height": "432", 
       "width": "570"
     }, 
-    "excerpt": "American Schools For years, nothing seemed capable of turning around New Dorp High School\u2019s dismal performance\u2014not firing bad teachers, not flashy education technology, not after-school programs.", 
-    "word_count": "5741", 
+    "excerpt": "For years, nothing seemed capable of turning around New Dorp High School\u2019s dismal performance\u2014not firing bad teachers, not flashy education technology, not after-school programs.", 
+    "word_count": "5729", 
     "images": {
       "1": {
         "src": "http://cdn.theatlantic.com/static/newsroom/img/2012/09/18/writing-desk/lead.jpg?n191br", 
