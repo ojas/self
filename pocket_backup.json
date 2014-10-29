@@ -14736,24 +14736,24 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 1427, 
     "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Sorry, Well Workouts requires iOS 7 or greater, the Android Chrome browser, or Internet Explorer 11. Try going to www.nytimes.com/7-minute-workout on your phone.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "24", 
+    "word_count": "0", 
     "given_title": "Workouts", 
-    "resolved_url": "http://well.blogs.nytimes.com/projects/workouts/", 
+    "resolved_url": "https://well.blogs.nytimes.com/projects/workouts/", 
     "is_article": "0", 
     "item_id": "747580378", 
     "time_added": "1414250099", 
     "resolved_id": "747580378", 
     "given_url": "http://well.blogs.nytimes.com/projects/workouts/", 
-    "resolved_title": "Well Workouts"
+    "resolved_title": ""
   }, 
   {
     "is_article": "1", 
@@ -22929,7 +22929,7 @@
       "width": "570"
     }, 
     "excerpt": "There\u2019s a certain sinking feeling one gets when thinking of the perfect thing to say just a moment too late. Perhaps a witty parting word could have made all the difference.", 
-    "word_count": "874", 
+    "word_count": "1401", 
     "images": {
       "1": {
         "src": "http://cdn.theatlantic.com/static/newsroom/img/mt/2014/10/shutterstock_105474239/lead.jpg?ndln5z", 
