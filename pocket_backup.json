@@ -24332,6 +24332,14 @@
     "status": "0", 
     "sort_id": 1228, 
     "resolved_url": "http://scottberkun.com/2013/ten-myths-of-innnovation/", 
+    "authors": {
+      "25183315": {
+        "item_id": "323958083", 
+        "url": "http://scottberkun.com/author/scottberkun/", 
+        "author_id": "25183315", 
+        "name": "Scott"
+      }
+    }, 
     "item_id": "323958083", 
     "resolved_id": "323958083", 
     "given_url": "http://scottberkun.com/2013/ten-myths-of-innnovation/", 
