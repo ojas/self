@@ -25826,6 +25826,27 @@
     }
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1449, 
+    "time_updated": "1414774751", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Owner Financing may be available, perhaps 30% invested, we carry 70%. Lets talk. HOUSE, IS A TEAR DOWN! THE lot is 7, 234 sq. ft.! Zoned SF3.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "86", 
+    "given_title": "3011 E Martin Luther King Jr Blvd, Austin, TX 78702 - MLS/Listing # 9964873", 
+    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=9964873&searchkey=67207376-efd1-36a1-e4bd-db688098979e", 
+    "is_article": "1", 
+    "item_id": "753665805", 
+    "time_added": "1414774750", 
+    "resolved_id": "753665805", 
+    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=9964873&searchkey=67207376-efd1-36a1-e4bd-db688098979e", 
+    "resolved_title": "Real Estate"
+  }, 
+  {
     "status": "1", 
     "is_index": "1", 
     "sort_id": 1198, 
@@ -28155,6 +28176,27 @@
     "resolved_id": "305860189", 
     "given_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8acc4e6970d-pi", 
     "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1451, 
+    "time_updated": "1414776194", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Phenomenal opportunity in Eanes priced at nearly lot value. House needs total, major remodel, but what a beautiful lot and potential with this mid-century specimen. Located in Austin Lake Estates and in close proximity to popular Commons Ford Park.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "39", 
+    "given_title": "9805 San Luis Trl, Austin, TX 78733 - MLS/Listing # 5615166", 
+    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=5615166&searchkey=673ab66c-e70d-c358-857e-4d9ea0f99d18", 
+    "is_article": "1", 
+    "item_id": "753680135", 
+    "time_added": "1414776193", 
+    "resolved_id": "753680135", 
+    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=5615166&searchkey=673ab66c-e70d-c358-857e-4d9ea0f99d18", 
+    "resolved_title": "Real Estate"
   }, 
   {
     "status": "0", 
@@ -40520,6 +40562,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1450, 
+    "time_updated": "1414776069", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Currently leased for $900 monthly through January with ability to renew.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "70", 
+    "given_title": "735 Patton Ave, Austin, TX 78742 - MLS/Listing # 5021516", 
+    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=5021516", 
+    "is_article": "1", 
+    "item_id": "753678956", 
+    "time_added": "1414776068", 
+    "resolved_id": "753678956", 
+    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=5021516", 
+    "resolved_title": "Real Estate"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1369, 
     "time_updated": "1412183475", 
     "time_favorited": "0", 
@@ -52529,19 +52592,19 @@
     "time_updated": "1414587629", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "I joined Stripe as an engineer in 2010. I began by working on the backend infrastructure: designing the server architecture, creating our credit card vault, and producing internal abstractions to make people\u2019s jobs easier.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "2670", 
     "given_title": "#define CTO", 
-    "resolved_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "is_article": "0", 
+    "resolved_url": "http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
+    "is_article": "1", 
     "item_id": "750053681", 
     "time_added": "1414587629", 
     "resolved_id": "750053681", 
     "given_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "resolved_title": ""
+    "resolved_title": "#define CTO"
   }, 
   {
     "status": "0", 
@@ -68062,6 +68125,52 @@
     }
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "753663818", 
+      "src": "http://assets.wolfnet.com/reciprocity_logos/MLSLogo.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Disclaimer: All information deemed reliable but not guaranteed and should be independently verified. All properties are subject to prior sale, change or withdrawal.", 
+    "word_count": "77", 
+    "images": {
+      "1": {
+        "src": "http://assets.wolfnet.com/reciprocity_logos/MLSLogo.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "753663818", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1414774560", 
+    "status": "0", 
+    "sort_id": 1448, 
+    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=6183313&searchkey=67207376-efd1-36a1-e4bd-db688098979e", 
+    "authors": {
+      "4072937": {
+        "item_id": "753663818", 
+        "url": "", 
+        "author_id": "4072937", 
+        "name": "DEN Property Group"
+      }
+    }, 
+    "item_id": "753663818", 
+    "resolved_id": "753663818", 
+    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=6183313&searchkey=67207376-efd1-36a1-e4bd-db688098979e", 
+    "resolved_title": "Real Estate", 
+    "is_index": "0", 
+    "time_updated": "1414774591", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "4709 Red Bluff Rd, Austin, TX 78702 - MLS/Listing # 6183313", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 1422, 
@@ -76098,7 +76207,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
