@@ -35734,8 +35734,8 @@
     "image": {
       "item_id": "438211560", 
       "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
-      "height": "312", 
-      "width": "468"
+      "height": "400", 
+      "width": "600"
     }, 
     "excerpt": "GOD, as we know, works in mysterious ways. Back in the spring of 2011, Gerry Owen, an assistant pastor at a megachurch in Garland, Tex., was reading through the comment cards that worshipers drop in a box at the back of the church after Sunday services.", 
     "word_count": "3435", 
@@ -35743,11 +35743,11 @@
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
         "credit": "Rex C. Curry for The New York Times", 
-        "height": "312", 
+        "height": "400", 
         "image_id": "1", 
         "item_id": "438211560", 
         "caption": "Melissa Owen, center, in her new coffeehouse in Plano, Tex., which opened with help from a career mentor. ", 
-        "width": "468"
+        "width": "600"
       }, 
       "3": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR-JP4/15-MENTOR-JP4-articleInline.jpg", 
@@ -52495,19 +52495,19 @@
     "time_updated": "1414587629", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "I joined Stripe as an engineer in 2010. I began by working on the backend infrastructure: designing the server architecture, creating our credit card vault, and producing internal abstractions to make people\u2019s jobs easier.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2670", 
+    "word_count": "0", 
     "given_title": "#define CTO", 
-    "resolved_url": "http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "is_article": "1", 
+    "resolved_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
+    "is_article": "0", 
     "item_id": "750053681", 
     "time_added": "1414587629", 
     "resolved_id": "750053681", 
     "given_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "resolved_title": "#define CTO"
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -75939,7 +75939,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
