@@ -8284,7 +8284,24 @@
     "time_updated": "1392011623", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "image": {
+      "item_id": "543401182", 
+      "src": "http://a1929.phobos.apple.com/us/r30/Purple3/v4/ce/18/4e/ce184ee3-64b6-90c7-c630-216711e3e2d8/mzl.mzhoccnt.png", 
+      "height": "512", 
+      "width": "512"
+    }, 
     "favorite": "0", 
+    "images": {
+      "1": {
+        "src": "http://a1929.phobos.apple.com/us/r30/Purple3/v4/ce/18/4e/ce184ee3-64b6-90c7-c630-216711e3e2d8/mzl.mzhoccnt.png", 
+        "credit": "", 
+        "height": "512", 
+        "image_id": "1", 
+        "item_id": "543401182", 
+        "caption": "", 
+        "width": "512"
+      }
+    }, 
     "given_title": "Winter Caravanning in the Outer Hebrides - YouTube", 
     "item_id": "543401182", 
     "time_added": "1392011623", 
@@ -26299,7 +26316,24 @@
     "time_updated": "1386722087", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "image": {
+      "item_id": "499206072", 
+      "src": "http://a1929.phobos.apple.com/us/r30/Purple3/v4/ce/18/4e/ce184ee3-64b6-90c7-c630-216711e3e2d8/mzl.mzhoccnt.png", 
+      "height": "512", 
+      "width": "512"
+    }, 
     "favorite": "0", 
+    "images": {
+      "1": {
+        "src": "http://a1929.phobos.apple.com/us/r30/Purple3/v4/ce/18/4e/ce184ee3-64b6-90c7-c630-216711e3e2d8/mzl.mzhoccnt.png", 
+        "credit": "", 
+        "height": "512", 
+        "image_id": "1", 
+        "item_id": "499206072", 
+        "caption": "", 
+        "width": "512"
+      }
+    }, 
     "given_title": "AnDevCon: A Deep Dive into RenderScript - NewCircle", 
     "item_id": "499206072", 
     "time_added": "1386722087", 
@@ -61936,7 +61970,24 @@
     "time_updated": "1394042379", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "image": {
+      "item_id": "562021906", 
+      "src": "http://a1929.phobos.apple.com/us/r30/Purple3/v4/ce/18/4e/ce184ee3-64b6-90c7-c630-216711e3e2d8/mzl.mzhoccnt.png", 
+      "height": "512", 
+      "width": "512"
+    }, 
     "favorite": "0", 
+    "images": {
+      "1": {
+        "src": "http://a1929.phobos.apple.com/us/r30/Purple3/v4/ce/18/4e/ce184ee3-64b6-90c7-c630-216711e3e2d8/mzl.mzhoccnt.png", 
+        "credit": "", 
+        "height": "512", 
+        "image_id": "1", 
+        "item_id": "562021906", 
+        "caption": "", 
+        "width": "512"
+      }
+    }, 
     "given_title": "it not the end of the world it just the start of me and you lyrics - Google", 
     "item_id": "562021906", 
     "time_added": "1394042379", 
@@ -61968,7 +62019,7 @@
     "time_added": "1348062671", 
     "status": "1", 
     "sort_id": 44, 
-    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/#more-130759", 
+    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
     "authors": {
       "185472": {
         "item_id": "185909912", 
@@ -76034,7 +76085,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -76548,7 +76599,24 @@
     "time_updated": "1393164940", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "image": {
+      "item_id": "553800303", 
+      "src": "http://a1929.phobos.apple.com/us/r30/Purple3/v4/ce/18/4e/ce184ee3-64b6-90c7-c630-216711e3e2d8/mzl.mzhoccnt.png", 
+      "height": "512", 
+      "width": "512"
+    }, 
     "favorite": "0", 
+    "images": {
+      "1": {
+        "src": "http://a1929.phobos.apple.com/us/r30/Purple3/v4/ce/18/4e/ce184ee3-64b6-90c7-c630-216711e3e2d8/mzl.mzhoccnt.png", 
+        "credit": "", 
+        "height": "512", 
+        "image_id": "1", 
+        "item_id": "553800303", 
+        "caption": "", 
+        "width": "512"
+      }
+    }, 
     "given_title": "Rohit Sharma", 
     "item_id": "553800303", 
     "time_added": "1393164940", 
