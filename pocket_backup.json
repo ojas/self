@@ -18749,20 +18749,20 @@
     "is_article": "1", 
     "image": {
       "item_id": "229328535", 
-      "src": "http://assets.rollingstone.com/assets/images/story/mitt-romneys-real-agenda-20120928/1000x600/20120924-romney-600x-1348498972.jpg", 
+      "src": "http://assets.rollingstone.com/assets/images/story/mitt-romneys-real-agenda-20120928/20120924-romney-624x-1348498993.jpg", 
       "height": "0", 
       "width": "0"
     }, 
     "excerpt": "It was tempting to dismiss Mitt Romney's hard-right turn during the GOP primaries as calculated pandering. In the general election \u2013 as one of his top advisers famously suggested \u2013 Romney would simply shake the old Etch A Sketch and recast himself as the centrist who governed Massachusetts.", 
-    "word_count": "3656", 
+    "word_count": "2624", 
     "images": {
       "1": {
-        "src": "http://assets.rollingstone.com/assets/images/story/mitt-romneys-real-agenda-20120928/1000x600/20120924-romney-600x-1348498972.jpg", 
+        "src": "http://assets.rollingstone.com/assets/images/story/mitt-romneys-real-agenda-20120928/20120924-romney-624x-1348498993.jpg", 
         "credit": "David Calvert/Getty Images", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "229328535", 
-        "caption": "Mitt Romney", 
+        "caption": "", 
         "width": "0"
       }
     }, 
@@ -76207,7 +76207,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
