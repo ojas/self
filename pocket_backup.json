@@ -54573,7 +54573,7 @@
     "has_video": "0", 
     "word_count": "24", 
     "given_title": "Sidebar Transitions", 
-    "resolved_url": "http://tympanus.net/Development/SidebarTransitions/#", 
+    "resolved_url": "http://tympanus.net/Development/SidebarTransitions", 
     "is_article": "1", 
     "item_id": "426117222", 
     "time_added": "1398487796", 
@@ -64220,6 +64220,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1447, 
+    "time_updated": "1414725826", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "1985 Mercedes Benz 190-16valve", 
+    "resolved_url": "https://austin.craigslist.org/cto/4726580824.html", 
+    "is_article": "0", 
+    "item_id": "753185591", 
+    "time_added": "1414725824", 
+    "resolved_id": "753185591", 
+    "given_url": "https://austin.craigslist.org/cto/4726580824.html", 
+    "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1248, 
     "time_updated": "1407850573", 
     "time_favorited": "0", 
@@ -66709,6 +66730,80 @@
     "resolved_id": "202118998", 
     "given_url": "http://natureofcode.com/", 
     "resolved_title": "The Nature of Code"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1446, 
+    "time_updated": "1414723430", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "image": {
+      "item_id": "752862113", 
+      "src": "http://i.kinja-img.com/gawker-media/image/upload/s---qFwdaus--/c_fit,fl_progressive,q_80,w_636/bdkfmonq5nkpk4wjvxwh.jpg", 
+      "height": "335", 
+      "width": "636"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s---qFwdaus--/c_fit,fl_progressive,q_80,w_636/bdkfmonq5nkpk4wjvxwh.jpg", 
+        "credit": "", 
+        "height": "335", 
+        "image_id": "1", 
+        "item_id": "752862113", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "3": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--biYMIGPx--/c_fit,fl_progressive,q_80,w_636/ngzvtslvidfxzewqzqc0.jpg", 
+        "credit": "", 
+        "height": "476", 
+        "image_id": "3", 
+        "item_id": "752862113", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "2": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--uefo-z95--/c_fit,fl_progressive,q_80,w_636/hsjjrw0nualwio1m7m4w.jpg", 
+        "credit": "", 
+        "height": "476", 
+        "image_id": "2", 
+        "item_id": "752862113", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "5": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--stGxI7Zv--/c_fit,fl_progressive,q_80,w_636/io2kmbaz2rcannnutbxj.jpg", 
+        "credit": "", 
+        "height": "535", 
+        "image_id": "5", 
+        "item_id": "752862113", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "4": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--xesp_b5m--/c_fit,fl_progressive,q_80,w_636/msb8if53evmx069cddza.jpg", 
+        "credit": "", 
+        "height": "489", 
+        "image_id": "4", 
+        "item_id": "752862113", 
+        "caption": "", 
+        "width": "636"
+      }
+    }, 
+    "given_title": "This '70s Inspired Scion xB Is An Amazing Throwback Shaggin' Wagon", 
+    "resolved_url": "http://truckyeah.jalopnik.com/this-70s-inspired-scion-xb-is-an-amazing-throwback-shag-1652888223/+travis", 
+    "is_article": "0", 
+    "item_id": "752862113", 
+    "time_added": "1414723430", 
+    "resolved_id": "752862113", 
+    "given_url": "http://truckyeah.jalopnik.com/this-70s-inspired-scion-xb-is-an-amazing-throwback-shag-1652888223/+travis", 
+    "resolved_title": "This '70s Inspired Scion xB Is An Amazing Throwback Shaggin' Wagon"
   }, 
   {
     "videos": {
@@ -75939,7 +76034,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -75952,7 +76047,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
