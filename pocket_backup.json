@@ -62082,7 +62082,7 @@
     "time_added": "1348062671", 
     "status": "1", 
     "sort_id": 44, 
-    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
+    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap", 
     "authors": {
       "185472": {
         "item_id": "185909912", 
@@ -66837,7 +66837,7 @@
     "has_video": "0", 
     "word_count": "275", 
     "given_title": "The Nature of Code", 
-    "resolved_url": "http://natureofcode.com/", 
+    "resolved_url": "http://natureofcode.com", 
     "is_article": "0", 
     "item_id": "202118998", 
     "time_added": "1351873457", 
@@ -76207,7 +76207,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
