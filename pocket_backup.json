@@ -20499,6 +20499,106 @@
     "resolved_title": "How The Trailer Park Could Save Us All"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "751896198", 
+      "src": "http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2014/10/Barred_spiral_galaxy_NGC_1672-1024x575.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "The idea was too beautiful to be wrong.", 
+    "word_count": "7902", 
+    "images": {
+      "1": {
+        "src": "http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2014/10/Barred_spiral_galaxy_NGC_1672-1024x575.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "751896198", 
+        "caption": "Inflation explains how everything from galaxies to dust may have come about.", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2014/10/BICEP2-Focal-Plane-1024x576.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "751896198", 
+        "caption": "The BICEP2 focal plane", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2014/10/BICEP2-Detector-1024x576.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "751896198", 
+        "caption": "A single polarization detector", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2014/10/Dark-Sector-Lab-1024x575.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "751896198", 
+        "caption": "The Dark Sector Lab", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2014/10/South-Pole-takeoff-1024x575.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "751896198", 
+        "caption": "An LC-130 takes off from the Amundsen-Scott South Pole Station.", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2014/10/BICEP2-b-mode-1024x576.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "751896198", 
+        "caption": "The B-mode pattern from BICEP2", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2014/10/POLENIGHTSKY1-1024x575.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "751896198", 
+        "caption": "As the Milky Way passes overhead, charged particles of the aurora australis billow over the Dark Sector.", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1414892956", 
+    "status": "0", 
+    "sort_id": 1454, 
+    "resolved_url": "http://www.pbs.org/wgbh/nova/next/physics/bicep2/", 
+    "authors": {
+      "25665380": {
+        "item_id": "751896198", 
+        "url": "http://www.pbs.org/wgbh/nova/next/author/amanda-gefter/", 
+        "author_id": "25665380", 
+        "name": "Amanda Gefter"
+      }
+    }, 
+    "item_id": "751896198", 
+    "resolved_id": "751896198", 
+    "given_url": "http://www.pbs.org/wgbh/nova/next/physics/bicep2/", 
+    "resolved_title": "From Discovery to Dust", 
+    "is_index": "0", 
+    "time_updated": "1414892957", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 916, 
@@ -22908,12 +23008,12 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "7147", 
+    "word_count": "7132", 
     "authors": {
-      "22521402": {
+      "17779986": {
         "item_id": "739739419", 
-        "url": "", 
-        "author_id": "22521402", 
+        "url": "https://medium.com/@AnthonyTaille", 
+        "author_id": "17779986", 
         "name": "Anthony Taille"
       }
     }, 
@@ -22924,7 +23024,7 @@
     "time_added": "1413425097", 
     "resolved_id": "739739419", 
     "given_url": "https://medium.com/@anthonytaille/were-the-last-ones-3600af8392a3", 
-    "resolved_title": "We\u2019re The Last Ones \u2014 Medium"
+    "resolved_title": "We\u2019re The Last Ones"
   }, 
   {
     "videos": {
