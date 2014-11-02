@@ -3964,7 +3964,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1373, 
+    "sort_id": 1372, 
     "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -4247,12 +4247,12 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
+    "status": "1", 
     "is_index": "0", 
-    "sort_id": 1437, 
-    "time_updated": "1414358542", 
+    "sort_id": 1433, 
+    "time_updated": "1414945912", 
     "time_favorited": "0", 
-    "time_read": "0", 
+    "time_read": "1414945912", 
     "excerpt": "Entrepreneurs who change the world aren\u2019t self-made. They\u2019re just \u2026  We like to believe is that there\u2019s some secret formula to building a big world-changing business.", 
     "image": {
       "item_id": "749221603", 
@@ -4579,7 +4579,7 @@
     "has_video": "1", 
     "time_added": "1412522249", 
     "status": "0", 
-    "sort_id": 1390, 
+    "sort_id": 1388, 
     "resolved_url": "http://aeon.co/magazine/philosophy/tim-lott-zen-buddhism-alan-watts/", 
     "authors": {
       "14356947": {
@@ -4646,7 +4646,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1445, 
+    "sort_id": 1441, 
     "time_updated": "1414680500", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -6515,7 +6515,7 @@
         "tag": "nsx"
       }
     }, 
-    "sort_id": 1438, 
+    "sort_id": 1434, 
     "resolved_url": "http://www.the-blueprints.com/vectordrawings/show/5714/acura_nsx_concept/", 
     "item_id": "749974466", 
     "resolved_id": "749974466", 
@@ -7217,7 +7217,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1409, 
+    "sort_id": 1407, 
     "time_updated": "1413652754", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -8655,7 +8655,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1384, 
+    "sort_id": 1382, 
     "time_updated": "1412447472", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -8984,7 +8984,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1399, 
+    "sort_id": 1397, 
     "resolved_url": "http://fourhourworkweek.com/2013/07/14/how-to-travel-21-contrarian-rules/#more-9724", 
     "authors": {
       "2477551": {
@@ -12439,7 +12439,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1452, 
+    "sort_id": 1448, 
     "time_updated": "1414863241", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -12922,7 +12922,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1423, 
+    "sort_id": 1421, 
     "time_updated": "1414038938", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -13560,35 +13560,6 @@
     "resolved_id": "353493782", 
     "given_url": "http://tryobjectivec.codeschool.com/", 
     "resolved_title": "Learn the language that powers iOS and Mac apps."
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1375, 
-    "time_updated": "1412201044", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
-    "authors": {
-      "2727445": {
-        "item_id": "728629362", 
-        "url": "", 
-        "author_id": "2727445", 
-        "name": "Antarctica"
-      }
-    }, 
-    "given_title": "OEC: Products exported by Antarctica (2012)", 
-    "resolved_url": "http://atlas.media.mit.edu/explore/tree_map/hs/export/ata/all/show/2012/", 
-    "is_article": "0", 
-    "item_id": "728629362", 
-    "time_added": "1412201042", 
-    "resolved_id": "728629362", 
-    "given_url": "http://atlas.media.mit.edu/explore/tree_map/hs/export/ata/all/show/2012/", 
-    "resolved_title": "Products exported by Antarctica (2012)"
   }, 
   {
     "is_article": "1", 
@@ -14477,7 +14448,7 @@
     "has_video": "0", 
     "time_added": "1414254315", 
     "status": "0", 
-    "sort_id": 1428, 
+    "sort_id": 1426, 
     "resolved_url": "http://www.nytimes.com/2014/10/23/garden/home-organization-advice-from-marie-kondo.html", 
     "authors": {
       "3468172": {
@@ -14772,7 +14743,7 @@
     "has_video": "2", 
     "time_added": "1414458950", 
     "status": "0", 
-    "sort_id": 1440, 
+    "sort_id": 1436, 
     "resolved_url": "https://www.youtube.com/watch?v=PI_9GegVoYk", 
     "item_id": "177608746", 
     "resolved_id": "177608746", 
@@ -14831,7 +14802,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1427, 
+    "sort_id": 1425, 
     "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -15713,7 +15684,7 @@
     "has_video": "0", 
     "time_added": "1412283457", 
     "status": "0", 
-    "sort_id": 1378, 
+    "sort_id": 1376, 
     "resolved_url": "http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac", 
     "authors": {
       "16439178": {
@@ -15990,7 +15961,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1408, 
+    "sort_id": 1406, 
     "time_updated": "1413520545", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -16983,7 +16954,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1397, 
+    "sort_id": 1395, 
     "resolved_url": "http://instagram.com/p/t55n4VkMUe/", 
     "item_id": "734498099", 
     "resolved_id": "734498099", 
@@ -17913,7 +17884,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1425, 
+    "sort_id": 1423, 
     "time_updated": "1414075902", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -18563,7 +18534,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1412, 
+    "sort_id": 1410, 
     "time_updated": "1413808398", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -18946,7 +18917,7 @@
     "has_video": "0", 
     "time_added": "1412437118", 
     "status": "0", 
-    "sort_id": 1382, 
+    "sort_id": 1380, 
     "resolved_url": "http://www.brainpickings.org/2013/05/13/dont-go-back-to-school-kio-stark/?utm_content=buffer5dc2f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer", 
     "authors": {
       "23602465": {
@@ -20576,7 +20547,7 @@
     "has_video": "0", 
     "time_added": "1414892956", 
     "status": "0", 
-    "sort_id": 1454, 
+    "sort_id": 1450, 
     "resolved_url": "http://www.pbs.org/wgbh/nova/next/physics/bicep2/", 
     "authors": {
       "25665380": {
@@ -20864,7 +20835,7 @@
     "has_video": "2", 
     "time_added": "1413822789", 
     "status": "0", 
-    "sort_id": 1414, 
+    "sort_id": 1412, 
     "resolved_url": "https://www.youtube.com/watch?v=GIKnhUVFbog&feature=youtu.be", 
     "item_id": "744024617", 
     "resolved_id": "744024617", 
@@ -21087,7 +21058,7 @@
     "has_video": "0", 
     "time_added": "1414257934", 
     "status": "0", 
-    "sort_id": 1430, 
+    "sort_id": 1427, 
     "resolved_url": "http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html", 
     "authors": {
       "106871": {
@@ -22208,7 +22179,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1406, 
+    "sort_id": 1404, 
     "resolved_url": "http://v4velveeta.tumblr.com/post/100126800455/littleflowerofthewild-i-cant-believe-i-have", 
     "item_id": "740358696", 
     "resolved_id": "740358696", 
@@ -22979,7 +22950,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1421, 
+    "sort_id": 1419, 
     "time_updated": "1414005734", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -23000,7 +22971,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1404, 
+    "sort_id": 1402, 
     "time_updated": "1413425097", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -23138,7 +23109,7 @@
     "has_video": "0", 
     "time_added": "1413766108", 
     "status": "0", 
-    "sort_id": 1410, 
+    "sort_id": 1408, 
     "resolved_url": "http://www.theatlantic.com/health/archive/2014/10/more-languages-better-brain/381193/", 
     "authors": {
       "19615840": {
@@ -25949,7 +25920,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1449, 
+    "sort_id": 1445, 
     "time_updated": "1414774751", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -26156,7 +26127,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1420, 
+    "sort_id": 1418, 
     "time_updated": "1413985861", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -27613,7 +27584,7 @@
     "has_video": "0", 
     "time_added": "1414448790", 
     "status": "0", 
-    "sort_id": 1439, 
+    "sort_id": 1435, 
     "resolved_url": "http://www.businessweek.com/articles/2014-10-02/mclaren-uses-racing-expertise-in-data-driven-consulting", 
     "authors": {
       "2488380": {
@@ -28015,7 +27986,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1386, 
+    "sort_id": 1384, 
     "time_updated": "1412463741", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -28301,7 +28272,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1451, 
+    "sort_id": 1447, 
     "time_updated": "1414776194", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -30076,7 +30047,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1383, 
+    "sort_id": 1381, 
     "time_updated": "1412932126", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -30280,7 +30251,7 @@
     "has_video": "2", 
     "time_added": "1412603937", 
     "status": "0", 
-    "sort_id": 1391, 
+    "sort_id": 1389, 
     "resolved_url": "http://www.youtube.com/watch?v=gLosKcg0K6Y", 
     "item_id": "731067951", 
     "resolved_id": "731067951", 
@@ -31982,7 +31953,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1453, 
+    "sort_id": 1449, 
     "time_updated": "1414864049", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -32270,7 +32241,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1374, 
+    "sort_id": 1373, 
     "time_updated": "1412183461", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -33302,7 +33273,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1431, 
+    "sort_id": 1428, 
     "time_updated": "1414266383", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -34916,7 +34887,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1376, 
+    "sort_id": 1374, 
     "time_updated": "1412273697", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -35100,7 +35071,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1432, 
+    "sort_id": 1429, 
     "time_updated": "1414347463", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -35929,7 +35900,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1435, 
+    "sort_id": 1431, 
     "time_updated": "1414297795", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -36180,7 +36151,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1380, 
+    "sort_id": 1378, 
     "time_updated": "1412360609", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -36450,7 +36421,7 @@
     "has_video": "0", 
     "time_added": "1413085179", 
     "status": "0", 
-    "sort_id": 1401, 
+    "sort_id": 1399, 
     "resolved_url": "http://www.brainpickings.org/2014/10/06/diane-ackerman-human-age/", 
     "authors": {
       "23602465": {
@@ -36475,7 +36446,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1381, 
+    "sort_id": 1379, 
     "time_updated": "1414022323", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -36918,7 +36889,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1433, 
+    "sort_id": 1430, 
     "resolved_url": "http://imgur.com/a/QkPso", 
     "item_id": "534013971", 
     "resolved_id": "534013971", 
@@ -37040,7 +37011,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1444, 
+    "sort_id": 1440, 
     "time_updated": "1414604206", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -37413,7 +37384,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1396, 
+    "sort_id": 1394, 
     "time_updated": "1412787744", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -37814,7 +37785,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1398, 
+    "sort_id": 1396, 
     "resolved_url": "http://www.tripadvisor.com/Attraction_Review-g154910-d187024-Reviews-Johnston_Canyon-Banff_National_Park_Alberta.html", 
     "item_id": "718298605", 
     "resolved_id": "718298605", 
@@ -37827,27 +37798,6 @@
     "favorite": "0", 
     "given_title": "Johnston Canyon - Banff National Park - Reviews of Johnston Canyon - TripAd", 
     "has_image": "1"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1434, 
-    "time_updated": "1414297331", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
-    "given_title": "1991 MR2 w/ Rare BEAMS clip - Motivated Seller", 
-    "resolved_url": "https://austin.craigslist.org/cto/4675604819.html", 
-    "is_article": "0", 
-    "item_id": "748771350", 
-    "time_added": "1414297329", 
-    "resolved_id": "748771350", 
-    "given_url": "https://austin.craigslist.org/cto/4675604819.html", 
-    "resolved_title": ""
   }, 
   {
     "videos": {
@@ -40624,7 +40574,7 @@
     "has_video": "0", 
     "time_added": "1413290888", 
     "status": "0", 
-    "sort_id": 1403, 
+    "sort_id": 1401, 
     "resolved_url": "http://graydon2.dreamwidth.org/193447.html", 
     "authors": {
       "982981": {
@@ -40704,7 +40654,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1450, 
+    "sort_id": 1446, 
     "time_updated": "1414776069", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -42291,7 +42241,7 @@
   {
     "status": "1", 
     "is_index": "0", 
-    "sort_id": 1418, 
+    "sort_id": 1416, 
     "time_updated": "1413907072", 
     "time_favorited": "0", 
     "time_read": "1413907072", 
@@ -42757,7 +42707,7 @@
     "has_video": "0", 
     "time_added": "1413259243", 
     "status": "0", 
-    "sort_id": 1402, 
+    "sort_id": 1400, 
     "resolved_url": "http://www.locomotivecms.com/articles/we-tried-to-solve-the-open-source-revenue-equation#.VDxcEhHF8Wx", 
     "authors": {
       "9157795": {
@@ -47906,61 +47856,6 @@
     "resolved_title": "8 Creativity Lessons from a Pixar Animator"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "515265839", 
-      "src": "http://revolution-computing.typepad.com/.a/6a010534b1db25970b019b0172129c970c-800wi", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "If, like me, you struggled to understand the Fourier Transformation when you first learned about it, this succinct one-sentence colour-coded explanation from Stuart Riffle probably comes several years too late:  Stuart provides a more detailed explanation here.", 
-    "word_count": "262", 
-    "images": {
-      "1": {
-        "src": "http://revolution-computing.typepad.com/.a/6a010534b1db25970b019b0172129c970c-800wi", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "515265839", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://a0.typepad.com/6a0105360ba1c6970c019b017f99c0970b-400wi", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "515265839", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1414256960", 
-    "status": "0", 
-    "sort_id": 1429, 
-    "resolved_url": "http://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html", 
-    "authors": {
-      "2476663": {
-        "item_id": "515265839", 
-        "url": "http://profile.typepad.com/revolutiondavid", 
-        "author_id": "2476663", 
-        "name": "David Smith"
-      }
-    }, 
-    "item_id": "515265839", 
-    "resolved_id": "515265839", 
-    "given_url": "http://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html", 
-    "resolved_title": "The Fourier Transform, explained in one sentence", 
-    "is_index": "0", 
-    "time_updated": "1414588819", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "The Fourier Transform, explained in one sentence", 
-    "has_image": "1"
-  }, 
-  {
     "is_article": "0", 
     "image": {
       "item_id": "731395353", 
@@ -47990,7 +47885,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1389, 
+    "sort_id": 1387, 
     "resolved_url": "http://instagram.com/p/twPX49EMeQ/", 
     "item_id": "731395353", 
     "resolved_id": "731395353", 
@@ -51580,7 +51475,7 @@
     "has_video": "0", 
     "time_added": "1412275842", 
     "status": "0", 
-    "sort_id": 1377, 
+    "sort_id": 1375, 
     "resolved_url": "http://www.mikeperham.com/2014/10/02/introducing-inspeqtor/", 
     "authors": {
       "19615570": {
@@ -52567,7 +52462,7 @@
   {
     "status": "1", 
     "is_index": "0", 
-    "sort_id": 1395, 
+    "sort_id": 1393, 
     "time_updated": "1414022306", 
     "time_favorited": "0", 
     "time_read": "1414022306", 
@@ -52730,7 +52625,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1443, 
+    "sort_id": 1439, 
     "time_updated": "1414587629", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -53395,7 +53290,7 @@
     "has_video": "0", 
     "time_added": "1413899796", 
     "status": "0", 
-    "sort_id": 1417, 
+    "sort_id": 1415, 
     "resolved_url": "http://www.diveintopython3.net/", 
     "authors": {
       "2956072": {
@@ -53514,7 +53409,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1441, 
+    "sort_id": 1437, 
     "time_updated": "1414464604", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -56281,7 +56176,7 @@
   {
     "status": "1", 
     "is_index": "0", 
-    "sort_id": 1394, 
+    "sort_id": 1392, 
     "time_updated": "1414022302", 
     "time_favorited": "0", 
     "time_read": "1414022302", 
@@ -57917,7 +57812,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1426, 
+    "sort_id": 1424, 
     "time_updated": "1414075965", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -59943,7 +59838,7 @@
     "has_video": "0", 
     "time_added": "1413485723", 
     "status": "0", 
-    "sort_id": 1407, 
+    "sort_id": 1405, 
     "resolved_url": "http://www.roadandtrack.com/car-reviews/first-drives/first-drive-1990-acura-nsx?src=spr_FBPAGE&spr_id=1459_99967330", 
     "authors": {
       "224325": {
@@ -61389,27 +61284,6 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1372, 
-    "time_updated": "1412036746", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Should also fit a 4Runner, Tacoma, FJ Cruiser, Tundra.  Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "76", 
-    "given_title": "BFG Mud-Terrain TA Km 255/75r17 set of 5", 
-    "resolved_url": "https://austin.craigslist.org/pts/4623803390.html", 
-    "is_article": "1", 
-    "item_id": "726907866", 
-    "time_added": "1412036745", 
-    "resolved_id": "726907866", 
-    "given_url": "https://austin.craigslist.org/pts/4623803390.html", 
-    "resolved_title": "BFG Mud-Terrain TA Km 255/75r17 set of 5 - $700 (Austin TX)"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
     "sort_id": 716, 
     "time_updated": "1378150098", 
     "time_favorited": "0", 
@@ -61666,7 +61540,7 @@
         "tag": "employment"
       }
     }, 
-    "sort_id": 1415, 
+    "sort_id": 1413, 
     "resolved_url": "http://chronicle.com/article/Time-to-Imagine/149395", 
     "authors": {
       "2550384": {
@@ -62296,7 +62170,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1405, 
+    "sort_id": 1403, 
     "time_updated": "1413426138", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -63090,7 +62964,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1385, 
+    "sort_id": 1383, 
     "time_updated": "1412448205", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -64476,7 +64350,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1447, 
+    "sort_id": 1443, 
     "time_updated": "1414725826", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -64929,7 +64803,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1388, 
+    "sort_id": 1386, 
     "time_updated": "1412932126", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -65695,7 +65569,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1436, 
+    "sort_id": 1432, 
     "time_updated": "1414298262", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -66909,7 +66783,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1393, 
+    "sort_id": 1391, 
     "time_updated": "1412608647", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -66990,7 +66864,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1446, 
+    "sort_id": 1442, 
     "time_updated": "1414723430", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67113,7 +66987,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1419, 
+    "sort_id": 1417, 
     "time_updated": "1413928827", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -68290,7 +68164,7 @@
     "has_video": "0", 
     "time_added": "1414774560", 
     "status": "0", 
-    "sort_id": 1448, 
+    "sort_id": 1444, 
     "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=6183313&searchkey=67207376-efd1-36a1-e4bd-db688098979e", 
     "authors": {
       "4072937": {
@@ -68315,7 +68189,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1422, 
+    "sort_id": 1420, 
     "time_updated": "1414036184", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -68996,7 +68870,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1400, 
+    "sort_id": 1398, 
     "resolved_url": "http://fourhourworkweek.com/2008/07/30/12-gems-of-the-pacific-northwest-coast-plus-200-tweets-my-thoughts-on-practical-twitter-use/", 
     "authors": {
       "18543212": {
@@ -70195,7 +70069,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1416, 
+    "sort_id": 1414, 
     "time_updated": "1414379900", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -70560,7 +70434,7 @@
     }, 
     "has_video": "1", 
     "time_added": "1411750104", 
-    "status": "0", 
+    "status": "1", 
     "sort_id": 1359, 
     "resolved_url": "http://unsolicited.consulting/article/entrepreneur-is-a-silly-word", 
     "item_id": "724306974", 
@@ -70568,9 +70442,9 @@
     "given_url": "http://unsolicited.consulting/article/entrepreneur-is-a-silly-word", 
     "resolved_title": "Entrepreneur is a Silly Word", 
     "is_index": "0", 
-    "time_updated": "1414022376", 
+    "time_updated": "1414945894", 
     "time_favorited": "0", 
-    "time_read": "0", 
+    "time_read": "1414945894", 
     "favorite": "0", 
     "given_title": "Entrepreneur is a Silly Word | Unsolicited Consulting", 
     "has_image": "1"
@@ -71565,7 +71439,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1411, 
+    "sort_id": 1409, 
     "time_updated": "1413771979", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -72584,7 +72458,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1387, 
+    "sort_id": 1385, 
     "time_updated": "1412464014", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -73469,7 +73343,7 @@
     "has_video": "0", 
     "time_added": "1412348327", 
     "status": "1", 
-    "sort_id": 1379, 
+    "sort_id": 1377, 
     "resolved_url": "http://spnzr.com/aboard-amtrak", 
     "authors": {
       "2498091": {
@@ -74745,7 +74619,7 @@
     "has_video": "0", 
     "time_added": "1414075896", 
     "status": "0", 
-    "sort_id": 1424, 
+    "sort_id": 1422, 
     "resolved_url": "http://priceofhistoys.com/2009/03/07/more-brubaker-box-photos/custom-brubaker-box-kit-car-3/", 
     "authors": {
       "20181660": {
@@ -74770,7 +74644,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1392, 
+    "sort_id": 1390, 
     "time_updated": "1412604669", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -74848,7 +74722,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1442, 
+    "sort_id": 1438, 
     "time_updated": "1414464817", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -75963,7 +75837,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1413, 
+    "sort_id": 1411, 
     "time_updated": "1413814350", 
     "time_favorited": "0", 
     "time_read": "0", 
