@@ -57689,7 +57689,7 @@
     "is_article": "0", 
     "image": {
       "item_id": "246840737", 
-      "src": "http://www.lighttable.com/images/banner.png", 
+      "src": "http://lighttable.com/images/banner.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -57697,7 +57697,7 @@
     "word_count": "573", 
     "images": {
       "1": {
-        "src": "http://www.lighttable.com/images/banner.png", 
+        "src": "http://lighttable.com/images/banner.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -57706,7 +57706,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://www.lighttable.com/images/screens.png", 
+        "src": "http://lighttable.com/images/screens.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -57715,7 +57715,7 @@
         "width": "0"
       }, 
       "15": {
-        "src": "http://www.lighttable.com/images/top10.png", 
+        "src": "http://lighttable.com/images/top10.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "15", 
@@ -57734,7 +57734,7 @@
       }
     }, 
     "sort_id": 648, 
-    "resolved_url": "http://www.lighttable.com/", 
+    "resolved_url": "http://lighttable.com/", 
     "item_id": "246840737", 
     "resolved_id": "246840737", 
     "given_url": "http://www.lighttable.com/", 
