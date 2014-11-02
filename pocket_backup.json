@@ -1357,33 +1357,24 @@
     "resolved_title": ""
   }, 
   {
-    "is_article": "1", 
+    "is_article": "0", 
     "image": {
       "item_id": "14970351", 
-      "src": "http://ia.media-imdb.com/images/M/MV5BMTc3NzYwNzAzOV5BMl5BanBnXkFtZTcwNTg1NDcxMQ@@._V1._SY317_CR8,0,214,317_.jpg", 
+      "src": "http://ia.media-imdb.com/images/M/MV5BMTc2NDQ5MTA1Nl5BMl5BanBnXkFtZTcwNDEzODQ2Mw@@._V1_SX214_AL_.jpg", 
       "height": "317", 
-      "width": "0"
+      "width": "214"
     }, 
-    "excerpt": "Edit Storyline A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by Indians when he proves to be the match of their warriors in one-to-one combat on the early frontier.", 
-    "word_count": "47", 
+    "excerpt": "Edit Storyline  A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by Indians, and proves to be a match for their warriors in one-on-one combat on the early frontier.", 
+    "word_count": "42", 
     "images": {
       "1": {
-        "src": "http://ia.media-imdb.com/images/M/MV5BMTc3NzYwNzAzOV5BMl5BanBnXkFtZTcwNTg1NDcxMQ@@._V1._SY317_CR8,0,214,317_.jpg", 
+        "src": "http://ia.media-imdb.com/images/M/MV5BMTc2NDQ5MTA1Nl5BMl5BanBnXkFtZTcwNDEzODQ2Mw@@._V1_SX214_AL_.jpg", 
         "credit": "", 
         "height": "317", 
         "image_id": "1", 
         "item_id": "14970351", 
         "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://ia.media-imdb.com/images/M/MV5BMTY5ODQxNjEwNV5BMl5BanBnXkFtZTYwNTI5ODYy._V1._SY44_CR1,0,32,44_.jpg", 
-        "credit": "", 
-        "height": "44", 
-        "image_id": "2", 
-        "item_id": "14970351", 
-        "caption": "Joaqu\u00edn Mart\u00ednez", 
-        "width": "32"
+        "width": "214"
       }
     }, 
     "has_video": "0", 
@@ -76223,7 +76214,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
