@@ -43777,7 +43777,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "821", 
+    "word_count": "818", 
     "authors": {
       "6701852": {
         "item_id": "724783594", 
@@ -47623,12 +47623,12 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://media.npr.org/assets/img/2014/11/03/superclock-f354e48237e3f2d9ac6f8a0a7339496c1424f95a-s2-c85.jpg", 
+        "src": "http://media.npr.org/assets/img/2014/11/03/superclock-ec61a3465753120755b55299682498c97840a7fe-s2-c85.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "755847618", 
-        "caption": "\n\nThe world's most precise atomic clock is a mess to look at. But it can tick for billions of years without loosing a second. Ye group and Baxley/JILA/Flickr hide caption\n\nitoggle caption Ye group and Baxley/JILA/Flickr", 
+        "caption": "\n\nThe world's most precise atomic clock is a mess to look at. But it can tick for billions of years without losing a second. Ye group and Baxley/JILA/Flickr hide caption\n\nitoggle caption Ye group and Baxley/JILA/Flickr", 
         "width": "0"
       }
     }, 
@@ -52738,19 +52738,19 @@
     "time_updated": "1414587629", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "I joined Stripe as an engineer in 2010. I began by working on the backend infrastructure: designing the server architecture, creating our credit card vault, and producing internal abstractions to make people\u2019s jobs easier.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "2670", 
     "given_title": "#define CTO", 
-    "resolved_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "is_article": "0", 
+    "resolved_url": "http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
+    "is_article": "1", 
     "item_id": "750053681", 
     "time_added": "1414587629", 
     "resolved_id": "750053681", 
     "given_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "resolved_title": ""
+    "resolved_title": "#define CTO"
   }, 
   {
     "status": "0", 
@@ -62220,7 +62220,7 @@
     "resolved_id": "185694949", 
     "given_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/?smid=fb-share", 
     "resolved_title": "The 'Busy' Trap", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
     "time_read": "1348063457", 
@@ -76363,7 +76363,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
