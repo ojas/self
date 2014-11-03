@@ -62209,6 +62209,52 @@
     }
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "753349754", 
+      "src": "http://si.wsj.net/public/resources/images/BN-FH850_igandh_GS_20141031031425.jpg", 
+      "height": "553", 
+      "width": "553"
+    }, 
+    "excerpt": "For the past 29 years, Oct. 31 has been the day when India commemorates the assassination of Indira Gandhi, the country\u2019s first female prime minister who was shot by her Sikh bodyguards in 1984.", 
+    "word_count": "779", 
+    "images": {
+      "1": {
+        "src": "http://si.wsj.net/public/resources/images/BN-FH850_igandh_GS_20141031031425.jpg", 
+        "credit": "Prakash Singh/Agence France-Presse/Getty Images", 
+        "height": "553", 
+        "image_id": "1", 
+        "item_id": "753349754", 
+        "caption": "Indira Gandhi\u2019s grandson, Rahul Gandhi and her daughter-in-law Sonia Gandhi, walked in front of a picture of her on Oct. 31, 2014.", 
+        "width": "553"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1415031178", 
+    "status": "0", 
+    "sort_id": 1455, 
+    "resolved_url": "http://blogs.wsj.com/indiarealtime/2014/10/31/is-sardar-patel-eclipsing-indira-gandhi/", 
+    "authors": {
+      "22412171": {
+        "item_id": "753349754", 
+        "url": "http://topics.wsj.com/person/A/biography/7712", 
+        "author_id": "22412171", 
+        "name": "Biography"
+      }
+    }, 
+    "item_id": "753349754", 
+    "resolved_id": "753349754", 
+    "given_url": "http://blogs.wsj.com/indiarealtime/2014/10/31/is-sardar-patel-eclipsing-indira-gandhi/", 
+    "resolved_title": "Is Sardar Vallabhbhai Patel Eclipsing Indira Gandhi?", 
+    "is_index": "0", 
+    "time_updated": "1415031178", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Is Sardar Vallabhbhai Patel Eclipsing Indira Gandhi? - India Real Time - WS", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1299, 
