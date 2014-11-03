@@ -5112,6 +5112,35 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1454, 
+    "time_updated": "1414977681", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "This post originally appeared on ChargeCon, an event series produced by Mountain\u00a0and\u00a0Jumpstart Foundry.  Your whole life in business is full of wins and losses. This is a story of one loss that really impacted my business.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "955", 
+    "authors": {
+      "25812094": {
+        "item_id": "755059329", 
+        "url": "", 
+        "author_id": "25812094", 
+        "name": "Nicholas Holland, Populr"
+      }
+    }, 
+    "given_title": "Founder stories: 'People don't want drills' | VentureBeat | Entrepreneur | ", 
+    "resolved_url": "http://venturebeat.com/2014/11/02/founder-stories-people-dont-want-drills/", 
+    "is_article": "1", 
+    "item_id": "755059329", 
+    "time_added": "1414977681", 
+    "resolved_id": "755059329", 
+    "given_url": "http://venturebeat.com/2014/11/02/founder-stories-people-dont-want-drills/", 
+    "resolved_title": "Founder stories: \u2018People don\u2019t want drills\u2019"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 223, 
     "time_updated": "1357657088", 
     "time_favorited": "0", 
@@ -42775,7 +42804,7 @@
     "has_video": "0", 
     "word_count": "5558", 
     "given_title": "Removing User Interface Complexity, or Why React is Awesome", 
-    "resolved_url": "http://www.jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome", 
+    "resolved_url": "http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome", 
     "is_article": "1", 
     "item_id": "617025594", 
     "time_added": "1399995782", 
@@ -76264,7 +76293,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -76277,7 +76306,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
