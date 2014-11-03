@@ -9980,15 +9980,6 @@
         "item_id": "528571482", 
         "caption": "Marc Andreessen, a co-founder of the venture capital firm Andreessen Horowitz.", 
         "width": "0"
-      }, 
-      "2": {
-        "src": "http://graphics8.nytimes.com/images/2013/11/20/business/video-gillen-bitcoins/video-gillen-bitcoins-videoLarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "528571482", 
-        "caption": "Video | Bitcoin Believers While regulators debate the pros and cons of bitcoins, this volatile digital currency inspires the question: What makes money, money?", 
-        "width": "0"
       }
     }, 
     "has_video": "0", 
@@ -47612,6 +47603,61 @@
     "resolved_title": "Why We Underestimate Risk by Omitting Time as a Factor"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "755847618", 
+      "src": "http://media.npr.org/assets/img/2014/11/03/senior-chamber_custom-348e64172b0fd242ea20c87be2ae297219dc9585-s4-c85.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "\"My own personal opinion is that time is a human construct,\" says Tom O'Brian. O'Brian has thought a lot about this over the years. He is America's official timekeeper at the National Institute of Standards and Technology in Boulder, Colorado.", 
+    "word_count": "1032", 
+    "images": {
+      "1": {
+        "src": "http://media.npr.org/assets/img/2014/11/03/senior-chamber_custom-348e64172b0fd242ea20c87be2ae297219dc9585-s4-c85.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "755847618", 
+        "caption": "\n\nStrontium atoms floating in the center of this photo are the heart of the world's most precise clock. The clock is so exact that it can detect tiny shifts in the flow of time itself. Courtesy of the Ye group and Brad Baxley/JILA hide caption\n\nitoggle caption Courtesy of the Ye group and Brad Baxley/JILA", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://media.npr.org/assets/img/2014/11/03/superclock-f354e48237e3f2d9ac6f8a0a7339496c1424f95a-s2-c85.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "755847618", 
+        "caption": "\n\nThe world's most precise atomic clock is a mess to look at. But it can tick for billions of years without loosing a second. Ye group and Baxley/JILA/Flickr hide caption\n\nitoggle caption Ye group and Baxley/JILA/Flickr", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1415051858", 
+    "status": "0", 
+    "sort_id": 1456, 
+    "resolved_url": "http://www.npr.org/2014/11/03/361069820/new-clock-may-end-time-as-we-know-it", 
+    "authors": {
+      "25849441": {
+        "item_id": "755847618", 
+        "url": "http://jilawww.colorado.edu/YeLabs/people/jun-ye", 
+        "author_id": "25849441", 
+        "name": "Jun Ye"
+      }
+    }, 
+    "item_id": "755847618", 
+    "resolved_id": "755847618", 
+    "given_url": "http://www.npr.org/2014/11/03/361069820/new-clock-may-end-time-as-we-know-it", 
+    "resolved_title": "New Clock May End Time As We Know It", 
+    "is_index": "0", 
+    "time_updated": "1415051858", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "New Clock May End Time As We Know It : NPR", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 228, 
@@ -73542,7 +73588,7 @@
       "width": "600"
     }, 
     "excerpt": "MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "5017", 
+    "word_count": "858", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -73569,42 +73615,6 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
-        "width": "190"
-      }, 
-      "5": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
-        "credit": "Tyler Clay", 
-        "height": "275", 
-        "image_id": "5", 
-        "item_id": "401365344", 
-        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
-        "width": "190"
-      }, 
-      "4": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
-        "credit": "Fabrizio Costantini for The New York Times", 
-        "height": "127", 
-        "image_id": "4", 
-        "item_id": "401365344", 
-        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
-        "width": "190"
-      }, 
-      "7": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "7", 
-        "item_id": "401365344", 
-        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
-        "width": "190"
-      }, 
-      "6": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "6", 
-        "item_id": "401365344", 
-        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
