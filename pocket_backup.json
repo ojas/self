@@ -3191,7 +3191,7 @@
     "time_added": "1410789294", 
     "status": "0", 
     "sort_id": 1335, 
-    "resolved_url": "https://www.youtube.com/watch?v=aUaInS6HIGo", 
+    "resolved_url": "http://www.youtube.com/watch?v=aUaInS6HIGo", 
     "item_id": "122230864", 
     "resolved_id": "122230864", 
     "given_url": "https://www.youtube.com/watch?v=aUaInS6HIGo", 
@@ -17907,25 +17907,25 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1286, 
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           Okay, okay, okay! #Sasquatch2014", 
     "image": {
       "item_id": "124414", 
-      "src": "https://abs.twimg.com/a/1414637181/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
+      "src": "https://abs.twimg.com/a/1415021474/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "0", 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "245", 
     "images": {
       "1": {
-        "src": "https://abs.twimg.com/a/1414637181/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
+        "src": "https://abs.twimg.com/a/1415021474/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -17941,7 +17941,7 @@
     "time_added": "1409239467", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": ""
+    "resolved_title": "Welcome to Twitter."
   }, 
   {
     "status": "0", 
@@ -32994,7 +32994,7 @@
         "height": "0", 
         "image_id": "9", 
         "item_id": "266058085", 
-        "caption": "\n", 
+        "caption": "", 
         "width": "0"
       }, 
       "8": {
@@ -60817,7 +60817,7 @@
       "width": "0"
     }, 
     "excerpt": "At Moz, we strive to include social media metadata in all new pieces of content that we publish. This allows us to optimize for sharing Twitter, Facebook, Google+ and Pinerest by defining exactly how titles, descriptions, images and more appear in social streams.", 
-    "word_count": "795", 
+    "word_count": "796", 
     "images": {
       "1": {
         "src": "http://d1avok0lzls2w.cloudfront.net/uploads/blog/527aced7516076.09156119.jpg", 
