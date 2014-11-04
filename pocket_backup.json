@@ -16746,7 +16746,7 @@
     "has_video": "0", 
     "word_count": "83", 
     "given_title": "Sketch | The designer\u2019s toolbox", 
-    "resolved_url": "http://bohemiancoding.com/sketch/", 
+    "resolved_url": "http://bohemiancoding.com/sketch", 
     "is_article": "1", 
     "item_id": "16582405", 
     "time_added": "1370551632", 
@@ -21069,7 +21069,7 @@
       "width": "0"
     }, 
     "excerpt": "One day in the fall of 1981, eight men in their 70s stepped out of a van in front of a converted monastery in New Hampshire. They shuffled forward, a few of them arthritically stooped, a couple with canes. Then they passed through the door and entered a time warp.", 
-    "word_count": "5551", 
+    "word_count": "5557", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/26counterclockwise2/26counterclockwise2-master1050-v11.jpg", 
@@ -23156,7 +23156,7 @@
       "width": "570"
     }, 
     "excerpt": "There\u2019s a certain sinking feeling one gets when thinking of the perfect thing to say just a moment too late. Perhaps a witty parting word could have made all the difference.", 
-    "word_count": "1401", 
+    "word_count": "874", 
     "images": {
       "1": {
         "src": "http://cdn.theatlantic.com/static/newsroom/img/mt/2014/10/shutterstock_105474239/lead.jpg?ndln5z", 
@@ -38060,7 +38060,7 @@
       "width": "219"
     }, 
     "excerpt": "The American Astronaut is a 2001 space-western/musical, directed by and starring Cory McAbee. The film was released on DVD in Spring of 2005. The band Billy Nayer Show, helmed by McAbee, wrote and performed the film's soundtrack.", 
-    "word_count": "2112", 
+    "word_count": "2126", 
     "images": {
       "1": {
         "src": "http://upload.wikimedia.org/wikipedia/en/5/58/Aafinalposter.jpg", 
@@ -38083,6 +38083,14 @@
     }, 
     "sort_id": 1129, 
     "resolved_url": "http://en.wikipedia.org/wiki/The_American_Astronaut", 
+    "authors": {
+      "7331684": {
+        "item_id": "4783520", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
     "item_id": "4783520", 
     "resolved_id": "4783520", 
     "given_url": "https://en.wikipedia.org/wiki/The_American_Astronaut", 
