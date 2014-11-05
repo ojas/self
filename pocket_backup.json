@@ -17424,6 +17424,55 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/v/yx4bCUNaCYY", 
+        "vid": "yx4bCUNaCYY", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "706531547", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "706531547", 
+      "src": "http://img.youtube.com/vi/yx4bCUNaCYY/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "This video is from 2009, when Christopher Hitchens was still alive. I admire this man because he was one of the Liberals who never bowed to Islam, a 7 century politico-religious dogma that demands respects wherever it goes without giving anything in return.The left and Libertarians, as its history p", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/yx4bCUNaCYY/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "706531547", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1415154385", 
+    "status": "0", 
+    "sort_id": 1458, 
+    "resolved_url": "https://www.youtube.com/watch?v=yx4bCUNaCYY", 
+    "item_id": "706531547", 
+    "resolved_id": "706531558", 
+    "given_url": "http://m.youtube.com/watch?v=yx4bCUNaCYY", 
+    "resolved_title": "Christopher Hitchens: Don't surrender to Islam", 
+    "is_index": "0", 
+    "time_updated": "1415154385", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "646809211", 
