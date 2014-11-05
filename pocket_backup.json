@@ -5382,7 +5382,7 @@
     "has_video": "0", 
     "word_count": "0", 
     "given_title": "To Stop Procrastinating, Look to Science of Mood Repair - WSJ.com", 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036#printMode", 
     "is_article": "0", 
     "item_id": "518589471", 
     "time_added": "1389205774", 
@@ -12108,81 +12108,19 @@
     "time_updated": "1410494329", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "The first day I tried out Shazam, I was blown away. Next to GPS and surviving the fall down a flight of stairs, being able to recognize a song from a vast corpus of audio was the most incredible thing I'd ever seen my phone do. This recognition works though a process called audio fingerprinting.", 
-    "image": {
-      "item_id": "500503472", 
-      "src": "http://willdrevo.com/images/spectrogram_no_peaks.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "has_image": "1", 
+    "excerpt": "Redirecting... Click here if you are not redirected.", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3375", 
-    "images": {
-      "1": {
-        "src": "http://willdrevo.com/images/spectrogram_no_peaks.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "500503472", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://willdrevo.com/images/spectrogram_zoomed.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "500503472", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://willdrevo.com/images/spectrogram_peaks.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "500503472", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "http://willdrevo.com/images/accuracy.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "500503472", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://willdrevo.com/images/num_fingerprints.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "500503472", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "http://willdrevo.com/images/matching_time.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "500503472", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
+    "word_count": "8", 
     "given_title": "Audio Fingerprinting with Python and Numpy", 
     "resolved_url": "http://willdrevo.com/fingerprinting-and-audio-recognition-with-python.html", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "500503472", 
     "time_added": "1410494329", 
     "resolved_id": "500503472", 
     "given_url": "http://willdrevo.com/fingerprinting-and-audio-recognition-with-python.html", 
-    "resolved_title": "Audio Fingerprinting with Python and Numpy"
+    "resolved_title": "Redirecting..."
   }, 
   {
     "videos": {
