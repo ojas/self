@@ -3136,16 +3136,16 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 628, 
     "time_updated": "1372743851", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "There are updates to this page that haven't been applied because you've entered text. Refresh this page to see updates.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "132", 
     "given_title": "Home - Quora", 
     "resolved_url": "http://www.quora.com/", 
     "is_article": "0", 
@@ -3153,7 +3153,7 @@
     "time_added": "1372743851", 
     "resolved_id": "27693939", 
     "given_url": "http://www.quora.com/", 
-    "resolved_title": ""
+    "resolved_title": "Sign up to read Quora"
   }, 
   {
     "videos": {
@@ -76424,7 +76424,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
