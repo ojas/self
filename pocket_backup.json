@@ -66427,17 +66427,17 @@
     "sort_id": 710, 
     "resolved_url": "http://instantwatcher.com/", 
     "authors": {
-      "25708815": {
+      "25992773": {
         "item_id": "5776796", 
-        "url": "http://instantwatcher.com/people/137138", 
-        "author_id": "25708815", 
-        "name": "Christoph Waltz"
+        "url": "http://instantwatcher.com/people/127264", 
+        "author_id": "25992773", 
+        "name": "Jack Nicholson"
       }, 
-      "25708814": {
+      "25992772": {
         "item_id": "5776796", 
-        "url": "http://instantwatcher.com/people/109804", 
-        "author_id": "25708814", 
-        "name": "Jamie Foxx"
+        "url": "http://instantwatcher.com/people/123189", 
+        "author_id": "25992772", 
+        "name": "Michael Keaton"
       }
     }, 
     "item_id": "5776796", 
@@ -76424,7 +76424,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
