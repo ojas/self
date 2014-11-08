@@ -14810,16 +14810,16 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1425, 
     "time_updated": "1415287333", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "Sorry, Well Workouts requires iOS 7 or greater, the Android Chrome browser, or Internet Explorer 11. Try going to www.nytimes.com/7-minute-workout on your phone.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "24", 
     "given_title": "Workouts", 
     "resolved_url": "http://well.blogs.nytimes.com/projects/workouts/", 
     "is_article": "0", 
@@ -14827,7 +14827,7 @@
     "time_added": "1414250099", 
     "resolved_id": "747580378", 
     "given_url": "http://well.blogs.nytimes.com/projects/workouts/", 
-    "resolved_title": ""
+    "resolved_title": "Well Workouts"
   }, 
   {
     "is_article": "1", 
@@ -31950,6 +31950,76 @@
     "resolved_id": "531758222", 
     "given_url": "http://priceonomics.com/a-guide-to-optimized-napping/", 
     "resolved_title": "A Guide to Optimized Napping"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "362262520", 
+      "src": "http://images2.wikia.nocookie.net/__cb20120205222208/disney/images/2/2a/Alice-in-Wonderland-1951-alice-in-wonderland-1758577-640-476.jpg", 
+      "height": "333", 
+      "width": "448"
+    }, 
+    "excerpt": "It was five years ago this month that I became vegan,\u00a0or\u2026well, ostrovegan. In this blog I officially come out of the closet, err, shell. \u00a0I am almost sure that cultivated mussels and oysters are ethical to eat.", 
+    "word_count": "1412", 
+    "images": {
+      "1": {
+        "src": "http://images2.wikia.nocookie.net/__cb20120205222208/disney/images/2/2a/Alice-in-Wonderland-1951-alice-in-wonderland-1758577-640-476.jpg", 
+        "credit": "", 
+        "height": "333", 
+        "image_id": "1", 
+        "item_id": "362262520", 
+        "caption": "", 
+        "width": "448"
+      }, 
+      "3": {
+        "src": "http://www.noaa.gov/features/01_economic/images/longlinemussels.jpg", 
+        "credit": "", 
+        "height": "259", 
+        "image_id": "3", 
+        "item_id": "362262520", 
+        "caption": "\nLine grown mussels\n", 
+        "width": "346"
+      }, 
+      "2": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PSM_V10_D040_Nervous_system_of_oyster_and_mussel.jpg/748px-PSM_V10_D040_Nervous_system_of_oyster_and_mussel.jpg", 
+        "credit": "", 
+        "height": "174", 
+        "image_id": "2", 
+        "item_id": "362262520", 
+        "caption": "\nMussel nervous system\n", 
+        "width": "216"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1415458952", 
+    "status": "0", 
+    "tags": {
+      "vegetarianism": {
+        "item_id": "362262520", 
+        "tag": "vegetarianism"
+      }
+    }, 
+    "sort_id": 1459, 
+    "resolved_url": "http://sentientist.org/2013/05/20/the-ethical-case-for-eating-oysters-and-mussels/", 
+    "authors": {
+      "8747570": {
+        "item_id": "362262520", 
+        "url": "http://sentientist.org/author/dfleischman/", 
+        "author_id": "8747570", 
+        "name": "Sentientist"
+      }
+    }, 
+    "item_id": "362262520", 
+    "resolved_id": "362262520", 
+    "given_url": "http://sentientist.org/2013/05/20/the-ethical-case-for-eating-oysters-and-mussels/", 
+    "resolved_title": "The ethical case for eating oysters and mussels", 
+    "is_index": "0", 
+    "time_updated": "1415458967", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The ethical case for eating oysters and mussels | Sentientist", 
+    "has_image": "1"
   }, 
   {
     "videos": {
@@ -66142,6 +66212,135 @@
     "time_read": "1363631899", 
     "favorite": "0", 
     "given_title": "The Surprising Way Obama Is Trying to Tackle Climate Change | Climate of Do", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/TMXKs6OSrNg", 
+        "vid": "TMXKs6OSrNg", 
+        "video_id": "1", 
+        "height": "349", 
+        "width": "620", 
+        "item_id": "320434183", 
+        "type": "1"
+      }, 
+      "3": {
+        "src": "//www.youtube.com/embed/_4nI7AgUKwk", 
+        "vid": "_4nI7AgUKwk", 
+        "video_id": "3", 
+        "height": "465", 
+        "width": "620", 
+        "item_id": "320434183", 
+        "type": "1"
+      }, 
+      "2": {
+        "src": "http://www.youtube.com/embed/yXEuEUQIP3Q", 
+        "vid": "yXEuEUQIP3Q", 
+        "video_id": "2", 
+        "height": "465", 
+        "width": "620", 
+        "item_id": "320434183", 
+        "type": "1"
+      }, 
+      "5": {
+        "src": "//www.youtube.com/embed/VtR_uravhKo", 
+        "vid": "VtR_uravhKo", 
+        "video_id": "5", 
+        "height": "465", 
+        "width": "620", 
+        "item_id": "320434183", 
+        "type": "1"
+      }, 
+      "4": {
+        "src": "//www.youtube.com/embed/3WMHhAeLJ7o", 
+        "vid": "3WMHhAeLJ7o", 
+        "video_id": "4", 
+        "height": "349", 
+        "width": "620", 
+        "item_id": "320434183", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "320434183", 
+      "src": "http://mentalfloss.com/sites/default/files/styles/article_640x430/public/mister-rogers-and-me.jpg", 
+      "height": "430", 
+      "width": "640"
+    }, 
+    "excerpt": "Mister Rogers summered in a modest, gray, shake-shingled house on the edge of Nantucket. My mother rented a tiny cottage next door. So Mister Rogers really was my neighbor.  I was a young MTV News producer and sometime singer/songwriter. We met on the weekend of my 30th birthday in September 2001.", 
+    "word_count": "1863", 
+    "images": {
+      "1": {
+        "src": "http://mentalfloss.com/sites/default/files/styles/article_640x430/public/mister-rogers-and-me.jpg", 
+        "credit": "\nBenjamin Wagner\n", 
+        "height": "430", 
+        "image_id": "1", 
+        "item_id": "320434183", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "3": {
+        "src": "http://mentalfloss.com/sites/default/files/styles/insert_main_wide_image/public/3408775.jpg", 
+        "credit": "", 
+        "height": "411", 
+        "image_id": "3", 
+        "item_id": "320434183", 
+        "caption": "", 
+        "width": "594"
+      }, 
+      "2": {
+        "src": "http://mentalfloss.com/sites/default/files/styles/insert_main_wide_image/public/51093430.jpg", 
+        "credit": "", 
+        "height": "594", 
+        "image_id": "2", 
+        "item_id": "320434183", 
+        "caption": "", 
+        "width": "547"
+      }, 
+      "5": {
+        "src": "http://mentalfloss.com/sites/default/files/styles/insert_main_wide_image/public/statue_0.jpg", 
+        "credit": "", 
+        "height": "478", 
+        "image_id": "5", 
+        "item_id": "320434183", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "4": {
+        "src": "http://mentalfloss.com/sites/default/files/styles/insert_main_wide_image/public/fred_rogers_sweater.jpg", 
+        "credit": "", 
+        "height": "465", 
+        "image_id": "4", 
+        "item_id": "320434183", 
+        "caption": "", 
+        "width": "620"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1415458980", 
+    "status": "0", 
+    "sort_id": 1460, 
+    "resolved_url": "http://mentalfloss.com/article/49559/46-things-i-learned-making-mister-rogers-me", 
+    "authors": {
+      "8118292": {
+        "item_id": "320434183", 
+        "url": "http://mentalfloss.com/authors/benjamin-wagner", 
+        "author_id": "8118292", 
+        "name": "Benjamin Wagner"
+      }
+    }, 
+    "item_id": "320434183", 
+    "resolved_id": "320434183", 
+    "given_url": "http://mentalfloss.com/article/49559/46-things-i-learned-making-mister-rogers-me", 
+    "resolved_title": "46 Things I Learned Making Mister Rogers & Me", 
+    "is_index": "0", 
+    "time_updated": "1415458980", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "46 Things I Learned Making Mister Rogers & Me | Mental Floss", 
     "has_image": "1"
   }, 
   {
