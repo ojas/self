@@ -39121,13 +39121,25 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "403", 
+    "word_count": "891", 
     "authors": {
       "4106873": {
         "item_id": "311609952", 
         "url": "", 
         "author_id": "4106873", 
         "name": "Mike Bostock"
+      }, 
+      "88556": {
+        "item_id": "311609952", 
+        "url": "", 
+        "author_id": "88556", 
+        "name": "SHAN CARTER"
+      }, 
+      "54828": {
+        "item_id": "311609952", 
+        "url": "", 
+        "author_id": "54828", 
+        "name": "Archie Tse"
       }
     }, 
     "given_title": "Is It Better to Buy or Rent? - Interactive Graphic - NYTimes.com", 
