@@ -14810,16 +14810,16 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 1425, 
     "time_updated": "1415287333", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Sorry, Well Workouts requires iOS 7 or greater, the Android Chrome browser, or Internet Explorer 11. Try going to www.nytimes.com/7-minute-workout on your phone.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "24", 
+    "word_count": "0", 
     "given_title": "Workouts", 
     "resolved_url": "http://well.blogs.nytimes.com/projects/workouts/", 
     "is_article": "0", 
@@ -14827,7 +14827,7 @@
     "time_added": "1414250099", 
     "resolved_id": "747580378", 
     "given_url": "http://well.blogs.nytimes.com/projects/workouts/", 
-    "resolved_title": "Well Workouts"
+    "resolved_title": ""
   }, 
   {
     "is_article": "1", 
