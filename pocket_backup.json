@@ -23594,7 +23594,7 @@
     "has_video": "0", 
     "word_count": "2120", 
     "given_title": "Black Swan Farming", 
-    "resolved_url": "http://www.paulgraham.com/swan.html", 
+    "resolved_url": "http://paulgraham.com/swan.html", 
     "is_article": "1", 
     "item_id": "219820421", 
     "time_added": "1347289453", 
@@ -66455,17 +66455,17 @@
     "sort_id": 710, 
     "resolved_url": "http://instantwatcher.com/", 
     "authors": {
-      "25992773": {
+      "26042967": {
         "item_id": "5776796", 
-        "url": "http://instantwatcher.com/people/127264", 
-        "author_id": "25992773", 
-        "name": "Jack Nicholson"
+        "url": "http://instantwatcher.com/people/101445", 
+        "author_id": "26042967", 
+        "name": "Tilda Swinton"
       }, 
-      "25992772": {
+      "11544338": {
         "item_id": "5776796", 
-        "url": "http://instantwatcher.com/people/123189", 
-        "author_id": "25992772", 
-        "name": "Michael Keaton"
+        "url": "http://instantwatcher.com/people/101937", 
+        "author_id": "11544338", 
+        "name": "Chris Evans"
       }
     }, 
     "item_id": "5776796", 
