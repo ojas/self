@@ -23994,7 +23994,7 @@
     "has_video": "0", 
     "word_count": "0", 
     "given_title": "Meteor", 
-    "resolved_url": "https://www.meteor.com/", 
+    "resolved_url": "http://www.meteor.com/", 
     "is_article": "0", 
     "item_id": "152951587", 
     "time_added": "1359993849", 
@@ -30780,22 +30780,14 @@
     "resolved_title": "Religious Ragings : He was screwed up in many ways, but he was sure..."
   }, 
   {
-    "status": "1", 
-    "is_index": "0", 
-    "sort_id": 858, 
-    "time_updated": "1387305312", 
-    "time_favorited": "0", 
-    "time_read": "1387305313", 
-    "excerpt": "America is a country that is now utterly divided when it comes to its society, its economy, its politics. There are definitely two Americas.", 
+    "is_article": "1", 
     "image": {
       "item_id": "496976553", 
       "src": "http://i.guim.co.uk/static/w-460/h--/q-95/sys-images/Observer/Pix/pictures/2013/12/7/1386426689660/The-Wire-creator-David-Si-008.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "America is a country that is now utterly divided when it comes to its society, its economy, its politics. There are definitely two Americas.", 
     "word_count": "2938", 
     "images": {
       "1": {
@@ -30804,18 +30796,34 @@
         "height": "0", 
         "image_id": "1", 
         "item_id": "496976553", 
-        "caption": "David Simon, creator of The Wire, near his office in Baltimore. Photograph: Stephen Voss/Redux / eyevine", 
+        "caption": "", 
         "width": "0"
       }
     }, 
-    "given_title": "David Simon: 'There are now two Americas. My country is a horror show'", 
-    "resolved_url": "http://www.theguardian.com/world/2013/dec/08/david-simon-capitalism-marx-two-americas-wire", 
-    "is_article": "1", 
-    "item_id": "496976553", 
+    "has_video": "0", 
     "time_added": "1387220044", 
+    "status": "1", 
+    "sort_id": 858, 
+    "resolved_url": "http://www.theguardian.com/world/2013/dec/08/david-simon-capitalism-marx-two-americas-wire", 
+    "authors": {
+      "14505553": {
+        "item_id": "496976553", 
+        "url": "http://www.theguardian.com/profile/david-simon", 
+        "author_id": "14505553", 
+        "name": "David Simon"
+      }
+    }, 
+    "item_id": "496976553", 
     "resolved_id": "496976553", 
     "given_url": "http://www.theguardian.com/world/2013/dec/08/david-simon-capitalism-marx-two-americas-wire", 
-    "resolved_title": "David Simon: 'There are now two Americas. My country is a horror show'"
+    "resolved_title": "David Simon: 'There are now two Americas. My country is a horror show'", 
+    "is_index": "0", 
+    "time_updated": "1387305312", 
+    "time_favorited": "0", 
+    "time_read": "1387305313", 
+    "favorite": "0", 
+    "given_title": "David Simon: 'There are now two Americas. My country is a horror show'", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
