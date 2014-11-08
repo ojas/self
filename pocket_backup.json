@@ -14424,7 +14424,7 @@
       "width": "0"
     }, 
     "excerpt": "By her own account, Marie Kondo was an unusual child, poring over lifestyle magazines to glean organizing techniques and then stealthily practicing them at home and school, confounding her family and bemusing her teachers.", 
-    "word_count": "1252", 
+    "word_count": "1256", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/10/23/garden/23TIDY/23TIDY-master495.jpg", 
@@ -14460,10 +14460,10 @@
     "sort_id": 1426, 
     "resolved_url": "http://www.nytimes.com/2014/10/23/garden/home-organization-advice-from-marie-kondo.html", 
     "authors": {
-      "3468172": {
+      "2777414": {
         "item_id": "746148710", 
-        "url": "http://topics.nytimes.com/top/reference/timestopics/people/g/penelope_green/index.html", 
-        "author_id": "3468172", 
+        "url": "", 
+        "author_id": "2777414", 
         "name": "PENELOPE GREEN"
       }
     }, 
@@ -40839,6 +40839,14 @@
     }, 
     "sort_id": 1214, 
     "resolved_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html", 
+    "authors": {
+      "14937": {
+        "item_id": "669197592", 
+        "url": "", 
+        "author_id": "14937", 
+        "name": "ARTHUR C. BROOKS"
+      }
+    }, 
     "item_id": "669197592", 
     "resolved_id": "669197603", 
     "given_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html?_r=1", 
@@ -43802,12 +43810,12 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "818", 
+    "word_count": "821", 
     "authors": {
-      "6701852": {
+      "2518228": {
         "item_id": "724783594", 
-        "url": "http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/joenocera/index.html", 
-        "author_id": "6701852", 
+        "url": "", 
+        "author_id": "2518228", 
         "name": "Joe Nocera"
       }
     }, 
@@ -61378,7 +61386,7 @@
       "width": "0"
     }, 
     "excerpt": "IN Mikhail Bulgakov\u2019s\u00a0novel \u201cThe Master and Margarita,\u201d the protagonist, a writer, burns a manuscript in a moment of despair, only to find out later from the Devil that \u201cmanuscripts don\u2019t burn.", 
-    "word_count": "808", 
+    "word_count": "810", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/02/16/sunday-review/16GRAY/16GRAY-master495.jpg", 
@@ -62348,22 +62356,14 @@
     "resolved_title": ""
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1403, 
-    "time_updated": "1413426138", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "For years, techies have argued that getting an extra monitor or two for your desktop computer is an especially effective way to increase personal productivity. The logic seemed airtight: Two (or more) computer monitors means more room on your virtual desktop, which means more room to do your work.", 
+    "is_article": "1", 
     "image": {
       "item_id": "573025326", 
       "src": "http://static01.nyt.com/images/2014/03/20/business/20state-web1/20state-web1-master675.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "For years, techies have argued that getting an extra monitor or two for your desktop computer is an especially effective way to increase personal productivity. The logic seemed airtight: Two (or more) computer monitors means more room on your virtual desktop, which means more room to do your work.", 
     "word_count": "1105", 
     "images": {
       "1": {
@@ -62385,14 +62385,30 @@
         "width": "0"
       }
     }, 
-    "given_title": "Discovering Two Screens Aren\u2019t Better Than One - NYTimes.com", 
-    "resolved_url": "http://www.nytimes.com/2014/03/20/technology/personaltech/surviving-and-thriving-in-a-one-monitor-world.html", 
-    "is_article": "1", 
-    "item_id": "573025326", 
+    "has_video": "0", 
     "time_added": "1413426138", 
+    "status": "0", 
+    "sort_id": 1403, 
+    "resolved_url": "http://www.nytimes.com/2014/03/20/technology/personaltech/surviving-and-thriving-in-a-one-monitor-world.html", 
+    "authors": {
+      "2481975": {
+        "item_id": "573025326", 
+        "url": "", 
+        "author_id": "2481975", 
+        "name": "FARHAD MANJOO"
+      }
+    }, 
+    "item_id": "573025326", 
     "resolved_id": "573018948", 
     "given_url": "http://www.nytimes.com/2014/03/20/technology/personaltech/surviving-and-thriving-in-a-one-monitor-world.html?_r=1", 
-    "resolved_title": "Discovering Two Screens Aren\u2019t Better Than One"
+    "resolved_title": "Discovering Two Screens Aren\u2019t Better Than One", 
+    "is_index": "0", 
+    "time_updated": "1413426138", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Discovering Two Screens Aren\u2019t Better Than One - NYTimes.com", 
+    "has_image": "1"
   }, 
   {
     "videos": {
@@ -63702,7 +63718,7 @@
       "width": "0"
     }, 
     "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems:  A look back at how White House advisers have tried to fix the botched health care website.               WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
-    "word_count": "6188", 
+    "word_count": "861", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
@@ -66163,7 +66179,7 @@
       "width": "0"
     }, 
     "excerpt": "Before the collapse of the U.S. financial system in 2008, Brad Katsuyama could tell himself that he bore no responsibility for that system. He worked for the Royal Bank of Canada, for a start.", 
-    "word_count": "10264", 
+    "word_count": "10270", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash1/06flash1-master495.jpg", 
@@ -66217,11 +66233,11 @@
     "sort_id": 1052, 
     "resolved_url": "http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html", 
     "authors": {
-      "17962393": {
+      "2484686": {
         "item_id": "582301218", 
-        "url": "http://topics.nytimes.com/top/reference/timestopics/people/l/michael_lewis/index.html", 
-        "author_id": "17962393", 
-        "name": "MICHAEL LEWIS"
+        "url": "", 
+        "author_id": "2484686", 
+        "name": "Michael Lewis"
       }
     }, 
     "item_id": "582301218", 
