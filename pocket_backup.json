@@ -65801,6 +65801,76 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "2007955", 
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/View_of_trolltunga.jpg/220px-View_of_trolltunga.jpg", 
+      "height": "133", 
+      "width": "220"
+    }, 
+    "excerpt": "Trolltunga is a piece of rock that stands horizontally out of the mountain above Skjeggedal in Odda, Norway. The name translated to English is The Troll's tongue.", 
+    "word_count": "61", 
+    "images": {
+      "1": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/View_of_trolltunga.jpg/220px-View_of_trolltunga.jpg", 
+        "credit": "", 
+        "height": "133", 
+        "image_id": "1", 
+        "item_id": "2007955", 
+        "caption": "\n\n", 
+        "width": "220"
+      }, 
+      "3": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hordaland_vapen.svg/30px-Hordaland_vapen.svg.png", 
+        "credit": "", 
+        "height": "33", 
+        "image_id": "3", 
+        "item_id": "2007955", 
+        "caption": "", 
+        "width": "30"
+      }, 
+      "2": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Trolltunga.png/220px-Trolltunga.png", 
+        "credit": "", 
+        "height": "226", 
+        "image_id": "2", 
+        "item_id": "2007955", 
+        "caption": "\n\nView of Trolltunga", 
+        "width": "220"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1415549507", 
+    "status": "0", 
+    "tags": {
+      "travel": {
+        "item_id": "2007955", 
+        "tag": "travel"
+      }
+    }, 
+    "sort_id": 1441, 
+    "resolved_url": "http://en.wikipedia.org/wiki/Trolltunga", 
+    "authors": {
+      "7331684": {
+        "item_id": "2007955", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "item_id": "2007955", 
+    "resolved_id": "2007955", 
+    "given_url": "http://en.wikipedia.org/wiki/Trolltunga", 
+    "resolved_title": "Trolltunga", 
+    "is_index": "1", 
+    "time_updated": "1415549514", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Trolltunga - Wikipedia, the free encyclopedia", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "307472373", 
       "src": "http://www.pbs.org/wgbh/pages/frontline/art/omar/600/3823v5635.jpg", 
       "height": "275", 
