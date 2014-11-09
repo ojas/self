@@ -35431,7 +35431,7 @@
       }
     }, 
     "given_title": "Mailpile: Let's take e-mail back!", 
-    "resolved_url": "https://www.mailpile.is", 
+    "resolved_url": "https://www.mailpile.is/", 
     "is_article": "0", 
     "item_id": "410116293", 
     "time_added": "1405566165", 
@@ -76610,7 +76610,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 452, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -76623,7 +76623,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
