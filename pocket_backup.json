@@ -2,7 +2,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1434, 
+    "sort_id": 1432, 
     "time_updated": "1414956908", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -2510,15 +2510,15 @@
     "is_article": "1", 
     "image": {
       "item_id": "65661497", 
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/250px-Red_Giant_Earth_warm.jpg", 
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/250px-Red_Giant_Earth_warm.jpg", 
       "height": "169", 
       "width": "250"
     }, 
     "excerpt": "While predictions of the future can never be absolutely certain,[1] present scientific understanding in various fields has allowed a projected course for the farthest future events to be sketched out, if only in the broadest strokes.", 
-    "word_count": "7550", 
+    "word_count": "8004", 
     "images": {
       "1": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/250px-Red_Giant_Earth_warm.jpg", 
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/250px-Red_Giant_Earth_warm.jpg", 
         "credit": "", 
         "height": "169", 
         "image_id": "1", 
@@ -2531,7 +2531,7 @@
     "time_added": "1359429842", 
     "status": "0", 
     "sort_id": 258, 
-    "resolved_url": "https://en.wikipedia.org/wiki/Timeline_of_the_far_future", 
+    "resolved_url": "http://en.wikipedia.org/wiki/Timeline_of_the_far_future", 
     "authors": {
       "7331684": {
         "item_id": "65661497", 
@@ -4585,7 +4585,7 @@
     "given_url": "http://aeon.co/magazine/philosophy/tim-lott-zen-buddhism-alan-watts/", 
     "resolved_title": "Off-beat Zen", 
     "is_index": "0", 
-    "time_updated": "1415287333", 
+    "time_updated": "1415650175", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -5105,7 +5105,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1435, 
+    "sort_id": 1433, 
     "time_updated": "1414977681", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -12418,27 +12418,6 @@
     "resolved_title": "Name API Documentation"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1432, 
-    "time_updated": "1414863241", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Currently leased for $900 monthly through January with ability to renew.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "70", 
-    "given_title": "735 Patton Ave, Austin, TX 78742 - MLS/Listing # 5021516", 
-    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=5021516&searchkey=6c6afa20-0fca-448e-3ff2-32895742c939", 
-    "is_article": "1", 
-    "item_id": "754415903", 
-    "time_added": "1414863238", 
-    "resolved_id": "754415903", 
-    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=5021516&searchkey=6c6afa20-0fca-448e-3ff2-32895742c939", 
-    "resolved_title": "Real Estate"
-  }, 
-  {
     "is_article": "1", 
     "image": {
       "item_id": "701610571", 
@@ -17370,7 +17349,7 @@
     "has_video": "2", 
     "time_added": "1415154385", 
     "status": "0", 
-    "sort_id": 1438, 
+    "sort_id": 1436, 
     "resolved_url": "https://www.youtube.com/watch?v=yx4bCUNaCYY", 
     "item_id": "706531547", 
     "resolved_id": "706531558", 
@@ -20549,7 +20528,7 @@
     "has_video": "0", 
     "time_added": "1414892956", 
     "status": "0", 
-    "sort_id": 1433, 
+    "sort_id": 1431, 
     "resolved_url": "http://www.pbs.org/wgbh/nova/next/physics/bicep2/", 
     "authors": {
       "25665380": {
@@ -28253,7 +28232,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1431, 
+    "sort_id": 1430, 
     "time_updated": "1414776194", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -29164,7 +29143,7 @@
     "has_video": "0", 
     "time_added": "1415613033", 
     "status": "0", 
-    "sort_id": 1442, 
+    "sort_id": 1440, 
     "resolved_url": "http://weburbanist.com/2013/06/20/secret-skeakeasy-abandoned-water-tower-nightclub-in-nyc/?ref=rss", 
     "authors": {
       "5934455": {
@@ -31968,7 +31947,7 @@
         "tag": "vegetarianism"
       }
     }, 
-    "sort_id": 1439, 
+    "sort_id": 1437, 
     "resolved_url": "http://sentientist.org/2013/05/20/the-ethical-case-for-eating-oysters-and-mussels/", 
     "authors": {
       "8747570": {
@@ -34935,7 +34914,7 @@
     "status": "0", 
     "is_index": "1", 
     "sort_id": 1366, 
-    "time_updated": "1412273697", 
+    "time_updated": "1415649415", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "You won\u2019t be lost in the sea of discussions. Stay up to date with a macro view of all activities, latest discussions, latest votes, and statistics as they come in a simple information stream.  Be in complete control of your discussions with the built-in permission system.", 
@@ -40675,27 +40654,6 @@
     "favorite": "0", 
     "given_title": "How a Cat Boosts Your Creativity", 
     "has_image": "1"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1430, 
-    "time_updated": "1414776069", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Currently leased for $900 monthly through January with ability to renew.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "70", 
-    "given_title": "735 Patton Ave, Austin, TX 78742 - MLS/Listing # 5021516", 
-    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=5021516", 
-    "is_article": "1", 
-    "item_id": "753678956", 
-    "time_added": "1414776068", 
-    "resolved_id": "753678956", 
-    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=5021516", 
-    "resolved_title": "Real Estate"
   }, 
   {
     "status": "0", 
@@ -47593,7 +47551,7 @@
     "has_video": "0", 
     "time_added": "1415051858", 
     "status": "0", 
-    "sort_id": 1437, 
+    "sort_id": 1435, 
     "resolved_url": "http://www.npr.org/2014/11/03/361069820/new-clock-may-end-time-as-we-know-it", 
     "authors": {
       "25849441": {
@@ -62216,7 +62174,7 @@
     "has_video": "0", 
     "time_added": "1415031178", 
     "status": "0", 
-    "sort_id": 1436, 
+    "sort_id": 1434, 
     "resolved_url": "http://blogs.wsj.com/indiarealtime/2014/10/31/is-sardar-patel-eclipsing-indira-gandhi/", 
     "authors": {
       "22412171": {
@@ -65933,7 +65891,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1441, 
+    "sort_id": 1439, 
     "resolved_url": "http://en.wikipedia.org/wiki/Trolltunga", 
     "authors": {
       "7331684": {
@@ -66108,7 +66066,7 @@
     "has_video": "1", 
     "time_added": "1415458980", 
     "status": "0", 
-    "sort_id": 1440, 
+    "sort_id": 1438, 
     "resolved_url": "http://mentalfloss.com/article/49559/46-things-i-learned-making-mister-rogers-me", 
     "authors": {
       "8118292": {
