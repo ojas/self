@@ -13271,23 +13271,15 @@
     "resolved_title": "Beautiful Visualization by Julie Steele and Noah Iliinsky on Inkling"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 357, 
-    "time_updated": "1365131249", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "I know it is coming, and I do not fear it, because I believe there is nothing on the other side of death to fear. I hope to be spared as much pain as possible on the approach path. I was perfectly content before I was born, and I think of death as the same state.", 
+    "is_article": "1", 
     "image": {
       "item_id": "156997741", 
       "src": "http://media.salon.com/2013/04/roger_ebert2-620x412.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "1437", 
+    "excerpt": "I know it is coming, and I do not fear it, because I believe there is nothing on the other side of death to fear. I hope to be spared as much pain as possible on the approach path. I was perfectly content before I was born, and I think of death as the same state.", 
+    "word_count": "1347", 
     "images": {
       "1": {
         "src": "http://media.salon.com/2013/04/roger_ebert2-620x412.jpg", 
@@ -13299,14 +13291,36 @@
         "width": "0"
       }
     }, 
-    "given_title": "I do not fear death - Salon.com", 
-    "resolved_url": "http://www.salon.com/2011/09/15/roger_ebert/", 
-    "is_article": "1", 
-    "item_id": "156997741", 
+    "has_video": "0", 
     "time_added": "1365131249", 
+    "status": "0", 
+    "sort_id": 357, 
+    "resolved_url": "http://www.salon.com/2011/09/15/roger_ebert/", 
+    "authors": {
+      "24277143": {
+        "item_id": "156997741", 
+        "url": "http://authors.simonandschuster.com/Matthew-Thomas/427003006", 
+        "author_id": "24277143", 
+        "name": "Matthew Thomas"
+      }, 
+      "12329875": {
+        "item_id": "156997741", 
+        "url": "https://www.facebook.com/zadiesmithauthor", 
+        "author_id": "12329875", 
+        "name": "Zadie Smith"
+      }
+    }, 
+    "item_id": "156997741", 
     "resolved_id": "156997741", 
     "given_url": "http://www.salon.com/2011/09/15/roger_ebert/", 
-    "resolved_title": "I do not fear death"
+    "resolved_title": "I do not fear death", 
+    "is_index": "0", 
+    "time_updated": "1365131249", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "I do not fear death - Salon.com", 
+    "has_image": "1"
   }, 
   {
     "videos": {
@@ -29098,6 +29112,79 @@
     "resolved_id": "235984877", 
     "given_url": "http://www.carstyling.ru/en/entry/Soncept_art_for_Blade_Runner_by_Syd_Mead_1982/", 
     "resolved_title": "\u0421oncept art for Blade Runner by Syd Mead (1982)"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "761367822", 
+      "src": "http://weburbanist.com/wp-content/uploads/2013/06/water-tower-night-club-468x312.jpg", 
+      "height": "312", 
+      "width": "468"
+    }, 
+    "excerpt": "New York has a long history of hidden and illicit venues \u2013 one that did not stop when prohibition was lifted. There is the innocuous pizza shop where dialing the right number in their phone booth lets you through a secret door into the pub.", 
+    "word_count": "217", 
+    "images": {
+      "1": {
+        "src": "http://weburbanist.com/wp-content/uploads/2013/06/water-tower-night-club-468x312.jpg", 
+        "credit": "", 
+        "height": "312", 
+        "image_id": "1", 
+        "item_id": "761367822", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "3": {
+        "src": "http://weburbanist.com/wp-content/uploads/2013/06/secret-speakeasy-new-york.jpg", 
+        "credit": "", 
+        "height": "624", 
+        "image_id": "3", 
+        "item_id": "761367822", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "2": {
+        "src": "http://weburbanist.com/wp-content/uploads/2013/06/secret-water-tower-bar.jpg", 
+        "credit": "", 
+        "height": "309", 
+        "image_id": "2", 
+        "item_id": "761367822", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "4": {
+        "src": "http://weburbanist.com/wp-content/uploads/2013/06/secret-hidden-room-bar.jpg", 
+        "credit": "", 
+        "height": "768", 
+        "image_id": "4", 
+        "item_id": "761367822", 
+        "caption": "", 
+        "width": "468"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1415613033", 
+    "status": "0", 
+    "sort_id": 1442, 
+    "resolved_url": "http://weburbanist.com/2013/06/20/secret-skeakeasy-abandoned-water-tower-nightclub-in-nyc/?ref=rss", 
+    "authors": {
+      "5934455": {
+        "item_id": "761367822", 
+        "url": "http://weburbanist.com/author/admin/", 
+        "author_id": "5934455", 
+        "name": "Urbanist"
+      }
+    }, 
+    "item_id": "761367822", 
+    "resolved_id": "761367822", 
+    "given_url": "http://weburbanist.com/2013/06/20/secret-skeakeasy-abandoned-water-tower-nightclub-in-nyc/?ref=rss", 
+    "resolved_title": "Secret Speakeasy: Abandoned Water Tower Nightclub in NYC", 
+    "is_index": "0", 
+    "time_updated": "1415613033", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "TIL an abandoned water tower on top of a vacant New York City building was ", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
