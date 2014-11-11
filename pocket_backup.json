@@ -76470,7 +76470,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -78224,7 +78224,7 @@
       "width": "0"
     }, 
     "excerpt": "Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond.", 
-    "word_count": "162", 
+    "word_count": "163", 
     "images": {
       "1": {
         "src": "https://www.polymer-project.org/images/logos/p-logo.svg", 
