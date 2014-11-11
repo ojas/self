@@ -11696,6 +11696,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1443, 
+    "time_updated": "1415679108", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "15", 
+    "given_title": "", 
+    "resolved_url": "http://sanantonio.craigslist.org/cto/4704114314.html", 
+    "is_article": "1", 
+    "item_id": "762341386", 
+    "time_added": "1415679107", 
+    "resolved_id": "762341386", 
+    "given_url": "http://sanantonio.craigslist.org/cto/4704114314.html", 
+    "resolved_title": "!!!!@@@@Audi TT Quattro V6@@@@!!!! (San Antonio)"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "593389319", 
@@ -12102,6 +12123,27 @@
     "resolved_id": "500503472", 
     "given_url": "http://willdrevo.com/fingerprinting-and-audio-recognition-with-python.html", 
     "resolved_title": "Redirecting..."
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1441, 
+    "time_updated": "1415677158", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/cto/4753693669.html", 
+    "is_article": "0", 
+    "item_id": "762324394", 
+    "time_added": "1415677157", 
+    "resolved_id": "762324394", 
+    "given_url": "http://austin.craigslist.org/cto/4753693669.html", 
+    "resolved_title": ""
   }, 
   {
     "videos": {
@@ -20711,6 +20753,79 @@
     "resolved_id": "73354919", 
     "given_url": "http://www.dwheeler.com/essays/filenames-in-shell.html", 
     "resolved_title": "Filenames and Pathnames in Shell: How to do it Correctly"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "762363047", 
+      "src": "http://4.bp.blogspot.com/-K-ISah3DyqA/UBDlHSyXOPI/AAAAAAAAENs/4sciPGBsrBM/s1600/a11.jpg", 
+      "height": "186", 
+      "width": "280"
+    }, 
+    "excerpt": "ANF: Can you tell us a little about the import/registration process? Ross: Here in Canada we can import any vehicle from anywhere in the world as long as it is 15 years old.", 
+    "word_count": "1420", 
+    "images": {
+      "1": {
+        "src": "http://4.bp.blogspot.com/-K-ISah3DyqA/UBDlHSyXOPI/AAAAAAAAENs/4sciPGBsrBM/s1600/a11.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "1", 
+        "item_id": "762363047", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "3": {
+        "src": "http://3.bp.blogspot.com/-ba5pIcHW9kM/UBDnFyW9peI/AAAAAAAAEOE/DX2qW4ZIRY0/s1600/a8.jpg", 
+        "credit": "", 
+        "height": "210", 
+        "image_id": "3", 
+        "item_id": "762363047", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "2": {
+        "src": "http://2.bp.blogspot.com/-JVYft9MgE1A/UBDmZ0sswSI/AAAAAAAAEN8/YwUkz5eGp-k/s1600/a1.jpg", 
+        "credit": "", 
+        "height": "133", 
+        "image_id": "2", 
+        "item_id": "762363047", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "4": {
+        "src": "http://2.bp.blogspot.com/-0qZH61Cfs9I/UBDrczwIqEI/AAAAAAAAEOQ/DSNZKLqK4U4/s1600/a2.jpg", 
+        "credit": "", 
+        "height": "210", 
+        "image_id": "4", 
+        "item_id": "762363047", 
+        "caption": "", 
+        "width": "280"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1415681629", 
+    "status": "0", 
+    "sort_id": 1444, 
+    "resolved_url": "http://www.autoneuroticfixation.com/2012/07/autozam-az-1-owner-interview.html?m=1", 
+    "authors": {
+      "3741239": {
+        "item_id": "762363047", 
+        "url": "http://www.blogger.com/profile/07130575175687846742", 
+        "author_id": "3741239", 
+        "name": "Alan"
+      }
+    }, 
+    "item_id": "762363047", 
+    "resolved_id": "762363047", 
+    "given_url": "http://www.autoneuroticfixation.com/2012/07/autozam-az-1-owner-interview.html?m=1", 
+    "resolved_title": "Autozam AZ-1 Owner Interview", 
+    "is_index": "0", 
+    "time_updated": "1415681631", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
@@ -50012,6 +50127,27 @@
     "resolved_id": "332424134", 
     "given_url": "http://sdiehl.github.io/gevent-tutorial/#real-world-applications", 
     "resolved_title": "Gevent Tutorial"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1442, 
+    "time_updated": "1415679098", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "6 cylinders, Bose, new battery, stage 1 ECM, black, coupe, quattro.  CEL from aftermarket cams, no mechanical issues, due for a new set of tires soon.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "84", 
+    "given_title": "", 
+    "resolved_url": "http://sanantonio.craigslist.org/cto/4743134086.html", 
+    "is_article": "1", 
+    "item_id": "762341311", 
+    "time_added": "1415679097", 
+    "resolved_id": "762341311", 
+    "given_url": "http://sanantonio.craigslist.org/cto/4743134086.html", 
+    "resolved_title": "FS/FT: 2004 Audi TT VR6 Quattro - $9500 (NE S.A.)"
   }, 
   {
     "status": "0", 
