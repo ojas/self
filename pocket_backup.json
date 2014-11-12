@@ -69,12 +69,12 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "465", 
+    "word_count": "448", 
     "authors": {
-      "8516": {
+      "6596858": {
         "item_id": "328904120", 
-        "url": "", 
-        "author_id": "8516", 
+        "url": "https://medium.com/@kylebragger", 
+        "author_id": "6596858", 
         "name": "Kyle Bragger"
       }
     }, 
@@ -85,7 +85,7 @@
     "time_added": "1365026090", 
     "resolved_id": "328904120", 
     "given_url": "https://medium.com/i-m-h-o/ef4772e3c628", 
-    "resolved_title": "Stop working (so hard) \u2014 I. M. H. O. \u2014 Medium", 
+    "resolved_title": "Stop working (so hard)", 
     "tags": {
       "money": {
         "item_id": "328904120", 
@@ -3124,7 +3124,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "20", 
+    "word_count": "132", 
     "given_title": "Home - Quora", 
     "resolved_url": "http://www.quora.com/", 
     "is_article": "0", 
