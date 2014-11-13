@@ -33873,6 +33873,134 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1447, 
+    "time_updated": "1415908955", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "It may seem like we know everything here at  \tJalopnik, but that's not the case. Here are nine fascinating factoids we hadn't heard about cars, and one that's not.", 
+    "image": {
+      "item_id": "764678387", 
+      "src": "http://i.kinja-img.com/gawker-media/image/upload/s--TUBQEpCW--/c_fit,fl_progressive,q_80,w_636/tm8rcqujlerkhil1ummm.jpg", 
+      "height": "288", 
+      "width": "636"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1059", 
+    "images": {
+      "11": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--Hapm1nD4--/c_fit,fl_progressive,q_80,w_636/wu3c5stsq6qvsv4cxm6i.jpg", 
+        "credit": "", 
+        "height": "425", 
+        "image_id": "11", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "10": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--mR8_PLF0--/c_fit,fl_progressive,q_80,w_636/uyua7porba0pawlliryr.jpg", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "10", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "1": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--TUBQEpCW--/c_fit,fl_progressive,q_80,w_636/tm8rcqujlerkhil1ummm.jpg", 
+        "credit": "", 
+        "height": "288", 
+        "image_id": "1", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "3": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--TLeT0lQ8--/c_fit,fl_progressive,q_80,w_636/utyoraksg86wae9bknyv.jpg", 
+        "credit": "", 
+        "height": "473", 
+        "image_id": "3", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "2": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--4dZY-d14--/c_fit,fl_progressive,q_80,w_636/qn4mux4psflvuuavrty5.jpg", 
+        "credit": "", 
+        "height": "332", 
+        "image_id": "2", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "5": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--9AEBTAkm--/c_fit,fl_progressive,q_80,w_636/reev108yhnrj7j9de59d.jpg", 
+        "credit": "", 
+        "height": "416", 
+        "image_id": "5", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "4": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--aR0GRfsR--/c_fit,fl_progressive,q_80,w_636/pmdkswysgoqd55vmvkvn.jpg", 
+        "credit": "", 
+        "height": "356", 
+        "image_id": "4", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "7": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--Uei18EM_--/c_fit,fl_progressive,q_80,w_636/rrecpiqilessctnzeiqu.jpg", 
+        "credit": "", 
+        "height": "444", 
+        "image_id": "7", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "6": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--JaJVnzDW--/c_fit,fl_progressive,q_80,w_636/wm5avghqwvsaxe4opgv4.jpg", 
+        "credit": "", 
+        "height": "546", 
+        "image_id": "6", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "9": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--fXNJ6Okz--/c_fit,fl_progressive,q_80,w_636/eaiuirbhqtlfv4hlkvgw.jpg", 
+        "credit": "", 
+        "height": "405", 
+        "image_id": "9", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "8": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--WifBPItL--/c_fit,fl_progressive,q_80,w_636/jlr0auyvm1tdvh7ydumc.jpg", 
+        "credit": "", 
+        "height": "345", 
+        "image_id": "8", 
+        "item_id": "764678387", 
+        "caption": "", 
+        "width": "636"
+      }
+    }, 
+    "given_title": "Ten Surprising Car Facts You Probably Haven't Heard Before", 
+    "resolved_url": "http://jalopnik.com/ten-surprising-car-facts-you-probably-havent-heard-befo-1658353078", 
+    "is_article": "1", 
+    "item_id": "764678387", 
+    "time_added": "1415908955", 
+    "resolved_id": "764678403", 
+    "given_url": "http://jalopnik.com/ten-surprising-car-facts-you-probably-havent-heard-befo-1658353078?utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow", 
+    "resolved_title": "Ten Surprising Car Facts You Probably Haven't Heard Before"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "269098572", 
@@ -76597,7 +76725,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
