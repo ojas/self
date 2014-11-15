@@ -14680,7 +14680,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "472843364", 
-      "src": "http://g.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/10/3019758-poster-p-1-open-office-layouts-are-disrespectful-to-employees-and-lower-their-quality-of-work.jpg", 
+      "src": "http://h.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/10/3019758-poster-p-1-open-office-layouts-are-disrespectful-to-employees-and-lower-their-quality-of-work.jpg", 
       "height": "720", 
       "width": "1280"
     }, 
@@ -14688,7 +14688,7 @@
     "word_count": "1741", 
     "images": {
       "1": {
-        "src": "http://g.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/10/3019758-poster-p-1-open-office-layouts-are-disrespectful-to-employees-and-lower-their-quality-of-work.jpg", 
+        "src": "http://h.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/10/3019758-poster-p-1-open-office-layouts-are-disrespectful-to-employees-and-lower-their-quality-of-work.jpg", 
         "credit": "", 
         "height": "720", 
         "image_id": "1", 
@@ -60035,25 +60035,53 @@
     "resolved_title": ""
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/23E1m8ZxFmU?wmode=transparent&rel=0&autohide=1&showinfo=0&enablejsapi=1", 
+        "vid": "23E1m8ZxFmU", 
+        "video_id": "1", 
+        "height": "360", 
+        "width": "640", 
+        "item_id": "293130018", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "293130018", 
+      "src": "http://img.youtube.com/vi/23E1m8ZxFmU/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "This year marks the 50th anniversary of the founding of McLaren Racing. While the name has become synonymous with winning Formula One cars and insane street cars, the man behind that name tends to be not as well known.", 
+    "word_count": "199", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/23E1m8ZxFmU/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "293130018", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1359907491", 
     "status": "0", 
-    "is_index": "0", 
     "sort_id": 269, 
+    "resolved_url": "http://jalopnik.com/5981112/this-tribute-to-bruce-mclaren-may-move-you-to-tears", 
+    "item_id": "293130018", 
+    "resolved_id": "293130024", 
+    "given_url": "http://feeds.gawker.com/~r/jalopnik/full/~3/gJ2K3varmgU/this-tribute-to-bruce-mclaren-may-move-you-to-tears", 
+    "resolved_title": "This Tribute To Bruce McLaren May Move You To Tears", 
+    "is_index": "0", 
     "time_updated": "1359907491", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "This year marks the 50th anniversary of the founding of McLaren Racing. While the name has become synonymous with winning Formula One cars and insane street cars, the man behind that name tends to be not as well known.", 
-    "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "151", 
     "given_title": "This Tribute To Bruce McLaren May Move You To Tears", 
-    "resolved_url": "http://jalopnik.com/5981112/this-tribute-to-bruce-mclaren-may-move-you-to-tears", 
-    "is_article": "1", 
-    "item_id": "293130018", 
-    "time_added": "1359907491", 
-    "resolved_id": "293130024", 
-    "given_url": "http://feeds.gawker.com/~r/jalopnik/full/~3/gJ2K3varmgU/this-tribute-to-bruce-mclaren-may-move-you-to-tears", 
-    "resolved_title": "This Tribute To Bruce McLaren May Move You To Tears"
+    "has_image": "1"
   }, 
   {
     "status": "0", 
