@@ -26377,7 +26377,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "233", 
+    "word_count": "291", 
     "images": {
       "1": {
         "src": "https://s3.amazonaws.com/assets.uncover.com/assets/home-perks-rewards-6939d0d1f3aa749ddccf73be0df5ac35.png", 
@@ -26390,13 +26390,13 @@
       }
     }, 
     "given_title": "Uncover - Reward your employees", 
-    "resolved_url": "http://uncover.com", 
+    "resolved_url": "https://www.uncover.com/", 
     "is_article": "0", 
     "item_id": "281902474", 
     "time_added": "1368105641", 
     "resolved_id": "281902474", 
     "given_url": "https://www.uncover.com/", 
-    "resolved_title": "Uncover - Perks & Rewards"
+    "resolved_title": "Employee Perks & Employee Rewards - Uncover"
   }, 
   {
     "status": "0", 
