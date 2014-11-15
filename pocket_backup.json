@@ -3115,16 +3115,16 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 625, 
     "time_updated": "1372743851", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "There are updates to this page that haven't been applied because you've entered text. Refresh this page to see updates.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "20", 
     "given_title": "Home - Quora", 
     "resolved_url": "http://www.quora.com/", 
     "is_article": "0", 
@@ -3132,7 +3132,7 @@
     "time_added": "1372743851", 
     "resolved_id": "27693939", 
     "given_url": "http://www.quora.com/", 
-    "resolved_title": ""
+    "resolved_title": "Sign up to read Quora"
   }, 
   {
     "videos": {
