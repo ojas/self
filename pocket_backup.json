@@ -2515,7 +2515,7 @@
       "width": "250"
     }, 
     "excerpt": "While predictions of the future can never be absolutely certain,[1] present scientific understanding in various fields has allowed a projected course for the farthest future events to be sketched out, if only in the broadest strokes.", 
-    "word_count": "8004", 
+    "word_count": "8049", 
     "images": {
       "1": {
         "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/250px-Red_Giant_Earth_warm.jpg", 
@@ -2523,7 +2523,7 @@
         "height": "169", 
         "image_id": "1", 
         "item_id": "65661497", 
-        "caption": "\n\nWhat the Earth might look like seven billion years from now, after the Sun has entered the red giant phase.", 
+        "caption": "\n\nWhat the Earth might look like seven billion years from now, after the Sun has entered the red giant phase", 
         "width": "250"
       }
     }, 
@@ -76753,7 +76753,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
