@@ -9988,7 +9988,7 @@
     "time_added": "1390343560", 
     "status": "1", 
     "sort_id": 937, 
-    "resolved_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters/", 
+    "resolved_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -31065,6 +31065,35 @@
     "resolved_id": "272650852", 
     "given_url": "http://viewfromthemiddle.tumblr.com/post/38957896131", 
     "resolved_title": "View From the Middle"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1448, 
+    "time_updated": "1416247176", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "REST APIs are a very common topic nowaday; they are part of almost every web application. A simple, consistent and pragmatic interface is a mandatory thing; it will be much easier for others to use your API.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "786", 
+    "authors": {
+      "26394712": {
+        "item_id": "767765798", 
+        "url": "https://bourgeois.me/author/pierre-olivier-bourgeois/", 
+        "author_id": "26394712", 
+        "name": "Pierre-Olivier Bourgeois's Picture"
+      }
+    }, 
+    "given_title": "Some REST best practices", 
+    "resolved_url": "https://bourgeois.me/rest/", 
+    "is_article": "1", 
+    "item_id": "767765798", 
+    "time_added": "1416247176", 
+    "resolved_id": "767765798", 
+    "given_url": "https://bourgeois.me/rest/", 
+    "resolved_title": "Some REST best practices"
   }, 
   {
     "status": "0", 
