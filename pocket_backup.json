@@ -31078,14 +31078,6 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "0", 
-    "authors": {
-      "26394712": {
-        "item_id": "767765798", 
-        "url": "https://bourgeois.me/author/pierre-olivier-bourgeois/", 
-        "author_id": "26394712", 
-        "name": "Pierre-Olivier Bourgeois's Picture"
-      }
-    }, 
     "given_title": "Some REST best practices", 
     "resolved_url": "https://bourgeois.me/rest/", 
     "is_article": "0", 
