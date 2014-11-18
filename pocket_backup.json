@@ -70131,24 +70131,24 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1076, 
     "time_updated": "1398489869", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "home", 
     "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
+    "has_video": "1", 
+    "word_count": "1", 
     "given_title": "calm.com", 
-    "resolved_url": "http://Calm.com", 
+    "resolved_url": "http://www.calm.com/", 
     "is_article": "0", 
     "item_id": "112731722", 
     "time_added": "1398489869", 
     "resolved_id": "112731722", 
     "given_url": "http://www.calm.com/", 
-    "resolved_title": ""
+    "resolved_title": "calm.com"
   }, 
   {
     "videos": {
