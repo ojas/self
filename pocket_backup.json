@@ -45502,6 +45502,27 @@
     }
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1449, 
+    "time_updated": "1416284326", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/cto/4766525928.html", 
+    "is_article": "0", 
+    "item_id": "768326269", 
+    "time_added": "1416284324", 
+    "resolved_id": "768326269", 
+    "given_url": "http://austin.craigslist.org/cto/4766525928.html", 
+    "resolved_title": ""
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/p/E715E326EA1ABB5B?hl=en_US&fs=1", 
@@ -62551,7 +62572,7 @@
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
-        "credit": "Brecht Vandenbroucke", 
+        "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "185909912", 
@@ -62576,7 +62597,7 @@
     "resolved_id": "185694949", 
     "given_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/?smid=fb-share", 
     "resolved_title": "The 'Busy' Trap", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
     "time_read": "1348063457", 
