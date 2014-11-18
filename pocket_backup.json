@@ -53066,19 +53066,19 @@
     "time_updated": "1415287333", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "I joined Stripe as an engineer in 2010. I began by working on the backend infrastructure: designing the server architecture, creating our credit card vault, and producing internal abstractions to make people\u2019s jobs easier.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2667", 
+    "word_count": "0", 
     "given_title": "#define CTO", 
-    "resolved_url": "http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "is_article": "1", 
+    "resolved_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
+    "is_article": "0", 
     "item_id": "750053681", 
     "time_added": "1414587629", 
     "resolved_id": "750053681", 
     "given_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "resolved_title": "#define CTO"
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -58908,15 +58908,15 @@
     "is_article": "1", 
     "image": {
       "item_id": "398052507", 
-      "src": "https://raw.github.com/mame/quine-relay/master/langs.png", 
+      "src": "https://camo.githubusercontent.com/9e9260ea69b3059a3d8cb511e50b0962a6df1a6e/68747470733a2f2f7261772e6769746875622e636f6d2f6d616d652f7175696e652d72656c61792f6d61737465722f6c616e67732e706e67", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "This is a Ruby program that generates Scala program that generates Scheme program that generates ...(through 50 languages)... REXX program that generates the original Ruby code again.  You are fortunate if you are using Ubuntu 13.10 (Saucy Salamander).", 
-    "word_count": "394", 
+    "excerpt": "This is a Ruby program that generates Scala program that generates Scheme program that generates ...(through 63 languages in total)... REXX program that generates the original Ruby code again.  You are (relatively) fortunate if you are using Ubuntu 14.10 \"Utopic Unicorn\".", 
+    "word_count": "405", 
     "images": {
       "1": {
-        "src": "https://raw.github.com/mame/quine-relay/master/langs.png", 
+        "src": "https://camo.githubusercontent.com/9e9260ea69b3059a3d8cb511e50b0962a6df1a6e/68747470733a2f2f7261772e6769746875622e636f6d2f6d616d652f7175696e652d72656c61792f6d61737465722f6c616e67732e706e67", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -58936,10 +58936,18 @@
     }, 
     "sort_id": 644, 
     "resolved_url": "https://github.com/mame/quine-relay", 
+    "authors": {
+      "26414211": {
+        "item_id": "398052507", 
+        "url": "https://github.com/mame", 
+        "author_id": "26414211", 
+        "name": "mame"
+      }
+    }, 
     "item_id": "398052507", 
     "resolved_id": "397773988", 
     "given_url": "https://t.co/IoWtoGd6By", 
-    "resolved_title": "mame/quine-relay \u00b7 GitHub", 
+    "resolved_title": "mame/quine-relay", 
     "is_index": "0", 
     "time_updated": "1374153698", 
     "time_favorited": "0", 
@@ -74005,7 +74013,7 @@
       "width": "600"
     }, 
     "excerpt": "Aluminum ingots waiting to be shipped from a processor. Financial institutions like Goldman Sachs have used industry pricing regulations to earn millions of dollars each year.\u00a0    MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "5282", 
+    "word_count": "910", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -74032,42 +74040,6 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
-        "width": "190"
-      }, 
-      "5": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
-        "credit": "Tyler Clay", 
-        "height": "275", 
-        "image_id": "5", 
-        "item_id": "401365344", 
-        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
-        "width": "190"
-      }, 
-      "4": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
-        "credit": "Fabrizio Costantini for The New York Times", 
-        "height": "127", 
-        "image_id": "4", 
-        "item_id": "401365344", 
-        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
-        "width": "190"
-      }, 
-      "7": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "7", 
-        "item_id": "401365344", 
-        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
-        "width": "190"
-      }, 
-      "6": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "6", 
-        "item_id": "401365344", 
-        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
