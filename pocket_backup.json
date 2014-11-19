@@ -9070,7 +9070,7 @@
       }
     }, 
     "given_title": "Flat UI", 
-    "resolved_url": "http://designmodo.github.io/Flat-UI/#", 
+    "resolved_url": "http://designmodo.github.io/Flat-UI/", 
     "is_article": "1", 
     "item_id": "330382830", 
     "time_added": "1367293017", 
@@ -49614,6 +49614,72 @@
     "resolved_id": "308946396", 
     "given_url": "http://repl.it/languages/Python", 
     "resolved_title": "Online Interpreter"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "//player.vimeo.com/video/111877305", 
+        "vid": "111877305", 
+        "video_id": "1", 
+        "height": "360", 
+        "width": "640", 
+        "item_id": "769703075", 
+        "type": "4"
+      }, 
+      "2": {
+        "src": "//www.youtube.com/embed/i_f7t4805DA", 
+        "vid": "i_f7t4805DA", 
+        "video_id": "2", 
+        "height": "360", 
+        "width": "640", 
+        "item_id": "769703075", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "769703075", 
+      "src": "http://assets.noisey.com/content-images/contentimage/45499/20000daysonearth--1-.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "If there was a film that Noisey was over the moon about in 2014, it would be 20,000 Days on Earth. And though the film's theatrical run, which included a release party with the man himself, has come to a conclusion, don't worry. 20,000 Days on Earth is out today on Blu-Ray/DVD/Digital.", 
+    "word_count": "149", 
+    "images": {
+      "1": {
+        "src": "http://assets.noisey.com/content-images/contentimage/45499/20000daysonearth--1-.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "769703075", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1416427433", 
+    "status": "0", 
+    "sort_id": 1454, 
+    "resolved_url": "http://noisey.vice.com/read/watch-an-exclusive-extended-clip-with-nick-cave-and-kylie-minogue-from-20000-days-on-earth", 
+    "authors": {
+      "16196005": {
+        "item_id": "769703075", 
+        "url": "http://m.noisey.vice.com/author/noisey-staff", 
+        "author_id": "16196005", 
+        "name": "Noisey Staff"
+      }
+    }, 
+    "item_id": "769703075", 
+    "resolved_id": "769703075", 
+    "given_url": "http://noisey.vice.com/read/watch-an-exclusive-extended-clip-with-nick-cave-and-kylie-minogue-from-20000-days-on-earth", 
+    "resolved_title": "Watch an Exclusive Extended Clip with Nick Cave and Kylie Minogue from '20,000 Days on Earth'", 
+    "is_index": "0", 
+    "time_updated": "1416427433", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Watch an Exclusive Extended Clip with Nick Cave and Kylie Minogue from '20,", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
