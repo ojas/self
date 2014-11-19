@@ -4682,7 +4682,7 @@
       }
     }, 
     "given_title": "Facebook", 
-    "resolved_url": "https://www.facebook.com", 
+    "resolved_url": "https://www.facebook.com/", 
     "is_article": "0", 
     "item_id": "69969", 
     "time_added": "1414680500", 
@@ -37891,6 +37891,52 @@
     "resolved_title": "A SOFT MURMUR"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "769040918", 
+      "src": "http://s.radar.oreilly.com/wp-files/2/2014/11/field-guide-sticky.png", 
+      "height": "388", 
+      "width": "620"
+    }, 
+    "excerpt": "As we developed Atlas, O\u2019Reilly\u2019s next-generation publishing tool, it seemed like every day we were finding interesting new tools in the DevOps space, so I started a \u201cSticky\u201d for the most interesting-looking tools to explore.  At first, this worked fine.", 
+    "word_count": "691", 
+    "images": {
+      "1": {
+        "src": "http://s.radar.oreilly.com/wp-files/2/2014/11/field-guide-sticky.png", 
+        "credit": "", 
+        "height": "388", 
+        "image_id": "1", 
+        "item_id": "769040918", 
+        "caption": "", 
+        "width": "620"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1416433127", 
+    "status": "0", 
+    "sort_id": 1456, 
+    "resolved_url": "http://radar.oreilly.com/2014/11/introducing-a-field-guide-to-the-distributed-development-stack.html", 
+    "authors": {
+      "4157392": {
+        "item_id": "769040918", 
+        "url": "http://radar.oreilly.com/andrewo", 
+        "author_id": "4157392", 
+        "name": "Andrew Odewahn"
+      }
+    }, 
+    "item_id": "769040918", 
+    "resolved_id": "769040918", 
+    "given_url": "http://radar.oreilly.com/2014/11/introducing-a-field-guide-to-the-distributed-development-stack.html", 
+    "resolved_title": "Introducing \u201cA Field Guide to the Distributed Development Stack\u201d", 
+    "is_index": "0", 
+    "time_updated": "1416433127", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Introducing A Field Guide to the Distributed Development Stack - O'Reilly R", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 498, 
@@ -49657,7 +49703,7 @@
       }
     }, 
     "has_video": "1", 
-    "time_added": "1416427433", 
+    "time_added": "1416430108", 
     "status": "0", 
     "sort_id": 1454, 
     "resolved_url": "http://noisey.vice.com/read/watch-an-exclusive-extended-clip-with-nick-cave-and-kylie-minogue-from-20000-days-on-earth", 
@@ -49674,7 +49720,7 @@
     "given_url": "http://noisey.vice.com/read/watch-an-exclusive-extended-clip-with-nick-cave-and-kylie-minogue-from-20000-days-on-earth", 
     "resolved_title": "Watch an Exclusive Extended Clip with Nick Cave and Kylie Minogue from '20,000 Days on Earth'", 
     "is_index": "0", 
-    "time_updated": "1416427433", 
+    "time_updated": "1416430108", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -61446,7 +61492,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1451, 
-    "time_updated": "1416352311", 
+    "time_updated": "1416432318", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Mezzanine has come a long way over the last few years, now powering hundreds of rich, content-driven sites. For the most part these sites follow a similar pattern, one which Mezzanine is heavily geared towards: B2C sites comprised of heterogeneous, hierarchical content.", 
@@ -79160,6 +79206,44 @@
     "resolved_id": "609834964", 
     "given_url": "https://github.com/hal9000xp/euclid", 
     "resolved_title": "hal9000xp/euclid \u00b7 GitHub"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1455, 
+    "time_updated": "1416430112", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "East Austin homes are a popular living solution for people looking to combine the convenience of nearby downtown with the affordability of an overlooked community. Hipsters mingle with residents who have lived here for decades.", 
+    "image": {
+      "item_id": "769924720", 
+      "src": "http://www.urbanspacerealtors.com/images/mobile-cta_262.png", 
+      "height": "157", 
+      "width": "262"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "122", 
+    "images": {
+      "1": {
+        "src": "http://www.urbanspacerealtors.com/images/mobile-cta_262.png", 
+        "credit": "", 
+        "height": "157", 
+        "image_id": "1", 
+        "item_id": "769924720", 
+        "caption": "", 
+        "width": "262"
+      }
+    }, 
+    "given_title": "East Austin Homes: East Austin Real Estate & Condos For Sale", 
+    "resolved_url": "http://www.urbanspacerealtors.com/neighborhoods.php?neighborhood=east", 
+    "is_article": "1", 
+    "item_id": "769924720", 
+    "time_added": "1416430110", 
+    "resolved_id": "769924720", 
+    "given_url": "http://www.urbanspacerealtors.com/neighborhoods.php?neighborhood=east", 
+    "resolved_title": "East Austin Real Estate"
   }, 
   {
     "status": "0", 
