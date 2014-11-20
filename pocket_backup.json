@@ -3300,8 +3300,8 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Once again, the stories to be found within the pages of Expedition Portal\u2019s forums, cease to amaze. With literally millions of forum posts in the extensive library chronicling the adventures of many a robust overland vehicle, this is the only one to feature a BMW M Coupe.", 
-    "word_count": "4936", 
+    "excerpt": "Once again, the stories to be found within the pages of Expedition Portal\u2019s forums, never cease to amaze. With literally millions of forum posts in the extensive library chronicling the adventures of many a robust overland vehicle, this is the only one to feature a BMW M Coupe.", 
+    "word_count": "4937", 
     "images": {
       "11": {
         "src": "http://expeditionportal.com/media/2014/11/IMG_5169_zpsecd0ef42.jpg", 
@@ -31227,24 +31227,24 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1445, 
     "time_updated": "1416418239", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "REST APIs are a very common topic nowaday; they are part of almost every web application. A simple, consistent and pragmatic interface is a mandatory thing; it will be much easier for others to use your API.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "786", 
     "given_title": "Some REST best practices", 
-    "resolved_url": "https://bourgeois.me/rest/", 
-    "is_article": "0", 
+    "resolved_url": "http://bourgeois.me/rest/", 
+    "is_article": "1", 
     "item_id": "767765798", 
     "time_added": "1416247176", 
     "resolved_id": "767765798", 
     "given_url": "https://bourgeois.me/rest/", 
-    "resolved_title": ""
+    "resolved_title": "Some REST best practices"
   }, 
   {
     "status": "0", 
