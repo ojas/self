@@ -33893,7 +33893,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 1211, 
     "time_updated": "1406150745", 
     "time_favorited": "0", 
@@ -33931,7 +33931,7 @@
     }, 
     "given_title": "An Illustrated Book of Bad Arguments", 
     "resolved_url": "https://bookofbadarguments.com/", 
-    "is_article": "0", 
+    "is_article": "1", 
     "item_id": "397794236", 
     "time_added": "1405950914", 
     "resolved_id": "397794236", 
