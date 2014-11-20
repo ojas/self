@@ -33893,7 +33893,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1211, 
     "time_updated": "1406150745", 
     "time_favorited": "0", 
@@ -33931,7 +33931,7 @@
     }, 
     "given_title": "An Illustrated Book of Bad Arguments", 
     "resolved_url": "https://bookofbadarguments.com/", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "397794236", 
     "time_added": "1405950914", 
     "resolved_id": "397794236", 
@@ -47838,21 +47838,21 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/005/original/banners-for-home-page-04.jpg?1409852917", 
-        "credit": "and free download!", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/003/original/2_banners-for-home-page-08_web.jpg?1412568085", 
+        "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "718611705", 
-        "caption": "HCD Toolkit\nThe textbook", 
+        "caption": "\n\nPilot\nA Pilot is a longer-term test of your solution and a critical step before going to market.\n", 
         "width": "0"
       }, 
       "2": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/002/original/banners-for-home-page-01.jpg?1409852959", 
-        "credit": "", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/005/original/banners-for-home-page-04.jpg?1409852917", 
+        "credit": "and free download!", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "718611705", 
-        "caption": "\n\nCreative Confidence\nWatch IDEO founder David Kelley share why this mindset is so crucial to routine innovation.\n", 
+        "caption": "HCD Toolkit\nThe textbook", 
         "width": "0"
       }, 
       "5": {
@@ -47865,12 +47865,12 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/003/original/2_banners-for-home-page-08_web.jpg?1412568085", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/002/original/Mindsets_Banners3.png?1416339266", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "718611705", 
-        "caption": "\n\nPilot\nA Pilot is a longer-term test of your solution and a critical step before going to market.\n", 
+        "caption": "\n\nOptimism\nWatch John Bielenberg of Future Partners on the importance of this Mindset.\n", 
         "width": "0"
       }, 
       "7": {
@@ -47914,7 +47914,7 @@
     "time_added": "1411157017", 
     "status": "0", 
     "sort_id": 1339, 
-    "resolved_url": "http://designkit.org", 
+    "resolved_url": "http://www.designkit.org/", 
     "item_id": "718611705", 
     "resolved_id": "718611705", 
     "given_url": "http://www.designkit.org/", 
