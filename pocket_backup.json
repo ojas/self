@@ -64763,7 +64763,7 @@
     "time_updated": "1406820362", 
     "time_favorited": "0", 
     "time_read": "1406820362", 
-    "excerpt": "GitHub  Demo  Docs FAQ  Issues  Donate P The world's first multi-threaded CSV parser for the browser  Use Papa when performance, privacy, and correctness matter to you.  Papa is easy to use:var results = Papa.parse(csv);  Convert JSON to CSV:var csv = Papa.", 
+    "excerpt": "GitHub  Demo  Docs FAQ  Issues  Donate P Now the fastest JavaScript CSV parser for the browser  The world's first multi-threaded CSV parser for the browser  Use Papa when performance, privacy, and correctness matter to you  Papa is easy to use:var results = Papa.", 
     "image": {
       "item_id": "514516814", 
       "src": "http://papaparse.com/resources/images/smartystreets.png", 
@@ -64795,7 +64795,7 @@
       }
     }, 
     "given_title": "Papa Parse - Powerful CSV parser for Javascript", 
-    "resolved_url": "http://papaparse.com/", 
+    "resolved_url": "http://papaparse.com", 
     "is_article": "0", 
     "item_id": "514516814", 
     "time_added": "1405564505", 
