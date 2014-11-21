@@ -2902,7 +2902,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://www.nature.com/polopoly_fs/7.12926.1414676340!/image/top-picks_final.png_gen/derivatives/fullsize/top-picks_final.png", 
+        "src": "http://www.nature.com/polopoly_fs/7.12926.1416476487!/image/top-picks_final.png_gen/derivatives/fullsize/top-picks_final.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -3115,6 +3115,27 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1461, 
+    "time_updated": "1416604752", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "How big is the smallest fish in the pond? You catch one hundred fishes, all of which are greater than six inches. Does this evidence support the hypothesis that no fish in the pond is much less than six inches long? Not if your net can't catch smaller fish.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "4372", 
+    "given_title": "A Primer on the Anthropic Principle | anthropic-principle.com", 
+    "resolved_url": "http://www.anthropic-principle.com/?q=anthropic_principle/primer", 
+    "is_article": "1", 
+    "item_id": "218309294", 
+    "time_added": "1416604752", 
+    "resolved_id": "218309294", 
+    "given_url": "http://www.anthropic-principle.com/?q=anthropic_principle/primer", 
+    "resolved_title": "A Primer on the Anthropic Principle"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 625, 
     "time_updated": "1372743851", 
@@ -3301,7 +3322,7 @@
       "width": "0"
     }, 
     "excerpt": "Once again, the stories to be found within the pages of Expedition Portal\u2019s forums, never cease to amaze. With literally millions of forum posts in the extensive library chronicling the adventures of many a robust overland vehicle, this is the only one to feature a BMW M Coupe.", 
-    "word_count": "4937", 
+    "word_count": "4941", 
     "images": {
       "11": {
         "src": "http://expeditionportal.com/media/2014/11/IMG_5169_zpsecd0ef42.jpg", 
@@ -5431,6 +5452,97 @@
     "resolved_id": "143054672", 
     "given_url": "http://www.madmode.com/2012/02/got-my-data-back-from-mint-thanks-to.html", 
     "resolved_title": "Got my data back from Mint, thanks to GnuCash/mysql"
+  }, 
+  {
+    "is_article": "0", 
+    "image": {
+      "item_id": "332704498", 
+      "src": "http://s.petrolicious.com/2013/history/honda/honda-rc166-1.jpg", 
+      "height": "0", 
+      "width": "518"
+    }, 
+    "excerpt": "ADVERTISEMENT", 
+    "word_count": "1", 
+    "images": {
+      "1": {
+        "src": "http://s.petrolicious.com/2013/history/honda/honda-rc166-1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "332704498", 
+        "caption": "", 
+        "width": "518"
+      }, 
+      "3": {
+        "src": "http://s.petrolicious.com/2013/history/honda/honda-rc166-4.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "332704498", 
+        "caption": "", 
+        "width": "385"
+      }, 
+      "2": {
+        "src": "http://s.petrolicious.com/2013/history/honda/honda-rc166-3.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "332704498", 
+        "caption": "", 
+        "width": "479"
+      }, 
+      "5": {
+        "src": "http://s.petrolicious.com/2013/history/honda/honda_rc166-5.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "332704498", 
+        "caption": "", 
+        "width": "313"
+      }, 
+      "4": {
+        "src": "http://s.petrolicious.com/2013/history/honda/honda-rc166-2.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "332704498", 
+        "caption": "", 
+        "width": "604"
+      }, 
+      "6": {
+        "src": "http://s.petrolicious.com/2013/history/honda/honda-rc166-6.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "332704498", 
+        "caption": "", 
+        "width": "313"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1416602438", 
+    "status": "0", 
+    "sort_id": 1460, 
+    "resolved_url": "http://www.petrolicious.com/honda-rc166", 
+    "authors": {
+      "7859902": {
+        "item_id": "332704498", 
+        "url": "", 
+        "author_id": "7859902", 
+        "name": "Alan Franklin"
+      }
+    }, 
+    "item_id": "332704498", 
+    "resolved_id": "332704498", 
+    "given_url": "http://www.petrolicious.com/honda-rc166", 
+    "resolved_title": "Honda's RC166 Had More than Met the Eye", 
+    "is_index": "0", 
+    "time_updated": "1416602438", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Honda's RC166 Had More than Met the Eye | Petrolicious", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
@@ -15593,22 +15705,14 @@
     "resolved_title": "Timeline Photos"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1032, 
-    "time_updated": "1397429443", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "At the core of how Buffer schedules posts is one line of a cronjob configuration that hasn\u2019t been touched since the very start when Joel founded Buffer. We still rely on that single cronjob that runs every minute of every day.", 
+    "is_article": "1", 
     "image": {
       "item_id": "560730428", 
       "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*btb_JZMpeZHrJKeDp7ZcEA.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "At the core of how Buffer schedules posts is one line of a cronjob configuration that hasn\u2019t been touched since the very start when Joel founded Buffer. We still rely on that single cronjob that runs every minute of every day.", 
     "word_count": "1255", 
     "images": {
       "1": {
@@ -15639,14 +15743,30 @@
         "width": "0"
       }
     }, 
-    "given_title": "The cronjob that generates $4 million a year \u2014 Embracing Technology & Socia", 
-    "resolved_url": "https://medium.com/technology-culture-productivity/4540b0cde584", 
-    "is_article": "1", 
-    "item_id": "560730428", 
+    "has_video": "0", 
     "time_added": "1394429293", 
+    "status": "0", 
+    "sort_id": 1032, 
+    "resolved_url": "https://medium.com/technology-culture-productivity/4540b0cde584", 
+    "authors": {
+      "17079751": {
+        "item_id": "560730428", 
+        "url": "https://medium.com/@sunils34", 
+        "author_id": "17079751", 
+        "name": "Sunil Sadasivan"
+      }
+    }, 
+    "item_id": "560730428", 
     "resolved_id": "560730428", 
     "given_url": "https://medium.com/technology-culture-productivity/4540b0cde584", 
-    "resolved_title": "The  cronjob that generates $4 million a year"
+    "resolved_title": "The  cronjob that generates $4 million a year", 
+    "is_index": "0", 
+    "time_updated": "1397429443", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The cronjob that generates $4 million a year \u2014 Embracing Technology & Socia", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
@@ -35796,9 +35916,9 @@
       }
     }, 
     "has_video": "0", 
-    "time_added": "1416596105", 
+    "time_added": "1416604755", 
     "status": "0", 
-    "sort_id": 1460, 
+    "sort_id": 1462, 
     "resolved_url": "http://en.wikipedia.org/wiki/Self-sampling_assumption", 
     "authors": {
       "7331684": {
@@ -35813,7 +35933,7 @@
     "given_url": "http://en.wikipedia.org/wiki/Self-sampling_assumption", 
     "resolved_title": "Self-sampling assumption", 
     "is_index": "0", 
-    "time_updated": "1416596105", 
+    "time_updated": "1416604755", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -64103,7 +64223,7 @@
     "has_video": "0", 
     "word_count": "3983", 
     "given_title": "Postgres full-text search is Good Enough!", 
-    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/#1", 
+    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/", 
     "is_article": "1", 
     "item_id": "573355474", 
     "time_added": "1411975568", 
@@ -78245,7 +78365,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
