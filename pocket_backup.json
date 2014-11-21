@@ -12123,6 +12123,70 @@
     "resolved_title": "First Steps with Celery\u00b6"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "235541300", 
+      "src": "http://graphics8.nytimes.com/images/2011/10/05/books/review/NEWsinger/NEWsinger-articleLarge.jpg", 
+      "height": "447", 
+      "width": "600"
+    }, 
+    "excerpt": "It is unusual for the subtitle of a book to undersell it, but Steven Pinker\u2019s \u201cBetter Angels of Our Nature\u201d tells us much more than why violence has declined.", 
+    "word_count": "2706", 
+    "images": {
+      "1": {
+        "src": "http://graphics8.nytimes.com/images/2011/10/05/books/review/NEWsinger/NEWsinger-articleLarge.jpg", 
+        "credit": "Brian Rea", 
+        "height": "447", 
+        "image_id": "1", 
+        "item_id": "235541300", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "3": {
+        "src": "http://graphics8.nytimes.com/images/2011/10/09/books/review/Singer-3/Singer-3-articleInline.jpg", 
+        "credit": "Brian Rea", 
+        "height": "184", 
+        "image_id": "3", 
+        "item_id": "235541300", 
+        "caption": "", 
+        "width": "190"
+      }, 
+      "2": {
+        "src": "http://graphics8.nytimes.com/images/2011/10/09/books/review/09SINGER4/09SINGER4-articleInline.jpg", 
+        "credit": "Max S. Gerber", 
+        "height": "238", 
+        "image_id": "2", 
+        "item_id": "235541300", 
+        "caption": "Steven Pinker                            ", 
+        "width": "190"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1416588243", 
+    "status": "0", 
+    "sort_id": 1459, 
+    "resolved_url": "http://www.nytimes.com/2011/10/09/books/review/the-better-angels-of-our-nature-by-steven-pinker-book-review.html?pagewanted=all&_r=0", 
+    "authors": {
+      "2498872": {
+        "item_id": "235541300", 
+        "url": "", 
+        "author_id": "2498872", 
+        "name": "PETER SINGER"
+      }
+    }, 
+    "item_id": "235541300", 
+    "resolved_id": "235541300", 
+    "given_url": "http://www.nytimes.com/2011/10/09/books/review/the-better-angels-of-our-nature-by-steven-pinker-book-review.html?pagewanted=all&_r=0", 
+    "resolved_title": "Is Violence History?", 
+    "is_index": "0", 
+    "time_updated": "1416588243", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The Better Angels of Our Nature \u2014 By Steven Pinker \u2014 Book Review - NYTimes.", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 718, 
@@ -27168,7 +27232,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "283005567", 
-      "src": "http://cdn3.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
+      "src": "https://cdn2.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -27176,7 +27240,7 @@
     "word_count": "2081", 
     "images": {
       "1": {
-        "src": "http://cdn3.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
+        "src": "https://cdn2.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -31301,24 +31365,24 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1445, 
     "time_updated": "1416418239", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "REST APIs are a very common topic nowaday; they are part of almost every web application. A simple, consistent and pragmatic interface is a mandatory thing; it will be much easier for others to use your API.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "786", 
     "given_title": "Some REST best practices", 
-    "resolved_url": "https://bourgeois.me/rest/", 
-    "is_article": "0", 
+    "resolved_url": "http://bourgeois.me/rest/", 
+    "is_article": "1", 
     "item_id": "767765798", 
     "time_added": "1416247176", 
     "resolved_id": "767765798", 
     "given_url": "https://bourgeois.me/rest/", 
-    "resolved_title": ""
+    "resolved_title": "Some REST best practices"
   }, 
   {
     "status": "0", 
