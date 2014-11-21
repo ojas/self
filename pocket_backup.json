@@ -28440,7 +28440,7 @@
       "width": "190"
     }, 
     "excerpt": "What Goethe can teach us about cultivating a healthy relationship with our finances.  The question of how people spend and earn money has been a cultural obsession since the dawn of economic history, but the psychology behind it is sometimes surprising and often riddled with various anxieties.", 
-    "word_count": "2392", 
+    "word_count": "2347", 
     "images": {
       "1": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/worrylessaboutmoney.jpg", 
@@ -28448,7 +28448,7 @@
         "height": "0", 
         "image_id": "1", 
         "item_id": "356739515", 
-        "caption": "", 
+        "caption": "Indianapolis Newsboys buying brass checks in a newspaper office, 1908", 
         "width": "190"
       }, 
       "3": {
@@ -28457,7 +28457,7 @@
         "height": "0", 
         "image_id": "3", 
         "item_id": "356739515", 
-        "caption": "", 
+        "caption": "Indianapolis Newsboys buying brass checks in a newspaper office, 1908", 
         "width": "480"
       }, 
       "2": {
@@ -28466,7 +28466,7 @@
         "height": "0", 
         "image_id": "2", 
         "item_id": "356739515", 
-        "caption": "", 
+        "caption": "Indianapolis Newsboys buying brass checks in a newspaper office, 1908", 
         "width": "500"
       }, 
       "5": {
@@ -28475,7 +28475,7 @@
         "height": "0", 
         "image_id": "5", 
         "item_id": "356739515", 
-        "caption": "", 
+        "caption": "Market scene, 1922", 
         "width": "480"
       }, 
       "4": {
@@ -28484,7 +28484,7 @@
         "height": "0", 
         "image_id": "4", 
         "item_id": "356739515", 
-        "caption": "", 
+        "caption": "Market scene, 1922", 
         "width": "500"
       }, 
       "7": {
@@ -28493,7 +28493,7 @@
         "height": "0", 
         "image_id": "7", 
         "item_id": "356739515", 
-        "caption": "", 
+        "caption": "'The civilized ideal: elegance and devotion to work.'", 
         "width": "480"
       }, 
       "6": {
@@ -72071,8 +72071,8 @@
       "height": "0", 
       "width": "180"
     }, 
-    "excerpt": "Internal Time goes on to illuminate many other aspects of how chronotypes and social jet lag impact our daily lives, from birth and suicide rates to when we borrow books from the library to why older men marry younger women, and even why innovators and entrepreneurs tend to have later chronotypes.", 
-    "word_count": "397", 
+    "excerpt": "I am often asked whether we cannot get used to given working hours merely through discipline and by confining our sleep habits to certain times. The assumption inherent in this question is that the human body clock can synchronize to social cues.", 
+    "word_count": "241", 
     "images": {
       "1": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/internaltime.jpg", 
@@ -72085,20 +72085,20 @@
       }, 
       "3": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/internaltime2.jpg", 
-        "credit": "", 
+        "credit": "on the left", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "165236615", 
-        "caption": "\n", 
+        "caption": "Sleep duration shows a bell-shaped distribution within a population, but there are more short sleepers", 
         "width": "480"
       }, 
       "2": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/internaltime1.jpg", 
-        "credit": "", 
+        "credit": "on free days", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "165236615", 
-        "caption": "\n", 
+        "caption": "The distribution of midsleep in Central Europe. The midsleep times", 
         "width": "480"
       }, 
       "5": {
@@ -72107,7 +72107,7 @@
         "height": "0", 
         "image_id": "5", 
         "item_id": "165236615", 
-        "caption": "\n", 
+        "caption": "Across most ages, men are on average later chronotypes than women. The differences decrease as men and women age. Thus, when the man is older than his female partner, their chronotypes tend to be more similar.", 
         "width": "480"
       }, 
       "4": {
@@ -72116,7 +72116,7 @@
         "height": "0", 
         "image_id": "4", 
         "item_id": "165236615", 
-        "caption": "\n", 
+        "caption": "The scissors of sleep. Depending on chronotype, sleep duration can be very different between work days and free days.", 
         "width": "480"
       }
     }, 
