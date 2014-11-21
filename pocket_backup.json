@@ -34306,23 +34306,14 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Join us in Paris, France in October for the first official AngularJS European conference.  HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application.", 
-    "word_count": "738", 
+    "excerpt": "HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.", 
+    "word_count": "722", 
     "images": {
       "1": {
         "src": "https://angularjs.org/img/AngularJS-large.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
-        "item_id": "30008898", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "https://angularjs.org/img/ng-europe-logo-compact-on-white.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
         "item_id": "30008898", 
         "caption": "", 
         "width": "0"
