@@ -35766,6 +35766,61 @@
     "resolved_title": "Timeline Photos"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "735352977", 
+      "src": "http://upload.wikimedia.org/math/3/0/a/30a83899d43b156384be84db854210fd.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "For instance, if there is a coin flip that on heads will create one observer, while on tails they will create two, then we have two possible worlds, the first with one observer, the second with two.", 
+    "word_count": "365", 
+    "images": {
+      "1": {
+        "src": "http://upload.wikimedia.org/math/3/0/a/30a83899d43b156384be84db854210fd.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "735352977", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greek_letter_uppercase_Phi.svg/30px-Greek_letter_uppercase_Phi.svg.png", 
+        "credit": "", 
+        "height": "30", 
+        "image_id": "2", 
+        "item_id": "735352977", 
+        "caption": "", 
+        "width": "30"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1416596105", 
+    "status": "0", 
+    "sort_id": 1460, 
+    "resolved_url": "http://en.wikipedia.org/wiki/Self-sampling_assumption", 
+    "authors": {
+      "7331684": {
+        "item_id": "735352977", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "item_id": "735352977", 
+    "resolved_id": "735352977", 
+    "given_url": "http://en.wikipedia.org/wiki/Self-sampling_assumption", 
+    "resolved_title": "Self-sampling assumption", 
+    "is_index": "0", 
+    "time_updated": "1416596105", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Self-sampling assumption - Wikipedia, the free encyclopedia", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1419, 
