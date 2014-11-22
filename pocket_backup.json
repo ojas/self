@@ -63252,7 +63252,7 @@
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
-        "credit": "", 
+        "credit": "Brecht Vandenbroucke", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "185909912", 
@@ -63277,7 +63277,7 @@
     "resolved_id": "185694949", 
     "given_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/?smid=fb-share", 
     "resolved_title": "The 'Busy' Trap", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
     "time_read": "1348063457", 
