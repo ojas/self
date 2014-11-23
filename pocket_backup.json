@@ -19801,7 +19801,7 @@
     "status": "0", 
     "is_index": "1", 
     "sort_id": 1464, 
-    "time_updated": "1416720997", 
+    "time_updated": "1416769084", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Amy Schumer \"I'm Wondering What It's Like To Date Me\"           Season Five     latest episode  16:06 now playing   Amy Schumer \"I'm Wondering What It's Like To Date Me\"    Next Episode Trailer Thursday 12 Noon EDT  01:12 now playing   Jerry's Next Guest is Bill Burr Episode Trailer", 
@@ -19813,7 +19813,7 @@
     "resolved_url": "http://comediansincarsgettingcoffee.com/", 
     "is_article": "0", 
     "item_id": "188197930", 
-    "time_added": "1416720997", 
+    "time_added": "1416769084", 
     "resolved_id": "188197930", 
     "given_url": "http://comediansincarsgettingcoffee.com/", 
     "resolved_title": "Amy Schumer"
@@ -68750,6 +68750,186 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/fxTaXDxzIXE?rel=0", 
+        "vid": "fxTaXDxzIXE", 
+        "video_id": "1", 
+        "height": "263", 
+        "width": "468", 
+        "item_id": "571230355", 
+        "type": "1"
+      }, 
+      "3": {
+        "src": "http://www.youtube.com/embed/5NpAX5-4RSQ?rel=0", 
+        "vid": "5NpAX5-4RSQ", 
+        "video_id": "3", 
+        "height": "263", 
+        "width": "468", 
+        "item_id": "571230355", 
+        "type": "1"
+      }, 
+      "2": {
+        "src": "http://www.youtube.com/embed/mf7_NDQ0ek4?rel=0", 
+        "vid": "mf7_NDQ0ek4", 
+        "video_id": "2", 
+        "height": "263", 
+        "width": "468", 
+        "item_id": "571230355", 
+        "type": "1"
+      }, 
+      "4": {
+        "src": "http://www.youtube.com/embed/IQFNYgE-BvA?rel=0", 
+        "vid": "IQFNYgE-BvA", 
+        "video_id": "4", 
+        "height": "263", 
+        "width": "468", 
+        "item_id": "571230355", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "571230355", 
+      "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Underground-Main.jpg", 
+      "height": "400", 
+      "width": "468"
+    }, 
+    "excerpt": "Far below the bustling cities of London, Paris, Montreal, New York and Helsinki are subterranean spaces ranging from dark, dank and dangerous storm drain tunnels to entire complexes complete with shopping malls and swimming pools.", 
+    "word_count": "1464", 
+    "images": {
+      "11": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-Subtropolis.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "11", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "10": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-Las-Vegas-1.jpg", 
+        "credit": "", 
+        "height": "566", 
+        "image_id": "10", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "1": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Underground-Main.jpg", 
+        "credit": "", 
+        "height": "400", 
+        "image_id": "1", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "3": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-Paris-1.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "3", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "2": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-London-Farm.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "2", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "5": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-Helsinki-1.jpg", 
+        "credit": "", 
+        "height": "577", 
+        "image_id": "5", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "4": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-Paris-2.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "4", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "7": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-Montreal-RESO.jpg", 
+        "credit": "", 
+        "height": "650", 
+        "image_id": "7", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "6": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-Helsinki-2.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "6", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "9": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-Las-Vegas-2.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "9", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "8": {
+        "src": "http://weburbanist.com/wp-content/uploads/2014/03/Urban-Undergrounds-New-York-1.jpg", 
+        "credit": "", 
+        "height": "650", 
+        "image_id": "8", 
+        "item_id": "571230355", 
+        "caption": "", 
+        "width": "468"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1416769200", 
+    "status": "0", 
+    "tags": {
+      "travel": {
+        "item_id": "571230355", 
+        "tag": "travel"
+      }
+    }, 
+    "sort_id": 1465, 
+    "resolved_url": "http://weburbanist.com/2014/03/17/7-urban-underground-wonders-active-subterranean-spaces/", 
+    "authors": {
+      "5941823": {
+        "item_id": "571230355", 
+        "url": "http://weburbanist.com/author/Steph/", 
+        "author_id": "5941823", 
+        "name": "Steph"
+      }
+    }, 
+    "item_id": "571230355", 
+    "resolved_id": "571230355", 
+    "given_url": "http://weburbanist.com/2014/03/17/7-urban-underground-wonders-active-subterranean-spaces/", 
+    "resolved_title": "7 Urban Underground Wonders: Active Subterranean Spaces", 
+    "is_index": "0", 
+    "time_updated": "1416769205", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Underground Urban Wonders: 7 Stunning Sub-City Spaces | Urbanist", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 389, 
@@ -78452,7 +78632,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
