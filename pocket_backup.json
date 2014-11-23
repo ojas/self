@@ -1730,6 +1730,27 @@
     }
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1466, 
+    "time_updated": "1416777493", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Great all around Sport Touring bike.  Only issue: fell off of side stand onto left side, minor scratches on faring.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "81", 
+    "given_title": "2005 VFR800 ABS Interceptor VFR 800", 
+    "resolved_url": "https://austin.craigslist.org/mcy/4773146144.html", 
+    "is_article": "1", 
+    "item_id": "773188953", 
+    "time_added": "1416777491", 
+    "resolved_id": "773188953", 
+    "given_url": "https://austin.craigslist.org/mcy/4773146144.html", 
+    "resolved_title": "2005 VFR800 ABS Interceptor VFR 800 - $4700 (Lockhart)"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "228570857", 
@@ -5586,7 +5607,7 @@
     "given_url": "http://www.petrolicious.com/honda-rc166", 
     "resolved_title": "Honda's RC166 Had More than Met the Eye", 
     "is_index": "0", 
-    "time_updated": "1416602438", 
+    "time_updated": "1416775466", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -12288,8 +12309,8 @@
     "image": {
       "item_id": "235541300", 
       "src": "http://graphics8.nytimes.com/images/2011/10/05/books/review/NEWsinger/NEWsinger-articleLarge.jpg", 
-      "height": "447", 
-      "width": "600"
+      "height": "348", 
+      "width": "468"
     }, 
     "excerpt": "It is unusual for the subtitle of a book to undersell it, but Steven Pinker\u2019s \u201cBetter Angels of Our Nature\u201d tells us much more than why violence has declined.", 
     "word_count": "2706", 
@@ -12297,11 +12318,11 @@
       "1": {
         "src": "http://graphics8.nytimes.com/images/2011/10/05/books/review/NEWsinger/NEWsinger-articleLarge.jpg", 
         "credit": "Brian Rea", 
-        "height": "447", 
+        "height": "348", 
         "image_id": "1", 
         "item_id": "235541300", 
         "caption": "", 
-        "width": "600"
+        "width": "468"
       }, 
       "3": {
         "src": "http://graphics8.nytimes.com/images/2011/10/09/books/review/Singer-3/Singer-3-articleInline.jpg", 
@@ -20716,6 +20737,27 @@
     "resolved_id": "571185875", 
     "given_url": "http://www.ted.com/talks/steven_pinker_and_rebecca_newberger_goldstein_the_long_reach_of_reason?utm_source=direct-on.ted.com&utm_campaign=&utm_content=awesm-bookmarklet&awesm=on.ted.com_c04QY&utm_medium=on.ted.com-facebook-share", 
     "resolved_title": "The long reach of reason"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1467, 
+    "time_updated": "1416778197", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Powered by an improved Honda V twin motor and stripped of all unneeded weight this is an attention grabbing custom that accelerates hard and handles superbly. This is truly one of a kind.  Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "208", 
+    "given_title": "Cafe Racer", 
+    "resolved_url": "https://austin.craigslist.org/mcy/4763944557.html", 
+    "is_article": "1", 
+    "item_id": "773195217", 
+    "time_added": "1416778194", 
+    "resolved_id": "773195217", 
+    "given_url": "https://austin.craigslist.org/mcy/4763944557.html", 
+    "resolved_title": "Cafe Racer - $5500 (San Marcos )"
   }, 
   {
     "is_article": "1", 
