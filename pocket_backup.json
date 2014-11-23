@@ -1223,6 +1223,55 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/v/nwXF6UdkeI4", 
+        "vid": "nwXF6UdkeI4", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "351380048", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "351380048", 
+      "src": "http://img.youtube.com/vi/nwXF6UdkeI4/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "Documentary about Robert McNamara, Secretary of Defense in the Kennedy and Johnson Administrations, who subsequently became president of the World Bank. The documentary combines an interview with Mr. McNamara discussing some of the tragedies and glories of the 20th Century, archival footage, documen", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/nwXF6UdkeI4/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "351380048", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1416720957", 
+    "status": "0", 
+    "sort_id": 1463, 
+    "resolved_url": "https://www.youtube.com/watch?v=nwXF6UdkeI4", 
+    "item_id": "351380048", 
+    "resolved_id": "351380048", 
+    "given_url": "https://www.youtube.com/watch?v=nwXF6UdkeI4", 
+    "resolved_title": "The Fog of War - Eleven Lessons from the Life of Robert S. McNamara", 
+    "is_index": "0", 
+    "time_updated": "1416720957", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "\u25b6 The Fog of War - Eleven Lessons from the Life of Robert S. McNamara - You", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 570, 
@@ -19747,6 +19796,27 @@
         "tag": "interview"
       }
     }
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1464, 
+    "time_updated": "1416720997", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Amy Schumer \"I'm Wondering What It's Like To Date Me\"           Season Five     latest episode  16:06 now playing   Amy Schumer \"I'm Wondering What It's Like To Date Me\"    Next Episode Trailer Thursday 12 Noon EDT  01:12 now playing   Jerry's Next Guest is Bill Burr Episode Trailer", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "327", 
+    "given_title": "Comedians In Cars Getting Coffee by Jerry Seinfeld", 
+    "resolved_url": "http://comediansincarsgettingcoffee.com/", 
+    "is_article": "0", 
+    "item_id": "188197930", 
+    "time_added": "1416720997", 
+    "resolved_id": "188197930", 
+    "given_url": "http://comediansincarsgettingcoffee.com/", 
+    "resolved_title": "Amy Schumer"
   }, 
   {
     "status": "0", 
