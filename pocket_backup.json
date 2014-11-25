@@ -15500,7 +15500,7 @@
       "width": "480"
     }, 
     "excerpt": "\u201cStudies have found that the most elite violinists in the world generally follow a 90-minute work regime, with a 15- to 20-minute break afterwards.", 
-    "word_count": "235", 
+    "word_count": "207", 
     "images": {
       "1": {
         "src": "http://img.youtube.com/vi/lHfjvYzr-3g/0.jpg", 
@@ -15518,10 +15518,10 @@
     "sort_id": 225, 
     "resolved_url": "http://www.brainpickings.org/index.php/2013/01/09/the-science-of-productivity-animated/", 
     "authors": {
-      "5731": {
+      "23602465": {
         "item_id": "278871471", 
-        "url": "http://www.brainpickings.org/index.php/author/mpopova/", 
-        "author_id": "5731", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
         "name": "Maria Popova"
       }
     }, 
@@ -19781,6 +19781,55 @@
     "time_read": "1404450580", 
     "favorite": "0", 
     "given_title": "New Domestic Trailer for Ron Howard's 'Rush'", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/aDArnpqnMFA?wmode=transparent&rel=0&autohide=1&showinfo=0&enablejsapi=1", 
+        "vid": "aDArnpqnMFA", 
+        "video_id": "1", 
+        "height": "360", 
+        "width": "640", 
+        "item_id": "773873817", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "773873817", 
+      "src": "http://i.kinja-img.com/gawker-media/image/upload/s---rtTGbBJ--/c_fit,fl_progressive,q_80,w_636/al36vxhtqp9muxzdpjqk.jpg", 
+      "height": "287", 
+      "width": "636"
+    }, 
+    "excerpt": "", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s---rtTGbBJ--/c_fit,fl_progressive,q_80,w_636/al36vxhtqp9muxzdpjqk.jpg", 
+        "credit": "", 
+        "height": "287", 
+        "image_id": "1", 
+        "item_id": "773873817", 
+        "caption": "", 
+        "width": "636"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1416884570", 
+    "status": "0", 
+    "sort_id": 1470, 
+    "resolved_url": "http://jalopnik.com/heres-the-stig-and-darth-vader-driving-a-porsche-in-the-1662612559?rev=1416846149499&new_editor_css=&utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow", 
+    "item_id": "773873817", 
+    "resolved_id": "773873817", 
+    "given_url": "http://jalopnik.com/heres-the-stig-and-darth-vader-driving-a-porsche-in-the-1662612559?rev=1416846149499&new_editor_css=&utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow", 
+    "resolved_title": "Here's The Stig And Darth Vader Driving A Porsche In The Snow", 
+    "is_index": "0", 
+    "time_updated": "1416884571", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
     "has_image": "1"
   }, 
   {
@@ -28692,7 +28741,7 @@
     "has_video": "0", 
     "word_count": "180", 
     "given_title": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!", 
-    "resolved_url": "http://microjs.com/#", 
+    "resolved_url": "http://microjs.com/", 
     "is_article": "0", 
     "item_id": "79529069", 
     "time_added": "1405617157", 
@@ -31081,7 +31130,7 @@
       "width": "480"
     }, 
     "excerpt": "\u201cStudies have found that the most elite violinists in the world generally follow a 90-minute work regime, with a 15- to 20-minute break afterwards.", 
-    "word_count": "235", 
+    "word_count": "207", 
     "images": {
       "1": {
         "src": "http://img.youtube.com/vi/lHfjvYzr-3g/0.jpg", 
@@ -31099,10 +31148,10 @@
     "sort_id": 227, 
     "resolved_url": "http://www.brainpickings.org/index.php/2013/01/09/the-science-of-productivity-animated/", 
     "authors": {
-      "5731": {
+      "23602465": {
         "item_id": "278872725", 
-        "url": "http://www.brainpickings.org/index.php/author/mpopova/", 
-        "author_id": "5731", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
         "name": "Maria Popova"
       }
     }, 
@@ -36886,8 +36935,8 @@
     "image": {
       "item_id": "438211560", 
       "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
-      "height": "400", 
-      "width": "600"
+      "height": "312", 
+      "width": "468"
     }, 
     "excerpt": "Melissa Owen, center, in her new coffeehouse in Plano, Tex., which opened with help from a career mentor.    GOD, as we know, works in mysterious ways. Back in the spring of 2011, Gerry Owen, an assistant pastor at a megachurch in Garland, Tex.", 
     "word_count": "3479", 
@@ -36895,11 +36944,11 @@
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
         "credit": "Rex C. Curry for The New York Times", 
-        "height": "400", 
+        "height": "312", 
         "image_id": "1", 
         "item_id": "438211560", 
         "caption": "Melissa Owen, center, in her new coffeehouse in Plano, Tex., which opened with help from a career mentor. ", 
-        "width": "600"
+        "width": "468"
       }, 
       "3": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR-JP4/15-MENTOR-JP4-articleInline.jpg", 
@@ -50475,6 +50524,52 @@
     "resolved_title": "Puzlet"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "774029320", 
+      "src": "http://wp.production.patheos.com/blogs/progressivesecularhumanist/files/2014/11/militant-atheist.jpg", 
+      "height": "356", 
+      "width": "628"
+    }, 
+    "excerpt": "Seeking freedom from the tyranny of religious superstition, the atheist and the anti-theist are always on the front line in the fight for social justice and cultural transformation.", 
+    "word_count": "919", 
+    "images": {
+      "1": {
+        "src": "http://wp.production.patheos.com/blogs/progressivesecularhumanist/files/2014/11/militant-atheist.jpg", 
+        "credit": "", 
+        "height": "356", 
+        "image_id": "1", 
+        "item_id": "774029320", 
+        "caption": "", 
+        "width": "628"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1416860788", 
+    "status": "0", 
+    "sort_id": 1469, 
+    "resolved_url": "http://www.patheos.com/blogs/progressivesecularhumanist/2014/11/atheism-and-the-necessity-of-anti-theism-for-social-justice/", 
+    "authors": {
+      "15812261": {
+        "item_id": "774029320", 
+        "url": "http://www.patheos.com/blogs/progressivesecularhumanist/author/mstone/", 
+        "author_id": "15812261", 
+        "name": "Michael Stone"
+      }
+    }, 
+    "item_id": "774029320", 
+    "resolved_id": "774029320", 
+    "given_url": "http://www.patheos.com/blogs/progressivesecularhumanist/2014/11/atheism-and-the-necessity-of-anti-theism-for-social-justice/", 
+    "resolved_title": "Atheism and the necessity of anti-theism for social justice", 
+    "is_index": "0", 
+    "time_updated": "1416860793", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "177131554", 
@@ -55857,7 +55952,7 @@
     "has_video": "0", 
     "word_count": "24", 
     "given_title": "Sidebar Transitions", 
-    "resolved_url": "http://tympanus.net/Development/SidebarTransitions", 
+    "resolved_url": "http://tympanus.net/Development/SidebarTransitions/", 
     "is_article": "1", 
     "item_id": "426117222", 
     "time_added": "1398487796", 
@@ -78661,7 +78756,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -79485,6 +79580,297 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "The Brain: The Mystery of Consciousness - TIME", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "//www.youtube.com/embed/sqTl5PplGrQ?rel=0", 
+        "vid": "sqTl5PplGrQ", 
+        "video_id": "1", 
+        "height": "315", 
+        "width": "560", 
+        "item_id": "643270775", 
+        "type": "1"
+      }, 
+      "2": {
+        "src": "http://www.youtube.com/embed/N1pIYI5JQLE?feature=player_embedded", 
+        "vid": "N1pIYI5JQLE", 
+        "video_id": "2", 
+        "height": "360", 
+        "width": "640", 
+        "item_id": "643270775", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "643270775", 
+      "src": "http://farm2.staticflickr.com/1139/1265162059_1f6c5a1c6a_o.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "This idea dates back to the Russians in the 1970s. The surface of Venus is far too hot, and the atmosphere too dense, for Earth life. However, our air is a lifting gas on Venus with about half the lifting power of helium on Eath.", 
+    "word_count": "12645", 
+    "images": {
+      "24": {
+        "src": "http://d1jqu7g1y74ds1.cloudfront.net/wp-content/uploads/2008/07/venus-airplane-250x192.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "24", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "25": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chicxulub_impact_-_artist_impression.jpg/761px-Chicxulub_impact_-_artist_impression.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "25", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "26": {
+        "src": "http://c1038.r38.cf3.rackcdn.com/group4/building39371/media/featured/euij_c_or.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "26", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "20": {
+        "src": "http://www.bluejayway.net/images/misc/bucky/080609_fuller04_p646.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "20", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "21": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wright_Valley_From_Bull_Pass.jpg/800px-Wright_Valley_From_Bull_Pass.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "21", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "22": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TerraformedVenus.jpg/600px-TerraformedVenus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "22", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "23": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lunar_base_concept_drawing_s78_23252.jpg/800px-Lunar_base_concept_drawing_s78_23252.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "23", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "http://farm2.staticflickr.com/1139/1265162059_1f6c5a1c6a_o.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/STS-122_docked_Columbus.jpg/800px-STS-122_docked_Columbus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mtl._Biosphere_in_Sept._2004.jpg/800px-Mtl._Biosphere_in_Sept._2004.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/STS-118_EVA_EMU_Suit.jpg/374px-STS-118_EVA_EMU_Suit.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://upload.wikimedia.org/wikipedia/en/1/19/Bigelow_Commercial_Space_Station.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/1_abaconda_trees_mclarren_falls_clouds.jpg/450px-1_abaconda_trees_mclarren_falls_clouds.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://www.nhm.ac.uk/resources-rx/images/1022/nunatak-meteorite-200-95196-1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://amazingstoriesmag.com/wp-content/uploads/2013/05/apollo17_splashdown-288x300.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Apollo_cm.jpg/781px-Apollo_cm.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "11": {
+        "src": "http://fernlea.tripod.com/s1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "http://www.wired.com/images_blogs/wiredscience/2013/04/EVE_in_cloud_1500x1000.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Venera_13_-_venera13-left.jpg/800px-Venera_13_-_venera13-left.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Interplanetary_Superhighway.jpg/800px-Interplanetary_Superhighway.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Light_microscope_images_of_stony_cosmic_spherules.png/787px-Light_microscope_images_of_stony_cosmic_spherules.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Venuspioneeruv.jpg/558px-Venuspioneeruv.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "17": {
+        "src": "https://s3-eu-west-1.amazonaws.com/front-media/assets/18/e8/94/f3/Gravity_472_16.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "17", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "16": {
+        "src": "http://spaceflight.nasa.gov/gallery/images/station/crew-15/med/iss015e10854.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "16", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "19": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Current_vs_emerging_methods_of_science_in_terms_of_pathways.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "19", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "18": {
+        "src": "http://dkue3ufa3e1f8.cloudfront.net/files/images/OrbitalAscender.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "18", 
+        "item_id": "643270775", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1416836381", 
+    "status": "0", 
+    "sort_id": 1468, 
+    "resolved_url": "http://www.science20.com/robert_inventor/will_we_build_colonies_that_float_over_venus_like_buckminster_fullers_cloud_nine-127573", 
+    "authors": {
+      "9570140": {
+        "item_id": "643270775", 
+        "url": "http://www.science20.com/profile/robert_walker", 
+        "author_id": "9570140", 
+        "name": "Robert Walker"
+      }
+    }, 
+    "item_id": "643270775", 
+    "resolved_id": "643270775", 
+    "given_url": "http://www.science20.com/robert_inventor/will_we_build_colonies_that_float_over_venus_like_buckminster_fullers_cloud_nine-127573", 
+    "resolved_title": "Will We Build Colonies That Float Over Venus Like Buckminster Fuller's \"Cloud Nine\"?", 
+    "is_index": "0", 
+    "time_updated": "1416836381", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Will We Build Colonies That Float Over Venus Like Buckminster Fuller's \"Clo", 
     "has_image": "1"
   }, 
   {
