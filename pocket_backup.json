@@ -30852,14 +30852,6 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "2899", 
-    "authors": {
-      "9678992": {
-        "item_id": "513367742", 
-        "url": "https://github.com/ipython/nbviewer/contributors", 
-        "author_id": "9678992", 
-        "name": "contributors"
-      }
-    }, 
     "given_title": "\u200enbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/plotting_", 
     "resolved_url": "http://nbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/plotting_distributions.ipynb", 
     "is_article": "0", 
