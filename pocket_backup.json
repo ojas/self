@@ -61345,6 +61345,61 @@
     "resolved_title": "\u2605Badassery: Who is history's greatest badass, and why?"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "775034862", 
+      "src": "http://media.npr.org/assets/bakertaylor/covers/p/paper-love/9781594631559_custom-11a07ebf0699972acbe2dac86d16521c5b01c8ed-s99-c85.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Your purchase helps support NPR Programming. How?  Karl Wildman was the hero of his family \u2014 he escaped Vienna at the start of World War II and became a successful doctor in the United States.", 
+    "word_count": "1294", 
+    "images": {
+      "1": {
+        "src": "http://media.npr.org/assets/bakertaylor/covers/p/paper-love/9781594631559_custom-11a07ebf0699972acbe2dac86d16521c5b01c8ed-s99-c85.jpg", 
+        "credit": "\n\n", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "775034862", 
+        "caption": "\n\n", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://media.npr.org/assets/img/2014/11/25/sarah-wildman.credit.kate-warren-4144e7926c0ca3e9a27b58ac5435e07d0228b1a5-s1-c85.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "775034862", 
+        "caption": "\n\nWriter Sarah Wildman contributes to The New York Times, The New Yorker and Slate. Kate Warren/Riverhead Books hide caption\n\nitoggle caption Kate Warren/Riverhead Books", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1416959914", 
+    "status": "0", 
+    "sort_id": 1474, 
+    "resolved_url": "http://www.npr.org/2014/11/25/366544685/box-of-love-letters-reveals-grandfather-didnt-escape-wwii-with-everyone", 
+    "authors": {
+      "26721620": {
+        "item_id": "775034862", 
+        "url": "http://www.npr.org/books/authors/358363765/sarah-wildman", 
+        "author_id": "26721620", 
+        "name": "Sarah Wildman"
+      }
+    }, 
+    "item_id": "775034862", 
+    "resolved_id": "775034862", 
+    "given_url": "http://www.npr.org/2014/11/25/366544685/box-of-love-letters-reveals-grandfather-didnt-escape-wwii-with-everyone", 
+    "resolved_title": "Box Of Love Letters Reveals Grandfather Didn't Escape WWII With 'Everyone'", 
+    "is_index": "0", 
+    "time_updated": "1416959915", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 848, 
