@@ -14893,6 +14893,35 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1477, 
+    "time_updated": "1417024222", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "DO YOU THINK that your newest ac\u00adquisition, a Roomba robotic vacuum cleaner that traces out its unpredictable paths on your living room floor, is conscious? What about that bee that hovers above your marmalade-covered breakfast toast? Or the newborn who finally fell asleep after being suckled? Nobo", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2701", 
+    "authors": {
+      "15740313": {
+        "item_id": "672874748", 
+        "url": "http://www.scientificamerican.com/author/christof-koch", 
+        "author_id": "15740313", 
+        "name": "Christof Koch"
+      }
+    }, 
+    "given_title": "A \"Complex\" Theory of Consciousness - Scientific American", 
+    "resolved_url": "http://www.scientificamerican.com/article/a-theory-of-consciousness/?page=1", 
+    "is_article": "1", 
+    "item_id": "672874748", 
+    "time_added": "1417024222", 
+    "resolved_id": "672874748", 
+    "given_url": "http://www.scientificamerican.com/article/a-theory-of-consciousness/?page=1", 
+    "resolved_title": "A \"Complex\" Theory of Consciousness"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1204, 
     "time_updated": "1405748284", 
     "time_favorited": "0", 
@@ -26328,6 +26357,115 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/TgZhqfTKOA0", 
+        "vid": "TgZhqfTKOA0", 
+        "video_id": "1", 
+        "height": "315", 
+        "width": "560", 
+        "item_id": "20455417", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "20455417", 
+      "src": "http://www.automuseum.org/sites/default/files/Sirens%20of%20Chrome%20Book%20Cover_1.jpg", 
+      "height": "310", 
+      "width": "494"
+    }, 
+    "excerpt": "Part 1 of a three part installment by Flat Tire Jack, guest blogger.  Gallery 1 is a curious place. It is the archive of our earliest expressions of mechanized personal...", 
+    "word_count": "141", 
+    "images": {
+      "1": {
+        "src": "http://www.automuseum.org/sites/default/files/Sirens%20of%20Chrome%20Book%20Cover_1.jpg", 
+        "credit": "", 
+        "height": "310", 
+        "image_id": "1", 
+        "item_id": "20455417", 
+        "caption": "An Evening with Margery Krevsky: Sirens of Chrome - Thursday, March 14", 
+        "width": "494"
+      }, 
+      "3": {
+        "src": "http://www.automuseum.org/sites/default/files/membership-car.jpg", 
+        "credit": "", 
+        "height": "144", 
+        "image_id": "3", 
+        "item_id": "20455417", 
+        "caption": "Special Delivery From door to door to our Museum floor", 
+        "width": "159"
+      }, 
+      "2": {
+        "src": "http://www.automuseum.org/sites/default/files/Spl%20Del%20web_0.jpg", 
+        "credit": "", 
+        "height": "142", 
+        "image_id": "2", 
+        "item_id": "20455417", 
+        "caption": "Special Delivery From door to door to our Museum floor", 
+        "width": "338"
+      }, 
+      "5": {
+        "src": "http://www.automuseum.org/sites/default/files/ticket%20pics%20web4.jpg", 
+        "credit": "", 
+        "height": "104", 
+        "image_id": "5", 
+        "item_id": "20455417", 
+        "caption": "Buy Tickets Easily Online", 
+        "width": "281"
+      }, 
+      "4": {
+        "src": "http://www.automuseum.org/sites/default/files/30s%20Seminar%20Type%20.jpg", 
+        "credit": "", 
+        "height": "144", 
+        "image_id": "4", 
+        "item_id": "20455417", 
+        "caption": "Special Delivery From door to door to our Museum floor", 
+        "width": "92"
+      }, 
+      "7": {
+        "src": "http://www.automuseum.org/sites/default/files/DSCF4653_286x104.jpg", 
+        "credit": "", 
+        "height": "104", 
+        "image_id": "7", 
+        "item_id": "20455417", 
+        "caption": "Buy Tickets Easily Online", 
+        "width": "286"
+      }, 
+      "6": {
+        "src": "http://www.automuseum.org/sites/default/files/1941%20Chrysler%20-%20three%20quarters%20web2.jpg", 
+        "credit": "", 
+        "height": "104", 
+        "image_id": "6", 
+        "item_id": "20455417", 
+        "caption": "Buy Tickets Easily Online", 
+        "width": "274"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1417025530", 
+    "status": "0", 
+    "tags": {
+      "travel": {
+        "item_id": "20455417", 
+        "tag": "travel"
+      }
+    }, 
+    "sort_id": 1478, 
+    "resolved_url": "http://www.automuseum.org/", 
+    "item_id": "20455417", 
+    "resolved_id": "20455417", 
+    "given_url": "http://www.automuseum.org/", 
+    "resolved_title": "National Automobile Museum", 
+    "is_index": "1", 
+    "time_updated": "1417025536", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "National Automobile Museum", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "42331462", 
@@ -34330,6 +34468,27 @@
     "favorite": "0", 
     "given_title": "6a00d83431352e53ef01b7c6d599cc970b-pi 500\u00d7495 pixels", 
     "has_image": "2"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1475, 
+    "time_updated": "1417023983", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Martin's earliest interests included astronomy and science, especially physics, and he also loved science fiction. In his memoirs (see pages 13\u201314), he reveals that he was familiar with Hugo Gernsback's Science and Innovation magazine as a boy in the 1920s. He also adored the fictional works of H.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1063", 
+    "given_title": "Top 10 Martin Gardner Physics Stumpers", 
+    "resolved_url": "http://martin-gardner.org/Top10MGPhysics.html", 
+    "is_article": "1", 
+    "item_id": "775482710", 
+    "time_added": "1417023983", 
+    "resolved_id": "775482710", 
+    "given_url": "http://martin-gardner.org/Top10MGPhysics.html", 
+    "resolved_title": "Top 10 Martin Gardner Physics Stumpers"
   }, 
   {
     "status": "0", 
@@ -70048,6 +70207,41 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1476, 
+    "time_updated": "1417024068", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "This guide describes a set of HTTP+JSON API design practices, originally extracted from work on the Heroku Platform API.  This guide informs additions to that API and also guides new internal APIs at Heroku. We hope it\u2019s also of interest to API designers outside of Heroku.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1775", 
+    "authors": {
+      "24210794": {
+        "item_id": "612772219", 
+        "url": "https://github.com/geemus", 
+        "author_id": "24210794", 
+        "name": "geemus"
+      }
+    }, 
+    "given_title": "interagent/http-api-design", 
+    "resolved_url": "https://github.com/interagent/http-api-design", 
+    "is_article": "1", 
+    "item_id": "612772219", 
+    "time_added": "1417024065", 
+    "resolved_id": "612772219", 
+    "given_url": "https://github.com/interagent/http-api-design#version-with-accepts-header", 
+    "resolved_title": "interagent/http-api-design", 
+    "tags": {
+      "api": {
+        "item_id": "612772219", 
+        "tag": "api"
+      }
+    }
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 1410, 
     "time_updated": "1414036184", 
@@ -76097,7 +76291,7 @@
       "width": "600"
     }, 
     "excerpt": "Aluminum ingots waiting to be shipped from a processor. Financial institutions like Goldman Sachs have used industry pricing regulations to earn millions of dollars each year.\u00a0    MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "910", 
+    "word_count": "5282", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -76124,6 +76318,42 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
+        "width": "190"
+      }, 
+      "5": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
+        "credit": "Tyler Clay", 
+        "height": "275", 
+        "image_id": "5", 
+        "item_id": "401365344", 
+        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
+        "width": "190"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
+        "credit": "Fabrizio Costantini for The New York Times", 
+        "height": "127", 
+        "image_id": "4", 
+        "item_id": "401365344", 
+        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
+        "width": "190"
+      }, 
+      "7": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "7", 
+        "item_id": "401365344", 
+        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
+        "width": "190"
+      }, 
+      "6": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "6", 
+        "item_id": "401365344", 
+        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
