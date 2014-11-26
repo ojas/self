@@ -9428,7 +9428,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "735594013", 
-      "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_11.jpg?m=1376689109g", 
+      "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_9.jpg?m=1376689109g", 
       "height": "230", 
       "width": "548"
     }, 
@@ -9436,7 +9436,7 @@
     "word_count": "1879", 
     "images": {
       "1": {
-        "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_11.jpg?m=1376689109g", 
+        "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_9.jpg?m=1376689109g", 
         "credit": "", 
         "height": "230", 
         "image_id": "1", 
@@ -63585,40 +63585,40 @@
     "is_article": "1", 
     "image": {
       "item_id": "185909912", 
-      "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
-      "height": "0", 
-      "width": "0"
+      "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-tmagArticle.jpg", 
+      "height": "444", 
+      "width": "592"
     }, 
-    "excerpt": "If you live in America in the 21st century you've probably had to listen to a lot of people tell you how busy they are. It's become the default response when you ask anyone how they're doing: \"Busy!\" \"So busy.\" \"Crazy busy.\" It is, pretty obviously, a boast disguised as a complaint.", 
-    "word_count": "1664", 
+    "excerpt": "Anxiety: We worry. A gallery of contributors count the ways.  Notice it isn\u2019t generally people pulling back-to-back shifts in the I.C.U. or commuting by bus to three minimum-wage jobs \u00a0who tell you how busy they are; what those people are is not busy but tired. Exhausted. Dead on their feet.", 
+    "word_count": "1684", 
     "images": {
       "1": {
-        "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
+        "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-tmagArticle.jpg", 
         "credit": "Brecht Vandenbroucke", 
-        "height": "0", 
+        "height": "444", 
         "image_id": "1", 
         "item_id": "185909912", 
-        "caption": "", 
-        "width": "0"
+        "caption": "Brecht Vandenbroucke", 
+        "width": "592"
       }
     }, 
     "has_video": "0", 
     "time_added": "1348062671", 
     "status": "1", 
     "sort_id": 44, 
-    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
+    "resolved_url": "http://opinionator.blogs.nytimes.com//2012/06/30/the-busy-trap/", 
     "authors": {
-      "185472": {
+      "2630156": {
         "item_id": "185909912", 
-        "url": "", 
-        "author_id": "185472", 
+        "url": "http://opinionator.blogs.nytimes.com/author/tim-kreider/", 
+        "author_id": "2630156", 
         "name": "TIM KREIDER"
       }
     }, 
     "item_id": "185909912", 
     "resolved_id": "185694949", 
     "given_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/?smid=fb-share", 
-    "resolved_title": "The 'Busy' Trap", 
+    "resolved_title": "The \u2018Busy\u2019 Trap", 
     "is_index": "0", 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
@@ -78851,7 +78851,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
