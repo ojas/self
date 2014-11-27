@@ -1406,6 +1406,35 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1485, 
+    "time_updated": "1417097242", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "too nerdy or not nerdy enough for prooffreader.com, not whimsical enough for prooffreaderswhimsy. Wednesday, November 26, 2014 Top 10 Python idioms I wish I'd learned earlier I've been programming all my life, but never been a programmer.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1090", 
+    "authors": {
+      "15410592": {
+        "item_id": "775624696", 
+        "url": "https://plus.google.com/114710737877360929965", 
+        "author_id": "15410592", 
+        "name": "David Taylor"
+      }
+    }, 
+    "given_title": "prooffreader plus: Top 10 Python idioms I wish I'd learned earlier", 
+    "resolved_url": "http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html", 
+    "is_article": "0", 
+    "item_id": "775624696", 
+    "time_added": "1417097242", 
+    "resolved_id": "775624696", 
+    "given_url": "http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html", 
+    "resolved_title": "Top 10 Python idioms I wish I'd learned earlier"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "14970351", 
