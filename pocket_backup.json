@@ -35022,7 +35022,7 @@
       }
     }, 
     "sort_id": 529, 
-    "resolved_url": "https://angularjs.org/", 
+    "resolved_url": "http://angularjs.org/", 
     "item_id": "30008898", 
     "resolved_id": "30008898", 
     "given_url": "http://angularjs.org/", 
@@ -59409,14 +59409,22 @@
     "time_updated": "1416414362", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "My main gig these days is Appointment Reminder. I'd describe it as \"modestly successful.\" (A single signup for the largest publicly available plan is, probabilistically, worth more than BCC made in its best months.", 
+    "excerpt": "1. Enter a hackathon. Group up with people and you will be compelled to code.  2. Train for a half marathon. Increase your endurance and your ability of will to keep to the training schedule.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "14917", 
+    "word_count": "160", 
+    "authors": {
+      "10609933": {
+        "item_id": "769617037", 
+        "url": "https://news.ycombinator.com/user?id=djshah", 
+        "author_id": "10609933", 
+        "name": "djshah"
+      }
+    }, 
     "given_title": "Ask HN: How much recurring income do you generate and from what? | Hacker N", 
     "resolved_url": "http://news.ycombinator.com/item?id=8629919", 
-    "is_article": "0", 
+    "is_article": "1", 
     "item_id": "769617037", 
     "time_added": "1416414362", 
     "resolved_id": "769617037", 
@@ -69176,6 +69184,27 @@
     "resolved_id": "394329922", 
     "given_url": "http://blog.tabini.ca/the-7-bit-internet/", 
     "resolved_title": "The 7-bit Internet \u00b7 The Accidental Businessman"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1486, 
+    "time_updated": "1417100688", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "", 
+    "resolved_url": "http://m.cartalk.com/blogs/what-would-jesus-drive", 
+    "is_article": "0", 
+    "item_id": "776526597", 
+    "time_added": "1417100685", 
+    "resolved_id": "776526597", 
+    "given_url": "http://m.cartalk.com/blogs/what-would-jesus-drive", 
+    "resolved_title": "Car Talk"
   }, 
   {
     "status": "0", 
