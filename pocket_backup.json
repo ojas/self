@@ -29144,9 +29144,17 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2146", 
+    "word_count": "2144", 
+    "authors": {
+      "1067883": {
+        "item_id": "599528266", 
+        "url": "http://www.biolitestove.com/", 
+        "author_id": "1067883", 
+        "name": "BioLite"
+      }
+    }, 
     "given_title": "Everyone Deserves Great Design", 
-    "resolved_url": "http://www.everyonedeservesgreatdesign.com/#now", 
+    "resolved_url": "http://www.everyonedeservesgreatdesign.com/#bad", 
     "is_article": "0", 
     "item_id": "599528266", 
     "time_added": "1400418038", 
