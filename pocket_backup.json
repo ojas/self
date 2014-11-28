@@ -60551,7 +60551,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "410", 
+    "word_count": "363", 
     "images": {
       "1": {
         "src": "http://images.forbes.com/media/2010/09/03/0903_bussiness-development-hiring_390x220.jpg", 
@@ -60564,7 +60564,7 @@
       }
     }, 
     "given_title": "Children Are Not a Rescue from a Lack of Meaning in Your Life | Daniel Mies", 
-    "resolved_url": "http://danielmiessler.com/blog/children-are-not-a-rescue-from-a-lack-of-meaning-in-your-life", 
+    "resolved_url": "http://danielmiessler.com/blog/children-are-not-a-rescue-from-a-lack-of-meaning-in-your-life/", 
     "is_article": "1", 
     "item_id": "337179680", 
     "time_added": "1366144460", 
@@ -79380,7 +79380,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
