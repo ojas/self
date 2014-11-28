@@ -62266,6 +62266,62 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1489, 
+    "time_updated": "1417155223", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Pearls and Pigments.com, LLC. is a industry leader in the distribution and manufacturing of high quality pearlescent pigments, mica powders, color additives, and Glitters.", 
+    "image": {
+      "item_id": "739401635", 
+      "src": "http://www.pearlsandpigments.com/skin/common_files/IMAGES/Front.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "86", 
+    "images": {
+      "1": {
+        "src": "http://www.pearlsandpigments.com/skin/common_files/IMAGES/Front.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "739401635", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://www.pearlsandpigments.com/skin/common_files/IMAGES/How%20to%20buy%202.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "739401635", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.pearlsandpigments.com/skin/common_files/IMAGES/arrow.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "739401635", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "PearlsandPigments.com", 
+    "resolved_url": "http://www.pearlsandpigments.com/", 
+    "is_article": "0", 
+    "item_id": "739401635", 
+    "time_added": "1417155223", 
+    "resolved_id": "739401635", 
+    "given_url": "http://www.pearlsandpigments.com/", 
+    "resolved_title": "PearlsandPigments.com"
+  }, 
+  {
+    "status": "0", 
     "is_index": "0", 
     "sort_id": 751, 
     "time_updated": "1381168398", 
