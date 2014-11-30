@@ -40206,6 +40206,538 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "776179562", 
+      "src": "http://s3-ec.buzzfed.com/static/2014-11/19/13/enhanced/webdr12/longform-original-23194-1416423429-3.jpg", 
+      "height": "548", 
+      "width": "990"
+    }, 
+    "excerpt": "Waxahachie is a cool little town south of Dallas. It\u2019s known for the Scarborough Faire, Munster Mansion recreation, the vintage-anonymous art and fraternal objects on display in the Webb Art gallery, and a ton of other attractions.  Marathon is the legendary gateway town to Big Bend in West Texas.", 
+    "word_count": "1041", 
+    "images": {
+      "54": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr03/grid-cell-26608-1416429671-8.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "54", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "42": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr10/grid-cell-5910-1416429280-0.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "42", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "48": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr08/grid-cell-32699-1416429388-15.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "48", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "43": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr10/grid-cell-5910-1416429281-3.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "43", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "49": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/17/22/enhanced/webdr11/enhanced-buzz-wide-26403-1416282190-7.jpg", 
+        "credit": "", 
+        "height": "660", 
+        "image_id": "49", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "990"
+      }, 
+      "52": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/18/11/enhanced/webdr10/grid-cell-22753-1416328525-20.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "52", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "53": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/18/11/enhanced/webdr10/grid-cell-22753-1416328526-25.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "53", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "24": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/11/enhanced/webdr09/grid-cell-20739-1416413946-26.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "24", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "25": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/11/enhanced/webdr09/grid-cell-20739-1416413946-29.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "25", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "26": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr09/grid-cell-28628-1416428503-22.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "26", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "27": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr09/grid-cell-28628-1416428504-25.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "27", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "20": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/13/enhanced/webdr03/grid-cell-32553-1416422170-22.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "20", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "21": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/13/enhanced/webdr03/grid-cell-32553-1416422171-25.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "21", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "22": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr03/grid-cell-26724-1416428194-12.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "22", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "23": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr03/grid-cell-26724-1416428196-15.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "23", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "46": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/13/enhanced/webdr06/grid-cell-10083-1416422974-3.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "46", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "47": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr08/grid-cell-32699-1416429387-12.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "47", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "44": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr10/grid-cell-5910-1416429283-6.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "44", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "45": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/13/enhanced/webdr06/grid-cell-10083-1416422973-0.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "45", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "28": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr09/grid-cell-28681-1416428541-27.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "28", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "29": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr09/grid-cell-28681-1416428543-30.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "29", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "40": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr02/grid-cell-17247-1416429177-17.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "40", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "41": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr02/grid-cell-17247-1416429179-20.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "41", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "1": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/13/enhanced/webdr12/longform-original-23194-1416423429-3.jpg", 
+        "credit": "", 
+        "height": "548", 
+        "image_id": "1", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "990"
+      }, 
+      "3": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/14/enhanced/webdr10/grid-cell-28384-1416426872-21.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "3", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "2": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/17/12/enhanced/webdr02/enhanced-buzz-wide-23363-1416244775-11.jpg", 
+        "credit": "", 
+        "height": "515", 
+        "image_id": "2", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "990"
+      }, 
+      "5": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/17/19/enhanced/webdr05/enhanced-buzz-wide-12487-1416271983-7.jpg", 
+        "credit": "", 
+        "height": "350", 
+        "image_id": "5", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "990"
+      }, 
+      "4": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/14/enhanced/webdr10/grid-cell-28384-1416426873-24.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "4", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "7": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/14/enhanced/webdr03/grid-cell-26131-1416427118-16.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "7", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "6": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/14/enhanced/webdr03/grid-cell-26131-1416427117-13.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "6", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "9": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/14/enhanced/webdr02/grid-cell-17305-1416427158-15.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "9", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "8": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/14/enhanced/webdr03/grid-cell-26131-1416427119-19.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "8", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "51": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr11/grid-cell-2274-1416429485-6.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "51", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "39": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr06/grid-cell-24896-1416429060-28.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "39", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "38": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr06/grid-cell-24896-1416429059-25.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "38", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "11": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr05/grid-cell-21884-1416427699-15.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "11", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "10": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/14/enhanced/webdr02/grid-cell-17305-1416427159-18.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "10", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "13": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/17/20/enhanced/webdr02/grid-cell-4902-1416275969-0.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "13", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "12": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr05/grid-cell-21884-1416427700-18.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "12", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "15": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/17/16/enhanced/webdr10/longform-original-6835-1416259997-10.jpg", 
+        "credit": "", 
+        "height": "711", 
+        "image_id": "15", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "990"
+      }, 
+      "14": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/17/20/enhanced/webdr02/grid-cell-4902-1416275971-3.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "14", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "17": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/18/19/enhanced/webdr07/grid-cell-22608-1416357117-25.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "17", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "16": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/18/19/enhanced/webdr07/grid-cell-22608-1416357116-22.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "16", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "19": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr08/grid-cell-32622-1416427972-45.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "19", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "18": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr08/grid-cell-32622-1416427971-42.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "18", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "31": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr10/grid-cell-28469-1416428644-21.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "31", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "30": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr09/grid-cell-28681-1416428544-33.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "30", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "37": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr01/grid-cell-24732-1416429041-21.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "37", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "36": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr01/grid-cell-24732-1416429040-18.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "36", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "35": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/11/enhanced/webdr05/grid-cell-15780-1416415863-13.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "35", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "657"
+      }, 
+      "34": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/11/enhanced/webdr05/grid-cell-15780-1416415862-8.jpg", 
+        "credit": "", 
+        "height": "490", 
+        "image_id": "34", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "33": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr10/grid-cell-28469-1416428647-27.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "33", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "55": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr03/grid-cell-26608-1416429673-11.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "55", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "490"
+      }, 
+      "32": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr10/grid-cell-28469-1416428645-24.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "32", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }, 
+      "50": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-11/19/15/enhanced/webdr11/grid-cell-2274-1416429485-3.jpg", 
+        "credit": "", 
+        "height": "324", 
+        "image_id": "50", 
+        "item_id": "776179562", 
+        "caption": "", 
+        "width": "324"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1417366340", 
+    "status": "0", 
+    "sort_id": 1495, 
+    "resolved_url": "http://www.buzzfeed.com/h2/fbso/porsche/tiny-texas-towns-that-are-totally-worth-the-trip", 
+    "authors": {
+      "24651732": {
+        "item_id": "776179562", 
+        "url": "http://www.buzzfeed.com/porsche", 
+        "author_id": "24651732", 
+        "name": "Porsche"
+      }
+    }, 
+    "item_id": "776179562", 
+    "resolved_id": "775195663", 
+    "given_url": "http://www.buzzfeed.com/h2/fbso/porsche/tiny-texas-towns-that-are-totally-worth-the-trip?s=mobile", 
+    "resolved_title": "14 More Tiny Texas Towns That Are Totally Worth The Trip", 
+    "is_index": "0", 
+    "time_updated": "1417366342", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "229262402", 
       "src": "http://pre.cloudfront.goodinc.com/posts/full_1348780199Dwight_D_Eisenhower.jpg", 
       "height": "0", 
@@ -64098,7 +64630,7 @@
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
-        "credit": "Brecht Vandenbroucke", 
+        "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "185909912", 
@@ -64123,7 +64655,7 @@
     "resolved_id": "185694949", 
     "given_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/?smid=fb-share", 
     "resolved_title": "The 'Busy' Trap", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
     "time_read": "1348063457", 
