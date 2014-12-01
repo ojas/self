@@ -31012,17 +31012,17 @@
     "time_updated": "1390505238", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "The secure, user-friendly and beautiful cloud wallet for digital payments.  It's free and signing up only takes 16.74 seconds!", 
+    "excerpt": "CoinJar makes digital finance easy.  Money as it was always meant to be. Global, simple and secure.", 
     "image": {
       "item_id": "477226685", 
       "src": "https://www.coinjar.com/img/coinjar/filler-screenshot.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "284", 
+    "word_count": "190", 
     "images": {
       "1": {
         "src": "https://www.coinjar.com/img/coinjar/filler-screenshot.png", 
@@ -31062,13 +31062,13 @@
       }
     }, 
     "given_title": "Buy, sell, accept Bitcoins - CoinJar", 
-    "resolved_url": "https://www.coinjar.com/", 
+    "resolved_url": "https://coinjar.com/", 
     "is_article": "0", 
     "item_id": "477226685", 
     "time_added": "1390505238", 
     "resolved_id": "477226685", 
     "given_url": "https://www.coinjar.com/", 
-    "resolved_title": "CoinJar is your Bitcoin wallet on the go."
+    "resolved_title": "For the everyday and the extraordinary."
   }, 
   {
     "status": "0", 
@@ -64794,7 +64794,7 @@
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
-        "credit": "", 
+        "credit": "Brecht Vandenbroucke", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "185909912", 
@@ -64819,7 +64819,7 @@
     "resolved_id": "185694949", 
     "given_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/?smid=fb-share", 
     "resolved_title": "The 'Busy' Trap", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
     "time_read": "1348063457", 
@@ -80193,7 +80193,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
