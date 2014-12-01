@@ -18631,22 +18631,22 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 1279, 
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           Okay, okay, okay! #Sasquatch2014", 
+    "excerpt": "", 
     "image": {
       "item_id": "124414", 
       "src": "https://abs.twimg.com/a/1416853837/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "245", 
+    "word_count": "0", 
     "images": {
       "1": {
         "src": "https://abs.twimg.com/a/1416853837/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
@@ -18665,7 +18665,7 @@
     "time_added": "1409239467", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": "Welcome to Twitter."
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -66292,7 +66292,7 @@
       "width": "0"
     }, 
     "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems:  A look back at how White House advisers have tried to fix the botched health care website.               WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
-    "word_count": "861", 
+    "word_count": "6188", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
