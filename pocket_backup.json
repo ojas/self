@@ -36284,6 +36284,170 @@
   {
     "status": "0", 
     "is_index": "1", 
+    "sort_id": 1496, 
+    "time_updated": "1417399757", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "[Close]", 
+    "image": {
+      "item_id": "779107241", 
+      "src": "http://www.churchpropertylocator.com/fotos.jpg", 
+      "height": "150", 
+      "width": "700"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1", 
+    "images": {
+      "11": {
+        "src": "http://www.churchpropertylocator.com/school-for-sale-in-pennsylvania/02.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "11", 
+        "item_id": "779107241", 
+        "caption": "", 
+        "width": "410"
+      }, 
+      "10": {
+        "src": "http://www.churchpropertylocator.com/school-for-sale-in-pennsylvania/01.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "10", 
+        "item_id": "779107241", 
+        "caption": "", 
+        "width": "410"
+      }, 
+      "13": {
+        "src": "http://www.churchpropertylocator.com/school-building-for-sale-in-arkansas-25-000-sq-ft/03.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "13", 
+        "item_id": "779107241", 
+        "caption": "", 
+        "width": "410"
+      }, 
+      "12": {
+        "src": "http://www.churchpropertylocator.com/school-building-for-sale-in-arkansas-25-000-sq-ft/01.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "12", 
+        "item_id": "779107241", 
+        "caption": "", 
+        "width": "410"
+      }, 
+      "15": {
+        "src": "http://www.churchpropertylocator.com/big-school-building-in-minnesota-for-sale/02.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "15", 
+        "item_id": "779107241", 
+        "caption": "\n\nBig School Building In Minnesota For Sale$139,000\n\n\n", 
+        "width": "410"
+      }, 
+      "14": {
+        "src": "http://www.churchpropertylocator.com/big-school-building-in-minnesota-for-sale/01.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "14", 
+        "item_id": "779107241", 
+        "caption": "\n\nBig School Building In Minnesota For Sale$139,000\n\n\n", 
+        "width": "410"
+      }, 
+      "1": {
+        "src": "http://www.churchpropertylocator.com/fotos.jpg", 
+        "credit": "", 
+        "height": "150", 
+        "image_id": "1", 
+        "item_id": "779107241", 
+        "caption": "", 
+        "width": "700"
+      }, 
+      "3": {
+        "src": "http://www.churchpropertylocator.com/church-for-sale-in-pennsylvania/02.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "3", 
+        "item_id": "779107241", 
+        "caption": "", 
+        "width": "410"
+      }, 
+      "2": {
+        "src": "http://www.churchpropertylocator.com/church-for-sale-in-pennsylvania/01.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "2", 
+        "item_id": "779107241", 
+        "caption": "", 
+        "width": "410"
+      }, 
+      "5": {
+        "src": "http://www.churchpropertylocator.com/church-for-sale-northern-ohio-1-5h-s-of-detroit/05.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "5", 
+        "item_id": "779107241", 
+        "caption": "\n\nChurch for sale Northern Ohio - 1.5h. S. of Detroit $35,00\n\n\n", 
+        "width": "410"
+      }, 
+      "4": {
+        "src": "http://www.churchpropertylocator.com/church-for-sale-northern-ohio-1-5h-s-of-detroit/01.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "4", 
+        "item_id": "779107241", 
+        "caption": "\n\nChurch for sale Northern Ohio - 1.5h. S. of Detroit $35,00\n\n\n", 
+        "width": "410"
+      }, 
+      "7": {
+        "src": "http://www.churchpropertylocator.com/church-acres-of-land-near-the-beach-port-elgin-new-brunswick-canada/18.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "7", 
+        "item_id": "779107241", 
+        "caption": "\n\n6.3 Acres of Land Near the beach - Port Elgin, New Brunswick, Canada$29,000\n\n\n", 
+        "width": "410"
+      }, 
+      "6": {
+        "src": "http://www.churchpropertylocator.com/church-acres-of-land-near-the-beach-port-elgin-new-brunswick-canada/30.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "6", 
+        "item_id": "779107241", 
+        "caption": "\n\n6.3 Acres of Land Near the beach - Port Elgin, New Brunswick, Canada$29,000\n\n\n", 
+        "width": "410"
+      }, 
+      "9": {
+        "src": "http://www.churchpropertylocator.com/school-in-lawrenceville-illinois/02.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "9", 
+        "item_id": "779107241", 
+        "caption": "", 
+        "width": "410"
+      }, 
+      "8": {
+        "src": "http://www.churchpropertylocator.com/school-in-lawrenceville-illinois/01.jpg", 
+        "credit": "", 
+        "height": "290", 
+        "image_id": "8", 
+        "item_id": "779107241", 
+        "caption": "", 
+        "width": "410"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.churchpropertylocator.com/", 
+    "is_article": "0", 
+    "item_id": "779107241", 
+    "time_added": "1417399754", 
+    "resolved_id": "779107241", 
+    "given_url": "http://www.churchpropertylocator.com/", 
+    "resolved_title": "Churches for sale and Churches for rent, Church Building, Churches For Lease"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
     "sort_id": 1366, 
     "time_updated": "1415649415", 
     "time_favorited": "0", 
