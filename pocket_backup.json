@@ -60923,18 +60923,27 @@
     "is_article": "1", 
     "image": {
       "item_id": "398052507", 
-      "src": "https://camo.githubusercontent.com/9e9260ea69b3059a3d8cb511e50b0962a6df1a6e/68747470733a2f2f7261772e6769746875622e636f6d2f6d616d652f7175696e652d72656c61792f6d61737465722f6c616e67732e706e67", 
+      "src": "https://camo.githubusercontent.com/f4fb0df8b33a1603fc25845a7d33c81a1171df90/68747470733a2f2f7472617669732d63692e6f72672f6d616d652f7175696e652d72656c61792e7376673f6272616e63683d6d6173746572", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "This is a Ruby program that generates Scala program that generates Scheme program that generates ...(through 63 languages in total)... REXX program that generates the original Ruby code again.  You are (relatively) fortunate if you are using Ubuntu 14.10 \"Utopic Unicorn\".", 
-    "word_count": "405", 
+    "excerpt": "This is a Ruby program that generates Scala program that generates Scheme program that generates ...(through 78 languages in total)... REXX program that generates the original Ruby code again.  First, you have to type the following apt-get command to install all of them.", 
+    "word_count": "415", 
     "images": {
       "1": {
-        "src": "https://camo.githubusercontent.com/9e9260ea69b3059a3d8cb511e50b0962a6df1a6e/68747470733a2f2f7261772e6769746875622e636f6d2f6d616d652f7175696e652d72656c61792f6d61737465722f6c616e67732e706e67", 
+        "src": "https://camo.githubusercontent.com/f4fb0df8b33a1603fc25845a7d33c81a1171df90/68747470733a2f2f7472617669732d63692e6f72672f6d616d652f7175696e652d72656c61792e7376673f6272616e63683d6d6173746572", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
+        "item_id": "398052507", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://camo.githubusercontent.com/9e9260ea69b3059a3d8cb511e50b0962a6df1a6e/68747470733a2f2f7261772e6769746875622e636f6d2f6d616d652f7175696e652d72656c61792f6d61737465722f6c616e67732e706e67", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
         "item_id": "398052507", 
         "caption": "", 
         "width": "0"
