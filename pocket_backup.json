@@ -41064,6 +41064,61 @@
     "resolved_title": "It\u2019s what we know for sure that just ain\u2019t so."
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "781294991", 
+      "src": "http://assets3.thrillist.com/v1/image/1365639", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "This year\u2019s best new bars run the gamut from a self-proclaimed \"boutique roadhouse\", to a cocktail lounge built into a parking garage, to a mezcaleria that feels like a legit Mexican speakeasy. Here in Austin, when you want to get your drink on, the hardest part is choosing where to go.", 
+    "word_count": "1002", 
+    "images": {
+      "1": {
+        "src": "http://assets3.thrillist.com/v1/image/1365639", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "781294991", 
+        "caption": "\n\nPublished on 12/3/2014\nBy Veronica Meewes\nBy \n\n433\n\nShare on Facebook\nPin it on Pinterest\nTweetthis article\n\nEmail\n\n\n\n\n\n", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://assets3.thrillist.com/v1/image/1368058/size/tl-horizontal_main/austin-s-11-best-new-bars-of-the-year", 
+        "credit": "f11photo/Shutterstock.com", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "781294991", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1417628544", 
+    "status": "0", 
+    "sort_id": 1496, 
+    "resolved_url": "http://www.thrillist.com/drink/austin/the-best-new-austin-bars-of-2014", 
+    "authors": {
+      "19065407": {
+        "item_id": "781294991", 
+        "url": "http://www.thrillist.com/authors/veronica-meewes", 
+        "author_id": "19065407", 
+        "name": "Veronica Meewes"
+      }
+    }, 
+    "item_id": "781294991", 
+    "resolved_id": "781294991", 
+    "given_url": "http://www.thrillist.com/drink/austin/the-best-new-austin-bars-of-2014", 
+    "resolved_title": "The Best New Austin Bars of 2014", 
+    "is_index": "0", 
+    "time_updated": "1417628545", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/v/6IAtmviCosg", 
