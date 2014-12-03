@@ -35895,7 +35895,7 @@
       "width": "190"
     }, 
     "excerpt": "\u201cCare granted to the sick, welcome offered to the banished, forgiveness itself are worth nothing without a smile enlightening the deed.", 
-    "word_count": "1422", 
+    "word_count": "1405", 
     "images": {
       "1": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2014/03/exupery_lettertoahostage.jpg", 
@@ -35912,7 +35912,7 @@
         "height": "0", 
         "image_id": "3", 
         "item_id": "597084085", 
-        "caption": "", 
+        "caption": "Original watercolor for The Little Prince by Saint-Exup\u00e9ry. Click image for more.", 
         "width": "500"
       }, 
       "2": {
@@ -35930,7 +35930,7 @@
         "height": "0", 
         "image_id": "5", 
         "item_id": "597084085", 
-        "caption": "", 
+        "caption": "Original watercolor for The Little Prince by Saint-Exup\u00e9ry. Click image for more.", 
         "width": "480"
       }, 
       "4": {
@@ -35939,7 +35939,7 @@
         "height": "0", 
         "image_id": "4", 
         "item_id": "597084085", 
-        "caption": "", 
+        "caption": "Original watercolor for The Little Prince by Saint-Exup\u00e9ry. Click image for more.", 
         "width": "500"
       }
     }, 
@@ -35959,7 +35959,7 @@
     "item_id": "597084085", 
     "resolved_id": "597084085", 
     "given_url": "http://www.brainpickings.org/index.php/2014/04/18/antoine-de-saint-exupery-letter-to-a-hostage-smile/", 
-    "resolved_title": "How a Smile Saved Antoine de Saint-Exup\u00e9ry\u2019s Life : A Soul-Lifting Meditation on Our Shared Humanity", 
+    "resolved_title": "How a Smile Saved Antoine de Saint-Exup\u00e9ry\u2019s Life: A Soul-Lifting Meditation on Our Shared Humanity", 
     "is_index": "0", 
     "time_updated": "1397882129", 
     "time_favorited": "0", 
@@ -37769,6 +37769,58 @@
     "resolved_title": ""
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "773841414", 
+      "src": "https://hbr.org/resources/images/article_assets/2014/11/R1412E_SMILDE.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "At its heart, innovation is a process of discovery that requires a different approach to leadership than the core business.", 
+    "word_count": "4643", 
+    "images": {
+      "1": {
+        "src": "https://hbr.org/resources/images/article_assets/2014/11/R1412E_SMILDE.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "773841414", 
+        "caption": "Artwork: Berndnaut Smilde, Unflattened, 2012, photomural, prism, light, 200 x 300 cm, courtesy of the artist and Ronchini Gallery", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1417626043", 
+    "status": "0", 
+    "sort_id": 1495, 
+    "resolved_url": "https://hbr.org/2014/12/leading-your-team-into-the-unknown", 
+    "authors": {
+      "26080939": {
+        "item_id": "773841414", 
+        "url": "https://hbr.org/search?term=nathan+furr", 
+        "author_id": "26080939", 
+        "name": "Nathan Furr"
+      }, 
+      "26394680": {
+        "item_id": "773841414", 
+        "url": "https://hbr.org/search?term=jeffrey+h.+dyer", 
+        "author_id": "26394680", 
+        "name": "Jeffrey H. Dyer"
+      }
+    }, 
+    "item_id": "773841414", 
+    "resolved_id": "768479540", 
+    "given_url": "https://hbr.org/2014/12/leading-your-team-into-the-unknown?utm_campaign=Socialflow&utm_source=Socialflow&utm_medium=Tweet", 
+    "resolved_title": "Leading Your Team into the Unknown", 
+    "is_index": "0", 
+    "time_updated": "1417626043", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Leading Your Team into the Unknown", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1198, 
@@ -38664,7 +38716,7 @@
       "width": "190"
     }, 
     "excerpt": "Little boys and girls in ancient Athens grew up wanting to be philosophers. In Renaissance Florence they dreamed of becoming Humanists. But now a new phrase and a new intellectual paragon has emerged to command our admiration: The Thought Leader.", 
-    "word_count": "812", 
+    "word_count": "836", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-articleInline.jpg", 
