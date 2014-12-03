@@ -33970,6 +33970,298 @@
     "resolved_title": "SSH Kung fu"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://player.vimeo.com/video/112797307?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "112797307", 
+        "video_id": "1", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }, 
+      "3": {
+        "src": "http://player.vimeo.com/video/109994761?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "109994761", 
+        "video_id": "3", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }, 
+      "2": {
+        "src": "http://player.vimeo.com/video/109763259?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "109763259", 
+        "video_id": "2", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }, 
+      "4": {
+        "src": "http://player.vimeo.com/video/108871511?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "108871511", 
+        "video_id": "4", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "103010038", 
+      "src": "http://deuscustoms.com/wp-content/uploads/2014/11/RNINET_b4-001-280x420.jpg", 
+      "height": "420", 
+      "width": "280"
+    }, 
+    "excerpt": "Every art exhibit needs an opening party\u2026 and this is Joe\u2019s. When the curtains were drawn from the Temple of Enthusiam\u2019s gallery, crowds flocked in to admire his inspiring show. No one had ever seen anything\u2026 More", 
+    "word_count": "847", 
+    "images": {
+      "24": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/horace-jacket-thumb.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "24", 
+        "item_id": "103010038", 
+        "caption": "Shop Barbour x Deus - Horace Jacket\n", 
+        "width": "0"
+      }, 
+      "25": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/scorpido-jacket-thumb.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "25", 
+        "item_id": "103010038", 
+        "caption": "Shop Barbour x Deus - Scorpido Worker Jacket\n", 
+        "width": "0"
+      }, 
+      "20": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/10590592_10152530119289160_2889706656316105290_n-280x280.jpg", 
+        "credit": "", 
+        "height": "280", 
+        "image_id": "20", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "21": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/YH_2.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "21", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "22": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/YH_1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "22", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "23": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/deus_x_ornamental.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "23", 
+        "item_id": "103010038", 
+        "caption": "Shop Deus x Ornamental Conifer - Limited Edition Tees\n", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/RNINET_b4-001-280x420.jpg", 
+        "credit": "", 
+        "height": "420", 
+        "image_id": "1", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "3": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/DSC_76891-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "3", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "2": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/DucatiBuildred-5848-280x420.jpg", 
+        "credit": "", 
+        "height": "420", 
+        "image_id": "2", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "5": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/Schermata-2014-11-06-alle-17.13.45-280x185.png", 
+        "credit": "", 
+        "height": "185", 
+        "image_id": "5", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "4": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/YHblogXdeus_131-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "4", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "7": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/RNINET_b3-003-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "7", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "6": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/14SundaySlideBlog_0461-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "6", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "9": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/Barber2014-27-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "9", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "8": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/TZHiRes-0315-HERO2.jpg", 
+        "credit": "", 
+        "height": "386", 
+        "image_id": "8", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "580"
+      }, 
+      "11": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/Deus-Derrick-280x184.png", 
+        "credit": "", 
+        "height": "184", 
+        "image_id": "11", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "10": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/deus_ferroveloce_0-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "10", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "13": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/slidetober_moto_blog0002-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "13", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "12": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/slidetober_portrait_blog0062-280x201.jpg", 
+        "credit": "", 
+        "height": "201", 
+        "image_id": "12", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "15": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/IMG_54481-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "15", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "14": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/Slidetober_2014_Surf_Action2207-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "14", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "17": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/B46T4258-copy-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "17", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "16": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/Red-pill-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "16", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "19": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/RNINET_b2-021-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "19", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "18": {
+        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/OCmain-280x186.jpg", 
+        "credit": "", 
+        "height": "186", 
+        "image_id": "18", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1417638316", 
+    "status": "0", 
+    "sort_id": 1499, 
+    "resolved_url": "http://deuscustoms.com/", 
+    "item_id": "103010038", 
+    "resolved_id": "103010038", 
+    "given_url": "http://deuscustoms.com/", 
+    "resolved_title": "Deus Ex Machina | Custom Motorcycles, Surfboards, Clothing and Accessories", 
+    "is_index": "1", 
+    "time_updated": "1417638316", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Deus Ex Machina | Custom Motorcycles, Surfboards, Clothing and Accessories ", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 974, 
@@ -46002,6 +46294,58 @@
     "resolved_id": "724753797", 
     "given_url": "http://www.nytimes.com/2014/09/27/opinion/joe-nocera-paralysis-isnt-inevitable.html?smid=tw-share", 
     "resolved_title": "Income Inequality and N.R.A. Dominance May Not Last Forever"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "67134444", 
+      "src": "http://cdn4.openculture.com/wp-content/uploads/2011/02/filmnoirpage-e1319841938815.jpg", 
+      "height": "320", 
+      "width": "480"
+    }, 
+    "excerpt": "During the 1940s and 50s, Hollywood entered a \u201cnoir\u201d period, producing riveting films based on hard-boiled fiction. These films were set in dark locations and shot in a black & white aesthetic that fit like a glove. Hardened men wore fedoras and forever smoked cigarettes.", 
+    "word_count": "1452", 
+    "images": {
+      "1": {
+        "src": "http://cdn4.openculture.com/wp-content/uploads/2011/02/filmnoirpage-e1319841938815.jpg", 
+        "credit": "", 
+        "height": "320", 
+        "image_id": "1", 
+        "item_id": "67134444", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1417637490", 
+    "status": "0", 
+    "tags": {
+      "movies": {
+        "item_id": "67134444", 
+        "tag": "movies"
+      }
+    }, 
+    "sort_id": 1498, 
+    "resolved_url": "http://www.openculture.com/free_film_noir_movies", 
+    "authors": {
+      "22703392": {
+        "item_id": "67134444", 
+        "url": "", 
+        "author_id": "22703392", 
+        "name": "Anthony Mann."
+      }
+    }, 
+    "item_id": "67134444", 
+    "resolved_id": "67134444", 
+    "given_url": "http://www.openculture.com/free_film_noir_movies", 
+    "resolved_title": "50 Free Film Noir Movies", 
+    "is_index": "0", 
+    "time_updated": "1417637497", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "50 Free Film Noir Movies | Open Culture", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
