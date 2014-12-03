@@ -38205,68 +38205,60 @@
     "resolved_title": ""
   }, 
   {
-    "is_article": "0", 
-    "image": {
-      "item_id": "152411167", 
-      "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/2478/profile_638x479_foto_10-07-14_Maria_Laura_Chiabalan_Tecun_918.JPG", 
-      "height": "479", 
-      "width": "638"
-    }, 
-    "excerpt": "Dayana has just made a full recovery from cancer! She had a cancerous growth in her left leg, which required amputation. Although she has beaten cancer, without a leg, she moves...  While playing at home, Binod fell down with his right arm outstretched, fracturing his right radius and ulna.", 
-    "word_count": "117", 
-    "images": {
-      "1": {
-        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/2478/profile_638x479_foto_10-07-14_Maria_Laura_Chiabalan_Tecun_918.JPG", 
-        "credit": "", 
-        "height": "479", 
-        "image_id": "1", 
-        "item_id": "152411167", 
-        "caption": "", 
-        "width": "638"
-      }, 
-      "3": {
-        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/2499/profile_638x479_Maung_Win_Oo_use1.jpg", 
-        "credit": "", 
-        "height": "479", 
-        "image_id": "3", 
-        "item_id": "152411167", 
-        "caption": "", 
-        "width": "638"
-      }, 
-      "2": {
-        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/2487/profile_638x479_Angi_Yac-new_website.jpg", 
-        "credit": "", 
-        "height": "479", 
-        "image_id": "2", 
-        "item_id": "152411167", 
-        "caption": "", 
-        "width": "638"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1381948094", 
     "status": "0", 
-    "sort_id": 773, 
-    "resolved_url": "http://www.watsi.org", 
-    "authors": {
-      "23322452": {
-        "item_id": "152411167", 
-        "url": "https://watsi.org/profile/074e6e3c10c5-dayana", 
-        "author_id": "23322452", 
-        "name": "Read More"
-      }
-    }, 
-    "item_id": "152411167", 
-    "resolved_id": "152411167", 
-    "given_url": "https://watsi.org/", 
-    "resolved_title": "Watsi | Fund medical treatments for people around the world", 
     "is_index": "1", 
+    "sort_id": 773, 
     "time_updated": "1381948094", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "excerpt": "Donate as little as $5 to fund their healthcare.  Get an update after they receive healthcare.", 
+    "image": {
+      "item_id": "152411167", 
+      "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/3210/profile_330x248_JOLY__James_-_pre4.jpg", 
+      "height": "248", 
+      "width": "330"
+    }, 
+    "has_image": "1", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "372", 
+    "images": {
+      "1": {
+        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/3210/profile_330x248_JOLY__James_-_pre4.jpg", 
+        "credit": "", 
+        "height": "248", 
+        "image_id": "1", 
+        "item_id": "152411167", 
+        "caption": "", 
+        "width": "330"
+      }, 
+      "3": {
+        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/3194/profile_330x248_Ma_Khin.jpg", 
+        "credit": "", 
+        "height": "248", 
+        "image_id": "3", 
+        "item_id": "152411167", 
+        "caption": "", 
+        "width": "330"
+      }, 
+      "2": {
+        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/3301/profile_330x248_Naw_Ku_Paw.jpg", 
+        "credit": "", 
+        "height": "248", 
+        "image_id": "2", 
+        "item_id": "152411167", 
+        "caption": "", 
+        "width": "330"
+      }
+    }, 
     "given_title": "Watsi | Fund medical treatments for people around the world", 
-    "has_image": "0"
+    "resolved_url": "http://www.watsi.org", 
+    "is_article": "0", 
+    "item_id": "152411167", 
+    "time_added": "1381948094", 
+    "resolved_id": "152411167", 
+    "given_url": "https://watsi.org/", 
+    "resolved_title": "Watsi | Fund medical treatments for people around the world"
   }, 
   {
     "status": "1", 
