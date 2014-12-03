@@ -64016,6 +64016,33 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1497, 
+    "time_updated": "1417634316", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "\u200ewww.gensler.com/uploads/documents/Focus_in_the_Workplace_10_01_2012.pdf", 
+    "resolved_url": "http://www.gensler.com/uploads/documents/Focus_in_the_Workplace_10_01_2012.pdf", 
+    "is_article": "0", 
+    "item_id": "286619125", 
+    "time_added": "1417634311", 
+    "resolved_id": "286619125", 
+    "given_url": "http://www.gensler.com/uploads/documents/Focus_in_the_Workplace_10_01_2012.pdf", 
+    "resolved_title": "", 
+    "tags": {
+      "coworking": {
+        "item_id": "286619125", 
+        "tag": "coworking"
+      }
+    }
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 713, 
     "time_updated": "1378150098", 
     "time_favorited": "0", 
