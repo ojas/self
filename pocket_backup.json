@@ -33309,6 +33309,70 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "781494755", 
+      "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*DNx7-E7UyZC8pBAJRH6XrQ.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Software only becomes valuable when you ship it to customers. Before then it\u2019s just a costly accumulation of hard work and assumptions.  Shipping unlocks a feedback loop that confirms or challenges those assumptions.", 
+    "word_count": "1225", 
+    "images": {
+      "1": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*DNx7-E7UyZC8pBAJRH6XrQ.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "781494755", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*oa_LzOqjAcM1H_9HZH3slA.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "781494755", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*GuWpJGkBA9pA4GlaohEVcw.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "781494755", 
+        "caption": "What customer support looks like in an environment of continuous shipping", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1417639938", 
+    "status": "0", 
+    "sort_id": 1500, 
+    "resolved_url": "https://medium.com/@intercom/shipping-is-your-companys-heartbeat-23843173ef96", 
+    "authors": {
+      "25870448": {
+        "item_id": "781494755", 
+        "url": "https://medium.com/@intercom", 
+        "author_id": "25870448", 
+        "name": "Intercom"
+      }
+    }, 
+    "item_id": "781494755", 
+    "resolved_id": "781494755", 
+    "given_url": "https://medium.com/@intercom/shipping-is-your-companys-heartbeat-23843173ef96", 
+    "resolved_title": "Shipping is Your Company\u2019s Heartbeat \u2014 Medium", 
+    "is_index": "0", 
+    "time_updated": "1417639938", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Shipping is Your Company\u2019s Heartbeat \u2014 Medium", 
+    "has_image": "1"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/v/JRZMIQaOCtI", 
@@ -65239,7 +65303,7 @@
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
-        "credit": "Brecht Vandenbroucke", 
+        "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "185909912", 
@@ -65264,7 +65328,7 @@
     "resolved_id": "185694949", 
     "given_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/?smid=fb-share", 
     "resolved_title": "The 'Busy' Trap", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
     "time_read": "1348063457", 
@@ -80651,7 +80715,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
