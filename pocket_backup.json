@@ -15144,7 +15144,7 @@
       "width": "0"
     }, 
     "excerpt": "By her own account, Marie Kondo was an unusual child, poring over lifestyle magazines to glean organizing techniques and then stealthily practicing them at home and school, confounding her family and bemusing her teachers.", 
-    "word_count": "1256", 
+    "word_count": "1259", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/10/23/garden/23TIDY/23TIDY-master495.jpg", 
@@ -21992,7 +21992,7 @@
       "width": "0"
     }, 
     "excerpt": "One day in the fall of 1981, eight men in their 70s stepped out of a van in front of a converted monastery in New Hampshire. They shuffled forward, a few of them arthritically stooped, a couple with canes. Then they passed through the door and entered a time warp.", 
-    "word_count": "5560", 
+    "word_count": "5561", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/26counterclockwise2/26counterclockwise2-master1050-v11.jpg", 
@@ -49757,7 +49757,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "755847618", 
-      "src": "http://media.npr.org/assets/img/2014/11/03/senior-chamber_custom-348e64172b0fd242ea20c87be2ae297219dc9585-s4-c85.jpg", 
+      "src": "http://media.npr.org/assets/img/2014/11/03/senior-chamber_custom-348e64172b0fd242ea20c87be2ae297219dc9585-s1100-c15.jpg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -49765,7 +49765,7 @@
     "word_count": "1032", 
     "images": {
       "1": {
-        "src": "http://media.npr.org/assets/img/2014/11/03/senior-chamber_custom-348e64172b0fd242ea20c87be2ae297219dc9585-s4-c85.jpg", 
+        "src": "http://media.npr.org/assets/img/2014/11/03/senior-chamber_custom-348e64172b0fd242ea20c87be2ae297219dc9585-s1100-c15.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -49774,7 +49774,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://media.npr.org/assets/img/2014/11/03/superclock-ec61a3465753120755b55299682498c97840a7fe-s2-c85.jpg", 
+        "src": "http://media.npr.org/assets/img/2014/11/03/superclock-ec61a3465753120755b55299682498c97840a7fe-s800-c15.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -68927,7 +68927,7 @@
       "width": "0"
     }, 
     "excerpt": "Before the collapse of the U.S. financial system in 2008, Brad Katsuyama could tell himself that he bore no responsibility for that system. He worked for the Royal Bank of Canada, for a start.", 
-    "word_count": "10313", 
+    "word_count": "10307", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash1/06flash1-master495.jpg", 
@@ -80231,7 +80231,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -80244,7 +80244,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
