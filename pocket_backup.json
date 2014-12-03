@@ -27252,7 +27252,7 @@
     "has_video": "0", 
     "word_count": "0", 
     "given_title": "https://research.microsoft.com/en-US/people/kannan/book-no-solutions-aug-21", 
-    "resolved_url": "https://research.microsoft.com/en-US/people/kannan/book-no-solutions-aug-21-2014.pdf", 
+    "resolved_url": "http://research.microsoft.com/en-US/people/kannan/book-no-solutions-aug-21-2014.pdf", 
     "is_article": "0", 
     "item_id": "718681343", 
     "time_added": "1413985861", 
@@ -45380,7 +45380,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "542351900", 
-      "src": "http://cdn.theatlantic.com/newsroom/img/posts/Gekko.jpg.jpg", 
+      "src": "http://cdn.theatlantic.com/assets/media/img/posts/Gekko.jpg.jpg", 
       "height": "375", 
       "width": "570"
     }, 
@@ -45388,7 +45388,7 @@
     "word_count": "1610", 
     "images": {
       "1": {
-        "src": "http://cdn.theatlantic.com/newsroom/img/posts/Gekko.jpg.jpg", 
+        "src": "http://cdn.theatlantic.com/assets/media/img/posts/Gekko.jpg.jpg", 
         "credit": "", 
         "height": "375", 
         "image_id": "1", 
@@ -45397,7 +45397,7 @@
         "width": "570"
       }, 
       "2": {
-        "src": "http://cdn.theatlantic.com/newsroom/img/posts/Screen%20Shot%202014-02-10%20at%2010.31.16%20AM.png", 
+        "src": "http://cdn.theatlantic.com/assets/media/img/posts/Screen%20Shot%202014-02-10%20at%2010.31.16%20AM.png", 
         "credit": "", 
         "height": "337", 
         "image_id": "2", 
@@ -80244,7 +80244,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
