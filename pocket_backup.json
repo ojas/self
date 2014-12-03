@@ -18522,6 +18522,35 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1497, 
+    "time_updated": "1417565520", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Our topic for this month's Monthly Challenge meetup is NLP! In this post, we'll get you started with one possibility: using pandas and Python's Natural Language Toolkit to analyze the contents your own Gmail inbox.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1674", 
+    "authors": {
+      "24524230": {
+        "item_id": "779762280", 
+        "url": "http://engineroom.trackmaven.com/author/fletcher-heisler/", 
+        "author_id": "24524230", 
+        "name": "Fletcher Heisler"
+      }
+    }, 
+    "given_title": "The Engine Room - TrackMaven", 
+    "resolved_url": "http://engineroom.trackmaven.com/blog/monthly-challenge-natural-language-processing/", 
+    "is_article": "1", 
+    "item_id": "779762280", 
+    "time_added": "1417565520", 
+    "resolved_id": "779762280", 
+    "given_url": "http://engineroom.trackmaven.com/blog/monthly-challenge-natural-language-processing/", 
+    "resolved_title": "The Engine Room"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 734, 
     "time_updated": "1380773883", 
