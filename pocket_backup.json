@@ -46278,20 +46278,20 @@
     "time_updated": "1378939941", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Reclaim your day. Connect your apps, automate your work.  Sign up or Log In  Learn more Unlock the Hidden Power of Your Apps Zapier connects the web apps you use to easily move your data and automate tedious tasks.", 
+    "excerpt": "Your time is invaluable. Invest in yourself.  Sign up or Log In  Learn more Unlock the Hidden Power of Your Apps Zapier connects the web apps you use to easily move your data and automate tedious tasks. Start FREE Today Integrate  Connect the apps you use to easily move data between them.", 
     "image": {
       "item_id": "120462214", 
-      "src": "https://zapier.cachefly.net/static/CHElVv/images/logo_large_reversed.png", 
+      "src": "https://zapier.cachefly.net/static/CHjvBl/images/logo_large_reversed.png", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "279", 
+    "word_count": "277", 
     "images": {
       "1": {
-        "src": "https://zapier.cachefly.net/static/CHElVv/images/logo_large_reversed.png", 
+        "src": "https://zapier.cachefly.net/static/CHjvBl/images/logo_large_reversed.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -46301,7 +46301,7 @@
       }
     }, 
     "given_title": "Automate the Web - Zapier", 
-    "resolved_url": "https://zapier.com", 
+    "resolved_url": "https://zapier.com/", 
     "is_article": "0", 
     "item_id": "120462214", 
     "time_added": "1378939941", 
@@ -77925,7 +77925,7 @@
       "width": "600"
     }, 
     "excerpt": "Aluminum ingots waiting to be shipped from a processor. Financial institutions like Goldman Sachs have used industry pricing regulations to earn millions of dollars each year.\u00a0    MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "919", 
+    "word_count": "5352", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -77952,6 +77952,42 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
+        "width": "190"
+      }, 
+      "5": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
+        "credit": "Tyler Clay", 
+        "height": "275", 
+        "image_id": "5", 
+        "item_id": "401365344", 
+        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
+        "width": "190"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
+        "credit": "Fabrizio Costantini for The New York Times", 
+        "height": "127", 
+        "image_id": "4", 
+        "item_id": "401365344", 
+        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
+        "width": "190"
+      }, 
+      "7": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "7", 
+        "item_id": "401365344", 
+        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
+        "width": "190"
+      }, 
+      "6": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "6", 
+        "item_id": "401365344", 
+        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
