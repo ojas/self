@@ -60575,7 +60575,7 @@
       }
     }, 
     "sort_id": 645, 
-    "resolved_url": "http://www.lighttable.com/", 
+    "resolved_url": "http://lighttable.com/", 
     "item_id": "246840737", 
     "resolved_id": "246840737", 
     "given_url": "http://www.lighttable.com/", 
@@ -61275,8 +61275,8 @@
       "height": "592", 
       "width": "671"
     }, 
-    "excerpt": "Steven D. Levitt  The list of enemies aligned against Chicago\u2019s teachers is long and intimidating: Billionaire hotel heiress Penny Pritzker, Charles Koch, Art Pope, Rahm Emanuel, President Obama and . . . Steven Levitt.", 
-    "word_count": "432", 
+    "excerpt": "Steven D. Levitt  Many activists fighting against police abuses have embraced longtime GOP activist and Koch employee Radley Balko for his reporting on the militarization of police.", 
+    "word_count": "418", 
     "images": {
       "1": {
         "src": "http://shameproject.com/wp-content/uploads/2012/08/mcardle-mcee-ihs-50th.jpg", 
@@ -61294,11 +61294,11 @@
     "sort_id": 821, 
     "resolved_url": "http://shameproject.com/", 
     "authors": {
-      "3374432": {
+      "11003725": {
         "item_id": "175116229", 
-        "url": "http://shameproject.com/author/yasha-levine/", 
-        "author_id": "3374432", 
-        "name": "Yasha Levine"
+        "url": "http://shameproject.com/author/shameproject/", 
+        "author_id": "11003725", 
+        "name": "S.H.A.M.E."
       }
     }, 
     "item_id": "175116229", 
@@ -61311,7 +61311,7 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "S.H.A.M.E. Project \u203a Shame the Hacks who Abuse Media Ethics...", 
-    "has_image": "1"
+    "has_image": "0"
   }, 
   {
     "status": "0", 
