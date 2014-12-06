@@ -12542,7 +12542,7 @@
       }
     }, 
     "given_title": "The reactive manifesto", 
-    "resolved_url": "http://www.reactivemanifesto.org/", 
+    "resolved_url": "http://reactivemanifesto.org", 
     "is_article": "0", 
     "item_id": "397992754", 
     "time_added": "1377668790", 
@@ -33029,8 +33029,8 @@
   {
     "videos": {
       "1": {
-        "src": "https://www.youtube.com/embed/rXXcq6-3y8g", 
-        "vid": "rXXcq6-3y8g", 
+        "src": "https://www.youtube.com/embed/QZXjjLJz8V4", 
+        "vid": "QZXjjLJz8V4", 
         "video_id": "1", 
         "height": "315", 
         "width": "560", 
@@ -33038,35 +33038,188 @@
         "type": "1"
       }
     }, 
-    "is_article": "1", 
+    "is_article": "0", 
     "image": {
       "item_id": "24717795", 
-      "src": "http://img.youtube.com/vi/rXXcq6-3y8g/0.jpg", 
-      "height": "360", 
-      "width": "480"
+      "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/13/about/ePx5Z6j5S3qIFdokrXSx", 
+      "height": "216", 
+      "width": "351"
     }, 
-    "excerpt": "Developed by a team of product designers and material scientists, sugru's patented technology is unique in its combination of hand-formability, self-adhesion and flexibility when cured. It feels like modelling clay, and it's that easy to use too.", 
-    "word_count": "63", 
+    "excerpt": "Welcome Login or Register 0 items Hi there! We ship from Michigan at cost price. Sugru is the world\u2019s first mouldable glue that turns into rubber. It all started with an idea and a small team of product designers and material scientists here in London.", 
+    "word_count": "1147", 
     "images": {
-      "1": {
-        "src": "http://img.youtube.com/vi/rXXcq6-3y8g/0.jpg", 
+      "11": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/22/about/9JyExSY1Q2iLl774sUPw", 
         "credit": "", 
-        "height": "360", 
+        "height": "216", 
+        "image_id": "11", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "10": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/21/about/favourite1.jpg", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "10", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "13": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/24/about/uxKwHqFuQ9OaEADCdbuO", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "13", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "12": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/23/about/favourite3.jpg", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "12", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "15": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/26/about/favourite6.jpg", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "15", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "14": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/25/about/favourite5.jpg", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "14", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "17": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/39/about/VbUTW5FiSqGXpqVMguWj", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "17", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "16": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/38/about/_9t927noRbytpMImGerQ", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "16", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "18": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/132/about/Dznal185QPiN1iM9nIuc", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "18", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "1": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/13/about/ePx5Z6j5S3qIFdokrXSx", 
+        "credit": "", 
+        "height": "216", 
         "image_id": "1", 
         "item_id": "24717795", 
         "caption": "", 
-        "width": "480"
+        "width": "351"
+      }, 
+      "3": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/15/about/vOYzA6rnSCGyyBTduJdQ", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "3", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "2": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/14/about/vXWXoZYDQXKTiEP1RTZA", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "2", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "5": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/17/about/zrtvjpP8TfyuPWkKN4kW", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "5", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "4": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/16/about/lI3ALdAeQgyTQiFjjjpv", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "4", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "7": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/34/about/ELWKgONuQR2mT0o2K9fZ", 
+        "credit": "-58\u00b0F", 
+        "height": "216", 
+        "image_id": "7", 
+        "item_id": "24717795", 
+        "caption": "Sugru is resistant from -50\u00b0C", 
+        "width": "351"
+      }, 
+      "6": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/18/about/QPAkQeY1QKS70BVhPAhc", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "6", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "9": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/20/about/unj3xRwzSLCilVbfDhwy", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "9", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
+      }, 
+      "8": {
+        "src": "http://drwsxce6xtjnu.cloudfront.net/snippets/images/19/about/vPlXrIMxQRK7JDtEDt8v", 
+        "credit": "", 
+        "height": "216", 
+        "image_id": "8", 
+        "item_id": "24717795", 
+        "caption": "", 
+        "width": "351"
       }
     }, 
     "has_video": "1", 
     "time_added": "1361344157", 
     "status": "1", 
     "sort_id": 307, 
-    "resolved_url": "https://sugru.com/about", 
+    "resolved_url": "http://sugru.com/about", 
     "item_id": "24717795", 
     "resolved_id": "24717795", 
     "given_url": "http://sugru.com/about", 
-    "resolved_title": "the future needs fixing", 
+    "resolved_title": "About Sugru | Sugru", 
     "is_index": "1", 
     "time_updated": "1364928797", 
     "time_favorited": "0", 
