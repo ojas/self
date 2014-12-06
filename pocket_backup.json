@@ -32475,216 +32475,18 @@
     "is_article": "1", 
     "image": {
       "item_id": "323037609", 
-      "src": "http://www.cracked.com/article_20166_5-brain-hacks-that-give-you-mind-blowing-powers.html", 
-      "height": "0", 
-      "width": "0"
+      "src": "http://www.cracked.com/article_20166_5-brain-hacks-that-give-you-mind-blowing-powers_p2.html", 
+      "height": "198", 
+      "width": "300"
     }, 
     "excerpt": "Sure, you could improve yourself the normal way, with hard work and years of slow, incremental progress. Or you could use some of your body's built-in cheat codes and just hack your way to awesometown.  These hacks come with various degrees of difficulty, but no risk or potential for injury.", 
     "word_count": "4978", 
     "images": {
-      "20": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/8/9/172489_v1.jpg", 
-        "credit": "", 
-        "height": "203", 
-        "image_id": "20", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "610"
-      }, 
-      "21": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/5/172495.jpg?v=2", 
-        "credit": "", 
-        "height": "188", 
-        "image_id": "21", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "22": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/6/172496_v1.jpg", 
-        "credit": "", 
-        "height": "218", 
-        "image_id": "22", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "23": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/9/172499_v1.jpg", 
-        "credit": "", 
-        "height": "198", 
-        "image_id": "23", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
       "1": {
-        "src": "http://www.cracked.com/article_20166_5-brain-hacks-that-give-you-mind-blowing-powers.html", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/2/172492_v1.jpg", 
-        "credit": "", 
-        "height": "299", 
-        "image_id": "3", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "2": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/1/172491_v1.jpg", 
-        "credit": "", 
-        "height": "203", 
-        "image_id": "2", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "610"
-      }, 
-      "5": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/8/172498.jpg?v=1", 
-        "credit": "", 
-        "height": "200", 
-        "image_id": "5", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "4": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/4/172494_v1.jpg", 
-        "credit": "", 
-        "height": "200", 
-        "image_id": "4", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "7": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/7/172497.jpg?v=1", 
-        "credit": "", 
-        "height": "200", 
-        "image_id": "7", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "6": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/0/172490.jpg?v=1", 
-        "credit": "", 
-        "height": "203", 
-        "image_id": "6", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "610"
-      }, 
-      "9": {
-        "src": "http://i.crackedcdn.com/phpimages/article/5/0/0/172500.jpg?v=1", 
-        "credit": "", 
-        "height": "200", 
-        "image_id": "9", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "8": {
-        "src": "http://i.crackedcdn.com/phpimages/article/5/0/4/172504.gif?v=1", 
-        "credit": "", 
-        "height": "400", 
-        "image_id": "8", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "550"
-      }, 
-      "11": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/9/3/172493.jpg?v=1", 
-        "credit": "", 
-        "height": "203", 
-        "image_id": "11", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "610"
-      }, 
-      "10": {
-        "src": "http://i.crackedcdn.com/phpimages/article/5/0/1/172501.jpg?v=1", 
-        "credit": "", 
-        "height": "264", 
-        "image_id": "10", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "450"
-      }, 
-      "13": {
-        "src": "http://i.crackedcdn.com/phpimages/article/5/0/2/172502_v1.jpg", 
-        "credit": "", 
-        "height": "198", 
-        "image_id": "13", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "12": {
-        "src": "http://i.crackedcdn.com/phpimages/article/5/0/5/172505_v1.jpg", 
-        "credit": "", 
-        "height": "200", 
-        "image_id": "12", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "15": {
         "src": "http://www.cracked.com/article_20166_5-brain-hacks-that-give-you-mind-blowing-powers_p2.html", 
         "credit": "", 
-        "height": "0", 
-        "image_id": "15", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "14": {
-        "src": "http://i.crackedcdn.com/phpimages/article/5/0/3/172503_v1.jpg", 
-        "credit": "", 
-        "height": "300", 
-        "image_id": "14", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "17": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/8/5/172485.jpg?v=1", 
-        "credit": "", 
-        "height": "300", 
-        "image_id": "17", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "16": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/8/7/172487.jpg?v=1", 
-        "credit": "", 
-        "height": "203", 
-        "image_id": "16", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "610"
-      }, 
-      "19": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/8/8/172488_v1.jpg", 
-        "credit": "", 
-        "height": "200", 
-        "image_id": "19", 
-        "item_id": "323037609", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "18": {
-        "src": "http://i.crackedcdn.com/phpimages/article/4/8/6/172486_v1.jpg", 
-        "credit": "", 
-        "height": "234", 
-        "image_id": "18", 
+        "height": "198", 
+        "image_id": "1", 
         "item_id": "323037609", 
         "caption": "", 
         "width": "300"
@@ -68427,7 +68229,7 @@
       }
     }, 
     "sort_id": 696, 
-    "resolved_url": "http://strikemag.org/bullshit-jobs/", 
+    "resolved_url": "http://www.strikemag.org/bullshit-jobs/", 
     "authors": {
       "21207940": {
         "item_id": "419511321", 
@@ -75314,51 +75116,60 @@
       "width": "0"
     }, 
     "excerpt": "We know how most black holes in the Universe form: from the deaths of very massive stars (maybe 20 times the mass of our Sun and up), giving rise to black holes maybe three times our Sun\u2019s mass and upwards.", 
-    "word_count": "1927", 
+    "word_count": "1887", 
     "images": {
       "11": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*dKe0RYj1uhK8RpHugBKz_Q.jpeg", 
-        "credit": "", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*4volyD0kyslBdcuv3aJtRw.jpeg", 
+        "credit": "2012", 
         "height": "0", 
         "image_id": "11", 
         "item_id": "641267377", 
-        "caption": "Image credit: KIPAC / SLAC / Stanford, via http://kipac.stanford.edu/kipac/research/agn.", 
+        "caption": "Image credit: Hubble Space Telescope / NASA / Remco van den Bosch et al.", 
         "width": "0"
       }, 
       "10": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*0Q6sOkjVqCTc9yAVOYfj7A.jpeg", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*21wKCT7KdrMivd02LfjgUQ.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "10", 
         "item_id": "641267377", 
-        "caption": "Image credit: Ramon Naves of Observatorio Montcabrer, via http://cometas.sytes.net/blazar/blazar.html.", 
+        "caption": "Image credit: NOAO / AOP, \u00a92005-2013 University of Texas McDonald Observatory, via http://blackholes.stardate.org/objects/image.php?id=82&img=225.", 
         "width": "0"
       }, 
       "13": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*FsxikVDLQH5L97oGXaToDQ.png", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*dKe0RYj1uhK8RpHugBKz_Q.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "13", 
         "item_id": "641267377", 
-        "caption": "Image credit: Tuorla Observatory / University of Turku, via http://www.astro.utu.fi/news/080419.shtml.", 
+        "caption": "Image credit: KIPAC / SLAC / Stanford, via http://kipac.stanford.edu/kipac/research/agn.", 
         "width": "0"
       }, 
       "12": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*ZRUXIhdMkU0H1BCKplF17w.jpeg", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*0Q6sOkjVqCTc9yAVOYfj7A.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "12", 
         "item_id": "641267377", 
-        "caption": "Image composite credits: False color: X-ray image from the Chandra X-ray Observatory;contours: 1.4 GHz radio image from the Very Large Array.", 
+        "caption": "Image credit: Ramon Naves of Observatorio Montcabrer, via http://cometas.sytes.net/blazar/blazar.html.", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*FsxikVDLQH5L97oGXaToDQ.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "641267377", 
+        "caption": "Image credit: Tuorla Observatory / University of Turku, via http://www.astro.utu.fi/news/080419.shtml.", 
         "width": "0"
       }, 
       "14": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/fit/c/160/160/1*VH9usPh601npohqlvpnxvg.jpeg", 
-        "credit": " Image  NASA / ESA / Andrew C. Fabian / Remco C. E. van den Bosch (MPIA)", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*ZRUXIhdMkU0H1BCKplF17w.jpeg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "14", 
         "item_id": "641267377", 
-        "caption": "", 
+        "caption": "Image composite credits: False color: X-ray image from the Chandra X-ray Observatory;contours: 1.4 GHz radio image from the Very Large Array.", 
         "width": "0"
       }, 
       "1": {
@@ -75371,12 +75182,12 @@
         "width": "0"
       }, 
       "3": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*IvPYBah7OaAPuvNR09VKMw.jpeg", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*LV0gcKGH8MQ8L_gXacm3jA.gif", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "641267377", 
-        "caption": "Image credit: Hubble Space Telescope / NASA / Wikisky, via Wikimedia Commons user Friendlystar.", 
+        "caption": "Image credit: Andrea Ghez et al. / KECK / UCLA Galactic Center Group, via http://www.astro.ucla.edu/~ghezgroup/gc/pictures/orbitsMovie.shtml.", 
         "width": "0"
       }, 
       "2": {
@@ -75389,57 +75200,57 @@
         "width": "0"
       }, 
       "5": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*C6UqKmPq77HWw5BNY98UGA.jpeg", 
-        "credit": "VLA", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "641267377", 
-        "caption": "Image credit: NRAO / Very Large Array", 
-        "width": "0"
-      }, 
-      "4": {
         "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*vDJ65-pRi5eRuT7p8-iaig.jpeg", 
         "credit": "", 
         "height": "0", 
-        "image_id": "4", 
+        "image_id": "5", 
         "item_id": "641267377", 
         "caption": "Image credit: NASA / Chandra X-ray telescope.", 
         "width": "0"
       }, 
+      "4": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*IvPYBah7OaAPuvNR09VKMw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "641267377", 
+        "caption": "Image credit: Hubble Space Telescope / NASA / Wikisky, via Wikimedia Commons user Friendlystar.", 
+        "width": "0"
+      }, 
       "7": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*ym62372GmIA3RTIPGBBK4g.png", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*_cLX9PnFR4_CZAS1_G2mdg.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
         "item_id": "641267377", 
-        "caption": "http://vimeo.com/45133074", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*_cLX9PnFR4_CZAS1_G2mdg.jpeg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "641267377", 
         "caption": "Image credit: Rogelio Bernal Andreo of Deep Sky Colors, via APOD at http://apod.nasa.gov/apod/ap110422.html.", 
         "width": "0"
       }, 
+      "6": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*C6UqKmPq77HWw5BNY98UGA.jpeg", 
+        "credit": "VLA", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "641267377", 
+        "caption": "Image credit: NRAO / Very Large Array", 
+        "width": "0"
+      }, 
       "9": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*4volyD0kyslBdcuv3aJtRw.jpeg", 
-        "credit": "2012", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*ym62372GmIA3RTIPGBBK4g.png", 
+        "credit": "", 
         "height": "0", 
         "image_id": "9", 
         "item_id": "641267377", 
-        "caption": "Image credit: Hubble Space Telescope / NASA / Remco van den Bosch et al.", 
+        "caption": "", 
         "width": "0"
       }, 
       "8": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*21wKCT7KdrMivd02LfjgUQ.jpeg", 
-        "credit": "", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*o4_UyX78lJJbCvAH6VprBg.gif", 
+        "credit": "SDSS", 
         "height": "0", 
         "image_id": "8", 
         "item_id": "641267377", 
-        "caption": "Image credit: NOAO / AOP, \u00a92005-2013 University of Texas McDonald Observatory, via http://blackholes.stardate.org/objects/image.php?id=82&img=225.", 
+        "caption": "Image credit: Sloan Digital Sky Survey", 
         "width": "0"
       }
     }, 
@@ -75449,17 +75260,17 @@
     "sort_id": 1158, 
     "resolved_url": "https://medium.com/@startswithabang/the-largest-black-hole-in-the-known-universe-67b792a1d856", 
     "authors": {
-      "2631659": {
+      "15258801": {
         "item_id": "641267377", 
-        "url": "", 
-        "author_id": "2631659", 
+        "url": "https://medium.com/@StartsWithABang", 
+        "author_id": "15258801", 
         "name": "Ethan Siegel"
       }
     }, 
     "item_id": "641267377", 
     "resolved_id": "641267377", 
     "given_url": "https://medium.com/@startswithabang/the-largest-black-hole-in-the-known-universe-67b792a1d856", 
-    "resolved_title": "The Largest Black Hole In the Known Universe \u2014 Starts With A Bang! \u2014 Medium", 
+    "resolved_title": "The Largest Black Hole In the Known Universe", 
     "is_index": "0", 
     "time_updated": "1402799384", 
     "time_favorited": "0", 
