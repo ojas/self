@@ -4318,7 +4318,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2532", 
+    "word_count": "2474", 
     "images": {
       "1": {
         "src": "http://totems.co/wp-content/uploads/2014/09/visu_nn_threshold_0_8.png", 
@@ -80735,7 +80735,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
