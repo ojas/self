@@ -10501,25 +10501,59 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "528571482", 
+      "src": "http://graphics8.nytimes.com/images/2014/01/22/business/dbpix-marc-andreessen/dbpix-marc-andreessen-articleLarge.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Editor\u2019s note: Marc Andreessen\u2019s venture capital firm, Andreessen Horowitz, has invested just under $50 million in Bitcoin-related start-ups. The firm is actively searching for more Bitcoin-based investment opportunities. He does not personally own more than a de minimis amount of Bitcoin.", 
+    "word_count": "3161", 
+    "images": {
+      "1": {
+        "src": "http://graphics8.nytimes.com/images/2014/01/22/business/dbpix-marc-andreessen/dbpix-marc-andreessen-articleLarge.jpg", 
+        "credit": "Keith Bedford / Reuters", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "528571482", 
+        "caption": "Marc Andreessen, a co-founder of the venture capital firm Andreessen Horowitz.", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://graphics8.nytimes.com/images/2013/11/20/business/video-gillen-bitcoins/video-gillen-bitcoins-videoLarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "528571482", 
+        "caption": "Video | Bitcoin Believers While regulators debate the pros and cons of bitcoins, this volatile digital currency inspires the question: What makes money, money?", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1390343560", 
     "status": "1", 
-    "is_index": "0", 
     "sort_id": 937, 
+    "resolved_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters/", 
+    "authors": {
+      "327280": {
+        "item_id": "528571482", 
+        "url": "", 
+        "author_id": "327280", 
+        "name": "Marc Andreessen"
+      }
+    }, 
+    "item_id": "528571482", 
+    "resolved_id": "528571482", 
+    "given_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters/", 
+    "resolved_title": "Why Bitcoin Matters", 
+    "is_index": "0", 
     "time_updated": "1404449441", 
     "time_favorited": "0", 
     "time_read": "1404449441", 
-    "excerpt": "", 
-    "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
     "given_title": "Why Bitcoin Matters - NYTimes.com", 
-    "resolved_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters/", 
-    "is_article": "0", 
-    "item_id": "528571482", 
-    "time_added": "1390343560", 
-    "resolved_id": "528571482", 
-    "given_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters/", 
-    "resolved_title": ""
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
