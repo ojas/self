@@ -77095,6 +77095,44 @@
     "resolved_title": "Expert JavaScript and Front-End Web Development Training Videos"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1504, 
+    "time_updated": "1417988499", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Previous Page", 
+    "image": {
+      "item_id": "784665233", 
+      "src": "http://einsteinpapers.press.princeton.edu/vol8-trans/34.jpg?width=759&height=1004", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2", 
+    "images": {
+      "1": {
+        "src": "http://einsteinpapers.press.princeton.edu/vol8-trans/34.jpg?width=759&height=1004", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "784665233", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://einsteinpapers.press.princeton.edu/vol8-trans/34?zoomFactor=1", 
+    "is_article": "0", 
+    "item_id": "784665233", 
+    "time_added": "1417988497", 
+    "resolved_id": "784665233", 
+    "given_url": "http://einsteinpapers.press.princeton.edu/vol8-trans/34?zoomFactor=1", 
+    "resolved_title": "Volume 8 : The Berlin Years : Correspondence, 191 : 918 (English translation supplement) page 6"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/rUaj7rj6MI8?rel=0", 
