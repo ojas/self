@@ -15006,6 +15006,35 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1502, 
+    "time_updated": "1417917076", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Executives at America Online are learning what it means to be in business with Ted Turner, the company's vice chairman.  Despite having a knack for making insensitive, off-the-cuff remarks about religion and ethnicity, Mr.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "458", 
+    "authors": {
+      "2536707": {
+        "item_id": "784349924", 
+        "url": "", 
+        "author_id": "2536707", 
+        "name": "JIM RUTENBERG"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.nytimes.com/2001/03/19/business/mediatalk-aol-sees-a-different-side-of-time-warner.html", 
+    "is_article": "1", 
+    "item_id": "784349924", 
+    "time_added": "1417917073", 
+    "resolved_id": "784349924", 
+    "given_url": "http://www.nytimes.com/2001/03/19/business/mediatalk-aol-sees-a-different-side-of-time-warner.html", 
+    "resolved_title": "MediaTalk; AOL Sees a Different Side of Time Warner"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1476, 
     "time_updated": "1417024222", 
     "time_favorited": "0", 
@@ -64590,6 +64619,27 @@
     "resolved_id": "534849769", 
     "given_url": "https://launchbylunch.com/posts/2014/Jan/29/aws-tips/", 
     "resolved_title": "AWS Tips, Tricks, and Techniques"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1503, 
+    "time_updated": "1417917353", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Every year, as regularly and reliably as the swallows return from the south or lies gush from the lips of politicians, some government agency will release new life expectancy figures that will immediately be misunderstood and misreported by the press. Usually the error goes something like this.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "675", 
+    "given_title": "", 
+    "resolved_url": "http://m.mysanantonio.com/news/article/Life-expectancy-figures-misleading-change-rapidly-3635018.php", 
+    "is_article": "1", 
+    "item_id": "784351727", 
+    "time_added": "1417917350", 
+    "resolved_id": "784351727", 
+    "given_url": "http://m.mysanantonio.com/news/article/Life-expectancy-figures-misleading-change-rapidly-3635018.php", 
+    "resolved_title": "Austad: Life expectancy figures misleading, change rapidly"
   }, 
   {
     "status": "0", 
