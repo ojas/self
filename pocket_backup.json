@@ -19565,6 +19565,88 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "0", 
+    "image": {
+      "item_id": "783771839", 
+      "src": "http://graphics8.nytimes.com/images/2014/07/06/opinion/exposures-russia-slide-JJWE/exposures-russia-slide-JJWE-custom1.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Recent Exposures                                      \u00a9 2014 The New York Times Company                                           Home             Search             Contact Us             Work With Us             Advertise             Your Ad Choices             Privacy             Terms of Servic", 
+    "word_count": "31", 
+    "images": {
+      "1": {
+        "src": "http://graphics8.nytimes.com/images/2014/07/06/opinion/exposures-russia-slide-JJWE/exposures-russia-slide-JJWE-custom1.jpg", 
+        "credit": "Photographs  Misha Friedman", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://graphics8.nytimes.com/images/2014/05/04/opinion/sunday/04exposures-hip-hop-slide-DKKR/04exposures-hip-hop-slide-DKKR-custom1.jpg", 
+        "credit": "Photographs  Jessica Lehrman", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://graphics8.nytimes.com/images/2014/06/13/opinion/ukraine-protesters-photos-slide-0UIP/ukraine-protesters-photos-slide-0UIP-custom1.jpg", 
+        "credit": "Photographs  Anastasia Taylor\u2011Lind", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://graphics8.nytimes.com/images/2014/03/08/opinion/Gays-in-military-slide-R8IC/Gays-in-military-slide-R8IC-custom2.jpg", 
+        "credit": "Photographs  Vincent Cianni", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2014/04/20/opinion/sunday/20exposures-gazaSS-slide-1RBY/20exposures-gazaSS-slide-1RBY-custom1.jpg", 
+        "credit": "Photographs  Monique Jaques", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418051836", 
+    "status": "0", 
+    "sort_id": 1506, 
+    "resolved_url": "http://www.nytimes.com/interactive/2014/12/07/opinion/sunday/exposures-detroit-by-air-alex-maclean.html", 
+    "authors": {
+      "24070815": {
+        "item_id": "783771839", 
+        "url": "", 
+        "author_id": "24070815", 
+        "name": "Alex S. MacLean"
+      }
+    }, 
+    "item_id": "783771839", 
+    "resolved_id": "783771839", 
+    "given_url": "http://www.nytimes.com/interactive/2014/12/07/opinion/sunday/exposures-detroit-by-air-alex-maclean.html", 
+    "resolved_title": "Detroit by Air", 
+    "is_index": "0", 
+    "time_updated": "1418051837", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Detroit by Air - NYTimes.com", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "229328535", 
@@ -71310,6 +71392,86 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "762204501", 
+      "src": "http://d4m4q009bin0j.cloudfront.net/wp-content/uploads/2014/11/germany-e1415219452709.png", 
+      "height": "495", 
+      "width": "700"
+    }, 
+    "excerpt": "When many Americans think of Germany, images of WWII soldiers and Hitler often come to mind. But what\u00a0many people don\u2019t realize is that Germany is the industrial powerhouse\u00a0of Europe, and is a leading manufacturer of goods for export to developing Asian nations.", 
+    "word_count": "1132", 
+    "images": {
+      "1": {
+        "src": "http://d4m4q009bin0j.cloudfront.net/wp-content/uploads/2014/11/germany-e1415219452709.png", 
+        "credit": "", 
+        "height": "495", 
+        "image_id": "1", 
+        "item_id": "762204501", 
+        "caption": "", 
+        "width": "700"
+      }, 
+      "3": {
+        "src": "http://2fm9xz2drvqemrbu.zippykid.netdna-cdn.com/wp-content/uploads/2012/07/business-meeting.png", 
+        "credit": "", 
+        "height": "354", 
+        "image_id": "3", 
+        "item_id": "762204501", 
+        "caption": "", 
+        "width": "639"
+      }, 
+      "2": {
+        "src": "http://d4m4q009bin0j.cloudfront.net/wp-content/uploads/2014/11/facebook-no-thanks.jpg", 
+        "credit": "", 
+        "height": "300", 
+        "image_id": "2", 
+        "item_id": "762204501", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "5": {
+        "src": "http://d4m4q009bin0j.cloudfront.net/wp-content/uploads/2014/11/Germany-landscape-germany-3923222-1024-768.jpg", 
+        "credit": "", 
+        "height": "450", 
+        "image_id": "5", 
+        "item_id": "762204501", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "4": {
+        "src": "http://theclubmom.com/wp-content/uploads/2014/01/mom-and-baby.jpg", 
+        "credit": "", 
+        "height": "389", 
+        "image_id": "4", 
+        "item_id": "762204501", 
+        "caption": "", 
+        "width": "585"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418050085", 
+    "status": "0", 
+    "tags": {
+      "work": {
+        "item_id": "762204501", 
+        "tag": "work"
+      }
+    }, 
+    "sort_id": 1505, 
+    "resolved_url": "http://knote.com/2014/11/10/why-germans-work-fewer-hours-but-produce-more-a-study-in-culture/", 
+    "item_id": "762204501", 
+    "resolved_id": "762204501", 
+    "given_url": "http://knote.com/2014/11/10/why-germans-work-fewer-hours-but-produce-more-a-study-in-culture/", 
+    "resolved_title": "Why Germans Work Fewer Hours But Produce More: A Study In Culture", 
+    "is_index": "0", 
+    "time_updated": "1418050093", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Why Germans Work Fewer Hours But Produce More: A Study In Culture | Knote", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "364476872", 
       "src": "http://www.3quarksdaily.com/.a/6a00d8341c562c53ef01910272b87e970c-800wi", 
       "height": "0", 
@@ -80787,7 +80949,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
