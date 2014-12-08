@@ -66835,7 +66835,7 @@
       "width": "0"
     }, 
     "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems:  A look back at how White House advisers have tried to fix the botched health care website.               WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
-    "word_count": "6338", 
+    "word_count": "891", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
@@ -67759,6 +67759,14 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "35", 
+    "authors": {
+      "2514234": {
+        "item_id": "103505590", 
+        "url": "", 
+        "author_id": "2514234", 
+        "name": "CSS"
+      }
+    }, 
     "given_title": "TileMill | Fast and beautiful maps", 
     "resolved_url": "https://www.mapbox.com/tilemill/", 
     "is_article": "1", 
