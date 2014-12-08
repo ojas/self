@@ -4993,7 +4993,7 @@
     "excerpt": "Connect with friends and theworld around you on Facebook.  See photos and updates  from friends in News Feed.  Share what's new  in your life on your Timeline.  Find more  of what you're looking for with Graph Search. Sign UpIt\u2019s free and always will be.", 
     "image": {
       "item_id": "69969", 
-      "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/t39.2365-6/851565_602269956474188_918638970_n.png", 
+      "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -5003,7 +5003,7 @@
     "word_count": "46", 
     "images": {
       "1": {
-        "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/t39.2365-6/851565_602269956474188_918638970_n.png", 
+        "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -5012,7 +5012,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/t39.2365-6/851558_160351450817973_1678868765_n.png", 
+        "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/851558_160351450817973_1678868765_n.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -46354,7 +46354,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "821", 
+    "word_count": "818", 
     "authors": {
       "2518228": {
         "item_id": "724783594", 
@@ -80760,7 +80760,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
