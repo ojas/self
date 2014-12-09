@@ -12422,37 +12422,37 @@
     "image": {
       "item_id": "235541300", 
       "src": "http://graphics8.nytimes.com/images/2011/10/05/books/review/NEWsinger/NEWsinger-articleLarge.jpg", 
-      "height": "348", 
-      "width": "468"
+      "height": "447", 
+      "width": "600"
     }, 
     "excerpt": "It is unusual for the subtitle of a book to undersell it, but Steven Pinker\u2019s \u201cBetter Angels of Our Nature\u201d tells us much more than why violence has declined.", 
-    "word_count": "2706", 
+    "word_count": "2711", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2011/10/05/books/review/NEWsinger/NEWsinger-articleLarge.jpg", 
         "credit": "Brian Rea", 
-        "height": "348", 
+        "height": "447", 
         "image_id": "1", 
         "item_id": "235541300", 
         "caption": "", 
-        "width": "468"
+        "width": "600"
       }, 
       "3": {
-        "src": "http://graphics8.nytimes.com/images/2011/10/09/books/review/Singer-3/Singer-3-articleInline.jpg", 
-        "credit": "Brian Rea", 
-        "height": "184", 
-        "image_id": "3", 
-        "item_id": "235541300", 
-        "caption": "", 
-        "width": "190"
-      }, 
-      "2": {
         "src": "http://graphics8.nytimes.com/images/2011/10/09/books/review/09SINGER4/09SINGER4-articleInline.jpg", 
         "credit": "Max S. Gerber", 
         "height": "238", 
-        "image_id": "2", 
+        "image_id": "3", 
         "item_id": "235541300", 
         "caption": "Steven Pinker                            ", 
+        "width": "190"
+      }, 
+      "2": {
+        "src": "http://graphics8.nytimes.com/images/2011/10/09/books/review/Singer-3/Singer-3-articleInline.jpg", 
+        "credit": "Brian Rea", 
+        "height": "184", 
+        "image_id": "2", 
+        "item_id": "235541300", 
+        "caption": "", 
         "width": "190"
       }
     }, 
