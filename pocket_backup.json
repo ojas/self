@@ -71190,7 +71190,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "543751829", 
-      "src": "http://www.nextbillion.net/pubs/images/PedroPhoto400.png", 
+      "src": "http://nextbillion.net/pubs/images/PedroPhoto400.png", 
       "height": "0", 
       "width": "302"
     }, 
@@ -71198,7 +71198,7 @@
     "word_count": "2015", 
     "images": {
       "1": {
-        "src": "http://www.nextbillion.net/pubs/images/PedroPhoto400.png", 
+        "src": "http://nextbillion.net/pubs/images/PedroPhoto400.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -71207,7 +71207,7 @@
         "width": "302"
       }, 
       "2": {
-        "src": "http://www.nextbillion.net/pubs/images/MattFlannery.png", 
+        "src": "http://nextbillion.net/pubs/images/MattFlannery.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -71220,12 +71220,12 @@
     "time_added": "1392104755", 
     "status": "0", 
     "sort_id": 981, 
-    "resolved_url": "http://www.nextbillion.net/blogpost.aspx?blogid=3726", 
+    "resolved_url": "http://nextbillion.net/blogpost.aspx?blogid=3726", 
     "authors": {
-      "16397636": {
+      "27216984": {
         "item_id": "543751829", 
-        "url": "http://www.nextbillion.net/authorposts.aspx?auid=785", 
-        "author_id": "16397636", 
+        "url": "http://nextbillion.net/authorposts.aspx?auid=785", 
+        "author_id": "27216984", 
         "name": "Hugh Sinclair"
       }
     }, 
