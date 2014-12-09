@@ -15033,31 +15033,17 @@
     "resolved_title": ""
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "784349924", 
-      "src": "http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=11580201&Page=&PluID=0&Pos=2118742597", 
-      "height": "600", 
-      "width": "300"
-    }, 
-    "excerpt": "Executives at America Online are learning what it means to be in business with Ted Turner, the company's vice chairman.  Despite having a knack for making insensitive, off-the-cuff remarks about religion and ethnicity, Mr.", 
-    "word_count": "458", 
-    "images": {
-      "1": {
-        "src": "http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=11580201&Page=&PluID=0&Pos=2118742597", 
-        "credit": "", 
-        "height": "600", 
-        "image_id": "1", 
-        "item_id": "784349924", 
-        "caption": "", 
-        "width": "300"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1417917073", 
     "status": "0", 
+    "is_index": "0", 
     "sort_id": 1502, 
-    "resolved_url": "http://www.nytimes.com/2001/03/19/business/mediatalk-aol-sees-a-different-side-of-time-warner.html", 
+    "time_updated": "1417917076", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Executives at America Online are learning what it means to be in business with Ted Turner, the company's vice chairman.  Despite having a knack for making insensitive, off-the-cuff remarks about religion and ethnicity, Mr.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "458", 
     "authors": {
       "2536707": {
         "item_id": "784349924", 
@@ -15066,17 +15052,14 @@
         "name": "JIM RUTENBERG"
       }
     }, 
+    "given_title": "", 
+    "resolved_url": "http://www.nytimes.com/2001/03/19/business/mediatalk-aol-sees-a-different-side-of-time-warner.html", 
+    "is_article": "1", 
     "item_id": "784349924", 
+    "time_added": "1417917073", 
     "resolved_id": "784349924", 
     "given_url": "http://www.nytimes.com/2001/03/19/business/mediatalk-aol-sees-a-different-side-of-time-warner.html", 
-    "resolved_title": "MediaTalk; AOL Sees a Different Side of Time Warner", 
-    "is_index": "0", 
-    "time_updated": "1417917076", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "", 
-    "has_image": "1"
+    "resolved_title": "MediaTalk; AOL Sees a Different Side of Time Warner"
   }, 
   {
     "status": "0", 
@@ -20248,7 +20231,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "355", 
+    "word_count": "356", 
     "given_title": "Comedians In Cars Getting Coffee by Jerry Seinfeld", 
     "resolved_url": "http://comediansincarsgettingcoffee.com/", 
     "is_article": "0", 
