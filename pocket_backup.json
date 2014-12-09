@@ -21753,6 +21753,115 @@
     }
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "779197565", 
+      "src": "http://spectrum.ieee.org/img/12MaxwellOpenerart-lrg2-1416244505795.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Should you wish to pay homage to the great physicist James Clerk Maxwell, you wouldn\u2019t lack for locales in which to do it. There\u2019s a memorial marker in London\u2019s Westminster Abbey, not far from Isaac Newton\u2019s grave.", 
+    "word_count": "3427", 
+    "images": {
+      "1": {
+        "src": "http://spectrum.ieee.org/img/12MaxwellOpenerart-lrg2-1416244505795.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "779197565", 
+        "caption": "Illustration: Lorenzo Petrantoni", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://spectrum.ieee.org/img/12MaxwellOerstedexperiment-b140px-1416845374715.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "779197565", 
+        "caption": "Illustration: Wikipedia", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://spectrum.ieee.org/img/four_golden_rules_w_margin2_300px-1416255903659.jpg", 
+        "credit": "the values of these constants in vacuum can be combined to give the speed of light", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "779197565", 
+        "caption": "Today, the relationship between electricity and magnetism, along with the wave nature of light and electromagnetic radiation in general, is encoded in the four \u201cMaxwell\u2019s equations\u201d shown above. The equations can be written in different ways. Here, J is the current density. E and B are the electric and magnetic fields, respectively. And there are two other fields, the displacement field D and the magnetic field H. These fields are related to E and B by constants that reflect the nature of the medium that the fields pass through", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://spectrum.ieee.org/img/maxwell_b140px-1416846269388.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "779197565", 
+        "caption": "Illustration: Universal History Archive/Getty Images", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://spectrum.ieee.org/img/12MaxwellInductionexperiment-b140px-1416846221689.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "779197565", 
+        "caption": "Illustration: Wikipedia", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://spectrum.ieee.org/img/oliver_heaviside_b140px-1417016873846.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "779197565", 
+        "caption": "Illustration: SSPL/Getty Images", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://spectrum.ieee.org/img/heinrich_hertz_b140px-1416846631753.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "779197565", 
+        "caption": "Illustration: Popperfoto/ Getty Images", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://spectrum.ieee.org/img/12MaxwellHertzExperimentclean620px-1416320419705.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "779197565", 
+        "caption": "Telecom", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418164317", 
+    "status": "0", 
+    "sort_id": 1517, 
+    "resolved_url": "http://spectrum.ieee.org/telecom/wireless/the-long-road-to-maxwells-equations", 
+    "authors": {
+      "22913066": {
+        "item_id": "779197565", 
+        "url": "", 
+        "author_id": "22913066", 
+        "name": "James C. Rautio"
+      }
+    }, 
+    "item_id": "779197565", 
+    "resolved_id": "779197565", 
+    "given_url": "http://spectrum.ieee.org/telecom/wireless/the-long-road-to-maxwells-equations", 
+    "resolved_title": "The Long Road to Maxwell\u2019s Equations", 
+    "is_index": "0", 
+    "time_updated": "1418164318", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 525, 
@@ -81223,7 +81332,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
@@ -81242,7 +81351,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
