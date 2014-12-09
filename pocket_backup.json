@@ -20856,6 +20856,52 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "756236095", 
+      "src": "http://i0.wp.com/riskology.co/wp-content/uploads/2014/10/lazy-sloth.jpg?resize=1024%2C682", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "It was the \u201croaring twenties\u201d in America, and business was good. Even for criminals.  In Chicago, Al Capone had slowly built himself an empire making upwards of $100M each year. He was a shrewd businessman.", 
+    "word_count": "993", 
+    "images": {
+      "1": {
+        "src": "http://i0.wp.com/riskology.co/wp-content/uploads/2014/10/lazy-sloth.jpg?resize=1024%2C682", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "756236095", 
+        "caption": "Image courtesy of Susana Fernandez", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418130952", 
+    "status": "0", 
+    "sort_id": 1516, 
+    "resolved_url": "http://riskology.co/lazy-expert-syndrome/", 
+    "authors": {
+      "109019": {
+        "item_id": "756236095", 
+        "url": "", 
+        "author_id": "109019", 
+        "name": "Tyler Tervooren"
+      }
+    }, 
+    "item_id": "756236095", 
+    "resolved_id": "756236095", 
+    "given_url": "http://riskology.co/lazy-expert-syndrome/", 
+    "resolved_title": "Lazy Expert Syndrome: What Brought Down Al Capone Can Keep You On Top Of Your Game", 
+    "is_index": "0", 
+    "time_updated": "1418130952", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Lazy Expert Syndrome: What Brought Down Al Capone Can Keep You On Top Of Yo", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "267564288", 
       "src": "http://whyevolutionistrue.files.wordpress.com/2012/12/picture-15.png?w=520&h=454", 
       "height": "454", 
