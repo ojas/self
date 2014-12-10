@@ -46727,7 +46727,7 @@
       "width": "480"
     }, 
     "excerpt": "During the 1940s and 50s, Hollywood entered a \u201cnoir\u201d period, producing riveting films based on hard-boiled fiction. These films were set in dark locations and shot in a black & white aesthetic that fit like a glove. Hardened men wore fedoras and forever smoked cigarettes.", 
-    "word_count": "1452", 
+    "word_count": "1454", 
     "images": {
       "1": {
         "src": "http://cdn4.openculture.com/wp-content/uploads/2011/02/filmnoirpage-e1319841938815.jpg", 
@@ -68738,11 +68738,11 @@
     "images": {
       "1": {
         "src": "http://www.newyorker.com/wp-content/uploads/2012/09/120924_r22590_g2048-1200.jpg", 
-        "credit": " A. J. Frackattack; PHOTOGRAPH: Gene J. Puskar/AP", 
+        "credit": "\n\t\t\t\t\t\t\t\t\t\t A. J. Frackattack; PHOTOGRAPH: Gene J. Puskar/AP\t\t\t\t\t\t\t\t\t", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "224664517", 
-        "caption": "Jerry Sandusky built a sophisticated grooming operation, outsourcing to child-care professionals the task of locating vulnerable children\u2014all the while playing the role of lovable goofball. Credit A. J. Frackattack; PHOTOGRAPH: Gene J. Puskar/AP", 
+        "caption": "Jerry Sandusky built a sophisticated grooming operation, outsourcing to child-care professionals the task of locating vulnerable children\u2014all the while playing the role of lovable goofball.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tCredit A. J. Frackattack; PHOTOGRAPH: Gene J. Puskar/AP\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t", 
         "width": "0"
       }
     }, 
@@ -68762,7 +68762,7 @@
     "item_id": "224664517", 
     "resolved_id": "223381383", 
     "given_url": "http://www.newyorker.com/arts/critics/atlarge/2012/09/24/120924crat_atlarge_gladwell?currentPage=all&utm_source=buffer&buffer_share=2b02c", 
-    "resolved_title": "In Plain View", 
+    "resolved_title": "The New Yorker", 
     "is_index": "0", 
     "time_updated": "1348061897", 
     "time_favorited": "0", 
@@ -71591,6 +71591,79 @@
         "tag": "to-watch"
       }
     }
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "10952761", 
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2K_-_Wheelchair.gif/220px-2K_-_Wheelchair.gif", 
+      "height": "184", 
+      "width": "220"
+    }, 
+    "excerpt": "Beginning in 1987, Bill Drummond (alias King Boy D) and Jimmy Cauty (alias Rockman Rock) released hip hop-inspired and sample-heavy records as The Justified Ancients of Mu Mu, and on one occasion (the British number one hit single \"Doctorin' the Tardis\") as The Timelords.", 
+    "word_count": "9806", 
+    "images": {
+      "1": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2K_-_Wheelchair.gif/220px-2K_-_Wheelchair.gif", 
+        "credit": "", 
+        "height": "184", 
+        "image_id": "1", 
+        "item_id": "10952761", 
+        "caption": "\n\nTwo \"old reprobates\": The KLF come out of retirement for 23 minutes to make an appearance as 2K.", 
+        "width": "220"
+      }, 
+      "3": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d4/K-Foundation_-_Fuck_the_Millenium_Advert.jpg/170px-K-Foundation_-_Fuck_the_Millenium_Advert.jpg", 
+        "credit": "", 
+        "height": "222", 
+        "image_id": "3", 
+        "item_id": "10952761", 
+        "caption": "\n\nA K2 Plant Hire advertisement, exhibiting the stark quality of Drummond and Cauty's press adverts, and the characteristic typeface", 
+        "width": "170"
+      }, 
+      "2": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Pyramid_Blaster.png/220px-Pyramid_Blaster.png", 
+        "credit": "", 
+        "height": "183", 
+        "image_id": "2", 
+        "item_id": "10952761", 
+        "caption": "\n\nThe Pyramid Blaster - the logo of KLF Communications", 
+        "width": "220"
+      }, 
+      "4": {
+        "src": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a9/KLF_-_J%26A_ice_cream_ad.jpg/170px-KLF_-_J%26A_ice_cream_ad.jpg", 
+        "credit": "", 
+        "height": "235", 
+        "image_id": "4", 
+        "item_id": "10952761", 
+        "caption": "\n\nKLF Communications' advert for \"Justified & Ancient\", with a quote from the lyrics: \"They travel the world in their ice cream van, they've voyaged to the bottom of time. They've been to the place where the Mu-Mu mate, and the children still cry 'Mine's a 99!'\"", 
+        "width": "170"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418223220", 
+    "status": "0", 
+    "sort_id": 1518, 
+    "resolved_url": "http://en.wikipedia.org/wiki/The_KLF", 
+    "authors": {
+      "7331684": {
+        "item_id": "10952761", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "item_id": "10952761", 
+    "resolved_id": "10952761", 
+    "given_url": "http://en.wikipedia.org/wiki/The_KLF#Retirement", 
+    "resolved_title": "The KLF", 
+    "is_index": "0", 
+    "time_updated": "1418223220", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The KLF - Wikipedia, the free encyclopedia", 
+    "has_image": "1"
   }, 
   {
     "videos": {
@@ -81332,7 +81405,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
