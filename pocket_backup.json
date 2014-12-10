@@ -65910,7 +65910,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "573025326", 
-      "src": "http://static01.nyt.com/images/2014/03/20/business/20state-web1/20state-web1-master675.jpg", 
+      "src": "http://static01.nyt.com/images/2014/03/20/business/20state-web1/20state-web1-articleLarge.jpg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -65918,7 +65918,7 @@
     "word_count": "1105", 
     "images": {
       "1": {
-        "src": "http://static01.nyt.com/images/2014/03/20/business/20state-web1/20state-web1-master675.jpg", 
+        "src": "http://static01.nyt.com/images/2014/03/20/business/20state-web1/20state-web1-articleLarge.jpg", 
         "credit": "\n            \n            Peter DaSilva for The New York Times        ", 
         "height": "0", 
         "image_id": "1", 
