@@ -64834,7 +64834,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "547859179", 
-      "src": "http://static01.nyt.com/images/2014/02/16/sunday-review/16GRAY/16GRAY-master495.jpg", 
+      "src": "http://static01.nyt.com/images/2014/02/16/sunday-review/16GRAY/16GRAY-blog427.jpg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -64842,7 +64842,7 @@
     "word_count": "808", 
     "images": {
       "1": {
-        "src": "http://static01.nyt.com/images/2014/02/16/sunday-review/16GRAY/16GRAY-master495.jpg", 
+        "src": "http://static01.nyt.com/images/2014/02/16/sunday-review/16GRAY/16GRAY-blog427.jpg", 
         "credit": "\n            \n            Olimpia Zagnoli        ", 
         "height": "0", 
         "image_id": "1", 
@@ -81405,7 +81405,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
