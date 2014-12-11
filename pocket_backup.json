@@ -15551,19 +15551,27 @@
     "time_updated": "1382325471", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "We help businesses, organizations and individuals from around the world bring their projects to life. We\u2019d love to help you too.", 
+    "excerpt": "It took no real science to convince us that Responsive websites would outperform their non-mobile-optimized brethren. We\u2019d made that leap of faith (more of a small step, really) long ago. Without objective data, though, it\u2019s hard to separate the facts from the closely held beliefs.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "27", 
+    "word_count": "531", 
+    "authors": {
+      "27319586": {
+        "item_id": "295986593", 
+        "url": "http://electricpulp.com/notes/author/electricpulp/", 
+        "author_id": "27319586", 
+        "name": "electricpulp"
+      }
+    }, 
     "given_title": "You like apples? | Electric Pulp.", 
     "resolved_url": "http://electricpulp.com/notes/you-like-apples/", 
-    "is_article": "0", 
+    "is_article": "1", 
     "item_id": "295986593", 
     "time_added": "1372689845", 
     "resolved_id": "295986593", 
     "given_url": "http://electricpulp.com/notes/you-like-apples/", 
-    "resolved_title": "You like apples?"
+    "resolved_title": "Responsive Web Design x eCommerce Case Study"
   }, 
   {
     "status": "0", 
@@ -67277,7 +67285,7 @@
       "width": "0"
     }, 
     "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems:  A look back at how White House advisers have tried to fix the botched health care website.               WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
-    "word_count": "891", 
+    "word_count": "6338", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
