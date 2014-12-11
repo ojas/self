@@ -27800,11 +27800,11 @@
     "images": {
       "1": {
         "src": "http://www.newyorker.com/wp-content/uploads/2010/11/101129_r20264_p886-872.jpg", 
-        "credit": " JOOST SWARTE", 
+        "credit": "\n\t\t\t\t\t\t\t\t\t\t JOOST SWARTE\t\t\t\t\t\t\t\t\t", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "56167662", 
-        "caption": "For years, the most profitable industry in America has been one that doesn\u2019t design, build, or sell a single tangible thing. Credit JOOST SWARTE", 
+        "caption": "For years, the most profitable industry in America has been one that doesn\u2019t design, build, or sell a single tangible thing.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tCredit JOOST SWARTE\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t", 
         "width": "0"
       }
     }, 
@@ -75269,6 +75269,20 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "1890", 
+    "authors": {
+      "8383767": {
+        "item_id": "744012637", 
+        "url": "", 
+        "author_id": "8383767", 
+        "name": "Tim Gruber"
+      }, 
+      "2783462": {
+        "item_id": "744012637", 
+        "url": "", 
+        "author_id": "2783462", 
+        "name": "JENN ACKERMAN"
+      }
+    }, 
     "given_title": "", 
     "resolved_url": "http://www.technologyreview.com/view/531911/isaac-asimov-mulls-how-do-people-get-new-ideas/", 
     "is_article": "1", 
@@ -81405,7 +81419,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
