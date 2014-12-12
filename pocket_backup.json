@@ -17181,6 +17181,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1524, 
+    "time_updated": "1418418087", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "NLTK Trainer exists to make training and evaluating NLTK objects as easy as possible.  You must have Python >=2.6 (but not 3.x) with argparse and NLTK 2.0 installed. NumPy, SciPy, and megam are recommended for training Maxent classifiers.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "97", 
+    "given_title": "japerk/nltk-trainer", 
+    "resolved_url": "https://github.com/japerk/nltk-trainer", 
+    "is_article": "1", 
+    "item_id": "74336036", 
+    "time_added": "1418418087", 
+    "resolved_id": "74336036", 
+    "given_url": "https://github.com/japerk/nltk-trainer", 
+    "resolved_title": "japerk/nltk-trainer \u00b7 GitHub"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 311, 
     "time_updated": "1363735773", 
     "time_favorited": "0", 
@@ -65504,7 +65525,7 @@
     "has_video": "0", 
     "word_count": "474", 
     "given_title": "", 
-    "resolved_url": "http://error404.000webhost.com/", 
+    "resolved_url": "http://error404.000webhost.com/?", 
     "is_article": "0", 
     "item_id": "774324143", 
     "time_added": "1416890020", 
@@ -67464,6 +67485,125 @@
     "resolved_id": "471017193", 
     "given_url": "https://moot.it/blog/technology/riotjs-the-1kb-mvp-framework.html", 
     "resolved_title": "Riot.js \u2014 The 1kb client-side MVP library"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1523, 
+    "time_updated": "1418418015", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "In this article, we'll cover how to use corpus readers and create custom corpora. At the same time, you'll learn how to use the existing corpus data that comes with NLTK.", 
+    "image": {
+      "item_id": "786012791", 
+      "src": "https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/article_featured_book/3609OS_MockupCover_Coockbook_0.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "8113", 
+    "images": {
+      "10": {
+        "src": "https://www.packtpub.com/sites/default/files/Article-Images/3609_03_09.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/article_featured_book/3609OS_MockupCover_Coockbook_0.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://www.packtpub.com/sites/default/files/Article-Images/3609_03_02.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://www.packtpub.com/sites/default/files/Article-Images/3609_03_01.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://www.packtpub.com/sites/default/files/Article-Images/3609_03_04.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://www.packtpub.com/sites/default/files/Article-Images/3609_03_03.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://www.packtpub.com/sites/default/files/Article-Images/3609_03_06.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://www.packtpub.com/sites/default/files/Article-Images/3609_03_05.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "https://www.packtpub.com/sites/default/files/Article-Images/3609_03_08.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://www.packtpub.com/sites/default/files/Article-Images/3609_03_07.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "786012791", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Python Text Processing with NLTK 2.0: Creating | Packt", 
+    "resolved_url": "https://www.packtpub.com/books/content/python-text-processing-nltk-20-creating-custom-corpora", 
+    "is_article": "1", 
+    "item_id": "786012791", 
+    "time_added": "1418418015", 
+    "resolved_id": "786012791", 
+    "given_url": "https://www.packtpub.com/books/content/python-text-processing-nltk-20-creating-custom-corpora", 
+    "resolved_title": "Python Text Processing with NLTK 2.0 Cookbook"
   }, 
   {
     "is_article": "1", 
@@ -81635,7 +81775,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
