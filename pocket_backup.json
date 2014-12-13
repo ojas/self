@@ -1341,6 +1341,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1527, 
+    "time_updated": "1418442068", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "15", 
+    "given_title": "1991 ZR-1 Corvette Low Mileage ZR1", 
+    "resolved_url": "https://dallas.craigslist.org/ndf/cto/4796022371.html", 
+    "is_article": "1", 
+    "item_id": "789641344", 
+    "time_added": "1418442067", 
+    "resolved_id": "789641344", 
+    "given_url": "https://dallas.craigslist.org/ndf/cto/4796022371.html", 
+    "resolved_title": "1991 ZR-1 Corvette Low Mileage ZR1 - $17500 (Lantana)"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 736, 
     "time_updated": "1379394349", 
     "time_favorited": "0", 
@@ -18812,22 +18833,22 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 1278, 
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           Okay, okay, okay! #Sasquatch2014", 
+    "excerpt": "", 
     "image": {
       "item_id": "124414", 
       "src": "https://abs.twimg.com/a/1418162186/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "245", 
+    "word_count": "0", 
     "images": {
       "1": {
         "src": "https://abs.twimg.com/a/1418162186/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
@@ -18846,7 +18867,7 @@
     "time_added": "1409239467", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": "Welcome to Twitter."
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -27669,6 +27690,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1528, 
+    "time_updated": "1418443004", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "'93 Acura Vigor GS...just in time for Christmas!", 
+    "resolved_url": "https://austin.craigslist.org/cto/4794554729.html", 
+    "is_article": "0", 
+    "item_id": "789647700", 
+    "time_added": "1418443002", 
+    "resolved_id": "789647700", 
+    "given_url": "https://austin.craigslist.org/cto/4794554729.html", 
+    "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 190, 
     "time_updated": "1355185122", 
     "time_favorited": "0", 
@@ -34522,6 +34564,27 @@
     "resolved_id": "604514820", 
     "given_url": "http://blog.tjll.net/ssh-kung-fu/", 
     "resolved_title": "SSH Kung fu"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1529, 
+    "time_updated": "1418443111", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "If you have any questions feel free to call or text me. thanks  Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "148", 
+    "given_title": "Rare 1988 supercharged toyota mr2", 
+    "resolved_url": "https://austin.craigslist.org/cto/4798376898.html", 
+    "is_article": "1", 
+    "item_id": "789648445", 
+    "time_added": "1418443110", 
+    "resolved_id": "789648445", 
+    "given_url": "https://austin.craigslist.org/cto/4798376898.html", 
+    "resolved_title": "Rare 1988 supercharged toyota mr2 - $4500 (kyle)"
   }, 
   {
     "videos": {
@@ -73662,6 +73725,14 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "1512", 
+    "authors": {
+      "25183315": {
+        "item_id": "253943655", 
+        "url": "http://scottberkun.com/author/scottberkun/", 
+        "author_id": "25183315", 
+        "name": "Scott"
+      }
+    }, 
     "given_title": "Inside Pixar\u2019s Leadership", 
     "resolved_url": "http://scottberkun.com/2010/inside-pixars-leadership/", 
     "is_article": "1", 
@@ -81775,7 +81846,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
