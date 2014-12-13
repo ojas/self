@@ -18045,6 +18045,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1525, 
+    "time_updated": "1418434923", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "This is Honda's technology flagship model with a potent 1200+ cc V-4 motor. The bike has linked anti-lock brakes so it stops on a dime and is very forgiving in panic stop events. It has a dual clutch transmission (DCT) which means that the clutch mechanism is completely automated.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "300", 
+    "given_title": "FS/FT Honda VFR1200 DCT (Automatic) ABS *updated*", 
+    "resolved_url": "https://austin.craigslist.org/mcy/4715032687.html", 
+    "is_article": "1", 
+    "item_id": "789586241", 
+    "time_added": "1418434921", 
+    "resolved_id": "789586241", 
+    "given_url": "https://austin.craigslist.org/mcy/4715032687.html", 
+    "resolved_title": "FS/FT Honda VFR1200 DCT (Automatic) ABS *updated* - $8500 (Lakeway)"
+  }, 
+  {
     "status": "1", 
     "is_index": "1", 
     "sort_id": 602, 
@@ -81775,7 +81796,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
@@ -83199,7 +83220,7 @@
       "width": "190"
     }, 
     "excerpt": "Why instilling admiration for hard work rather than raw talent is the key to fostering a well-adjusted mind.", 
-    "word_count": "1008", 
+    "word_count": "980", 
     "images": {
       "1": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/theexaminedlife.jpg", 
@@ -83245,7 +83266,7 @@
     "item_id": "364368755", 
     "resolved_id": "364309500", 
     "given_url": "http://www.brainpickings.org/index.php/2013/05/23/stephen-grosz-examined-life/?utm_source=feedly&utm_medium=feed&utm_campaign=Feed%3A+brainpickings%2Frss+(Brain+Pickings)", 
-    "resolved_title": "Presence, Not Praise : How To Cultivate a Healthy Relationship with Achievement", 
+    "resolved_title": "Presence, Not Praise: How To Cultivate a Healthy Relationship with Achievement", 
     "is_index": "0", 
     "time_updated": "1384305982", 
     "time_favorited": "0", 
