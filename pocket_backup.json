@@ -68255,22 +68255,13 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "187", 
+    "word_count": "191", 
     "images": {
       "1": {
         "src": "http://papaparse.com/resources/images/smartystreets.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
-        "item_id": "514516814", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://papaparse.com/resources/images/maxcdn.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
         "item_id": "514516814", 
         "caption": "", 
         "width": "0"
@@ -72282,6 +72273,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1526, 
+    "time_updated": "1418439263", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "15", 
+    "given_title": "1989 Honda NT650 GT Hawk", 
+    "resolved_url": "https://portland.craigslist.org/clk/mcy/4782962264.html", 
+    "is_article": "1", 
+    "item_id": "789619376", 
+    "time_added": "1418439261", 
+    "resolved_id": "789619376", 
+    "given_url": "https://portland.craigslist.org/clk/mcy/4782962264.html", 
+    "resolved_title": "1989 Honda NT650 GT Hawk - $4495 (Clark County)"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "364476872", 
@@ -75627,20 +75639,6 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "1890", 
-    "authors": {
-      "8383767": {
-        "item_id": "744012637", 
-        "url": "", 
-        "author_id": "8383767", 
-        "name": "Tim Gruber"
-      }, 
-      "2783462": {
-        "item_id": "744012637", 
-        "url": "", 
-        "author_id": "2783462", 
-        "name": "JENN ACKERMAN"
-      }
-    }, 
     "given_title": "", 
     "resolved_url": "http://www.technologyreview.com/view/531911/isaac-asimov-mulls-how-do-people-get-new-ideas/", 
     "is_article": "1", 
@@ -81777,7 +81775,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
@@ -81796,7 +81794,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
