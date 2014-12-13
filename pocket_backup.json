@@ -18833,22 +18833,22 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1278, 
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           Okay, okay, okay! #Sasquatch2014", 
     "image": {
       "item_id": "124414", 
       "src": "https://abs.twimg.com/a/1418162186/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "0", 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "245", 
     "images": {
       "1": {
         "src": "https://abs.twimg.com/a/1418162186/img/t1/front_page/exp_wc2014_gen_laurenlemon.jpg", 
@@ -18867,7 +18867,7 @@
     "time_added": "1409239467", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": ""
+    "resolved_title": "Welcome to Twitter."
   }, 
   {
     "status": "0", 
