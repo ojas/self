@@ -24662,6 +24662,62 @@
     "resolved_title": "The Browsable API"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1530, 
+    "time_updated": "1418519427", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Gaze at Alexander Von Humboldt\u2019s 1814 self-portrait and you peer into the eyes of a man who sought to see and understand everything.", 
+    "image": {
+      "item_id": "787234848", 
+      "src": "https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/66787/area14mp/image-20141209-32140-4fmqx6.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "807", 
+    "images": {
+      "1": {
+        "src": "https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/66787/area14mp/image-20141209-32140-4fmqx6.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "787234848", 
+        "caption": "Humboldt and colleague Aim\u00e9 Bonpland in front of the Chimborazo volcano in Ecuador.", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/66788/area14mp/image-20141209-32146-6zupsp.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "787234848", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/66786/area14mp/image-20141209-32171-s47qus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "787234848", 
+        "caption": "Humboldt a few years before his death.", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://theconversation.com/the-most-influential-scientist-you-may-never-have-heard-of-35285", 
+    "is_article": "1", 
+    "item_id": "787234848", 
+    "time_added": "1418519426", 
+    "resolved_id": "787234848", 
+    "given_url": "http://theconversation.com/the-most-influential-scientist-you-may-never-have-heard-of-35285", 
+    "resolved_title": "The most influential scientist you may never have heard of"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "474439845", 
@@ -72897,6 +72953,61 @@
         "tag": "api"
       }
     }
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "789460699", 
+      "src": "http://eattoperform.com/wp-content/uploads/2014/12/14157976_m.jpg", 
+      "height": "373", 
+      "width": "560"
+    }, 
+    "excerpt": "Fat loss eludes people for many different reasons but there are almost always common threads. \u00a0This short list goes over some of the most common reasons why people stall or quit on their way to achieving their fat loss goals.", 
+    "word_count": "1176", 
+    "images": {
+      "1": {
+        "src": "http://eattoperform.com/wp-content/uploads/2014/12/14157976_m.jpg", 
+        "credit": "", 
+        "height": "373", 
+        "image_id": "1", 
+        "item_id": "789460699", 
+        "caption": "", 
+        "width": "560"
+      }, 
+      "2": {
+        "src": "https://lh4.ggpht.com/gjo3TqKBPEgf_-23ITzOIPePP1TEOxEkLSBDRQKQIAKx9Ht55AVgzbDofoYhyZfmLg5v-qDgnpckn8-7yKTz=s0", 
+        "credit": "", 
+        "height": "149", 
+        "image_id": "2", 
+        "item_id": "789460699", 
+        "caption": "", 
+        "width": "403"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418519456", 
+    "status": "0", 
+    "sort_id": 1531, 
+    "resolved_url": "http://eattoperform.com/2014/12/12/the-top-five-reasons-you-arent-losing-body-fat/", 
+    "authors": {
+      "22997834": {
+        "item_id": "789460699", 
+        "url": "http://eattoperform.com/author/etp-james/", 
+        "author_id": "22997834", 
+        "name": "Eat To Perform"
+      }
+    }, 
+    "item_id": "789460699", 
+    "resolved_id": "789460699", 
+    "given_url": "http://eattoperform.com/2014/12/12/the-top-five-reasons-you-arent-losing-body-fat/", 
+    "resolved_title": "\u201cFive Reasons You Aren\u2019t Losing Body Fat\u201d by James Barnum", 
+    "is_index": "0", 
+    "time_updated": "1418519456", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
