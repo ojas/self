@@ -20837,6 +20837,27 @@
     "resolved_title": "Timeline Photos"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1533, 
+    "time_updated": "1418659473", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Introduction to Data Analysis8.1. Linear correlation # Load packages. packages <- c(\"arm\", \"car\", \"countrycode\", \"downloader\", \"ggplot2\") packages <- lapply(packages, FUN = function(x) { if (!require(x, character.only = TRUE)) { install.packages(x) library(x, character.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1113", 
+    "given_title": "8.1. Linear correlation", 
+    "resolved_url": "http://f.briatte.org/teaching/ida/081_correlation.html", 
+    "is_article": "0", 
+    "item_id": "791468898", 
+    "time_added": "1418659467", 
+    "resolved_id": "791468898", 
+    "given_url": "http://f.briatte.org/teaching/ida/081_correlation.html", 
+    "resolved_title": "8.1. Linear correlation"
+  }, 
+  {
     "status": "1", 
     "is_index": "0", 
     "sort_id": 1169, 
