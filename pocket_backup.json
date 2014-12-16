@@ -10678,6 +10678,15 @@
         "item_id": "528571482", 
         "caption": "Marc Andreessen, a co-founder of the venture capital firm Andreessen Horowitz.", 
         "width": "0"
+      }, 
+      "2": {
+        "src": "http://graphics8.nytimes.com/images/2013/11/20/business/video-gillen-bitcoins/video-gillen-bitcoins-videoLarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "528571482", 
+        "caption": "Video | Bitcoin Believers While regulators debate the pros and cons of bitcoins, this volatile digital currency inspires the question: What makes money, money?", 
+        "width": "0"
       }
     }, 
     "has_video": "0", 
@@ -56345,19 +56354,19 @@
     "time_updated": "1415287333", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "I joined Stripe as an engineer in 2010. I began by working on the backend infrastructure: designing the server architecture, creating our credit card vault, and producing internal abstractions to make people\u2019s jobs easier.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "2667", 
     "given_title": "#define CTO", 
-    "resolved_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "is_article": "0", 
+    "resolved_url": "http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
+    "is_article": "1", 
     "item_id": "750053681", 
     "time_added": "1414587629", 
     "resolved_id": "750053681", 
     "given_url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe", 
-    "resolved_title": ""
+    "resolved_title": "#define CTO"
   }, 
   {
     "status": "0", 
@@ -68202,7 +68211,7 @@
       "width": "0"
     }, 
     "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems:  A look back at how White House advisers have tried to fix the botched health care website.               WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
-    "word_count": "6338", 
+    "word_count": "891", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
@@ -82369,7 +82378,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
