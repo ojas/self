@@ -84599,6 +84599,160 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "781458506", 
+      "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*cKIGp7KiRwupB1VnUeakHw.jpeg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Can you remember what you were doing, exactly 1,000 days ago?  Take a look at the grid of little squares above.", 
+    "word_count": "4581", 
+    "images": {
+      "11": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*u-kb8Iw4eC8j4SZpfBUz9Q.png", 
+        "credit": "credit: Dorothy Sanders, Maptia", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "781458506", 
+        "caption": "Views from near our current HQ in LOCARNO, SWITZERLAND", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*KbqvILwY0mO-deXdHKpA9Q.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "781458506", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*kgn7eoWai1f4t3OTklRLQw.jpeg", 
+        "credit": "credit: Dorothy Sanders, Maptia", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "781458506", 
+        "caption": "An atmospheric and rusty-coloured sunset halfway up MT. ACONCAGUA", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*D1tSaX1_hG0QxX00MRfQGQ.jpeg", 
+        "credit": "credit: Daniel Perlaky, Maptia", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "781458506", 
+        "caption": "\u2018A new friend\u2019 in Durbar Square, KATHMANDU, NEPAL", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*cKIGp7KiRwupB1VnUeakHw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "781458506", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*kzl58Ooy4p7yKFSRctVPTQ.jpeg", 
+        "credit": "credit: Flickr CC 2.0 alobos Life", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "781458506", 
+        "caption": "Sunset over the skyline in SANTIAGO, CHILE", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*b_625ao8JYXKXb4ngYXQ7g.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "781458506", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*QKNHD-pH2YMMIaJPTQNunQ.jpeg", 
+        "credit": "credit: Flickr CC 2.0 Aaron Sorrell", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "781458506", 
+        "caption": "View from the Space Needle in SEATTLE, USA", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*RzfFRN6V-bONZFEM-O4SqQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "781458506", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*4KbMvmQdhNQRvqtwdCTSFQ.png", 
+        "credit": "credit: Dorothy Sanders, Maptia", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "781458506", 
+        "caption": "Inside the Maptia HQ in TAGHAZOUT, MOROCCO", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*cpdAus84LcgHgEf7yNiTrw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "781458506", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*cfhELp3_dl65DnRveNDrcw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "781458506", 
+        "caption": "Center: the first photograph of the Maptia Manifesto in TAGHAZOUT, MOROCCO. Surrounding: just a few of the Manifestos signed by our community from all over the world.", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*SRNUCFRDNc1-woTas7lS8A.jpeg", 
+        "credit": "credit: Dorothy Sanders, Maptia", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "781458506", 
+        "caption": "Our HQ in TAGHAZOUT, MOROCCO was the white building on the right of the photo", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418740315", 
+    "status": "0", 
+    "sort_id": 1538, 
+    "resolved_url": "https://medium.com/founder-stories/ten-things-we-believe-2c85c462d508", 
+    "authors": {
+      "10023176": {
+        "item_id": "781458506", 
+        "url": "https://medium.com/@Maptia", 
+        "author_id": "10023176", 
+        "name": "Maptia"
+      }
+    }, 
+    "item_id": "781458506", 
+    "resolved_id": "781458506", 
+    "given_url": "https://medium.com/founder-stories/ten-things-we-believe-2c85c462d508", 
+    "resolved_title": "Ten Things We Believe \u2014 Founder Stories \u2014 Medium", 
+    "is_index": "0", 
+    "time_updated": "1418740315", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Ten Things We Believe \u2014 Founder Stories \u2014 Medium", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "589541240", 
