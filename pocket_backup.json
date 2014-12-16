@@ -23518,6 +23518,52 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "563094371", 
+      "src": "https://www.udemy.com/blog/wp-content/uploads/2014/03/shutterstock_146290394-300x168.jpg", 
+      "height": "168", 
+      "width": "300"
+    }, 
+    "excerpt": "A business proposal is the most important part of your entire venture. Without this, no one is going to take your idea seriously which can mean you won\u2019t receive funding. Make sure you do thorough research on every facet of your business idea so there are no \u201cuh-ohs\u201d down the road.", 
+    "word_count": "2049", 
+    "images": {
+      "1": {
+        "src": "https://www.udemy.com/blog/wp-content/uploads/2014/03/shutterstock_146290394-300x168.jpg", 
+        "credit": "", 
+        "height": "168", 
+        "image_id": "1", 
+        "item_id": "563094371", 
+        "caption": "", 
+        "width": "300"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418751109", 
+    "status": "0", 
+    "sort_id": 1539, 
+    "resolved_url": "https://www.udemy.com/blog/business-proposal-example/", 
+    "authors": {
+      "13637798": {
+        "item_id": "563094371", 
+        "url": "https://www.udemy.com/blog/author/brittanisponaugle/", 
+        "author_id": "13637798", 
+        "name": "Brittani Sponaugle"
+      }
+    }, 
+    "item_id": "563094371", 
+    "resolved_id": "563094371", 
+    "given_url": "https://www.udemy.com/blog/business-proposal-example/", 
+    "resolved_title": "A Business Proposal Example, Simplified", 
+    "is_index": "0", 
+    "time_updated": "1418751109", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "A Business Proposal Example, Simplified", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "231405747", 
       "src": "http://blog.signalnoise.com/wp-content/uploads/2012/10/i_whalen_trans1.jpg", 
       "height": "780", 
@@ -32280,7 +32326,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1535, 
-    "time_updated": "1418662319", 
+    "time_updated": "1418750386", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Software engineering proposal is a document that a software developer submits to a business customer for acceptance. The proposal describes the problem to be solved and explains the resulting benefits to the customer.  The key for a great proposal is to invent a great idea.", 
