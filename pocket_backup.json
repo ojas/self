@@ -66107,6 +66107,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1545, 
+    "time_updated": "1418855384", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Been There, Done That. A PivotDesk Series We\u2019re sifting through the BS to bring you advice that really matters when you\u2019re in the trenches of building a business.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "37", 
+    "given_title": "Austin Office Space | Work with OP3Nvoice in Holly | PivotDesk", 
+    "resolved_url": "https://www.pivotdesk.com/listings/the-shed#i.xtudmayihfh2pz", 
+    "is_article": "1", 
+    "item_id": "793580125", 
+    "time_added": "1418855382", 
+    "resolved_id": "793580125", 
+    "given_url": "https://www.pivotdesk.com/listings/the-shed#i.xtudmayihfh2pz", 
+    "resolved_title": "OP3Nvoice"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1502, 
     "time_updated": "1417917353", 
     "time_favorited": "0", 
@@ -66883,31 +66904,17 @@
     "given_url": "https://www.google.com/search?q=it+not+the+end+of+the+world+it+just+the+start+of+me+and+you+lyrics&oq=it%27s+not+the+end+of+the+world+its+just+the+start&aqs=chrome.2.69i57j0l2.8446j0j7&sourceid=chrome&espv=210&es_sm=119&ie=UTF-8"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "185909912", 
-      "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "If you live in America in the 21st century you've probably had to listen to a lot of people tell you how busy they are. It's become the default response when you ask anyone how they're doing: \"Busy!\" \"So busy.\" \"Crazy busy.\" It is, pretty obviously, a boast disguised as a complaint.", 
-    "word_count": "1664", 
-    "images": {
-      "1": {
-        "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
-        "credit": "Brecht Vandenbroucke", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "185909912", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1348062671", 
     "status": "1", 
+    "is_index": "1", 
     "sort_id": 44, 
-    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
+    "time_updated": "1348063457", 
+    "time_favorited": "0", 
+    "time_read": "1348063457", 
+    "excerpt": "If you live in America in the 21st century you've probably had to listen to a lot of people tell you how busy they are. It's become the default response when you ask anyone how they're doing: \"Busy!\" \"So busy.\" \"Crazy busy.\" It is, pretty obviously, a boast disguised as a complaint.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1664", 
     "authors": {
       "185472": {
         "item_id": "185909912", 
@@ -66916,17 +66923,14 @@
         "name": "TIM KREIDER"
       }
     }, 
+    "given_title": "The 'Busy' Trap - NYTimes.com", 
+    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
+    "is_article": "1", 
     "item_id": "185909912", 
+    "time_added": "1348062671", 
     "resolved_id": "185694949", 
     "given_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/?smid=fb-share", 
-    "resolved_title": "The 'Busy' Trap", 
-    "is_index": "0", 
-    "time_updated": "1348063457", 
-    "time_favorited": "0", 
-    "time_read": "1348063457", 
-    "favorite": "0", 
-    "given_title": "The 'Busy' Trap - NYTimes.com", 
-    "has_image": "1"
+    "resolved_title": "The 'Busy' Trap"
   }, 
   {
     "status": "0", 
@@ -79919,7 +79923,7 @@
       "width": "600"
     }, 
     "excerpt": "Aluminum ingots waiting to be shipped from a processor. Financial institutions like Goldman Sachs have used industry pricing regulations to earn millions of dollars each year.\u00a0    MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "5352", 
+    "word_count": "919", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -79946,42 +79950,6 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
-        "width": "190"
-      }, 
-      "5": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
-        "credit": "Tyler Clay", 
-        "height": "275", 
-        "image_id": "5", 
-        "item_id": "401365344", 
-        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
-        "width": "190"
-      }, 
-      "4": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
-        "credit": "Fabrizio Costantini for The New York Times", 
-        "height": "127", 
-        "image_id": "4", 
-        "item_id": "401365344", 
-        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
-        "width": "190"
-      }, 
-      "7": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "7", 
-        "item_id": "401365344", 
-        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
-        "width": "190"
-      }, 
-      "6": {
-        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
-        "credit": "David Walter Banks for The New York Times", 
-        "height": "127", 
-        "image_id": "6", 
-        "item_id": "401365344", 
-        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
@@ -82734,7 +82702,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
