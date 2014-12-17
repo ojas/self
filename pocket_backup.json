@@ -2372,6 +2372,64 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "//player.vimeo.com/video/92223291", 
+        "vid": "92223291", 
+        "video_id": "1", 
+        "height": "220", 
+        "width": "290", 
+        "item_id": "793494004", 
+        "type": "4"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "793494004", 
+      "src": "http://www.datamotion.com/wp-content/uploads/2014/01/EHNAC-Logo_A_DTAAP_HISP1-193x300.jpg", 
+      "height": "188", 
+      "width": "121"
+    }, 
+    "excerpt": "DataMotion\u2122 Direct (Direct Secure Messaging) enables PHI transfer, including secure messaging for healthcare providers, patients, business associates and clinical systems to securely send and receive in a manner that meets MU2 requirements and conforms with HIPAA regulations.", 
+    "word_count": "409", 
+    "images": {
+      "1": {
+        "src": "http://www.datamotion.com/wp-content/uploads/2014/01/EHNAC-Logo_A_DTAAP_HISP1-193x300.jpg", 
+        "credit": "", 
+        "height": "188", 
+        "image_id": "1", 
+        "item_id": "793494004", 
+        "caption": "", 
+        "width": "121"
+      }, 
+      "2": {
+        "src": "http://www.datamotion.com/wp-content/uploads/2014/02/direct-flow-1024x210.png", 
+        "credit": "", 
+        "height": "126", 
+        "image_id": "2", 
+        "item_id": "793494004", 
+        "caption": "", 
+        "width": "614"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1418847959", 
+    "status": "0", 
+    "sort_id": 1544, 
+    "resolved_url": "http://www.datamotion.com/products/direct/datamotion-direct/", 
+    "item_id": "793494004", 
+    "resolved_id": "793494004", 
+    "given_url": "http://www.datamotion.com/products/direct/datamotion-direct/", 
+    "resolved_title": "DataMotion Direct Messaging Healthcare Solution", 
+    "is_index": "0", 
+    "time_updated": "1418847961", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 545, 
