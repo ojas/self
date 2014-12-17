@@ -59877,20 +59877,76 @@
     "sort_id": 649, 
     "time_updated": "1374196701", 
     "time_favorited": "0", 
+    "videos": {
+      "1": {
+        "src": "/static/images/terminals_web.webm", 
+        "vid": "", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "304390269", 
+        "type": "5"
+      }, 
+      "3": {
+        "src": "/static/images/multi_cursor_subl.webm", 
+        "vid": "", 
+        "video_id": "3", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "304390269", 
+        "type": "5"
+      }, 
+      "2": {
+        "src": "/static/images/terminals_term.webm", 
+        "vid": "", 
+        "video_id": "2", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "304390269", 
+        "type": "5"
+      }, 
+      "5": {
+        "src": "/static/images/multi_cursor_emacs.webm", 
+        "vid": "", 
+        "video_id": "5", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "304390269", 
+        "type": "5"
+      }, 
+      "4": {
+        "src": "/static/images/multi_cursor_idea.webm", 
+        "vid": "", 
+        "video_id": "4", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "304390269", 
+        "type": "5"
+      }, 
+      "6": {
+        "src": "/static/images/multi_cursor_vim.webm", 
+        "vid": "", 
+        "video_id": "6", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "304390269", 
+        "type": "5"
+      }
+    }, 
     "time_read": "0", 
-    "excerpt": "Floobits lets you use native text editors to collaborate on code in real-time.  We currently support Sublime Text, Vim, and Emacs. We also have a browser-based editor.", 
+    "excerpt": "Floobits lets you code like you're in the same room. Use your editor \u201cI tell everyone I know about Floobits. It's freaking amazing.\u201d Matt DeBoard, Courseload  \u201cFloobits works pretty well most of the time.", 
     "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "120", 
+    "has_video": "1", 
+    "word_count": "130", 
     "given_title": "Floobits: Cross-editor real-time collaboration", 
-    "resolved_url": "https://floobits.com", 
+    "resolved_url": "https://floobits.com/", 
     "is_article": "0", 
     "item_id": "304390269", 
     "time_added": "1374196701", 
     "resolved_id": "304390269", 
     "given_url": "https://floobits.com/", 
-    "resolved_title": "Floobits: Cross-editor real-time collaboration"
+    "resolved_title": "Floobits"
   }, 
   {
     "status": "0", 
@@ -82546,7 +82602,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
