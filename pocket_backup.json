@@ -18177,6 +18177,61 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "792336876", 
+      "src": "http://s3-ec.buzzfed.com/static/2014-12/15/17/enhanced/webdr07/enhanced-11294-1418683249-10.jpg", 
+      "height": "364", 
+      "width": "625"
+    }, 
+    "excerpt": "The video announcement for the fourth installment of the Buku Music + Art Project sees a man and woman running through the streets of New Orleans, where the festival is held.", 
+    "word_count": "369", 
+    "images": {
+      "1": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-12/15/17/enhanced/webdr07/enhanced-11294-1418683249-10.jpg", 
+        "credit": "", 
+        "height": "364", 
+        "image_id": "1", 
+        "item_id": "792336876", 
+        "caption": "", 
+        "width": "625"
+      }, 
+      "2": {
+        "src": "http://s3-ec.buzzfed.com/static/2014-12/16/9/enhanced/webdr03/anigif_enhanced-11342-1418740302-23_preview.gif", 
+        "credit": "", 
+        "height": "385", 
+        "image_id": "2", 
+        "item_id": "792336876", 
+        "caption": "", 
+        "width": "625"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418835283", 
+    "status": "0", 
+    "sort_id": 1543, 
+    "resolved_url": "http://www.buzzfeed.com/brianmcmanus/first-look-heres-the-lineup-of-this-years-buku-music-festiva", 
+    "authors": {
+      "27092750": {
+        "item_id": "792336876", 
+        "url": "http://www.buzzfeed.com/brianmcmanus", 
+        "author_id": "27092750", 
+        "name": "Brian McManus"
+      }
+    }, 
+    "item_id": "792336876", 
+    "resolved_id": "792336876", 
+    "given_url": "http://www.buzzfeed.com/brianmcmanus/first-look-heres-the-lineup-of-this-years-buku-music-festiva#.arM94pE0e", 
+    "resolved_title": "First Look: Here\u2019s The Lineup Of 2015\u2019s Buku Music Festival", 
+    "is_index": "0", 
+    "time_updated": "1418835283", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "First Look: Here's The Lineup Of 2015's Buku Music Festival", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1525, 
@@ -71249,19 +71304,19 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "63", 
+    "word_count": "68", 
     "authors": {
-      "27123045": {
+      "27547102": {
         "item_id": "5776796", 
-        "url": "http://instantwatcher.com/people/128416", 
-        "author_id": "27123045", 
-        "name": "Rory Kinnear"
+        "url": "http://instantwatcher.com/people/141479", 
+        "author_id": "27547102", 
+        "name": "Jonah Hill"
       }, 
-      "27123046": {
+      "27547101": {
         "item_id": "5776796", 
-        "url": "http://instantwatcher.com/people/130968", 
-        "author_id": "27123046", 
-        "name": "Lindsay Duncan"
+        "url": "http://instantwatcher.com/people/115617", 
+        "author_id": "27547101", 
+        "name": "Leonardo DiCaprio"
       }
     }, 
     "given_title": "instantwatcher.com - Streaming Movies and TV to watch instantly on Netflix", 
