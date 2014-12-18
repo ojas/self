@@ -3269,6 +3269,115 @@
     "resolved_title": "The 5-second VGA Dummy Plug"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "793379867", 
+      "src": "http://www.theawl.com/wp-content/uploads/2014/12/lolsure.jpg", 
+      "height": "1220", 
+      "width": "1220"
+    }, 
+    "excerpt": "In the first chapter of his book, After Photography, digital photography theorist Fred Ritchin explains the central selling point of digital over analog: Digital is based on an architecture of infinitely repeatable abstractions in which the original and its copy are the same; analog ages and rots,", 
+    "word_count": "1156", 
+    "images": {
+      "1": {
+        "src": "http://www.theawl.com/wp-content/uploads/2014/12/lolsure.jpg", 
+        "credit": "", 
+        "height": "1220", 
+        "image_id": "1", 
+        "item_id": "793379867", 
+        "caption": "", 
+        "width": "1220"
+      }, 
+      "3": {
+        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.02.57-AM.png", 
+        "credit": "", 
+        "height": "425", 
+        "image_id": "3", 
+        "item_id": "793379867", 
+        "caption": "", 
+        "width": "476"
+      }, 
+      "2": {
+        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.02.24-AM.png", 
+        "credit": "", 
+        "height": "511", 
+        "image_id": "2", 
+        "item_id": "793379867", 
+        "caption": "", 
+        "width": "512"
+      }, 
+      "5": {
+        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.00.09-AM.png", 
+        "credit": "", 
+        "height": "610", 
+        "image_id": "5", 
+        "item_id": "793379867", 
+        "caption": "", 
+        "width": "607"
+      }, 
+      "4": {
+        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.20.13-PM.png", 
+        "credit": "", 
+        "height": "425", 
+        "image_id": "4", 
+        "item_id": "793379867", 
+        "caption": "", 
+        "width": "428"
+      }, 
+      "7": {
+        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.02.56-PM.jpg", 
+        "credit": "", 
+        "height": "604", 
+        "image_id": "7", 
+        "item_id": "793379867", 
+        "caption": "", 
+        "width": "1216"
+      }, 
+      "6": {
+        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.50.41-AM.png", 
+        "credit": "", 
+        "height": "424", 
+        "image_id": "6", 
+        "item_id": "793379867", 
+        "caption": "", 
+        "width": "433"
+      }, 
+      "8": {
+        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.52.00-AM.png", 
+        "credit": "", 
+        "height": "606", 
+        "image_id": "8", 
+        "item_id": "793379867", 
+        "caption": "", 
+        "width": "608"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1418867328", 
+    "status": "0", 
+    "sort_id": 1546, 
+    "resolved_url": "http://www.theawl.com/2014/12/the-triumphant-rise-of-the-shitpic", 
+    "authors": {
+      "27547339": {
+        "item_id": "793379867", 
+        "url": "http://www.theawl.com/author/brianfeldman", 
+        "author_id": "27547339", 
+        "name": "Brian Feldman"
+      }
+    }, 
+    "item_id": "793379867", 
+    "resolved_id": "793379867", 
+    "given_url": "http://www.theawl.com/2014/12/the-triumphant-rise-of-the-shitpic", 
+    "resolved_title": "The Triumphant Rise of the Shitpic", 
+    "is_index": "0", 
+    "time_updated": "1418867328", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The Triumphant Rise of the Shitpic - The Awl", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "670952601", 
