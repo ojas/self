@@ -888,7 +888,7 @@
       }
     }, 
     "given_title": "Apache Kafka", 
-    "resolved_url": "http://kafka.apache.org/documentation.html", 
+    "resolved_url": "http://kafka.apache.org/documentation.html#design", 
     "is_article": "1", 
     "item_id": "418064385", 
     "time_added": "1394727555", 
@@ -68642,7 +68642,7 @@
       "width": "0"
     }, 
     "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems:  A look back at how White House advisers have tried to fix the botched health care website.               WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
-    "word_count": "891", 
+    "word_count": "6338", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
@@ -71492,7 +71492,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "63", 
+    "word_count": "61", 
     "authors": {
       "27547102": {
         "item_id": "5776796", 
