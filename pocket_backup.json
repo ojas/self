@@ -26410,18 +26410,27 @@
     "is_article": "1", 
     "image": {
       "item_id": "420518909", 
-      "src": "https://d262ilb51hltx0.cloudfront.net/max/800/0*1voBZt5oN00AsWTq.gif", 
+      "src": "https://d262ilb51hltx0.cloudfront.net/fit/t/1200/504/0*eHWZiKU0f9DwnvB4.jpeg", 
       "height": "0", 
       "width": "0"
     }, 
     "excerpt": "Recently, someone asked me to critique some new mobile work they\u2019d done. The app looked pretty great overall, but some of the design was following the lead that iOS7 created precedent with. They were designing to \u201cfit in\u201d on the platform.", 
-    "word_count": "340", 
+    "word_count": "354", 
     "images": {
       "1": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/0*1voBZt5oN00AsWTq.gif", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/fit/t/1200/504/0*eHWZiKU0f9DwnvB4.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
+        "item_id": "420518909", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/0*1voBZt5oN00AsWTq.gif", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
         "item_id": "420518909", 
         "caption": "Red indicates work.", 
         "width": "0"
@@ -26447,10 +26456,10 @@
     "sort_id": 742, 
     "resolved_url": "https://medium.com/design-ux/a93647e5a44b", 
     "authors": {
-      "6943585": {
+      "10994583": {
         "item_id": "420518909", 
-        "url": "", 
-        "author_id": "6943585", 
+        "url": "https://medium.com/@aub", 
+        "author_id": "10994583", 
         "name": "Aubrey Johnson"
       }
     }, 
@@ -39084,6 +39093,134 @@
     "resolved_id": "337962656", 
     "given_url": "http://lifeofvi.blogspot.com/2013/04/not-knowing.html", 
     "resolved_title": "Not knowing"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1547, 
+    "time_updated": "1418932616", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "France was the home of modernism, at least when it comes to the seminal architecture and urbanism of Le Corbusier. While architecture simultaneously developed elsewhere, it was Paris's influential art and literature scene that made France stand out among the rest.", 
+    "image": {
+      "item_id": "794295594", 
+      "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/bb/6a/bb6a5a95d904827181f9fb210f7231de.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "234", 
+    "images": {
+      "11": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/bf/1b/bf1b2a7e9eeecd27dc2e371585ec2c59.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/91/64/9164e7a33c74f3252edc97968d24fc00.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/bb/6a/bb6a5a95d904827181f9fb210f7231de.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/eb/db/ebdba94e091028c95ccc3c9229d3376e.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/c4/98/c4988a10cc1c48e5c52ff6363fccc6da.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/b0/6e/b06e53752bd4a9e68f495626031ed9a7.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/3f/be/3fbe736d8fb9915b7772b7cf5dd3555e.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/65/d8/65d889c3a7735f19e9fac74f9cdfae09.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/f1/d0/f1d0af392525e9a25baba67dba85b502.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/70/eb/70ebde036716486c01835ca312151eb3.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/92/12/92129fac47d1fb6500ae45f07c9b0175.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "794295594", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://architizer.com/blog/retro-geographie/", 
+    "is_article": "1", 
+    "item_id": "794295594", 
+    "time_added": "1418932613", 
+    "resolved_id": "794295594", 
+    "given_url": "http://architizer.com/blog/retro-geographie/", 
+    "resolved_title": "Satisfy Your Vintage French Modernism Fetish wit Retro Geographie"
   }, 
   {
     "status": "0", 
