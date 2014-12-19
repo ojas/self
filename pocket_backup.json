@@ -40189,12 +40189,12 @@
       }
     }, 
     "sort_id": 532, 
-    "resolved_url": "https://miter.mit.edu/the-unexotic-underclass/", 
+    "resolved_url": "http://miter.mit.edu/the-unexotic-underclass/", 
     "authors": {
-      "9442405": {
+      "9300782": {
         "item_id": "362978193", 
-        "url": "https://miter.mit.edu/author/nnaemeka/", 
-        "author_id": "9442405", 
+        "url": "http://miter.mit.edu/author/nnaemeka/", 
+        "author_id": "9300782", 
         "name": "C.Z. Nnaemeka"
       }
     }, 
@@ -82982,7 +82982,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
