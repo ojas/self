@@ -2415,7 +2415,7 @@
     "has_video": "1", 
     "time_added": "1418847959", 
     "status": "0", 
-    "sort_id": 1544, 
+    "sort_id": 1539, 
     "resolved_url": "http://www.datamotion.com/products/direct/datamotion-direct/", 
     "item_id": "793494004", 
     "resolved_id": "793494004", 
@@ -3267,115 +3267,6 @@
     "resolved_id": "128083037", 
     "given_url": "http://blog.zorinaq.com/?e=11", 
     "resolved_title": "The 5-second VGA Dummy Plug"
-  }, 
-  {
-    "is_article": "1", 
-    "image": {
-      "item_id": "793379867", 
-      "src": "http://www.theawl.com/wp-content/uploads/2014/12/lolsure.jpg", 
-      "height": "1220", 
-      "width": "1220"
-    }, 
-    "excerpt": "In the first chapter of his book, After Photography, digital photography theorist Fred Ritchin explains the central selling point of digital over analog: Digital is based on an architecture of infinitely repeatable abstractions in which the original and its copy are the same; analog ages and rots,", 
-    "word_count": "1156", 
-    "images": {
-      "1": {
-        "src": "http://www.theawl.com/wp-content/uploads/2014/12/lolsure.jpg", 
-        "credit": "", 
-        "height": "1220", 
-        "image_id": "1", 
-        "item_id": "793379867", 
-        "caption": "", 
-        "width": "1220"
-      }, 
-      "3": {
-        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.02.57-AM.png", 
-        "credit": "", 
-        "height": "425", 
-        "image_id": "3", 
-        "item_id": "793379867", 
-        "caption": "", 
-        "width": "476"
-      }, 
-      "2": {
-        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.02.24-AM.png", 
-        "credit": "", 
-        "height": "511", 
-        "image_id": "2", 
-        "item_id": "793379867", 
-        "caption": "", 
-        "width": "512"
-      }, 
-      "5": {
-        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.00.09-AM.png", 
-        "credit": "", 
-        "height": "610", 
-        "image_id": "5", 
-        "item_id": "793379867", 
-        "caption": "", 
-        "width": "607"
-      }, 
-      "4": {
-        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.20.13-PM.png", 
-        "credit": "", 
-        "height": "425", 
-        "image_id": "4", 
-        "item_id": "793379867", 
-        "caption": "", 
-        "width": "428"
-      }, 
-      "7": {
-        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.02.56-PM.jpg", 
-        "credit": "", 
-        "height": "604", 
-        "image_id": "7", 
-        "item_id": "793379867", 
-        "caption": "", 
-        "width": "1216"
-      }, 
-      "6": {
-        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.50.41-AM.png", 
-        "credit": "", 
-        "height": "424", 
-        "image_id": "6", 
-        "item_id": "793379867", 
-        "caption": "", 
-        "width": "433"
-      }, 
-      "8": {
-        "src": "http://www.theawl.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.52.00-AM.png", 
-        "credit": "", 
-        "height": "606", 
-        "image_id": "8", 
-        "item_id": "793379867", 
-        "caption": "", 
-        "width": "608"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1418867328", 
-    "status": "0", 
-    "sort_id": 1546, 
-    "resolved_url": "http://www.theawl.com/2014/12/the-triumphant-rise-of-the-shitpic", 
-    "authors": {
-      "27547339": {
-        "item_id": "793379867", 
-        "url": "http://www.theawl.com/author/brianfeldman", 
-        "author_id": "27547339", 
-        "name": "Brian Feldman"
-      }
-    }, 
-    "item_id": "793379867", 
-    "resolved_id": "793379867", 
-    "given_url": "http://www.theawl.com/2014/12/the-triumphant-rise-of-the-shitpic", 
-    "resolved_title": "The Triumphant Rise of the Shitpic", 
-    "is_index": "0", 
-    "time_updated": "1418867328", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "The Triumphant Rise of the Shitpic - The Awl", 
-    "has_image": "1"
   }, 
   {
     "is_article": "0", 
@@ -14542,7 +14433,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1534, 
+    "sort_id": 1532, 
     "time_updated": "1418661621", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -18344,61 +18235,6 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "792336876", 
-      "src": "http://s3-ec.buzzfed.com/static/2014-12/15/17/enhanced/webdr07/enhanced-11294-1418683249-10.jpg", 
-      "height": "364", 
-      "width": "625"
-    }, 
-    "excerpt": "The video announcement for the fourth installment of the Buku Music + Art Project sees a man and woman running through the streets of New Orleans, where the festival is held.", 
-    "word_count": "369", 
-    "images": {
-      "1": {
-        "src": "http://s3-ec.buzzfed.com/static/2014-12/15/17/enhanced/webdr07/enhanced-11294-1418683249-10.jpg", 
-        "credit": "", 
-        "height": "364", 
-        "image_id": "1", 
-        "item_id": "792336876", 
-        "caption": "", 
-        "width": "625"
-      }, 
-      "2": {
-        "src": "http://s3-ec.buzzfed.com/static/2014-12/16/9/enhanced/webdr03/anigif_enhanced-11342-1418740302-23_preview.gif", 
-        "credit": "", 
-        "height": "385", 
-        "image_id": "2", 
-        "item_id": "792336876", 
-        "caption": "", 
-        "width": "625"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1418835283", 
-    "status": "0", 
-    "sort_id": 1543, 
-    "resolved_url": "http://www.buzzfeed.com/brianmcmanus/first-look-heres-the-lineup-of-this-years-buku-music-festiva", 
-    "authors": {
-      "27092750": {
-        "item_id": "792336876", 
-        "url": "http://www.buzzfeed.com/brianmcmanus", 
-        "author_id": "27092750", 
-        "name": "Brian McManus"
-      }
-    }, 
-    "item_id": "792336876", 
-    "resolved_id": "792336876", 
-    "given_url": "http://www.buzzfeed.com/brianmcmanus/first-look-heres-the-lineup-of-this-years-buku-music-festiva#.arM94pE0e", 
-    "resolved_title": "First Look: Here\u2019s The Lineup Of 2015\u2019s Buku Music Festival", 
-    "is_index": "0", 
-    "time_updated": "1418835283", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "First Look: Here's The Lineup Of 2015's Buku Music Festival", 
-    "has_image": "1"
-  }, 
-  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1525, 
@@ -21197,7 +21033,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1533, 
+    "sort_id": 1531, 
     "time_updated": "1418659473", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -23761,7 +23597,7 @@
     "has_video": "0", 
     "time_added": "1418751109", 
     "status": "0", 
-    "sort_id": 1539, 
+    "sort_id": 1537, 
     "resolved_url": "https://www.udemy.com/blog/business-proposal-example/", 
     "authors": {
       "13637798": {
@@ -25089,7 +24925,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1530, 
+    "sort_id": 1528, 
     "time_updated": "1418519427", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -28155,27 +27991,6 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1528, 
-    "time_updated": "1418443004", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
-    "given_title": "'93 Acura Vigor GS...just in time for Christmas!", 
-    "resolved_url": "https://austin.craigslist.org/cto/4794554729.html", 
-    "is_article": "0", 
-    "item_id": "789647700", 
-    "time_added": "1418443002", 
-    "resolved_id": "789647700", 
-    "given_url": "https://austin.craigslist.org/cto/4794554729.html", 
-    "resolved_title": ""
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
     "sort_id": 190, 
     "time_updated": "1355185122", 
     "time_favorited": "0", 
@@ -29294,27 +29109,6 @@
     "resolved_id": "597383775", 
     "given_url": "http://m.nautil.us/issue/7/waste/not-merely-the-finest-tv-documentary-series-ever-made", 
     "resolved_title": "Not Merely the Finest TV Documentary Series Ever Made"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1540, 
-    "time_updated": "1418761467", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Some miscellaneous options and use cases for python-social-auth.  There's a common scenario were it's desired to return the user back to the original page from where it was requested to login.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "1602", 
-    "given_title": "python-social-auth/use_cases.rst at master \u00b7 omab/python-social-auth", 
-    "resolved_url": "https://github.com/omab/python-social-auth/blob/master/docs/use_cases.rst", 
-    "is_article": "1", 
-    "item_id": "792566421", 
-    "time_added": "1418761466", 
-    "resolved_id": "792566421", 
-    "given_url": "https://github.com/omab/python-social-auth/blob/master/docs/use_cases.rst", 
-    "resolved_title": "omab/python-social-auth"
   }, 
   {
     "is_article": "1", 
@@ -32577,7 +32371,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1535, 
+    "sort_id": 1533, 
     "time_updated": "1418750386", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -35071,27 +34865,6 @@
     "resolved_id": "604514820", 
     "given_url": "http://blog.tjll.net/ssh-kung-fu/", 
     "resolved_title": "SSH Kung fu"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1529, 
-    "time_updated": "1418443111", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "If you have any questions feel free to call or text me. thanks  Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "148", 
-    "given_title": "Rare 1988 supercharged toyota mr2", 
-    "resolved_url": "https://austin.craigslist.org/cto/4798376898.html", 
-    "is_article": "1", 
-    "item_id": "789648445", 
-    "time_added": "1418443110", 
-    "resolved_id": "789648445", 
-    "given_url": "https://austin.craigslist.org/cto/4798376898.html", 
-    "resolved_title": "Rare 1988 supercharged toyota mr2 - $4500 (kyle)"
   }, 
   {
     "videos": {
@@ -39093,134 +38866,6 @@
     "resolved_id": "337962656", 
     "given_url": "http://lifeofvi.blogspot.com/2013/04/not-knowing.html", 
     "resolved_title": "Not knowing"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1547, 
-    "time_updated": "1418932616", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "France was the home of modernism, at least when it comes to the seminal architecture and urbanism of Le Corbusier. While architecture simultaneously developed elsewhere, it was Paris's influential art and literature scene that made France stand out among the rest.", 
-    "image": {
-      "item_id": "794295594", 
-      "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/bb/6a/bb6a5a95d904827181f9fb210f7231de.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "234", 
-    "images": {
-      "11": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/bf/1b/bf1b2a7e9eeecd27dc2e371585ec2c59.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "11", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "10": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/91/64/9164e7a33c74f3252edc97968d24fc00.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "10", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "1": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/bb/6a/bb6a5a95d904827181f9fb210f7231de.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/eb/db/ebdba94e091028c95ccc3c9229d3376e.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/c4/98/c4988a10cc1c48e5c52ff6363fccc6da.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/b0/6e/b06e53752bd4a9e68f495626031ed9a7.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/3f/be/3fbe736d8fb9915b7772b7cf5dd3555e.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "7": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/65/d8/65d889c3a7735f19e9fac74f9cdfae09.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/f1/d0/f1d0af392525e9a25baba67dba85b502.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "9": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/70/eb/70ebde036716486c01835ca312151eb3.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "9", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/92/12/92129fac47d1fb6500ae45f07c9b0175.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "794295594", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "given_title": "", 
-    "resolved_url": "http://architizer.com/blog/retro-geographie/", 
-    "is_article": "1", 
-    "item_id": "794295594", 
-    "time_added": "1418932613", 
-    "resolved_id": "794295594", 
-    "given_url": "http://architizer.com/blog/retro-geographie/", 
-    "resolved_title": "Satisfy Your Vintage French Modernism Fetish wit Retro Geographie"
   }, 
   {
     "status": "0", 
@@ -59081,62 +58726,6 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1541, 
-    "time_updated": "1418779500", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Life in a can is not supposed to be a good thing ... but that notion doesn\u2019t seem so bad if said \"can\" was built by the luxury trashcan manufacturers at Vipp. This month, the Danish brand unveiled Shelter, which at 590 square feet is its biggest can to date.", 
-    "image": {
-      "item_id": "791661655", 
-      "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/08/bc/08bcc825dca329df37b044f5558758b9.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "281", 
-    "images": {
-      "1": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/08/bc/08bcc825dca329df37b044f5558758b9.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "791661655", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/4b/45/4b4571951e608f1485be5c0a852f2017.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "791661655", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "https://acdn.architizer.com/thumbnails-PRODUCTION/9a/1c/9a1c46037c27a47c256d2cd79b9fec5f.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "791661655", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "given_title": "", 
-    "resolved_url": "http://architizer.com/blog/a-new-prefabricated-weekend-getaway-courtesy-danish-luxury-trashcan-manufacturers-vipp/", 
-    "is_article": "1", 
-    "item_id": "791661655", 
-    "time_added": "1418779499", 
-    "resolved_id": "791661655", 
-    "given_url": "http://architizer.com/blog/a-new-prefabricated-weekend-getaway-courtesy-danish-luxury-trashcan-manufacturers-vipp/", 
-    "resolved_title": "A Prefabricated Fortress of Solitude, Courtesy Danish Luxury Trashcan Manufacturers Vipp"
-  }, 
-  {
     "status": "1", 
     "is_index": "0", 
     "sort_id": 1127, 
@@ -59270,7 +58859,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1536, 
+    "sort_id": 1534, 
     "time_updated": "1418674188", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -59897,7 +59486,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1537, 
+    "sort_id": 1535, 
     "time_updated": "1418679271", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -61776,7 +61365,7 @@
     "has_video": "0", 
     "time_added": "1418619581", 
     "status": "0", 
-    "sort_id": 1532, 
+    "sort_id": 1530, 
     "resolved_url": "http://www.wired.com/2014/12/digital-globe-best-earth-from-space-2014/#slide-id-1673007", 
     "authors": {
       "17986331": {
@@ -66353,7 +65942,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1545, 
+    "sort_id": 1540, 
     "time_updated": "1418855384", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -74037,7 +73626,7 @@
     "has_video": "0", 
     "time_added": "1418519456", 
     "status": "0", 
-    "sort_id": 1531, 
+    "sort_id": 1529, 
     "resolved_url": "http://eattoperform.com/2014/12/12/the-top-five-reasons-you-arent-losing-body-fat/", 
     "authors": {
       "22997834": {
@@ -84290,7 +83879,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1542, 
+    "sort_id": 1538, 
     "time_updated": "1418788611", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -85319,7 +84908,7 @@
     "has_video": "0", 
     "time_added": "1418740315", 
     "status": "0", 
-    "sort_id": 1538, 
+    "sort_id": 1536, 
     "resolved_url": "https://medium.com/founder-stories/ten-things-we-believe-2c85c462d508", 
     "authors": {
       "10023176": {
