@@ -22971,7 +22971,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "498794704", 
-      "src": "http://media.npr.org/assets/img/2013/12/09/island-of-trees_wide-ec1beb048cc6fe3f7a453d59abd977be95854f17-s4-c85.jpg", 
+      "src": "http://media.npr.org/assets/img/2013/12/09/island-of-trees_wide-ec1beb048cc6fe3f7a453d59abd977be95854f17-s1100-c15.jpg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -22979,7 +22979,7 @@
     "word_count": "1356", 
     "images": {
       "1": {
-        "src": "http://media.npr.org/assets/img/2013/12/09/island-of-trees_wide-ec1beb048cc6fe3f7a453d59abd977be95854f17-s4-c85.jpg", 
+        "src": "http://media.npr.org/assets/img/2013/12/09/island-of-trees_wide-ec1beb048cc6fe3f7a453d59abd977be95854f17-s1100-c15.jpg", 
         "credit": "\n\nRobert Krulwich/NPR", 
         "height": "0", 
         "image_id": "1", 
@@ -22988,7 +22988,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://media.npr.org/assets/img/2013/12/09/easter-island-statues_slide-c6183c6318b9643820cd090a5c6ba5de6a461484-s4-c85.jpg", 
+        "src": "http://media.npr.org/assets/img/2013/12/09/easter-island-statues_slide-c6183c6318b9643820cd090a5c6ba5de6a461484-s1100-c15.jpg", 
         "credit": "\n\nRobert Krulwich/NPR", 
         "height": "0", 
         "image_id": "3", 
@@ -22997,7 +22997,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://media.npr.org/assets/img/2013/12/09/island-without-trees_wide-8c1d457c528aa968ff0aba4276c6ba22d02faf5f-s4-c85.jpg", 
+        "src": "http://media.npr.org/assets/img/2013/12/09/island-without-trees_wide-8c1d457c528aa968ff0aba4276c6ba22d02faf5f-s1100-c15.jpg", 
         "credit": "\n\nRobert Krulwich/NPR", 
         "height": "0", 
         "image_id": "2", 
@@ -23006,7 +23006,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "http://media.npr.org/assets/img/2013/12/09/rat-plate_slide-15f9615015b20be270b29567e59a09469ba021fb-s4-c85.jpg", 
+        "src": "http://media.npr.org/assets/img/2013/12/09/rat-plate_slide-15f9615015b20be270b29567e59a09469ba021fb-s1100-c15.jpg", 
         "credit": "\n\nRobert Krulwich/NPR", 
         "height": "0", 
         "image_id": "5", 
@@ -23015,7 +23015,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://media.npr.org/assets/img/2013/12/09/rat-fallen-trees_wide-1bcf328df6bf7ea1f7914bf048754c097ef05580-s4-c85.jpg", 
+        "src": "http://media.npr.org/assets/img/2013/12/09/rat-fallen-trees_wide-1bcf328df6bf7ea1f7914bf048754c097ef05580-s1100-c15.jpg", 
         "credit": "\n\nRobert Krulwich/NPR", 
         "height": "0", 
         "image_id": "4", 
@@ -23024,7 +23024,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://media.npr.org/assets/img/2013/12/09/cooked-rat-meal_slide-4e095a4634398dcba756c723f5c45da10dadf0d1-s4-c85.jpg", 
+        "src": "http://media.npr.org/assets/img/2013/12/09/cooked-rat-meal_slide-4e095a4634398dcba756c723f5c45da10dadf0d1-s1100-c15.jpg", 
         "credit": "\n\nRobert Krulwich/NPR", 
         "height": "0", 
         "image_id": "6", 
@@ -25787,7 +25787,7 @@
     "has_video": "0", 
     "word_count": "0", 
     "given_title": "Meteor", 
-    "resolved_url": "http://www.meteor.com/", 
+    "resolved_url": "https://www.meteor.com/", 
     "is_article": "0", 
     "item_id": "152951587", 
     "time_added": "1359993849", 
