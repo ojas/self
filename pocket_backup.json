@@ -74235,7 +74235,7 @@
     "excerpt": "osxc simple configuration tool for os x osxc installs software on your mac and configures it automatically, just by writing a few lines of code.", 
     "image": {
       "item_id": "609653239", 
-      "src": "http://osxc.github.io/assets/images/logo.png", 
+      "src": "https://osxc.github.io/assets/images/logo.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -74245,7 +74245,7 @@
     "word_count": "525", 
     "images": {
       "1": {
-        "src": "http://osxc.github.io/assets/images/logo.png", 
+        "src": "https://osxc.github.io/assets/images/logo.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -74255,7 +74255,7 @@
       }
     }, 
     "given_title": "osxc - simple configuration tool for os x", 
-    "resolved_url": "http://osxc.github.io", 
+    "resolved_url": "https://osxc.github.io/", 
     "is_article": "0", 
     "item_id": "609653239", 
     "time_added": "1399211384", 
