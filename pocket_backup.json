@@ -39624,7 +39624,7 @@
       "width": "195"
     }, 
     "excerpt": "To tell humanity its own story is a task no less herculean, and at last we have a poet \u2014 Sagan\u2019s favorite poet, no less \u2014 to marry science and wonder.", 
-    "word_count": "3134", 
+    "word_count": "3094", 
     "images": {
       "1": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/dianeackerman_thehumanage.jpg", 
@@ -39632,16 +39632,16 @@
         "height": "0", 
         "image_id": "1", 
         "item_id": "732004736", 
-        "caption": "", 
+        "caption": "Illustration from 'Alice in Quantumland' by Robert Gilmore. Click image for more.", 
         "width": "195"
       }, 
       "3": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/icub.jpg", 
-        "credit": "", 
+        "credit": "Photograph: Sharingame CC-BY-NC-ND", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "732004736", 
-        "caption": "\n", 
+        "caption": "The iCub humanoid robot", 
         "width": "480"
       }, 
       "2": {
@@ -39650,7 +39650,7 @@
         "height": "0", 
         "image_id": "2", 
         "item_id": "732004736", 
-        "caption": "\n", 
+        "caption": "Illustration from 'Alice in Quantumland' by Robert Gilmore. Click image for more.", 
         "width": "480"
       }, 
       "5": {
@@ -39659,7 +39659,7 @@
         "height": "0", 
         "image_id": "5", 
         "item_id": "732004736", 
-        "caption": "\n", 
+        "caption": "Illustration from 'The Book of Miracles,' 1552. Click image for more.", 
         "width": "480"
       }, 
       "4": {
@@ -39668,7 +39668,7 @@
         "height": "0", 
         "image_id": "4", 
         "item_id": "732004736", 
-        "caption": "\n", 
+        "caption": "Illustration from 'Alice in Quantumland' by Robert Gilmore. Click image for more.", 
         "width": "480"
       }
     }, 
