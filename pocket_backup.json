@@ -58044,6 +58044,63 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://vimeo.com/play_redirect?clip_id=54414551&quality=hd", 
+        "vid": "54414551", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "626424534", 
+        "type": "2"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "626424534", 
+      "src": "http://i.vimeocdn.com/video/376703270_640.jpg", 
+      "height": "360", 
+      "width": "640"
+    }, 
+    "excerpt": "A five minute video overview of the revolutionary sales platform called Close.io. Built by the sales experts at Elastic. Learn more at http://Close.io", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://i.vimeocdn.com/video/376703270_640.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "626424534", 
+        "caption": "", 
+        "width": "640"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1419186078", 
+    "status": "0", 
+    "sort_id": 1542, 
+    "resolved_url": "http://vimeo.com/54414551", 
+    "authors": {
+      "19939789": {
+        "item_id": "626424534", 
+        "url": "http://vimeo.com/user14928146", 
+        "author_id": "19939789", 
+        "name": "Close.io"
+      }
+    }, 
+    "item_id": "626424534", 
+    "resolved_id": "626424534", 
+    "given_url": "http://vimeo.com/54414551", 
+    "resolved_title": "Close.io Video Overview", 
+    "is_index": "0", 
+    "time_updated": "1419186078", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Close.io Video Overview on Vimeo", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 134, 
@@ -84400,6 +84457,35 @@
     "resolved_id": "295348118", 
     "given_url": "http://www.patheos.com/blogs/daylightatheism/essays/a-ghost-in-the-machine/", 
     "resolved_title": "A Ghost in the Machine"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1543, 
+    "time_updated": "1419186224", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Kalzumeus Software is a small software company. \u00a0We make a variety of products which target very disparate markets. \u00a0They save our customers time and money. \u00a0Our core company value is employee happiness. \u00a0The company was founded by Patrick McKenzie in 2006.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2815", 
+    "authors": {
+      "5534235": {
+        "item_id": "517300926", 
+        "url": "https://docs.google.com/", 
+        "author_id": "5534235", 
+        "name": "Google Drive"
+      }
+    }, 
+    "given_title": "Kalzumeus Software Standard Operating Procedures (public version)", 
+    "resolved_url": "https://docs.google.com/document/d/1hgiQgc_PNMAKqrylHCzkiIIhmTEgS4X8lJcq-ApKI20/pub", 
+    "is_article": "1", 
+    "item_id": "517300926", 
+    "time_added": "1419186224", 
+    "resolved_id": "517300926", 
+    "given_url": "https://docs.google.com/document/d/1hgiQgc_PNMAKqrylHCzkiIIhmTEgS4X8lJcq-ApKI20/pub", 
+    "resolved_title": "Kalzumeus Software Standard Operating Procedures (public version)"
   }, 
   {
     "status": "0", 
