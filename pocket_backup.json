@@ -42726,6 +42726,80 @@
     "resolved_title": "On abundance, post-scarcity and leisure"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1541, 
+    "time_updated": "1419131286", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Kayak\u2013 the popular fare comparison web site\u2013 recently discontinued their API service. To the dismay of travel hackers, fare comparison APIs frequently come and go. But that doesn\u2019t mean we can\u2019t hack together our own Kayak API.", 
+    "image": {
+      "item_id": "795995344", 
+      "src": "http://www.shubhro.com/static/kayak-mitmproxy/kayakapp.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "836", 
+    "images": {
+      "1": {
+        "src": "http://www.shubhro.com/static/kayak-mitmproxy/kayakapp.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "795995344", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://www.shubhro.com/static/kayak-mitmproxy/mitmproxybasic.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "795995344", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.shubhro.com/static/kayak-mitmproxy/ipaddress.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "795995344", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://www.shubhro.com/static/kayak-mitmproxy/mitmproxyprices.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "795995344", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://www.shubhro.com/static/kayak-mitmproxy/mitmproxyresponse.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "795995344", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Reverse-engineering the Kayak app with mitmproxy | Shubhro Saha", 
+    "resolved_url": "http://www.shubhro.com/2014/12/18/reverse-engineering-kayak-mitmproxy/", 
+    "is_article": "0", 
+    "item_id": "795995344", 
+    "time_added": "1419131286", 
+    "resolved_id": "795995344", 
+    "given_url": "http://www.shubhro.com/2014/12/18/reverse-engineering-kayak-mitmproxy/", 
+    "resolved_title": "Reverse-engineering the Kayak app with mitmproxy"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "2479384", 
