@@ -22223,6 +22223,35 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1544, 
+    "time_updated": "1419187944", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Everything good \u2014 including the first season of Serial \u2014 must come to an end.  The good news is there are hundreds of great, interesting podcasts out there that aren't Serial. Many of them are nothing like Serial. But they're still fun, fascinating, and entertaining.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "659", 
+    "authors": {
+      "18205328": {
+        "item_id": "796555559", 
+        "url": "http://www.vox.com/authors/libby-nelson", 
+        "author_id": "18205328", 
+        "name": "Libby Nelson"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.vox.com/2014/12/21/7430313/podcast-recommendations-reviews", 
+    "is_article": "1", 
+    "item_id": "796555559", 
+    "time_added": "1419187943", 
+    "resolved_id": "796555559", 
+    "given_url": "http://www.vox.com/2014/12/21/7430313/podcast-recommendations-reviews", 
+    "resolved_title": "7 addictive podcasts that aren't Serial"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1335, 
     "time_updated": "1411081571", 
     "time_favorited": "0", 
