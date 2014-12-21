@@ -28582,18 +28582,36 @@
     "is_article": "1", 
     "image": {
       "item_id": "283005567", 
-      "src": "https://cdn3.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
+      "src": "https://cdn1.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "But the golden age was destined to be a very short one. The industry was off the rails, and Walter Day told writer Tristan Donovan, author of the book Replay: The History of Video Games, that there were \"too many arcades,\" with owners ordering more machines than their players could ever support.", 
-    "word_count": "2081", 
+    "excerpt": "If you\u2019ve never been inside a \u201creal\u201d arcade, it could be hard to distinguish one from say, oh, a Dave & Buster\u2019s. Authenticity is a hard nut to crack, but there are a few hallmarks of the video game arcade of days gone by: first, they have video games.", 
+    "word_count": "7706", 
     "images": {
       "1": {
-        "src": "https://cdn3.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
+        "src": "https://cdn1.vox-cdn.com/entry_photo_images/7366137/tron_large_verge_super_wide.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
+        "item_id": "283005567", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://assets.sbnation.com/assets/2035907/arcade-timeline3.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "283005567", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://assets.sbnation.com/assets/1854379/humpty_new.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
         "item_id": "283005567", 
         "caption": "", 
         "width": "0"
