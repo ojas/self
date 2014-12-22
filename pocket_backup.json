@@ -21614,7 +21614,7 @@
     "time_added": "1419271076", 
     "status": "0", 
     "sort_id": 1541, 
-    "resolved_url": "https://codeascraft.com/2014/12/22/engineering-rotation/", 
+    "resolved_url": "http://codeascraft.com/2014/12/22/engineering-rotation/", 
     "authors": {
       "27724126": {
         "item_id": "797246078", 
@@ -83196,12 +83196,12 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "186", 
+    "word_count": "178", 
     "authors": {
-      "2498000": {
+      "2768448": {
         "item_id": "275820717", 
-        "url": "http://whatever.scalzi.com/author/scalzi/", 
-        "author_id": "2498000", 
+        "url": "", 
+        "author_id": "2768448", 
         "name": "John Scalzi"
       }
     }, 
