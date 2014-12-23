@@ -79062,20 +79062,20 @@
     "time_updated": "1382475596", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Join thousands of front-end professionals and master JavaScript, HTML5/CSS3 and UI frameworks today!  Get Instant Access Now Watch Sample   Karl is a member of the jQuery team and maintainer of the jQuery API site. He co-authored several books on jQuery.", 
+    "excerpt": "Join thousands of front-end professionals and master JavaScript, HTML5/CSS3 and UI frameworks today!  Get Instant Access Now Watch Sample  Karl is a member of the jQuery team and maintainer of the jQuery API site. He co-authored several books on jQuery.", 
     "image": {
       "item_id": "105507276", 
-      "src": "http://frontendmasters.com/wp-content/themes/frontendmasters/img/video-screenshot.png", 
+      "src": "https://frontendmasters.com/wp-content/themes/frontendmasters/img/video-screenshot.png", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1124", 
+    "word_count": "1294", 
     "images": {
       "1": {
-        "src": "http://frontendmasters.com/wp-content/themes/frontendmasters/img/video-screenshot.png", 
+        "src": "https://frontendmasters.com/wp-content/themes/frontendmasters/img/video-screenshot.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -79084,7 +79084,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://frontendmasters.com/wp-content/themes/frontendmasters/img/sensei.png", 
+        "src": "https://frontendmasters.com/wp-content/themes/frontendmasters/img/sensei.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -79094,7 +79094,7 @@
       }
     }, 
     "given_title": "Frontend Masters | Expert front-end development training", 
-    "resolved_url": "http://frontendmasters.com", 
+    "resolved_url": "http://FrontendMasters.com", 
     "is_article": "0", 
     "item_id": "105507276", 
     "time_added": "1382475596", 
