@@ -6072,7 +6072,7 @@
     "time_added": "1389205774", 
     "status": "0", 
     "sort_id": 900, 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036#printMode", 
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
     "authors": {
       "12791004": {
         "item_id": "518589471", 
@@ -22236,7 +22236,7 @@
     "given_url": "http://spectrum.ieee.org/telecom/wireless/the-long-road-to-maxwells-equations", 
     "resolved_title": "The Long Road to Maxwell\u2019s Equations", 
     "is_index": "0", 
-    "time_updated": "1418164318", 
+    "time_updated": "1419316481", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -25750,7 +25750,7 @@
     "has_video": "0", 
     "word_count": "0", 
     "given_title": "Meteor", 
-    "resolved_url": "https://www.meteor.com/", 
+    "resolved_url": "http://www.meteor.com/", 
     "is_article": "0", 
     "item_id": "152951587", 
     "time_added": "1359993849", 
@@ -37344,7 +37344,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 998, 
-    "time_updated": "1397429445", 
+    "time_updated": "1419314325", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "My recent collision with Daniel Dennett on the topic of free will has caused me to reflect on how best to publicly resolve differences of opinion. In fact, this has been a recurring theme of late.", 
@@ -47301,6 +47301,44 @@
     "resolved_id": "299549691", 
     "given_url": "http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8591af8970d-pi", 
     "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1543, 
+    "time_updated": "1419313857", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "It seems to me that many nonbelievers have forgotten\u2014or never knew\u2014what it is like to suffer an unhappy collision with scientific rationality. We are open to good evidence and sound argument as a matter of principle, and are generally willing to follow wherever they may lead.", 
+    "image": {
+      "item_id": "252154784", 
+      "src": "http://ir0.mobify.com/project-mobifyme/234/http:/www.samharris.org/images/uploads/Fireplace.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1366", 
+    "images": {
+      "1": {
+        "src": "http://ir0.mobify.com/project-mobifyme/234/http:/www.samharris.org/images/uploads/Fireplace.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "252154784", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://m.samharris.org/blog/item/the-fireplace-delusion", 
+    "is_article": "1", 
+    "item_id": "252154784", 
+    "time_added": "1419313856", 
+    "resolved_id": "252154784", 
+    "given_url": "http://m.samharris.org/blog/item/the-fireplace-delusion", 
+    "resolved_title": "The Fireplace Delusion"
   }, 
   {
     "status": "0", 
@@ -79068,7 +79106,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1499, 
-    "time_updated": "1417988499", 
+    "time_updated": "1419316515", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Previous Page", 
@@ -85174,7 +85212,7 @@
     "given_url": "https://medium.com/founder-stories/ten-things-we-believe-2c85c462d508", 
     "resolved_title": "Ten Things We Believe \u2014 Founder Stories \u2014 Medium", 
     "is_index": "0", 
-    "time_updated": "1418777408", 
+    "time_updated": "1419314915", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
