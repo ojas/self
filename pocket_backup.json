@@ -6072,7 +6072,7 @@
     "time_added": "1389205774", 
     "status": "0", 
     "sort_id": 900, 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036#printMode", 
     "authors": {
       "12791004": {
         "item_id": "518589471", 
@@ -82814,7 +82814,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
