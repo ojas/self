@@ -25750,7 +25750,7 @@
     "has_video": "0", 
     "word_count": "0", 
     "given_title": "Meteor", 
-    "resolved_url": "http://www.meteor.com/", 
+    "resolved_url": "https://www.meteor.com/", 
     "is_article": "0", 
     "item_id": "152951587", 
     "time_added": "1359993849", 
@@ -82852,7 +82852,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
