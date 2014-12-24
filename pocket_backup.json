@@ -12459,14 +12459,22 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
+    "status": "1", 
+    "is_index": "0", 
+    "sort_id": 1058, 
+    "time_updated": "1401917751", 
+    "time_favorited": "0", 
+    "time_read": "1401917750", 
+    "excerpt": "On his last day as a company man, Marty Singer braced himself for the final drive to the office. It was Friday morning. The clock was ticking. But he couldn\u2019t bear to go.  So he answered another phone call. He tapped out another text. He composed another email.", 
     "image": {
       "item_id": "593389319", 
       "src": "http://static01.nyt.com/images/2014/04/14/nyregion/14WORKINGweb/14WORKINGweb-articleLarge-v2.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "On his last day as a company man, Marty Singer braced himself for the final drive to the office. It was Friday morning. The clock was ticking. But he couldn\u2019t bear to go.  So he answered another phone call. He tapped out another text. He composed another email.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
     "word_count": "791", 
     "images": {
       "1": {
@@ -12479,30 +12487,14 @@
         "width": "0"
       }
     }, 
-    "has_video": "0", 
-    "time_added": "1397440093", 
-    "status": "1", 
-    "sort_id": 1058, 
+    "given_title": "Saying Farewell to a Business That Turned Into an Identity - NYTimes.com", 
     "resolved_url": "http://mobile.nytimes.com/2014/04/14/nyregion/saying-farewell-to-a-business-that-turned-into-an-identity.html", 
-    "authors": {
-      "2589502": {
-        "item_id": "593389319", 
-        "url": "", 
-        "author_id": "2589502", 
-        "name": "RACHEL L. SWARNS"
-      }
-    }, 
+    "is_article": "1", 
     "item_id": "593389319", 
+    "time_added": "1397440093", 
     "resolved_id": "593389324", 
     "given_url": "http://mobile.nytimes.com/2014/04/14/nyregion/saying-farewell-to-a-business-that-turned-into-an-identity.html?referrer=", 
-    "resolved_title": "Saying Farewell to a Business That Turned Into an Identity", 
-    "is_index": "0", 
-    "time_updated": "1401917751", 
-    "time_favorited": "0", 
-    "time_read": "1401917750", 
-    "favorite": "0", 
-    "given_title": "Saying Farewell to a Business That Turned Into an Identity - NYTimes.com", 
-    "has_image": "1"
+    "resolved_title": "Saying Farewell to a Business That Turned Into an Identity"
   }, 
   {
     "status": "0", 
