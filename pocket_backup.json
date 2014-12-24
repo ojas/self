@@ -59019,6 +59019,35 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1544, 
+    "time_updated": "1419386095", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Stock #: TAS5801908 VIN #: 1G1YZ23J9M5801908 Engine: 8 Cylinders Trans: 6 Speed Color: Black Interior: Leather Type: Car", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "17", 
+    "authors": {
+      "1340861": {
+        "item_id": "798445594", 
+        "url": "", 
+        "author_id": "1340861", 
+        "name": "E.P.A."
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.buyacarnc.com/1991-Chevrolet-Corvette/Used-Car/Greensboro-NC/5032600/Details.aspx", 
+    "is_article": "0", 
+    "item_id": "798445594", 
+    "time_added": "1419386091", 
+    "resolved_id": "798445594", 
+    "given_url": "http://www.buyacarnc.com/1991-Chevrolet-Corvette/Used-Car/Greensboro-NC/5032600/Details.aspx", 
+    "resolved_title": "Used 1991 Chevrolet Corvette for Sale in Greensboro NC 27409 Triad Auto Solutions"
+  }, 
+  {
     "status": "1", 
     "is_index": "0", 
     "sort_id": 1127, 
@@ -82852,7 +82881,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
