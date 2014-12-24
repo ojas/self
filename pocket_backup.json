@@ -10730,7 +10730,7 @@
     "time_added": "1390343560", 
     "status": "1", 
     "sort_id": 937, 
-    "resolved_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters/", 
+    "resolved_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -82852,7 +82852,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
@@ -82871,7 +82871,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
