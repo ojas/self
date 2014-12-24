@@ -27021,6 +27021,91 @@
     "resolved_title": "How to Accept and Decline Job Offers"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "//www.youtube.com/embed/KvhtvJXNi64", 
+        "vid": "KvhtvJXNi64", 
+        "video_id": "1", 
+        "height": "506", 
+        "width": "900", 
+        "item_id": "798116415", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "798116415", 
+      "src": "http://i.huffpost.com/gen/2399362/original.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "On a December afternoon, Frances Amy Richardson took a break from her quilting class to reflect on a groundbreaking experiment she took part in 40 years earlier.", 
+    "word_count": "2178", 
+    "images": {
+      "1": {
+        "src": "http://i.huffpost.com/gen/2399362/original.jpg", 
+        "credit": "Photo: Dauphin Economic Development/Facebook", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "798116415", 
+        "caption": "An aerial view of the city of Dauphin, Man. Forty years ago, a groundbreaking experiment provided cheques to Dauphin\u2019s poorest to raise their incomes to a liveable wage.", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://scontent-b-lga.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1904158_1533271603557884_3043938937102976212_n.jpg?oh=6739ca64e25c6cc52525fb8d81974027&oe=54F95C04", 
+        "credit": "Photo: Dennis Popeniuk/Facebook", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "798116415", 
+        "caption": "Looking south on Main St. North in Dauphin, Man. around 1973.", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://i.huffpost.com/gen/2401216/original.jpg", 
+        "credit": "Photo: The Printing House", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "798116415", 
+        "caption": "A postcard shows \u201cCanada\u2019s National Ukrainian Festival Choir\u201d in Dauphin, Man. During the 1970s, the prairie community was home to one of the country's largest Ukrainian populations.", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://i0.huffpost.com/gen/2333056/thumbs/n-HOLIDAY-SHOPPING-TIPS-large300.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "798116415", 
+        "caption": "", 
+        "width": "282"
+      }, 
+      "4": {
+        "src": "http://i.huffpost.com/gen/2404080/thumbs/o-DAUPHIN-MANITOBA-900.jpg", 
+        "credit": "Photo: Getty Images", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "798116415", 
+        "caption": "Grain silos and trains in Dauphin, Man.", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1419456146", 
+    "status": "0", 
+    "sort_id": 1545, 
+    "resolved_url": "http://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html", 
+    "item_id": "798116415", 
+    "resolved_id": "798102660", 
+    "given_url": "http://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html?utm_hp_ref=canada-business", 
+    "resolved_title": "A Canadian City Once Eliminated Poverty And Nearly Everyone Forgot About It", 
+    "is_index": "0", 
+    "time_updated": "1419456146", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "A Canadian City Once Eliminated Poverty And Nearly Everyone Forgot About It", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 1349, 
