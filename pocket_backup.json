@@ -20661,6 +20661,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1547, 
+    "time_updated": "1419532205", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "15", 
+    "given_title": "1981 Honda CB 750", 
+    "resolved_url": "https://austin.craigslist.org/mcy/4783602383.html", 
+    "is_article": "1", 
+    "item_id": "799608490", 
+    "time_added": "1419532204", 
+    "resolved_id": "799608490", 
+    "given_url": "https://austin.craigslist.org/mcy/4783602383.html", 
+    "resolved_title": "1981 Honda CB 750 - $3200 (South Austin)"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 369, 
     "time_updated": "1365692170", 
     "time_favorited": "0", 
@@ -51774,6 +51795,133 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "797702078", 
+      "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141212_FOR_ISISBombing.jpg.CROP.promo-mediumlarge.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "It\u2019s a good time to be a pessimist.", 
+    "word_count": "4101", 
+    "images": {
+      "10": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-armedconflicts.jpg.CROP.promovar-mediumlarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "797702078", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141212_FOR_ISISBombing.jpg.CROP.promo-mediumlarge.jpg", 
+        "credit": " Gokhan Sahin/Getty Images", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "797702078", 
+        "caption": "An explosion rocks the Syrian city of Kobane during a reported suicide car bombing by the Islamic State, as seen from the Turkey-Syria border, on Oct. 20, 2014. The small picture is very bad, but the big picture of violence around the world is about as good as it\u2019s ever been.", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-Homicide-Rates-Mex.jpg.CROP.promovar-mediumlarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "797702078", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-Homicide-Rates-US-England.jpg.CROP.promovar-mediumlarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "797702078", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-children.jpg.CROP.promovar-mediumlarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "797702078", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-ratesofrape.jpg.CROP.promovar-mediumlarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "797702078", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-masskillings.jpg.CROP.promovar-mediumlarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "797702078", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-Autocracy.jpg.CROP.promovar-mediumlarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "797702078", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-numberofarmed.jpg.CROP.promo-mediumlarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "797702078", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-deathsin-genocide.jpg.CROP.promovar-mediumlarge.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "797702078", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1419530936", 
+    "status": "0", 
+    "sort_id": 1545, 
+    "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html", 
+    "authors": {
+      "3361867": {
+        "item_id": "797702078", 
+        "url": "http://www.slate.com/authors.steven_pinker.html", 
+        "author_id": "3361867", 
+        "name": "Steven Pinker"
+      }
+    }, 
+    "item_id": "797702078", 
+    "resolved_id": "797702078", 
+    "given_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html", 
+    "resolved_title": "The World Is Not Falling Apart", 
+    "is_index": "0", 
+    "time_updated": "1419530936", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The world is not falling apart: The trend lines reveal an increasingly peac", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 748, 
@@ -72656,6 +72804,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1546, 
+    "time_updated": "1419532181", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "15", 
+    "given_title": "1979 cm400 scrambler-(make offer)", 
+    "resolved_url": "https://austin.craigslist.org/mcy/4799790174.html", 
+    "is_article": "1", 
+    "item_id": "799608359", 
+    "time_added": "1419532180", 
+    "resolved_id": "799608359", 
+    "given_url": "https://austin.craigslist.org/mcy/4799790174.html", 
+    "resolved_title": "1979 cm400 scrambler-(make offer) - $1 (Buda)"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 249, 
     "time_updated": "1359217902", 
     "time_favorited": "0", 
@@ -82947,7 +83116,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
