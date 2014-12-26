@@ -32427,11 +32427,11 @@
     "time_updated": "1396399095", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "This is a simulation of an economic marketplace in which there is a population of actors, each of which has a level of wealth (a single number) that changes over time.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1863", 
+    "word_count": "0", 
     "authors": {
       "9678992": {
         "item_id": "461269578", 
@@ -32447,7 +32447,7 @@
     "time_added": "1390346036", 
     "resolved_id": "461269578", 
     "given_url": "http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb", 
-    "resolved_title": "Economics Simulation\u00b6"
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -38447,7 +38447,7 @@
       }
     }, 
     "given_title": "Mailpile: Let's take e-mail back!", 
-    "resolved_url": "https://www.mailpile.is/", 
+    "resolved_url": "http://www.mailpile.is/", 
     "is_article": "0", 
     "item_id": "410116293", 
     "time_added": "1405566165", 
