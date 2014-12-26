@@ -5064,22 +5064,22 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1425, 
     "time_updated": "1414680500", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "Connect with friends and theworld around you on Facebook.  See photos and updates  from friends in News Feed.  Share what's new  in your life on your Timeline.  Find more  of what you're looking for with Graph Search. Sign UpIt\u2019s free and always will be.", 
     "image": {
       "item_id": "69969", 
       "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "0", 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "46", 
     "images": {
       "1": {
         "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
@@ -5110,13 +5110,13 @@
       }
     }, 
     "given_title": "Facebook", 
-    "resolved_url": "https://www.facebook.com#", 
+    "resolved_url": "https://www.facebook.com", 
     "is_article": "0", 
     "item_id": "69969", 
     "time_added": "1414680500", 
     "resolved_id": "69969", 
     "given_url": "https://www.facebook.com/", 
-    "resolved_title": ""
+    "resolved_title": "Facebook logo"
   }, 
   {
     "status": "1", 
@@ -63502,27 +63502,18 @@
     "is_article": "1", 
     "image": {
       "item_id": "398052507", 
-      "src": "https://camo.githubusercontent.com/f4fb0df8b33a1603fc25845a7d33c81a1171df90/68747470733a2f2f7472617669732d63692e6f72672f6d616d652f7175696e652d72656c61792e7376673f6272616e63683d6d6173746572", 
+      "src": "https://camo.githubusercontent.com/9e9260ea69b3059a3d8cb511e50b0962a6df1a6e/68747470733a2f2f7261772e6769746875622e636f6d2f6d616d652f7175696e652d72656c61792f6d61737465722f6c616e67732e706e67", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "This is a Ruby program that generates Scala program that generates Scheme program that generates ...(through 78 languages in total)... REXX program that generates the original Ruby code again.  First, you have to type the following apt-get command to install all of them.", 
-    "word_count": "415", 
+    "excerpt": "This is a Ruby program that generates Scala program that generates Scheme program that generates ...(through 100 languages in total)... REXX program that generates the original Ruby code again.  First, you have to type the following apt-get command to install all of them.", 
+    "word_count": "522", 
     "images": {
       "1": {
-        "src": "https://camo.githubusercontent.com/f4fb0df8b33a1603fc25845a7d33c81a1171df90/68747470733a2f2f7472617669732d63692e6f72672f6d616d652f7175696e652d72656c61792e7376673f6272616e63683d6d6173746572", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "398052507", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
         "src": "https://camo.githubusercontent.com/9e9260ea69b3059a3d8cb511e50b0962a6df1a6e/68747470733a2f2f7261772e6769746875622e636f6d2f6d616d652f7175696e652d72656c61792f6d61737465722f6c616e67732e706e67", 
         "credit": "", 
         "height": "0", 
-        "image_id": "2", 
+        "image_id": "1", 
         "item_id": "398052507", 
         "caption": "", 
         "width": "0"
