@@ -13436,10 +13436,10 @@
   {
     "videos": {
       "1": {
-        "src": "https://www.youtube.com/embed/VQ2bjy71PAc?feature=oembed", 
-        "vid": "VQ2bjy71PAc", 
+        "src": "https://www.youtube.com/embed/t4kyRyKyOpo?feature=oembed&enablejsapi=1&origin=http://safe.txmblr.com&wmode=opaque", 
+        "vid": "t4kyRyKyOpo", 
         "video_id": "1", 
-        "height": "393", 
+        "height": "394", 
         "width": "700", 
         "item_id": "148613092", 
         "type": "1"
@@ -13448,15 +13448,15 @@
     "is_article": "0", 
     "image": {
       "item_id": "148613092", 
-      "src": "http://img.youtube.com/vi/VQ2bjy71PAc/0.jpg", 
+      "src": "http://img.youtube.com/vi/t4kyRyKyOpo/0.jpg", 
       "height": "360", 
       "width": "480"
     }, 
     "excerpt": "Instead of TV, you should watch...", 
-    "word_count": "14", 
+    "word_count": "24", 
     "images": {
       "1": {
-        "src": "http://img.youtube.com/vi/VQ2bjy71PAc/0.jpg", 
+        "src": "http://img.youtube.com/vi/t4kyRyKyOpo/0.jpg", 
         "credit": "", 
         "height": "360", 
         "image_id": "1", 
@@ -57517,6 +57517,35 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1556, 
+    "time_updated": "1419604718", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "In a paper released this month, Michael Klug and James Bagrow of the University of Vermont took a deep mathematical dive into Github data looking for the magic that makes teams successful.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "669", 
+    "authors": {
+      "13024419": {
+        "item_id": "679369427", 
+        "url": "http://research.gigaom.com/analyst/stowe-boyd/", 
+        "author_id": "13024419", 
+        "name": "Stowe Boyd"
+      }
+    }, 
+    "given_title": "Part 1: What makes teams successful? \u2014 Gigaom Research", 
+    "resolved_url": "http://research.gigaom.com/2014/07/part-1-what-makes-teams-successful/", 
+    "is_article": "1", 
+    "item_id": "679369427", 
+    "time_added": "1419604718", 
+    "resolved_id": "679369427", 
+    "given_url": "http://research.gigaom.com/2014/07/part-1-what-makes-teams-successful/", 
+    "resolved_title": "Part 1: What makes teams successful?"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 818, 
     "time_updated": "1397437536", 
@@ -83297,7 +83326,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
