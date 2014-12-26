@@ -6783,6 +6783,27 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1549, 
+    "time_updated": "1419559879", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "2400 Webberville offers an amazing re-use of land. This horizontal mixed use project consists of ~10, 500\r sqft of commercial space, ~2500 SqFt restaurant and two retail/office spaces.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "72", 
+    "given_title": "2400 Webberville Rd #A, Austin, TX 78702 - MLS/Listing # 4557902", 
+    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&searchkey=845b3a8c-9eff-74de-e7d6-3885bd5c79e0&property_id=4557902", 
+    "is_article": "1", 
+    "item_id": "799811715", 
+    "time_added": "1419559878", 
+    "resolved_id": "799811715", 
+    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&searchkey=845b3a8c-9eff-74de-e7d6-3885bd5c79e0&property_id=4557902", 
+    "resolved_title": "Real Estate"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 1195, 
     "time_updated": "1405632582", 
@@ -20760,6 +20781,52 @@
     "resolved_title": "Three Questions Successful People Ask"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "799819868", 
+      "src": "http://assets.wolfnet.com/reciprocity_logos/MLSLogo.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Disclaimer: All information deemed reliable but not guaranteed and should be independently verified. All properties are subject to prior sale, change or withdrawal.", 
+    "word_count": "77", 
+    "images": {
+      "1": {
+        "src": "http://assets.wolfnet.com/reciprocity_logos/MLSLogo.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "799819868", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1419561087", 
+    "status": "0", 
+    "sort_id": 1551, 
+    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=3346418&searchkey=846c862b-f31d-60ff-26df-c18311541278", 
+    "authors": {
+      "5127440": {
+        "item_id": "799819868", 
+        "url": "", 
+        "author_id": "5127440", 
+        "name": "Realty Austin"
+      }
+    }, 
+    "item_id": "799819868", 
+    "resolved_id": "799819868", 
+    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=3346418&searchkey=846c862b-f31d-60ff-26df-c18311541278", 
+    "resolved_title": "Real Estate", 
+    "is_index": "0", 
+    "time_updated": "1419561088", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "3010 Michoacan Dr, Del Valle, TX 78617 - MLS/Listing # 3346418", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1262, 
@@ -25728,6 +25795,27 @@
     "resolved_id": "299584991", 
     "given_url": "http://www.rationalskepticism.org/general-chat/tyrannosaurus-rex-lived-closer-to-the-moon-landing-t21646.html", 
     "resolved_title": "Tyrannosaurus rex lived closer to the moon landing"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1550, 
+    "time_updated": "1419559994", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Lot is behind the church. This lot is land-locked and Seller is willing to negotiate with one of the neighbors for an easement.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "23", 
+    "given_title": "1114 Northwestern Ave, Austin, TX 78702 - MLS/Listing # 2172429", 
+    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=2172429&searchkey=845b3a8c-9eff-74de-e7d6-3885bd5c79e0", 
+    "is_article": "1", 
+    "item_id": "799812548", 
+    "time_added": "1419559993", 
+    "resolved_id": "799812548", 
+    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=2172429&searchkey=845b3a8c-9eff-74de-e7d6-3885bd5c79e0", 
+    "resolved_title": "Real Estate"
   }, 
   {
     "status": "0", 
@@ -32572,6 +32660,44 @@
     "resolved_id": "19099996", 
     "given_url": "https://www.django-cms.org/en/", 
     "resolved_title": "Enterprise Open-Source CMS"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1553, 
+    "time_updated": "1419561177", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Disclaimer: All information deemed reliable but not guaranteed and should be independently verified. All properties are subject to prior sale, change or withdrawal.", 
+    "image": {
+      "item_id": "799820486", 
+      "src": "http://assets.wolfnet.com/reciprocity_logos/MLSLogo.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "77", 
+    "images": {
+      "1": {
+        "src": "http://assets.wolfnet.com/reciprocity_logos/MLSLogo.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "799820486", 
+        "caption": "Armstrong Group, LC.", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Lot 2 Valle Verde Dr, Del Valle, TX 78617 - MLS/Listing # 1895411", 
+    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=1895411&searchkey=846c862b-f31d-60ff-26df-c18311541278", 
+    "is_article": "1", 
+    "item_id": "799820486", 
+    "time_added": "1419561176", 
+    "resolved_id": "799820486", 
+    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=1895411&searchkey=846c862b-f31d-60ff-26df-c18311541278", 
+    "resolved_title": "Real Estate"
   }, 
   {
     "status": "0", 
@@ -59484,6 +59610,27 @@
     "resolved_title": "Campaign finance is key issue"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1552, 
+    "time_updated": "1419561128", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "**Very Light Restrictions** 5+ Acre Lot (Flag Shaped) and East of Circuit of the Americas. Located away from the main road and very quiet. Lots of possibilities; Build your dream home, raise livestock, great for multiple homes...Will move fast with the high demand in Del Valle.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "53", 
+    "given_title": "8245 Linden Rd, Del Valle, TX 78617 - MLS/Listing # 7054566", 
+    "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=7054566&searchkey=846c862b-f31d-60ff-26df-c18311541278", 
+    "is_article": "1", 
+    "item_id": "799820133", 
+    "time_added": "1419561126", 
+    "resolved_id": "799820133", 
+    "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=7054566&searchkey=846c862b-f31d-60ff-26df-c18311541278", 
+    "resolved_title": "Real Estate"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "305488778", 
@@ -68163,7 +68310,7 @@
       "width": "190"
     }, 
     "excerpt": "On November 12, 1971, the day before NASA\u2019s Mariner 9 mission reached Mars and became the first spacecraft to orbit another planet, Caltech Planetary Science professor Bruce Murray summoned a formidable panel of thinkers to discuss the implications of the historic event.", 
-    "word_count": "1749", 
+    "word_count": "1721", 
     "images": {
       "1": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman.jpg", 
@@ -68208,10 +68355,10 @@
     "sort_id": 15, 
     "resolved_url": "http://www.brainpickings.org/index.php/2012/08/20/mars-and-the-mind-of-man-sagan-bradbury-clarke-caltech-1971/", 
     "authors": {
-      "5731": {
+      "23602465": {
         "item_id": "209796472", 
-        "url": "http://www.brainpickings.org/index.php/author/mpopova/", 
-        "author_id": "5731", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
         "name": "Maria Popova"
       }
     }, 
@@ -84673,6 +84820,27 @@
     "favorite": "0", 
     "given_title": "Colour Mixing: The Mystery of Magenta\u00a0\nWhy doesn\u2019t magenta...", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1548, 
+    "time_updated": "1419558662", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "RARE LOT IN HOT EAST AUSTIN $128,000.00", 
+    "resolved_url": "https://austin.craigslist.org/reo/4786100827.html", 
+    "is_article": "0", 
+    "item_id": "799803302", 
+    "time_added": "1419558661", 
+    "resolved_id": "799803302", 
+    "given_url": "https://austin.craigslist.org/reo/4786100827.html", 
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
