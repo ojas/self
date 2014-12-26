@@ -27178,6 +27178,15 @@
         "caption": "A postcard shows \u201cCanada\u2019s National Ukrainian Festival Choir\u201d in Dauphin, Man. During the 1970s, the prairie community was home to one of the country's largest Ukrainian populations.", 
         "width": "0"
       }, 
+      "5": {
+        "src": "http://i0.huffpost.com/gen/2399536/thumbs/n-MEDIA-STREAMING-DEVICES-large300.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "798116415", 
+        "caption": "", 
+        "width": "282"
+      }, 
       "4": {
         "src": "http://i.huffpost.com/gen/2404080/thumbs/o-DAUPHIN-MANITOBA-900.jpg", 
         "credit": "Photo: Getty Images", 
@@ -27193,6 +27202,14 @@
     "status": "0", 
     "sort_id": 1544, 
     "resolved_url": "http://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html", 
+    "authors": {
+      "27865329": {
+        "item_id": "798116415", 
+        "url": "", 
+        "author_id": "27865329", 
+        "name": "Canadian Politicians In"
+      }
+    }, 
     "item_id": "798116415", 
     "resolved_id": "798102660", 
     "given_url": "http://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html?utm_hp_ref=canada-business", 
