@@ -14214,14 +14214,22 @@
     "resolved_title": "Details about 1996 Porsche 911"
   }, 
   {
-    "is_article": "1", 
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 357, 
+    "time_updated": "1365131249", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "I know it is coming, and I do not fear it, because I believe there is nothing on the other side of death to fear. I hope to be spared as much pain as possible on the approach path. I was perfectly content before I was born, and I think of death as the same state.", 
     "image": {
       "item_id": "156997741", 
       "src": "http://media.salon.com/2013/04/roger_ebert2-620x412.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "I know it is coming, and I do not fear it, because I believe there is nothing on the other side of death to fear. I hope to be spared as much pain as possible on the approach path. I was perfectly content before I was born, and I think of death as the same state.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
     "word_count": "1347", 
     "images": {
       "1": {
@@ -14234,36 +14242,14 @@
         "width": "0"
       }
     }, 
-    "has_video": "0", 
-    "time_added": "1365131249", 
-    "status": "0", 
-    "sort_id": 357, 
+    "given_title": "I do not fear death - Salon.com", 
     "resolved_url": "http://www.salon.com/2011/09/15/roger_ebert/", 
-    "authors": {
-      "24277143": {
-        "item_id": "156997741", 
-        "url": "http://authors.simonandschuster.com/Matthew-Thomas/427003006", 
-        "author_id": "24277143", 
-        "name": "Matthew Thomas"
-      }, 
-      "12329875": {
-        "item_id": "156997741", 
-        "url": "https://www.facebook.com/zadiesmithauthor", 
-        "author_id": "12329875", 
-        "name": "Zadie Smith"
-      }
-    }, 
+    "is_article": "1", 
     "item_id": "156997741", 
+    "time_added": "1365131249", 
     "resolved_id": "156997741", 
     "given_url": "http://www.salon.com/2011/09/15/roger_ebert/", 
-    "resolved_title": "I do not fear death", 
-    "is_index": "0", 
-    "time_updated": "1365131249", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "I do not fear death - Salon.com", 
-    "has_image": "1"
+    "resolved_title": "I do not fear death"
   }, 
   {
     "videos": {
