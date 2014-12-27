@@ -43199,6 +43199,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1560, 
+    "time_updated": "1419699473", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "With everything set up and ready to go the welder was lifted up about 10 inches, then set back down on the floor. The reason?. .. The poly rope is hard to handle and control - too thin and slippery to hand grip properly.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "200", 
+    "given_title": "General Purpose Rope Hoist", 
+    "resolved_url": "http://www.harborfreight.com/general-purpose-rope-hoist-60544.html", 
+    "is_article": "1", 
+    "item_id": "800911509", 
+    "time_added": "1419699472", 
+    "resolved_id": "800911509", 
+    "given_url": "http://www.harborfreight.com/general-purpose-rope-hoist-60544.html", 
+    "resolved_title": "General Purpose Rope Hoist"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 786, 
     "time_updated": "1382564825", 
     "time_favorited": "0", 
@@ -71807,7 +71828,7 @@
       "width": "640"
     }, 
     "excerpt": "Mister Rogers summered in a modest, gray, shake-shingled house on the edge of Nantucket. My mother rented a tiny cottage next door. So Mister Rogers really was my neighbor.  I was a young MTV News producer and sometime singer/songwriter. We met on the weekend of my 30th birthday in September 2001.", 
-    "word_count": "1869", 
+    "word_count": "1878", 
     "images": {
       "1": {
         "src": "http://mentalfloss.com/sites/default/files/styles/article_640x430/public/mister-rogers-and-me.jpg", 
