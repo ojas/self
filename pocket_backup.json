@@ -11683,6 +11683,151 @@
     }
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "747860177", 
+      "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*C6mFN-PTkuzVcIhnS1_LKA.jpeg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Despite the superabundance of DIY tools that can be found in books and on the internet, very few designs approach dome building from a non-shelter perspective.  Rightly so, the common thought is to design a connector that\u2019s as rigid as possible, to prevent any mechanical wiggling that could occur.", 
+    "word_count": "1517", 
+    "images": {
+      "11": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*xBk729kfcu3k13Shc1x7Ug.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "747860177", 
+        "caption": "Testing the new connector design in class", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*AMxnYU-nOz8XMlMrdVpROQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "747860177", 
+        "caption": "Weaving the materials together", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*fvl52-dEoJ_SlTu2N7FfEA.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "747860177", 
+        "caption": "A Small DOME KIT with our cat, Drip-dang", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*C6mFN-PTkuzVcIhnS1_LKA.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "747860177", 
+        "caption": "A 2V icosahedron geodesic dome made with 3d-printed connectors", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*u_T-72yHSislkEOEPmLzxQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "747860177", 
+        "caption": "A larger 2V icosahedron, built with crowdsourced, 3d-printed connectors", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*mH7dE4T43CUg7bZw5rL8nw.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "747860177", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*iO30zs16Zh1pzennfAILOw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "747860177", 
+        "caption": "Lots of flexible 3d-printed dome connectors. These took forever to print.", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*O1RTnLWpjhahVNxbCeGzcQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "747860177", 
+        "caption": "2nd generation 3d-printed connector design", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*8-AtjwucLICxZyPgdevFgQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "747860177", 
+        "caption": "Lots of hand-assembled dome connectors", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*Jx5LDtLO1jAoVT0GIn3sVg.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "747860177", 
+        "caption": "Super cheap, reusable dome connector", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*gEg-WgHndgS2sdwGJ9xcNg.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "747860177", 
+        "caption": "Dome connectors made from EPDM rubber", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*ihsGtcr9SdvtJeAZCn7Wbg.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "747860177", 
+        "caption": "Harvesting foam from flip flops", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1419693298", 
+    "status": "0", 
+    "sort_id": 1559, 
+    "resolved_url": "https://medium.com/dome-kit/slow-flexible-cheap-5598ca91fb38", 
+    "authors": {
+      "27880780": {
+        "item_id": "747860177", 
+        "url": "https://medium.com/@objcts", 
+        "author_id": "27880780", 
+        "name": "mfelix"
+      }
+    }, 
+    "item_id": "747860177", 
+    "resolved_id": "747860177", 
+    "given_url": "https://medium.com/dome-kit/slow-flexible-cheap-5598ca91fb38", 
+    "resolved_title": "Slow, flexible & cheap", 
+    "is_index": "0", 
+    "time_updated": "1419693298", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Slow, flexible & cheap \u2014 DOME KIT \u2014 Medium", 
+    "has_image": "1"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/v/PCu_BNNI5x4", 
@@ -27164,6 +27309,15 @@
         "caption": "A postcard shows \u201cCanada\u2019s National Ukrainian Festival Choir\u201d in Dauphin, Man. During the 1970s, the prairie community was home to one of the country's largest Ukrainian populations.", 
         "width": "0"
       }, 
+      "5": {
+        "src": "http://i0.huffpost.com/gen/2399536/thumbs/n-MEDIA-STREAMING-DEVICES-large300.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "798116415", 
+        "caption": "", 
+        "width": "282"
+      }, 
       "4": {
         "src": "http://i.huffpost.com/gen/2404080/thumbs/o-DAUPHIN-MANITOBA-900.jpg", 
         "credit": "Photo: Getty Images", 
@@ -39162,8 +39316,8 @@
     "image": {
       "item_id": "438211560", 
       "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
-      "height": "400", 
-      "width": "600"
+      "height": "312", 
+      "width": "468"
     }, 
     "excerpt": "Melissa Owen, center, in her new coffeehouse in Plano, Tex., which opened with help from a career mentor.    GOD, as we know, works in mysterious ways. Back in the spring of 2011, Gerry Owen, an assistant pastor at a megachurch in Garland, Tex.", 
     "word_count": "3623", 
@@ -39171,11 +39325,11 @@
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg", 
         "credit": "Rex C. Curry for The New York Times", 
-        "height": "400", 
+        "height": "312", 
         "image_id": "1", 
         "item_id": "438211560", 
         "caption": "Melissa Owen, center, in her new coffeehouse in Plano, Tex., which opened with help from a career mentor. ", 
-        "width": "600"
+        "width": "468"
       }, 
       "3": {
         "src": "http://graphics8.nytimes.com/images/2013/09/15/business/15-MENTOR-JP4/15-MENTOR-JP4-articleInline.jpg", 
