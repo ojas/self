@@ -11685,6 +11685,52 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "801605459", 
+      "src": "http://harry.me/images/headers/paxos.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "This is an explanation and demonstration of an extraordinarily neat algorithm called Paxos. Paxos is a family of algorithms for teaching a whole bunch of decidedly unreliable processes to reliably decide on stuff.", 
+    "word_count": "2977", 
+    "images": {
+      "1": {
+        "src": "http://harry.me/images/headers/paxos.jpg", 
+        "credit": "photo  Carter Brundage", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "801605459", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1419790399", 
+    "status": "0", 
+    "sort_id": 1564, 
+    "resolved_url": "http://harry.me/blog/2014/12/27/neat-algorithms-paxos/?hn=1", 
+    "authors": {
+      "10211205": {
+        "item_id": "801605459", 
+        "url": "http://harry.me/about/", 
+        "author_id": "10211205", 
+        "name": "Harry Brundage"
+      }
+    }, 
+    "item_id": "801605459", 
+    "resolved_id": "801605459", 
+    "given_url": "http://harry.me/blog/2014/12/27/neat-algorithms-paxos/?hn=1", 
+    "resolved_title": "Neat Algorithms - Paxos", 
+    "is_index": "0", 
+    "time_updated": "1419790399", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Neat Algorithms - Paxos - Will You Harry Me", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "747860177", 
       "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*C6mFN-PTkuzVcIhnS1_LKA.jpeg", 
       "height": "0", 
@@ -71003,7 +71049,7 @@
       "width": "318"
     }, 
     "excerpt": "Why did Keynes\u2019 promised utopia \u2013 still being eagerly awaited in the \u201860s \u2013 never materialise? The standard line today is that he didn\u2019t figure in the massive increase in consumerism. Given the choice between less hours and more toys and pleasures, we\u2019ve collectively chosen the latter.", 
-    "word_count": "1895", 
+    "word_count": "1861", 
     "images": {
       "1": {
         "src": "http://strikemag.org/wp-content/uploads/2013/08/exploitedape.jpg", 
@@ -71042,7 +71088,7 @@
       }
     }, 
     "sort_id": 696, 
-    "resolved_url": "http://strikemag.org/bullshit-jobs", 
+    "resolved_url": "http://strikemag.org/bullshit-jobs/", 
     "authors": {
       "21207940": {
         "item_id": "419511321", 
