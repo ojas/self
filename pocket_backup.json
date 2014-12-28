@@ -18598,6 +18598,97 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "524923659", 
+      "src": "http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20140118_FBD001_0.jpg", 
+      "height": "335", 
+      "width": "595"
+    }, 
+    "excerpt": "IN 1930, when the world was \u201csuffering\u2026from a bad attack of economic pessimism\u201d, John Maynard Keynes wrote a broadly optimistic essay, \u201cEconomic Possibilities for our Grandchildren\u201d.", 
+    "word_count": "3783", 
+    "images": {
+      "1": {
+        "src": "http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20140118_FBD001_0.jpg", 
+        "credit": "", 
+        "height": "335", 
+        "image_id": "1", 
+        "item_id": "524923659", 
+        "caption": "", 
+        "width": "595"
+      }, 
+      "3": {
+        "src": "http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/print-edition/20140118_FBC169.png", 
+        "credit": "", 
+        "height": "562", 
+        "image_id": "3", 
+        "item_id": "524923659", 
+        "caption": "", 
+        "width": "580"
+      }, 
+      "2": {
+        "src": "http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/print-edition/20140118_FBC157.png", 
+        "credit": "", 
+        "height": "598", 
+        "image_id": "2", 
+        "item_id": "524923659", 
+        "caption": "", 
+        "width": "580"
+      }, 
+      "5": {
+        "src": "http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/print-edition/20140118_FBC154.png", 
+        "credit": "", 
+        "height": "562", 
+        "image_id": "5", 
+        "item_id": "524923659", 
+        "caption": "", 
+        "width": "580"
+      }, 
+      "4": {
+        "src": "http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/print-edition/20140118_FBC152.png", 
+        "credit": "", 
+        "height": "998", 
+        "image_id": "4", 
+        "item_id": "524923659", 
+        "caption": "", 
+        "width": "580"
+      }, 
+      "6": {
+        "src": "http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20140118_FBD002_0.jpg", 
+        "credit": "", 
+        "height": "335", 
+        "image_id": "6", 
+        "item_id": "524923659", 
+        "caption": "", 
+        "width": "595"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1419780041", 
+    "status": "0", 
+    "sort_id": 1561, 
+    "resolved_url": "http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less", 
+    "authors": {
+      "15631441": {
+        "item_id": "524923659", 
+        "url": "http://www.economist.com/printedition/2014-01-18", 
+        "author_id": "15631441", 
+        "name": "From the print"
+      }
+    }, 
+    "item_id": "524923659", 
+    "resolved_id": "524923659", 
+    "given_url": "http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less", 
+    "resolved_title": "The future of jobs", 
+    "is_index": "0", 
+    "time_updated": "1419780041", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The future of jobs: The onrushing wave | The Economist", 
+    "has_image": "1"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/v/yx4bCUNaCYY", 
