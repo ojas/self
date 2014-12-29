@@ -37606,26 +37606,26 @@
     "time_updated": "1416791934", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Sorry. There used to be a blog post here, but I decided to remove it.  Please see my list of blog posts to find another.", 
+    "excerpt": "Most of the time I feel smart, successful, and driven - like I\u2019ve got it all figured out.  But last month a bunch of stuff knocked me on my ass. I\u2019ve never felt so wrong.", 
     "image": {
       "item_id": "710329604", 
-      "src": "http://sivers.org/images/kids-raft.jpg", 
-      "height": "0", 
-      "width": "0"
+      "src": "http://sivers.org/images/whirlpool.jpg", 
+      "height": "469", 
+      "width": "700"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "25", 
+    "word_count": "358", 
     "images": {
       "1": {
-        "src": "http://sivers.org/images/kids-raft.jpg", 
+        "src": "http://sivers.org/images/whirlpool.jpg", 
         "credit": "", 
-        "height": "0", 
+        "height": "469", 
         "image_id": "1", 
         "item_id": "710329604", 
         "caption": "", 
-        "width": "0"
+        "width": "700"
       }
     }, 
     "given_title": "I love being wrong | Derek Sivers", 
@@ -37635,7 +37635,7 @@
     "time_added": "1410279643", 
     "resolved_id": "710329604", 
     "given_url": "http://sivers.org/lw", 
-    "resolved_title": "Sorry! Removed."
+    "resolved_title": "I love being wrong"
   }, 
   {
     "is_article": "0", 
