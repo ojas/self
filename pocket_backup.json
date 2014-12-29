@@ -28429,21 +28429,21 @@
     "is_article": "1", 
     "image": {
       "item_id": "799927183", 
-      "src": "http://i.telegraph.co.uk/multimedia/archive/01201/PF-Elderlybridge_1201447c.jpg", 
-      "height": "288", 
-      "width": "460"
+      "src": "http://i.telegraph.co.uk/multimedia/archive/03150/elderly-couple_3150450b.jpg", 
+      "height": "387", 
+      "width": "620"
     }, 
     "excerpt": "Newspapers can seem like a rude intrusion into the Christmas holidays. We    celebrate peace, goodwill and family \u2013 and then along come the headlines,    telling us what\u2019s going wrong in the world.", 
     "word_count": "904", 
     "images": {
       "1": {
-        "src": "http://i.telegraph.co.uk/multimedia/archive/01201/PF-Elderlybridge_1201447c.jpg", 
-        "credit": "\r\n\t\t\t\t\t\t\t\t\t\t\tWe are living longer, healthier lives than ever before ", 
-        "height": "288", 
+        "src": "http://i.telegraph.co.uk/multimedia/archive/03150/elderly-couple_3150450b.jpg", 
+        "credit": "Photo: Alamy", 
+        "height": "387", 
         "image_id": "1", 
         "item_id": "799927183", 
         "caption": "We are living longer, healthier lives than ever before", 
-        "width": "460"
+        "width": "620"
       }
     }, 
     "has_video": "0", 
@@ -30468,7 +30468,7 @@
     "has_video": "0", 
     "word_count": "180", 
     "given_title": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!", 
-    "resolved_url": "http://microjs.com/#functional", 
+    "resolved_url": "http://microjs.com/", 
     "is_article": "0", 
     "item_id": "79529069", 
     "time_added": "1405617157", 
@@ -52431,7 +52431,7 @@
     "time_added": "1419530936", 
     "status": "0", 
     "sort_id": 1545, 
-    "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html", 
+    "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html#b12g29t20w14", 
     "authors": {
       "3361867": {
         "item_id": "797702078", 
@@ -83713,7 +83713,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
