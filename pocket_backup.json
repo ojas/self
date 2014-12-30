@@ -28206,6 +28206,44 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1571, 
+    "time_updated": "1419982072", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Blaine Kern's Mardi Gras World 1380 Port of New Orleans Place New Orleans, LA 70130", 
+    "image": {
+      "item_id": "311828638", 
+      "src": "http://thebukuproject.com/assets-new/map.jpg", 
+      "height": "0", 
+      "width": "100"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "13", 
+    "images": {
+      "1": {
+        "src": "http://thebukuproject.com/assets-new/map.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "311828638", 
+        "caption": "", 
+        "width": "100"
+      }
+    }, 
+    "given_title": "Getting Here - BUKU Music   Art Project", 
+    "resolved_url": "http://thebukuproject.com/info/getting-here", 
+    "is_article": "0", 
+    "item_id": "311828638", 
+    "time_added": "1419982072", 
+    "resolved_id": "311828638", 
+    "given_url": "http://thebukuproject.com/info/getting-here/", 
+    "resolved_title": "Getting Here"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "https://www.youtube.com/embed/ljRmSEK-ALk?enablejsapi=1&wmode=transparent&modestbranding=1&rel=0&fs=1&showinfo=1", 
@@ -31017,7 +31055,7 @@
       "width": "190"
     }, 
     "excerpt": "In between weighing the pros and cons of marriage, grumbling to his friends, and changing our understanding of human emotion, Charles Darwin spent a decade perfecting a radical scientific theory of how the world worked.", 
-    "word_count": "596", 
+    "word_count": "538", 
     "images": {
       "1": {
         "src": "http://www.brainpickings.org/wp-content/uploads/2013/04/dailyrituals.jpg", 
@@ -31025,7 +31063,7 @@
         "height": "0", 
         "image_id": "1", 
         "item_id": "354568338", 
-        "caption": "", 
+        "caption": "Illustration from The Smithsonian's graphic biography of Darwin. Click image for more.", 
         "width": "190"
       }, 
       "3": {
@@ -31034,7 +31072,7 @@
         "height": "0", 
         "image_id": "3", 
         "item_id": "354568338", 
-        "caption": "\n", 
+        "caption": "Darwin's new study at Down House, engraved shortly after his death by Axel Haig. Image courtesy Darwin Online.", 
         "width": "480"
       }, 
       "2": {
@@ -31043,7 +31081,7 @@
         "height": "0", 
         "image_id": "2", 
         "item_id": "354568338", 
-        "caption": "\n", 
+        "caption": "Illustration from The Smithsonian's graphic biography of Darwin. Click image for more.", 
         "width": "480"
       }
     }, 
@@ -31053,10 +31091,10 @@
     "sort_id": 453, 
     "resolved_url": "http://www.brainpickings.org/index.php/2013/05/10/charles-darwin-daily-routine/", 
     "authors": {
-      "5731": {
+      "23602465": {
         "item_id": "354568338", 
-        "url": "http://www.brainpickings.org/index.php/author/mpopova/", 
-        "author_id": "5731", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
         "name": "Maria Popova"
       }
     }, 
@@ -67981,17 +68019,31 @@
     "given_url": "https://www.google.com/search?q=it+not+the+end+of+the+world+it+just+the+start+of+me+and+you+lyrics&oq=it%27s+not+the+end+of+the+world+its+just+the+start&aqs=chrome.2.69i57j0l2.8446j0j7&sourceid=chrome&espv=210&es_sm=119&ie=UTF-8"
   }, 
   {
-    "status": "1", 
-    "is_index": "1", 
-    "sort_id": 44, 
-    "time_updated": "1348063457", 
-    "time_favorited": "0", 
-    "time_read": "1348063457", 
+    "is_article": "1", 
+    "image": {
+      "item_id": "185909912", 
+      "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
     "excerpt": "If you live in America in the 21st century you've probably had to listen to a lot of people tell you how busy they are. It's become the default response when you ask anyone how they're doing: \"Busy!\" \"So busy.\" \"Crazy busy.\" It is, pretty obviously, a boast disguised as a complaint.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
     "word_count": "1664", 
+    "images": {
+      "1": {
+        "src": "http://graphics8.nytimes.com/images/2012/07/01/opinion/01anxietyimg/01anxietyimg-articleLarge.jpg", 
+        "credit": "Brecht Vandenbroucke", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "185909912", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1348062671", 
+    "status": "1", 
+    "sort_id": 44, 
+    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
     "authors": {
       "185472": {
         "item_id": "185909912", 
@@ -68000,14 +68052,17 @@
         "name": "TIM KREIDER"
       }
     }, 
-    "given_title": "The 'Busy' Trap - NYTimes.com", 
-    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
-    "is_article": "1", 
     "item_id": "185909912", 
-    "time_added": "1348062671", 
     "resolved_id": "185694949", 
     "given_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/?smid=fb-share", 
-    "resolved_title": "The 'Busy' Trap"
+    "resolved_title": "The 'Busy' Trap", 
+    "is_index": "0", 
+    "time_updated": "1348063457", 
+    "time_favorited": "0", 
+    "time_read": "1348063457", 
+    "favorite": "0", 
+    "given_title": "The 'Busy' Trap - NYTimes.com", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
@@ -83891,7 +83946,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
