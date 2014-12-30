@@ -29593,17 +29593,17 @@
     "excerpt": "Quality happens only when someone is responsible for it.", 
     "image": {
       "item_id": "209770958", 
-      "src": "http://queue.acm.org/img/q%20stamp_small.jpg", 
+      "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
       "height": "45", 
       "width": "26"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3112", 
+    "word_count": "3343", 
     "images": {
       "1": {
-        "src": "http://queue.acm.org/img/q%20stamp_small.jpg", 
+        "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
         "credit": "", 
         "height": "45", 
         "image_id": "1", 
@@ -29613,7 +29613,7 @@
       }
     }, 
     "given_title": "A Generation Lost in the Bazaar - ACM Queue", 
-    "resolved_url": "http://queue.acm.org/detail.cfm?id=2349257&ref=fullrss", 
+    "resolved_url": "https://queue.acm.org/detail.cfm?id=2349257&ref=fullrss", 
     "is_article": "1", 
     "item_id": "209770958", 
     "time_added": "1419904486", 
@@ -54465,99 +54465,19 @@
     "time_updated": "1403447618", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "I remember fondly two years ago, when 2-Factor-Authentication (2FA) became popular and well used across major web applications (Google, Facebook, Yahoo and others). I found, my naive sixteen year old self unable to come to terms for why the genius idea had not been thought of before.", 
-    "image": {
-      "item_id": "620183391", 
-      "src": "http://i.imgur.com/lHkwcVw.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "has_image": "1", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3853", 
-    "images": {
-      "1": {
-        "src": "http://i.imgur.com/lHkwcVw.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "620183391", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://i.imgur.com/oX74WEH.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "620183391", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://i.imgur.com/dZmRnOt.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "620183391", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "http://i.imgur.com/IbpgwNh.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "620183391", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://i.imgur.com/CaNH8Ue.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "620183391", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "7": {
-        "src": "http://i.imgur.com/Jn7lU7t.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "620183391", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "http://i.imgur.com/yWby4wc.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "620183391", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "http://i.imgur.com/gMSTyBy.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "620183391", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
+    "word_count": "0", 
     "given_title": "How I bypassed 2-Factor-Authentication on Google, Facebook, Yahoo, LinkedIn", 
     "resolved_url": "http://shubh.am/how-i-bypassed-2-factor-authentication-on-google-yahoo-linkedin-and-many-others/", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "620183391", 
     "time_added": "1400341121", 
     "resolved_id": "620183391", 
     "given_url": "http://shubh.am/how-i-bypassed-2-factor-authentication-on-google-yahoo-linkedin-and-many-others/", 
-    "resolved_title": "How I bypassed 2-Factor-Authentication on Google, Facebook, Yahoo, LinkedIn, and many others."
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -69044,7 +68964,7 @@
     "has_video": "0", 
     "word_count": "3987", 
     "given_title": "Postgres full-text search is Good Enough!", 
-    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/#1", 
+    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/", 
     "is_article": "1", 
     "item_id": "573355474", 
     "time_added": "1411975568", 
