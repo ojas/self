@@ -9041,20 +9041,20 @@
     "time_read": "0", 
     "image": {
       "item_id": "543401182", 
-      "src": "http://img.youtube.com/vi/YJMr6nrl7c0/0.jpg", 
-      "height": "360", 
-      "width": "480"
+      "src": "http://a1.mzstatic.com/us/r30/Purple1/v4/f9/00/71/f900715a-082d-7fda-8f6a-0b14bc8f4e19/ProductPageIcon.512x512-75.png", 
+      "height": "512", 
+      "width": "512"
     }, 
     "favorite": "0", 
     "images": {
       "1": {
-        "src": "http://img.youtube.com/vi/YJMr6nrl7c0/0.jpg", 
+        "src": "http://a1.mzstatic.com/us/r30/Purple1/v4/f9/00/71/f900715a-082d-7fda-8f6a-0b14bc8f4e19/ProductPageIcon.512x512-75.png", 
         "credit": "", 
-        "height": "360", 
+        "height": "512", 
         "image_id": "1", 
         "item_id": "543401182", 
         "caption": "", 
-        "width": "480"
+        "width": "512"
       }
     }, 
     "given_title": "Winter Caravanning in the Outer Hebrides - YouTube", 
@@ -28857,20 +28857,20 @@
     "time_read": "0", 
     "image": {
       "item_id": "499206072", 
-      "src": "http://img.youtube.com/vi/YJMr6nrl7c0/0.jpg", 
-      "height": "360", 
-      "width": "480"
+      "src": "http://a1.mzstatic.com/us/r30/Purple1/v4/f9/00/71/f900715a-082d-7fda-8f6a-0b14bc8f4e19/ProductPageIcon.512x512-75.png", 
+      "height": "512", 
+      "width": "512"
     }, 
     "favorite": "0", 
     "images": {
       "1": {
-        "src": "http://img.youtube.com/vi/YJMr6nrl7c0/0.jpg", 
+        "src": "http://a1.mzstatic.com/us/r30/Purple1/v4/f9/00/71/f900715a-082d-7fda-8f6a-0b14bc8f4e19/ProductPageIcon.512x512-75.png", 
         "credit": "", 
-        "height": "360", 
+        "height": "512", 
         "image_id": "1", 
         "item_id": "499206072", 
         "caption": "", 
-        "width": "480"
+        "width": "512"
       }
     }, 
     "given_title": "AnDevCon: A Deep Dive into RenderScript - NewCircle", 
@@ -29536,6 +29536,44 @@
     "resolved_id": "565284081", 
     "given_url": "https://www.facebook.com/photo.php?fbid=801598796534401&set=a.301251116569174.86774.123916950969259&type=1&theater", 
     "resolved_title": "Timeline Photos"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1565, 
+    "time_updated": "1419904486", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Quality happens only when someone is responsible for it.", 
+    "image": {
+      "item_id": "209770958", 
+      "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
+      "height": "45", 
+      "width": "26"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "3219", 
+    "images": {
+      "1": {
+        "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
+        "credit": "", 
+        "height": "45", 
+        "image_id": "1", 
+        "item_id": "209770958", 
+        "caption": "", 
+        "width": "26"
+      }
+    }, 
+    "given_title": "A Generation Lost in the Bazaar - ACM Queue", 
+    "resolved_url": "https://queue.acm.org/detail.cfm?id=2349257&ref=fullrss", 
+    "is_article": "1", 
+    "item_id": "209770958", 
+    "time_added": "1419904486", 
+    "resolved_id": "209770958", 
+    "given_url": "https://queue.acm.org/detail.cfm?id=2349257&ref=fullrss", 
+    "resolved_title": "A Generation Lost in the Bazaar"
   }, 
   {
     "status": "1", 
@@ -39660,6 +39698,44 @@
     "resolved_id": "216771821", 
     "given_url": "http://www.upworthy.com/why-you-should-thank-the-canadians-for-labor-day?c=rb1", 
     "resolved_title": "Why You Should Thank The Canadians For Labor Day"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1566, 
+    "time_updated": "1419904711", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Publication date: 7 December 2014 Last modified 07-Dec-2014. A \"skeuomorph\" (pronounced skew-o-morf) is a thing which is different from another thing, but whose form imitates the other thing. The thing being imitated is usually an older version of the object featuring the skeuomorph.", 
+    "image": {
+      "item_id": "784571537", 
+      "src": "http://www.dansdata.com/images/gz148/giant_recycle_bin.png", 
+      "height": "388", 
+      "width": "268"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1720", 
+    "images": {
+      "1": {
+        "src": "http://www.dansdata.com/images/gz148/giant_recycle_bin.png", 
+        "credit": "", 
+        "height": "388", 
+        "image_id": "1", 
+        "item_id": "784571537", 
+        "caption": "", 
+        "width": "268"
+      }
+    }, 
+    "given_title": "A comforting lie", 
+    "resolved_url": "http://www.dansdata.com/gz148.htm", 
+    "is_article": "1", 
+    "item_id": "784571537", 
+    "time_added": "1419904711", 
+    "resolved_id": "784571537", 
+    "given_url": "http://www.dansdata.com/gz148.htm", 
+    "resolved_title": "A comforting lie"
   }, 
   {
     "status": "0", 
@@ -52423,7 +52499,7 @@
     "time_added": "1419530936", 
     "status": "0", 
     "sort_id": 1545, 
-    "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html", 
+    "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html#b12g29f20b14", 
     "authors": {
       "3361867": {
         "item_id": "797702078", 
@@ -67865,20 +67941,20 @@
     "time_read": "0", 
     "image": {
       "item_id": "562021906", 
-      "src": "http://img.youtube.com/vi/YJMr6nrl7c0/0.jpg", 
-      "height": "360", 
-      "width": "480"
+      "src": "http://a1.mzstatic.com/us/r30/Purple1/v4/f9/00/71/f900715a-082d-7fda-8f6a-0b14bc8f4e19/ProductPageIcon.512x512-75.png", 
+      "height": "512", 
+      "width": "512"
     }, 
     "favorite": "0", 
     "images": {
       "1": {
-        "src": "http://img.youtube.com/vi/YJMr6nrl7c0/0.jpg", 
+        "src": "http://a1.mzstatic.com/us/r30/Purple1/v4/f9/00/71/f900715a-082d-7fda-8f6a-0b14bc8f4e19/ProductPageIcon.512x512-75.png", 
         "credit": "", 
-        "height": "360", 
+        "height": "512", 
         "image_id": "1", 
         "item_id": "562021906", 
         "caption": "", 
-        "width": "480"
+        "width": "512"
       }
     }, 
     "given_title": "it not the end of the world it just the start of me and you lyrics - Google", 
@@ -72226,6 +72302,52 @@
     "time_read": "1404449228", 
     "favorite": "0", 
     "given_title": "An Adaptation From \u2018Flash Boys: A Wall Street Revolt,\u2019 by Michael Lewis - N", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "801946068", 
+      "src": "http://www.brainpickings.org/wp-content/uploads/2014/12/neildegrassetyson.jpg", 
+      "height": "0", 
+      "width": "500"
+    }, 
+    "excerpt": "In December of 2011, Neil deGrasse Tyson \u2014 champion of science, celebrator of the cosmic perspective, master of the soundbite \u2014 participated in Reddit\u2019s Ask Me Anything series of public questions and answers.", 
+    "word_count": "346", 
+    "images": {
+      "1": {
+        "src": "http://www.brainpickings.org/wp-content/uploads/2014/12/neildegrassetyson.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "801946068", 
+        "caption": "", 
+        "width": "500"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1419906157", 
+    "status": "0", 
+    "sort_id": 1567, 
+    "resolved_url": "http://www.brainpickings.org/2014/12/29/neil-degrasse-tyson-reading-list/", 
+    "authors": {
+      "23602465": {
+        "item_id": "801946068", 
+        "url": "http://www.brainpickings.org/author/mpopova/", 
+        "author_id": "23602465", 
+        "name": "Maria Popova"
+      }
+    }, 
+    "item_id": "801946068", 
+    "resolved_id": "801946068", 
+    "given_url": "http://www.brainpickings.org/2014/12/29/neil-degrasse-tyson-reading-list/", 
+    "resolved_title": "Neil deGrasse Tyson Selects the Eight Books Every Intelligent Person on the Planet Should Read", 
+    "is_index": "0", 
+    "time_updated": "1419906157", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Neil deGrasse Tyson Selects the Eight Books Every Intelligent Person on the", 
     "has_image": "1"
   }, 
   {
@@ -84274,20 +84396,20 @@
     "time_read": "0", 
     "image": {
       "item_id": "553800303", 
-      "src": "http://img.youtube.com/vi/YJMr6nrl7c0/0.jpg", 
-      "height": "360", 
-      "width": "480"
+      "src": "http://a1.mzstatic.com/us/r30/Purple1/v4/f9/00/71/f900715a-082d-7fda-8f6a-0b14bc8f4e19/ProductPageIcon.512x512-75.png", 
+      "height": "512", 
+      "width": "512"
     }, 
     "favorite": "0", 
     "images": {
       "1": {
-        "src": "http://img.youtube.com/vi/YJMr6nrl7c0/0.jpg", 
+        "src": "http://a1.mzstatic.com/us/r30/Purple1/v4/f9/00/71/f900715a-082d-7fda-8f6a-0b14bc8f4e19/ProductPageIcon.512x512-75.png", 
         "credit": "", 
-        "height": "360", 
+        "height": "512", 
         "image_id": "1", 
         "item_id": "553800303", 
         "caption": "", 
-        "width": "480"
+        "width": "512"
       }
     }, 
     "given_title": "Rohit Sharma", 
