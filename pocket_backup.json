@@ -32637,7 +32637,7 @@
     "time_added": "1357226445", 
     "status": "1", 
     "sort_id": 214, 
-    "resolved_url": "https://www.youtube.com/watch?v=8e2fJfiddx4", 
+    "resolved_url": "http://www.youtube.com/watch?v=8e2fJfiddx4", 
     "item_id": "275534211", 
     "resolved_id": "275534211", 
     "given_url": "http://www.youtube.com/watch?v=8e2fJfiddx4", 
@@ -52499,7 +52499,7 @@
     "time_added": "1419530936", 
     "status": "0", 
     "sort_id": 1545, 
-    "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html#b12g29f20b14", 
+    "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html", 
     "authors": {
       "3361867": {
         "item_id": "797702078", 
@@ -83029,8 +83029,17 @@
       "width": "450"
     }, 
     "excerpt": "Excellent \u201cBack-To-The-Camera-Shot\u201d supercut from Plot Point Productions. A bunch of my favorites from above, but be sure to watch the piece below.", 
-    "word_count": "26", 
+    "word_count": "24", 
     "images": {
+      "10": {
+        "src": "http://blog.iso50.com/wp-content/uploads/2014/01/pre-banbet.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "335027139", 
+        "caption": "", 
+        "width": "0"
+      }, 
       "1": {
         "src": "http://blog.iso50.com/wp-content/uploads/2013/04/bttcs001.jpg", 
         "credit": "", 
