@@ -148,5 +148,7 @@
 
 ![6a00d83431352e53ef01b8d07f835b970c-pi 500×500 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b8d07f835b970c-pi)
 
+![img_0426.jpg 800×557 pixels](http://rozwarner.files.wordpress.com/2014/01/img_0426.jpg)
+
 ![6a00d83431352e53ef01a73deb096a970d-pi 500×588 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73deb096a970d-pi)
 

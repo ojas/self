@@ -22765,6 +22765,52 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "798297153", 
+      "src": "http://timedotcom.files.wordpress.com/2014/12/police-line.jpeg?w=550", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "The long view of race relations and the law in America     In 1919, with the smoke still clearing from the battlefields of the First World War, the German sociologist Max Weber began a systematic study of the nation-state by defining a state as any \u201chuman community that successfully claims the mon", 
+    "word_count": "1464", 
+    "images": {
+      "1": {
+        "src": "http://timedotcom.files.wordpress.com/2014/12/police-line.jpeg?w=550", 
+        "credit": "Mat Hayward\u2014Getty Images", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "798297153", 
+        "caption": "Police tape marks a crime scene on June 5, 2014 in Seattle, Washington. \n        Mat Hayward\u2014Getty Images\n      ", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1419958308", 
+    "status": "0", 
+    "sort_id": 1568, 
+    "resolved_url": "http://time.com/3645699/the-1919-theory-that-explains-why-police-officers-need-their-guns/", 
+    "authors": {
+      "26711837": {
+        "item_id": "798297153", 
+        "url": "http://time.com/author/michael-shermer/", 
+        "author_id": "26711837", 
+        "name": "Michael Shermer"
+      }
+    }, 
+    "item_id": "798297153", 
+    "resolved_id": "798297153", 
+    "given_url": "http://time.com/3645699/the-1919-theory-that-explains-why-police-officers-need-their-guns/", 
+    "resolved_title": "Police Shootings and Max Weber : What a 1919 Theory Has to Say to Today", 
+    "is_index": "0", 
+    "time_updated": "1419958308", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The 1919 Theory That Explains Why Police Officers Need Their Guns | TIME", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 220, 
@@ -30826,6 +30872,44 @@
     "resolved_id": "753680135", 
     "given_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=5615166&searchkey=673ab66c-e70d-c358-857e-4d9ea0f99d18", 
     "resolved_title": "Real Estate"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1569, 
+    "time_updated": "1419958497", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "image": {
+      "item_id": "803166767", 
+      "src": "http://rozwarner.files.wordpress.com/2014/01/img_0426.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "2", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://rozwarner.files.wordpress.com/2014/01/img_0426.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "803166767", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "img_0426.jpg 800\u00d7557 pixels", 
+    "resolved_url": "http://rozwarner.files.wordpress.com/2014/01/img_0426.jpg", 
+    "is_article": "0", 
+    "item_id": "803166767", 
+    "time_added": "1419958496", 
+    "resolved_id": "803166767", 
+    "given_url": "http://rozwarner.files.wordpress.com/2014/01/img_0426.jpg", 
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -52491,7 +52575,7 @@
     "time_added": "1419530936", 
     "status": "0", 
     "sort_id": 1545, 
-    "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html", 
+    "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html#b12g29t20w14", 
     "authors": {
       "3361867": {
         "item_id": "797702078", 
@@ -68960,7 +69044,7 @@
     "has_video": "0", 
     "word_count": "3987", 
     "given_title": "Postgres full-text search is Good Enough!", 
-    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/", 
+    "resolved_url": "http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/#1", 
     "is_article": "1", 
     "item_id": "573355474", 
     "time_added": "1411975568", 
@@ -72321,7 +72405,7 @@
     "time_added": "1419906157", 
     "status": "0", 
     "sort_id": 1567, 
-    "resolved_url": "http://www.brainpickings.org/2014/12/29/neil-degrasse-tyson-reading-list", 
+    "resolved_url": "http://www.brainpickings.org/2014/12/29/neil-degrasse-tyson-reading-list/", 
     "authors": {
       "23602465": {
         "item_id": "801946068", 
