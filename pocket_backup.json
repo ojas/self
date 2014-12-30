@@ -38858,31 +38858,17 @@
     "resolved_title": "Timeline Photos"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "353846463", 
-      "src": "http://jacobinmag.com/wp-content/uploads/2013/05/6847805246_f3d4291b92_z.jpg", 
-      "height": "339", 
-      "width": "566"
-    }, 
-    "excerpt": "Mocking hipsters in the service of capital. \u201cIt\u2019s the Hotel Altamont,\u201d according to a New York Post article detailing one Bushwick landlord\u2019s efforts to evict his tenants.", 
-    "word_count": "2308", 
-    "images": {
-      "1": {
-        "src": "http://jacobinmag.com/wp-content/uploads/2013/05/6847805246_f3d4291b92_z.jpg", 
-        "credit": "", 
-        "height": "339", 
-        "image_id": "1", 
-        "item_id": "353846463", 
-        "caption": "", 
-        "width": "566"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1368730168", 
     "status": "0", 
+    "is_index": "0", 
     "sort_id": 474, 
-    "resolved_url": "https://www.jacobinmag.com/2013/05/the-fucking-hipster-show/", 
+    "time_updated": "1368730168", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "It\u2019s the Hotel Altamont,\u201d according to a New York Post article detailing one Bushwick landlord\u2019s efforts to evict his tenants.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2301", 
     "authors": {
       "15050256": {
         "item_id": "353846463", 
@@ -38891,17 +38877,14 @@
         "name": "Anthony Galluzzo"
       }
     }, 
+    "given_title": "The \u2018Fucking Hipster\u2019 Show | Jacobin", 
+    "resolved_url": "http://jacobinmag.com/2013/05/the-fucking-hipster-show/", 
+    "is_article": "1", 
     "item_id": "353846463", 
+    "time_added": "1368730168", 
     "resolved_id": "353846463", 
     "given_url": "http://jacobinmag.com/2013/05/the-fucking-hipster-show/", 
-    "resolved_title": "The \u2018Fucking Hipster\u2019 Show", 
-    "is_index": "0", 
-    "time_updated": "1368730168", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "The \u2018Fucking Hipster\u2019 Show | Jacobin", 
-    "has_image": "1"
+    "resolved_title": "The \u201cFucking Hipster\u201d Show"
   }, 
   {
     "is_article": "1", 
