@@ -27529,11 +27529,11 @@
     "sort_id": 1544, 
     "resolved_url": "http://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html", 
     "authors": {
-      "27865329": {
+      "96570": {
         "item_id": "798116415", 
         "url": "", 
-        "author_id": "27865329", 
-        "name": "Canadian Politicians In"
+        "author_id": "96570", 
+        "name": "National Geographic"
       }
     }, 
     "item_id": "798116415", 
@@ -29667,7 +29667,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3205", 
+    "word_count": "3763", 
     "images": {
       "1": {
         "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
@@ -73634,7 +73634,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1560, 
-    "time_updated": "1419714212", 
+    "time_updated": "1420043523", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
