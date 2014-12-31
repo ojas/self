@@ -5605,13 +5605,13 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "955", 
+    "word_count": "958", 
     "authors": {
-      "25812094": {
+      "2531513": {
         "item_id": "755059329", 
-        "url": "", 
-        "author_id": "25812094", 
-        "name": "Nicholas Holland, Populr"
+        "url": "http://venturebeat.com/tag/editors-pick/", 
+        "author_id": "2531513", 
+        "name": "editor's pick"
       }
     }, 
     "given_title": "Founder stories: 'People don't want drills' | VentureBeat | Entrepreneur | ", 
@@ -5621,7 +5621,7 @@
     "time_added": "1414977681", 
     "resolved_id": "755059329", 
     "given_url": "http://venturebeat.com/2014/11/02/founder-stories-people-dont-want-drills/", 
-    "resolved_title": "Founder stories: \u2018People don\u2019t want drills\u2019"
+    "resolved_title": "Founder stories: 'People don't want drills'"
   }, 
   {
     "status": "0", 
