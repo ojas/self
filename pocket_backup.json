@@ -36266,11 +36266,20 @@
   {
     "videos": {
       "1": {
-        "src": "http://www.youtube.com/embed/eJmNDiyUl6A?rel=0&modestbranding=1&autohide=1&showinfo=0&fs=1&egm=0&controls=1&theme=light&color=white", 
-        "vid": "eJmNDiyUl6A", 
+        "src": "http://www.youtube.com/embed/5BHWjh6UIsM?hd=1&wmode=opaque&controls=1&showinfo=0;rel=0;", 
+        "vid": "5BHWjh6UIsM", 
         "video_id": "1", 
-        "height": "360", 
-        "width": "640", 
+        "height": "268", 
+        "width": "420", 
+        "item_id": "286114696", 
+        "type": "1"
+      }, 
+      "2": {
+        "src": "http://www.youtube.com/embed/NDR-iU5msWg?hd=1&wmode=opaque&controls=1&showinfo=0;rel=0;", 
+        "vid": "NDR-iU5msWg", 
+        "video_id": "2", 
+        "height": "262", 
+        "width": "414", 
         "item_id": "286114696", 
         "type": "1"
       }
@@ -36278,24 +36287,15 @@
     "is_article": "0", 
     "image": {
       "item_id": "286114696", 
-      "src": "http://d342a3eztczz26.cloudfront.net/CILogoVSmall.png", 
+      "src": "http://keylines.com/wp-content/uploads/2013/09/keylines-ipad-420px.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "KeyLines is a JavaScript toolkit for visualising networks.  It works in all major browsers, and on all platforms, including the iPad. It uses HTML5 but also works on old versions of Internet Explorer.", 
-    "word_count": "383", 
+    "excerpt": "KeyLines will integrate data visualization capability into your web applications easily and with very little effort.  How you collect and store the data is entirely up to you.", 
+    "word_count": "343", 
     "images": {
-      "10": {
-        "src": "http://d342a3eztczz26.cloudfront.net/im/logos/ipad.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "10", 
-        "item_id": "286114696", 
-        "caption": "", 
-        "width": "0"
-      }, 
       "1": {
-        "src": "http://d342a3eztczz26.cloudfront.net/CILogoVSmall.png", 
+        "src": "http://keylines.com/wp-content/uploads/2013/09/keylines-ipad-420px.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -36304,43 +36304,43 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://d342a3eztczz26.cloudfront.net/im/product/drop-in.png", 
+        "src": "http://keylines.com/wp-content/uploads/2013/09/broswers1.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "286114696", 
         "caption": "", 
-        "width": "0"
+        "width": "290"
       }, 
       "2": {
-        "src": "https://ssl.gstatic.com/images/icons/gplus-16.png", 
+        "src": "http://keylines.com/wp-content/uploads/2014/07/time-bar-small.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "286114696", 
         "caption": "", 
-        "width": "0"
+        "width": "290"
       }, 
       "5": {
-        "src": "http://d342a3eztczz26.cloudfront.net/im/product/glyph-showing-quantity.png", 
+        "src": "http://keylines.com/wp-content/uploads/2013/10/426.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
         "item_id": "286114696", 
-        "caption": "Glyphs to show key information -- ", 
-        "width": "160"
+        "caption": "", 
+        "width": "0"
       }, 
       "4": {
-        "src": "http://d342a3eztczz26.cloudfront.net/im/product/link-styles.png", 
+        "src": "http://keylines.com/wp-content/uploads/2013/10/cifas2.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "286114696", 
-        "caption": "Custom styling for nodes and links -- ", 
-        "width": "160"
+        "caption": "", 
+        "width": "0"
       }, 
       "7": {
-        "src": "http://d342a3eztczz26.cloudfront.net/im/logos/apple.png", 
+        "src": "http://keylines.com/wp-content/uploads/2013/10/csc-white2.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -36349,28 +36349,10 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://d342a3eztczz26.cloudfront.net/im/logos/windows.png", 
+        "src": "http://keylines.com/wp-content/uploads/2013/10/us-army.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
-        "item_id": "286114696", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "9": {
-        "src": "http://d342a3eztczz26.cloudfront.net/im/logos/linux.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "9", 
-        "item_id": "286114696", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "http://d342a3eztczz26.cloudfront.net/im/logos/android.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
         "item_id": "286114696", 
         "caption": "", 
         "width": "0"
@@ -36384,7 +36366,7 @@
     "item_id": "286114696", 
     "resolved_id": "286114696", 
     "given_url": "http://keylines.com/", 
-    "resolved_title": "KeyLines is a JavaScript toolkit for visualising networks.", 
+    "resolved_title": "KeyLines Network Visualization", 
     "is_index": "1", 
     "time_updated": "1393616426", 
     "time_favorited": "0", 
