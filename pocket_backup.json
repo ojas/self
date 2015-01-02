@@ -21924,6 +21924,340 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "803236677", 
+      "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*9PvBrDBzu6KnZ2KD-RdGtA.jpeg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Ai Weiwei has been living in our future. His movements are restricted and he is structurally being watched by the government. He lives in a world without privacy. A world without privacy is a world without freedom.  He is one of the most important artists in the world.", 
+    "word_count": "5547", 
+    "images": {
+      "24": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*0a9GPRj-a7w8j1RjNQS1HQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "24", 
+        "item_id": "803236677", 
+        "caption": "Ai Weiwei and the White House", 
+        "width": "0"
+      }, 
+      "25": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*jfhOQNz8Y6uasLQ0D7WZuw.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "25", 
+        "item_id": "803236677", 
+        "caption": "Ai Weiwei and the Eiffeltower", 
+        "width": "0"
+      }, 
+      "26": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*YhMjnQQxEjCpQfKPjuL9zQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "26", 
+        "item_id": "803236677", 
+        "caption": "Ai Weiwei in Beijing", 
+        "width": "0"
+      }, 
+      "27": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*uQT74Rg2jDtplzNO5NpFjA.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "27", 
+        "item_id": "803236677", 
+        "caption": "Doom", 
+        "width": "0"
+      }, 
+      "20": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*JsfBNKCRhnFUZo49mN2OTA.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "20", 
+        "item_id": "803236677", 
+        "caption": "Blink", 
+        "width": "0"
+      }, 
+      "21": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*I3PxbsSHcaOpPMIqkuocoQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "21", 
+        "item_id": "803236677", 
+        "caption": "Flone", 
+        "width": "0"
+      }, 
+      "22": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*Pg6um-fxniBC6p3hWK70fw.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "22", 
+        "item_id": "803236677", 
+        "caption": "Google\u2019s Glass", 
+        "width": "0"
+      }, 
+      "23": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*K3oNgVrwguCf17IjhiCYxw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "23", 
+        "item_id": "803236677", 
+        "caption": "Sarah Slocum\u2019s middle finger", 
+        "width": "0"
+      }, 
+      "28": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*Ti0rDXDz6QwP3FmNNpzwlQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "28", 
+        "item_id": "803236677", 
+        "caption": "A police officer wearing a bodycam", 
+        "width": "0"
+      }, 
+      "29": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*BXFIBXyyFqHNcO4OCS824g.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "29", 
+        "item_id": "803236677", 
+        "caption": "CAPTCHA\u2019s", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*9PvBrDBzu6KnZ2KD-RdGtA.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "803236677", 
+        "caption": "Ai Weiwei", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*xS6qXcdKvOXSHMOoKuSZBA.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "803236677", 
+        "caption": "Sunflower seeds in the Tate", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*V-QwuPyaT8MvHZnsMHzlHw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "803236677", 
+        "caption": "The Bird\u2019s Nest", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*P9agNtWMxabAwDgJFiPPxQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "803236677", 
+        "caption": "The Venice Biennale", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*9ZZMlTCBObXsWB0ykWbaxw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "803236677", 
+        "caption": "In the cell", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*N8tJvzNW3y8_pl3M-YOtnA.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "803236677", 
+        "caption": "Obama\u2019s tent", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*L67wvc3btTw0AFbAwXwbmA.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "803236677", 
+        "caption": "IBM\u2019s surveillance maturity model", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*KE_BzUjPu2MD2v-QuNhJVQ.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "803236677", 
+        "caption": "Pet tracker", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*OARecCh10RGb5TYg17VngQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "803236677", 
+        "caption": "MagicBands", 
+        "width": "0"
+      }, 
+      "11": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*kHa5sEK4-hGQQqn5VStRFg.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "803236677", 
+        "caption": "The Canary Project", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*51q4UXS1iGPOhxhLaagSVw.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "803236677", 
+        "caption": "AmberAlert", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/600/1*zFjjSExryDmOQl6Haym0dQ.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "803236677", 
+        "caption": "Increased productivity", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*qbprbepJGc4vPxlO4CH0QQ.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "803236677", 
+        "caption": "Ignore No More", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/600/1*_55pGfT7xvl99PqIgr6NRg.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "803236677", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*-iLRREkxuapsUt7PthTZCQ.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "803236677", 
+        "caption": "Pavlok", 
+        "width": "0"
+      }, 
+      "17": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*lNNtk8He7drz8wDD5QIUCw.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "17", 
+        "item_id": "803236677", 
+        "caption": "\u201cSwipe right to like or left to pass. If someone likes you back, it\u2019s a match!\u201d", 
+        "width": "0"
+      }, 
+      "16": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*Md9-WOLz0WNkx-HMSYET4w.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "16", 
+        "item_id": "803236677", 
+        "caption": "\u201cSearch by Tribe to find your type of guy\u201d and \u201cNarrow down guys with a filter feature\u201d", 
+        "width": "0"
+      }, 
+      "19": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/600/1*VdltKT_Mm_zgBfKYorB0KQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "19", 
+        "item_id": "803236677", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "18": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*QadM6sXQSLUWCA5Lmq0KBw.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "18", 
+        "item_id": "803236677", 
+        "caption": "Bang with friends", 
+        "width": "0"
+      }, 
+      "31": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*dACaKMlpLLFp3OcPM6ytBw.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "31", 
+        "item_id": "803236677", 
+        "caption": "The new reCAPTCHA", 
+        "width": "0"
+      }, 
+      "30": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*EPOnVzARKB8N7SQvLA8IOg.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "30", 
+        "item_id": "803236677", 
+        "caption": "The original reCAPTCHA", 
+        "width": "0"
+      }, 
+      "33": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*G-1LiW3fHUhMjjQDnfNUMw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "33", 
+        "item_id": "803236677", 
+        "caption": "Nassim Taleb", 
+        "width": "0"
+      }, 
+      "32": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*eZK7pKSasyIxQvCxDe0dVQ.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "32", 
+        "item_id": "803236677", 
+        "caption": "Slot Machines", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1420212073", 
+    "status": "0", 
+    "sort_id": 1575, 
+    "resolved_url": "https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f", 
+    "authors": {
+      "28006054": {
+        "item_id": "803236677", 
+        "url": "https://medium.com/@hansdezwart", 
+        "author_id": "28006054", 
+        "name": "Hans de Zwart"
+      }
+    }, 
+    "item_id": "803236677", 
+    "resolved_id": "803236677", 
+    "given_url": "https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f", 
+    "resolved_title": "Ai Weiwei is Living in Our Future \u2014 Medium", 
+    "is_index": "0", 
+    "time_updated": "1420212073", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Ai Weiwei is Living in Our Future \u2014 Medium", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "69951312", 
       "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/150px-Great_Seal_of_the_United_States_%28obverse%29.svg.png", 
       "height": "150", 
