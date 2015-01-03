@@ -3118,7 +3118,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1570, 
-    "time_updated": "1420237654", 
+    "time_updated": "1420260123", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "", 
@@ -3130,7 +3130,7 @@
     "resolved_url": "https://www.redfin.com/TX/Austin/6405-Bridgewater-Dr-78723/home/59018559", 
     "is_article": "0", 
     "item_id": "805539346", 
-    "time_added": "1420237650", 
+    "time_added": "1420260123", 
     "resolved_id": "805539346", 
     "given_url": "https://www.redfin.com/TX/Austin/6405-Bridgewater-Dr-78723/home/59018559", 
     "resolved_title": ""
@@ -19138,7 +19138,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2519", 
+    "word_count": "2518", 
     "authors": {
       "20330159": {
         "item_id": "520337922", 
@@ -22959,6 +22959,72 @@
     "resolved_id": "381473276", 
     "given_url": "https://www.globalsign.com/ssl/ssl-open-source/?", 
     "resolved_title": "Free SSL Certificates for Open Source Projects"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/xXAjkLUv7dY?rel=0", 
+        "vid": "xXAjkLUv7dY", 
+        "video_id": "1", 
+        "height": "386", 
+        "width": "700", 
+        "item_id": "805722447", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "805722447", 
+      "src": "http://www.theculturist.com/storage/Maurice%20Sendak%20by%20John%20Dugdale.jpg?__SQUARESPACE_CACHEVERSION=1336840253730", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "I never read any of Maurice Sendak's book as a child, it was only recently that I started to read more about him, mainly because of the movie Where the Wild Things Are that is based on his book. Maurice Sendak, the author and illustrator didn't like to be thought of as a children's author.", 
+    "word_count": "213", 
+    "images": {
+      "1": {
+        "src": "http://www.theculturist.com/storage/Maurice%20Sendak%20by%20John%20Dugdale.jpg?__SQUARESPACE_CACHEVERSION=1336840253730", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "805722447", 
+        "caption": "John Dugdale/HarperCollins Children's Book", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.theculturist.com/storage/NPR.png?__SQUARESPACE_CACHEVERSION=1336843127313", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "805722447", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1420260534", 
+    "status": "0", 
+    "sort_id": 1571, 
+    "resolved_url": "http://www.theculturist.com/home/tag/tateshots-maurice-sendak", 
+    "authors": {
+      "51364": {
+        "item_id": "805722447", 
+        "url": "http://www.theculturist.com/home/author/theculturist", 
+        "author_id": "51364", 
+        "name": "The Culturist"
+      }
+    }, 
+    "item_id": "805722447", 
+    "resolved_id": "805722447", 
+    "given_url": "http://www.theculturist.com/home/tag/tateshots-maurice-sendak", 
+    "resolved_title": "The Culturist : Home", 
+    "is_index": "0", 
+    "time_updated": "1420260535", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The Culturist - Home", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
