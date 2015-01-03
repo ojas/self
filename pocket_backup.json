@@ -2,27 +2,6 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1431, 
-    "time_updated": "1414956908", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
-    "given_title": "Toyota wheels 6x 139.7 w/ tires", 
-    "resolved_url": "http://houston.craigslist.org/pts/4734663169.html", 
-    "is_article": "0", 
-    "item_id": "755159424", 
-    "time_added": "1414956907", 
-    "resolved_id": "755159424", 
-    "given_url": "http://houston.craigslist.org/pts/4734663169.html", 
-    "resolved_title": ""
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
     "sort_id": 699, 
     "time_updated": "1377573515", 
     "time_favorited": "0", 
@@ -1257,7 +1236,7 @@
     "has_video": "2", 
     "time_added": "1416720957", 
     "status": "0", 
-    "sort_id": 1461, 
+    "sort_id": 1459, 
     "resolved_url": "https://www.youtube.com/watch?v=nwXF6UdkeI4", 
     "item_id": "351380048", 
     "resolved_id": "351380048", 
@@ -1341,7 +1320,7 @@
   {
     "status": "1", 
     "is_index": "0", 
-    "sort_id": 1521, 
+    "sort_id": 1517, 
     "time_updated": "1419595789", 
     "time_favorited": "0", 
     "time_read": "1419595788", 
@@ -1429,7 +1408,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1479, 
+    "sort_id": 1475, 
     "time_updated": "1417097242", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -1780,27 +1759,6 @@
     }
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1464, 
-    "time_updated": "1417583716", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Great all around Sport Touring bike.  Only issue: fell off of side stand onto left side, minor scratches on faring.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "81", 
-    "given_title": "2005 VFR800 ABS Interceptor VFR 800", 
-    "resolved_url": "https://austin.craigslist.org/mcy/4773146144.html", 
-    "is_article": "1", 
-    "item_id": "773188953", 
-    "time_added": "1416777491", 
-    "resolved_id": "773188953", 
-    "given_url": "https://austin.craigslist.org/mcy/4773146144.html", 
-    "resolved_title": "2005 VFR800 ABS Interceptor VFR 800 - $4700 (Lockhart)"
-  }, 
-  {
     "is_article": "1", 
     "image": {
       "item_id": "228570857", 
@@ -2087,7 +2045,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1518, 
+    "sort_id": 1514, 
     "time_updated": "1419255489", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -2415,7 +2373,7 @@
     "has_video": "1", 
     "time_added": "1418847959", 
     "status": "0", 
-    "sort_id": 1532, 
+    "sort_id": 1528, 
     "resolved_url": "http://www.datamotion.com/products/direct/datamotion-direct/", 
     "item_id": "793494004", 
     "resolved_id": "793494004", 
@@ -3159,7 +3117,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1576, 
+    "sort_id": 1570, 
     "time_updated": "1420237654", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -3336,7 +3294,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1459, 
+    "sort_id": 1457, 
     "time_updated": "1416604752", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -3719,7 +3677,7 @@
     "has_video": "0", 
     "time_added": "1416478860", 
     "status": "0", 
-    "sort_id": 1455, 
+    "sort_id": 1453, 
     "resolved_url": "http://expeditionportal.com/inuvik-or-bust-to-the-end-of-the-earth-in-a-bmw-m-coupe/", 
     "authors": {
       "26483694": {
@@ -5344,7 +5302,7 @@
     "has_video": "0", 
     "time_added": "1416479053", 
     "status": "0", 
-    "sort_id": 1456, 
+    "sort_id": 1454, 
     "resolved_url": "http://www.brainpickings.org/2014/11/19/ted-turner-meaning-of-life/", 
     "authors": {
       "23602465": {
@@ -5618,7 +5576,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1432, 
+    "sort_id": 1431, 
     "time_updated": "1415769394", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -5742,7 +5700,7 @@
     "has_video": "0", 
     "time_added": "1416602438", 
     "status": "0", 
-    "sort_id": 1458, 
+    "sort_id": 1456, 
     "resolved_url": "http://www.petrolicious.com/honda-rc166", 
     "authors": {
       "7859902": {
@@ -6805,7 +6763,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1548, 
+    "sort_id": 1542, 
     "time_updated": "1419559879", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -6929,7 +6887,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1570, 
+    "sort_id": 1564, 
     "time_updated": "1419976802", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -9108,7 +9066,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1484, 
+    "sort_id": 1480, 
     "time_updated": "1418393921", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -11748,7 +11706,7 @@
     "has_video": "0", 
     "time_added": "1419790399", 
     "status": "0", 
-    "sort_id": 1564, 
+    "sort_id": 1558, 
     "resolved_url": "http://harry.me/blog/2014/12/27/neat-algorithms-paxos/?hn=1", 
     "authors": {
       "10211205": {
@@ -11893,7 +11851,7 @@
     "has_video": "0", 
     "time_added": "1419693298", 
     "status": "0", 
-    "sort_id": 1558, 
+    "sort_id": 1552, 
     "resolved_url": "https://medium.com/dome-kit/slow-flexible-cheap-5598ca91fb38", 
     "authors": {
       "27910432": {
@@ -12300,7 +12258,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1470, 
+    "sort_id": 1466, 
     "time_updated": "1417515546", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -12880,7 +12838,7 @@
     "has_video": "0", 
     "time_added": "1416588243", 
     "status": "0", 
-    "sort_id": 1457, 
+    "sort_id": 1455, 
     "resolved_url": "http://www.nytimes.com/2011/10/09/books/review/the-better-angels-of-our-nature-by-steven-pinker-book-review.html?pagewanted=all&_r=0", 
     "authors": {
       "2498872": {
@@ -13340,7 +13298,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1481, 
+    "sort_id": 1477, 
     "time_updated": "1417151427", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -13361,7 +13319,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1503, 
+    "sort_id": 1499, 
     "time_updated": "1418060485", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -14428,7 +14386,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1538, 
+    "sort_id": 1534, 
     "time_updated": "1419230994", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -14644,7 +14602,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1526, 
+    "sort_id": 1522, 
     "time_updated": "1418661621", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -14916,7 +14874,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1442, 
+    "sort_id": 1441, 
     "time_updated": "1415731979", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -15484,7 +15442,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1497, 
+    "sort_id": 1493, 
     "time_updated": "1417917076", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -15513,7 +15471,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1475, 
+    "sort_id": 1471, 
     "time_updated": "1419273483", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -16330,7 +16288,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1509, 
+    "sort_id": 1505, 
     "time_updated": "1418107340", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -17616,7 +17574,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1520, 
+    "sort_id": 1516, 
     "time_updated": "1418418087", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -18379,7 +18337,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1554, 
+    "sort_id": 1548, 
     "time_updated": "1419568431", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -18754,7 +18712,7 @@
     "has_video": "0", 
     "time_added": "1419780041", 
     "status": "0", 
-    "sort_id": 1561, 
+    "sort_id": 1555, 
     "resolved_url": "http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less", 
     "authors": {
       "15631441": {
@@ -18811,7 +18769,7 @@
     "has_video": "2", 
     "time_added": "1415154385", 
     "status": "0", 
-    "sort_id": 1435, 
+    "sort_id": 1434, 
     "resolved_url": "https://www.youtube.com/watch?v=yx4bCUNaCYY", 
     "item_id": "706531547", 
     "resolved_id": "706531558", 
@@ -19201,7 +19159,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1489, 
+    "sort_id": 1485, 
     "time_updated": "1418550062", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -19941,7 +19899,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1539, 
+    "sort_id": 1535, 
     "time_updated": "1419465792", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -20311,7 +20269,7 @@
     "has_video": "0", 
     "time_added": "1418051836", 
     "status": "0", 
-    "sort_id": 1501, 
+    "sort_id": 1497, 
     "resolved_url": "http://www.nytimes.com/interactive/2014/12/07/opinion/sunday/exposures-detroit-by-air-alex-maclean.html", 
     "authors": {
       "24070815": {
@@ -20631,7 +20589,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1573, 
+    "sort_id": 1567, 
     "time_updated": "1420145913", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -20818,7 +20776,7 @@
     "has_video": "1", 
     "time_added": "1416884570", 
     "status": "0", 
-    "sort_id": 1468, 
+    "sort_id": 1464, 
     "resolved_url": "http://jalopnik.com/heres-the-stig-and-darth-vader-driving-a-porsche-in-the-1662612559?rev=1416846149499&new_editor_css=&utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow", 
     "item_id": "773873817", 
     "resolved_id": "773873817", 
@@ -20870,7 +20828,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1462, 
+    "sort_id": 1460, 
     "time_updated": "1416769084", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -21040,27 +20998,6 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1546, 
-    "time_updated": "1419532205", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "15", 
-    "given_title": "1981 Honda CB 750", 
-    "resolved_url": "https://austin.craigslist.org/mcy/4783602383.html", 
-    "is_article": "1", 
-    "item_id": "799608490", 
-    "time_added": "1419532204", 
-    "resolved_id": "799608490", 
-    "given_url": "https://austin.craigslist.org/mcy/4783602383.html", 
-    "resolved_title": "1981 Honda CB 750 - $3200 (South Austin)"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
     "sort_id": 369, 
     "time_updated": "1365692170", 
     "time_favorited": "0", 
@@ -21162,7 +21099,7 @@
     "has_video": "0", 
     "time_added": "1419561087", 
     "status": "0", 
-    "sort_id": 1550, 
+    "sort_id": 1544, 
     "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=3346418&searchkey=846c862b-f31d-60ff-26df-c18311541278", 
     "authors": {
       "5127440": {
@@ -21484,7 +21421,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1525, 
+    "sort_id": 1521, 
     "time_updated": "1418659473", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -21595,7 +21532,7 @@
     "has_video": "0", 
     "time_added": "1418130952", 
     "status": "0", 
-    "sort_id": 1511, 
+    "sort_id": 1507, 
     "resolved_url": "http://riskology.co/lazy-expert-syndrome/", 
     "authors": {
       "109019": {
@@ -21922,27 +21859,6 @@
     "resolved_title": "The long reach of reason"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1465, 
-    "time_updated": "1416778197", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Powered by an improved Honda V twin motor and stripped of all unneeded weight this is an attention grabbing custom that accelerates hard and handles superbly. This is truly one of a kind.  Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "208", 
-    "given_title": "Cafe Racer", 
-    "resolved_url": "https://austin.craigslist.org/mcy/4763944557.html", 
-    "is_article": "1", 
-    "item_id": "773195217", 
-    "time_added": "1416778194", 
-    "resolved_id": "773195217", 
-    "given_url": "https://austin.craigslist.org/mcy/4763944557.html", 
-    "resolved_title": "Cafe Racer - $5500 (San Marcos )"
-  }, 
-  {
     "is_article": "1", 
     "image": {
       "item_id": "803236677", 
@@ -22254,7 +22170,7 @@
     "has_video": "0", 
     "time_added": "1420212073", 
     "status": "0", 
-    "sort_id": 1575, 
+    "sort_id": 1569, 
     "resolved_url": "https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f", 
     "authors": {
       "28006054": {
@@ -22364,7 +22280,7 @@
     "has_video": "0", 
     "time_added": "1419271076", 
     "status": "0", 
-    "sort_id": 1541, 
+    "sort_id": 1537, 
     "resolved_url": "https://codeascraft.com/2014/12/22/engineering-rotation/", 
     "authors": {
       "27724126": {
@@ -22972,7 +22888,7 @@
     "has_video": "0", 
     "time_added": "1418164317", 
     "status": "0", 
-    "sort_id": 1512, 
+    "sort_id": 1508, 
     "resolved_url": "http://spectrum.ieee.org/telecom/wireless/the-long-road-to-maxwells-equations", 
     "authors": {
       "22913066": {
@@ -23047,7 +22963,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1537, 
+    "sort_id": 1533, 
     "time_updated": "1419187944", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -23145,7 +23061,7 @@
     "has_video": "0", 
     "time_added": "1415681629", 
     "status": "0", 
-    "sort_id": 1440, 
+    "sort_id": 1439, 
     "resolved_url": "http://www.autoneuroticfixation.com/2012/07/autozam-az-1-owner-interview.html?m=1", 
     "authors": {
       "3741239": {
@@ -23191,7 +23107,7 @@
     "has_video": "0", 
     "time_added": "1419958308", 
     "status": "0", 
-    "sort_id": 1568, 
+    "sort_id": 1562, 
     "resolved_url": "http://time.com/3645699/the-1919-theory-that-explains-why-police-officers-need-their-guns/", 
     "authors": {
       "26711837": {
@@ -24521,7 +24437,7 @@
     "has_video": "0", 
     "time_added": "1418751109", 
     "status": "0", 
-    "sort_id": 1531, 
+    "sort_id": 1527, 
     "resolved_url": "https://www.udemy.com/blog/business-proposal-example/", 
     "authors": {
       "13637798": {
@@ -25849,7 +25765,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1522, 
+    "sort_id": 1518, 
     "time_updated": "1418519427", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -26411,7 +26327,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1504, 
+    "sort_id": 1500, 
     "time_updated": "1418107073", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -26537,7 +26453,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1549, 
+    "sort_id": 1543, 
     "time_updated": "1419559994", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -27908,7 +27824,7 @@
     "has_video": "1", 
     "time_added": "1419456146", 
     "status": "0", 
-    "sort_id": 1544, 
+    "sort_id": 1540, 
     "resolved_url": "http://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html", 
     "authors": {
       "27865329": {
@@ -28354,7 +28270,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1476, 
+    "sort_id": 1472, 
     "resolved_url": "http://www.automuseum.org/", 
     "item_id": "20455417", 
     "resolved_id": "20455417", 
@@ -28598,7 +28514,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1571, 
+    "sort_id": 1565, 
     "time_updated": "1419982072", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -28936,7 +28852,7 @@
     "has_video": "0", 
     "time_added": "1419608595", 
     "status": "0", 
-    "sort_id": 1556, 
+    "sort_id": 1550, 
     "resolved_url": "http://www.telegraph.co.uk/history/11310456/Goodbye-to-one-of-the-best-years-in-history.html", 
     "authors": {
       "5456432": {
@@ -29875,7 +29791,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1514, 
+    "sort_id": 1510, 
     "time_updated": "1418354711", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -29922,7 +29838,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1447, 
+    "sort_id": 1445, 
     "time_updated": "1416323051", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -30052,7 +29968,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1565, 
+    "sort_id": 1559, 
     "time_updated": "1419904486", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -31342,7 +31258,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1569, 
+    "sort_id": 1563, 
     "time_updated": "1419958497", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -31839,7 +31755,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1515, 
+    "sort_id": 1511, 
     "time_updated": "1419255511", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -32245,7 +32161,7 @@
     "has_video": "0", 
     "time_added": "1415613033", 
     "status": "0", 
-    "sort_id": 1439, 
+    "sort_id": 1438, 
     "resolved_url": "http://weburbanist.com/2013/06/20/secret-skeakeasy-abandoned-water-tower-nightclub-in-nyc/?ref=rss", 
     "authors": {
       "5934455": {
@@ -33112,7 +33028,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1471, 
+    "sort_id": 1467, 
     "time_updated": "1416945568", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -33587,7 +33503,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1552, 
+    "sort_id": 1546, 
     "time_updated": "1419561177", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -33625,7 +33541,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1527, 
+    "sort_id": 1523, 
     "time_updated": "1418750386", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -33933,7 +33849,7 @@
         "tag": "architecture"
       }
     }, 
-    "sort_id": 1496, 
+    "sort_id": 1492, 
     "resolved_url": "http://gizmodo.com/theres-an-entire-house-crammed-into-this-tiny-98-year-o-1667198380", 
     "authors": {
       "9174567": {
@@ -34109,7 +34025,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1444, 
+    "sort_id": 1443, 
     "time_updated": "1416791934", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -35044,7 +34960,7 @@
         "tag": "vegetarianism"
       }
     }, 
-    "sort_id": 1436, 
+    "sort_id": 1435, 
     "resolved_url": "http://sentientist.org/2013/05/20/the-ethical-case-for-eating-oysters-and-mussels/", 
     "authors": {
       "8747570": {
@@ -35437,7 +35353,7 @@
     "has_video": "0", 
     "time_added": "1417639938", 
     "status": "0", 
-    "sort_id": 1495, 
+    "sort_id": 1491, 
     "resolved_url": "https://medium.com/@intercom/shipping-is-your-companys-heartbeat-23843173ef96", 
     "authors": {
       "25870448": {
@@ -36398,7 +36314,7 @@
     "has_video": "1", 
     "time_added": "1417638316", 
     "status": "0", 
-    "sort_id": 1494, 
+    "sort_id": 1490, 
     "resolved_url": "http://deuscustoms.com/", 
     "item_id": "103010038", 
     "resolved_id": "103010038", 
@@ -36938,7 +36854,7 @@
     "has_video": "0", 
     "time_added": "1417056156", 
     "status": "0", 
-    "sort_id": 1477, 
+    "sort_id": 1473, 
     "resolved_url": "https://medium.com/@phacks/how-grigori-perelman-solved-one-of-maths-greatest-mystery-89426275cb7", 
     "authors": {
       "26766415": {
@@ -37102,7 +37018,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1473, 
+    "sort_id": 1469, 
     "time_updated": "1417198422", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -37305,7 +37221,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1443, 
+    "sort_id": 1442, 
     "time_updated": "1415908955", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -38696,7 +38612,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1488, 
+    "sort_id": 1484, 
     "time_updated": "1419263136", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -39074,7 +38990,7 @@
     "has_video": "0", 
     "time_added": "1416604755", 
     "status": "0", 
-    "sort_id": 1460, 
+    "sort_id": 1458, 
     "resolved_url": "http://en.wikipedia.org/wiki/Self-sampling_assumption", 
     "authors": {
       "7331684": {
@@ -39713,7 +39629,7 @@
     "has_video": "1", 
     "time_added": "1418354724", 
     "status": "0", 
-    "sort_id": 1516, 
+    "sort_id": 1512, 
     "resolved_url": "http://pandas.pydata.org/", 
     "item_id": "137079991", 
     "resolved_id": "137079991", 
@@ -40217,7 +40133,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1566, 
+    "sort_id": 1560, 
     "time_updated": "1419904711", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -40314,7 +40230,7 @@
     "has_video": "0", 
     "time_added": "1417626043", 
     "status": "0", 
-    "sort_id": 1490, 
+    "sort_id": 1486, 
     "resolved_url": "https://hbr.org/2014/12/leading-your-team-into-the-unknown", 
     "authors": {
       "26080939": {
@@ -41787,7 +41703,7 @@
     "has_video": "0", 
     "time_added": "1416433127", 
     "status": "0", 
-    "sort_id": 1454, 
+    "sort_id": 1452, 
     "resolved_url": "http://radar.oreilly.com/2014/11/introducing-a-field-guide-to-the-distributed-development-stack.html", 
     "authors": {
       "4157392": {
@@ -42182,7 +42098,13 @@
     "has_video": "0", 
     "time_added": "1420145855", 
     "status": "0", 
-    "sort_id": 1572, 
+    "tags": {
+      "travel": {
+        "item_id": "146759310", 
+        "tag": "travel"
+      }
+    }, 
+    "sort_id": 1566, 
     "resolved_url": "http://en.wikipedia.org/wiki/Tsingy_de_Bemaraha_National_Park", 
     "authors": {
       "7331684": {
@@ -42197,7 +42119,7 @@
     "given_url": "http://en.wikipedia.org/wiki/Tsingy_de_Bemaraha_National_Park", 
     "resolved_title": "Tsingy de Bemaraha National Park", 
     "is_index": "0", 
-    "time_updated": "1420145855", 
+    "time_updated": "1420245607", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
@@ -42940,7 +42862,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1506, 
+    "sort_id": 1502, 
     "time_updated": "1418107175", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -43506,7 +43428,7 @@
     "has_video": "0", 
     "time_added": "1417366340", 
     "status": "0", 
-    "sort_id": 1487, 
+    "sort_id": 1483, 
     "resolved_url": "http://www.buzzfeed.com/h2/fbso/porsche/tiny-texas-towns-that-are-totally-worth-the-trip", 
     "authors": {
       "24651732": {
@@ -43694,7 +43616,7 @@
     "has_video": "0", 
     "time_added": "1417628544", 
     "status": "0", 
-    "sort_id": 1491, 
+    "sort_id": 1487, 
     "resolved_url": "http://www.thrillist.com/drink/austin/the-best-new-austin-bars-of-2014", 
     "authors": {
       "19065407": {
@@ -43965,7 +43887,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1559, 
+    "sort_id": 1553, 
     "time_updated": "1419699473", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -44036,7 +43958,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1534, 
+    "sort_id": 1530, 
     "time_updated": "1419131286", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -45227,7 +45149,7 @@
     "has_video": "2", 
     "time_added": "1419783356", 
     "status": "0", 
-    "sort_id": 1562, 
+    "sort_id": 1556, 
     "resolved_url": "https://www.youtube.com/watch?v=po0jY4WvCIc", 
     "item_id": "35610901", 
     "resolved_id": "35610901", 
@@ -48542,7 +48464,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1542, 
+    "sort_id": 1538, 
     "time_updated": "1419313857", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -48813,7 +48735,7 @@
         "tag": "movies"
       }
     }, 
-    "sort_id": 1493, 
+    "sort_id": 1489, 
     "resolved_url": "http://www.openculture.com/free_film_noir_movies", 
     "authors": {
       "22703392": {
@@ -52724,7 +52646,7 @@
     "has_video": "0", 
     "time_added": "1415051858", 
     "status": "0", 
-    "sort_id": 1434, 
+    "sort_id": 1433, 
     "resolved_url": "http://www.npr.org/2014/11/03/361069820/new-clock-may-end-time-as-we-know-it", 
     "authors": {
       "25849441": {
@@ -53138,7 +53060,7 @@
     "has_video": "0", 
     "time_added": "1419530936", 
     "status": "0", 
-    "sort_id": 1545, 
+    "sort_id": 1541, 
     "resolved_url": "http://www.slate.com/articles/news_and_politics/foreigners/2014/12/the_world_is_not_falling_apart_the_trend_lines_reveal_an_increasingly_peaceful.single.html", 
     "authors": {
       "3361867": {
@@ -53555,7 +53477,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1557, 
+    "sort_id": 1551, 
     "time_updated": "1419689425", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -54698,7 +54620,7 @@
     "has_video": "1", 
     "time_added": "1416430108", 
     "status": "0", 
-    "sort_id": 1452, 
+    "sort_id": 1450, 
     "resolved_url": "http://noisey.vice.com/read/watch-an-exclusive-extended-clip-with-nick-cave-and-kylie-minogue-from-20000-days-on-earth", 
     "authors": {
       "16196005": {
@@ -54786,7 +54708,7 @@
     "has_video": "0", 
     "time_added": "1416860788", 
     "status": "0", 
-    "sort_id": 1467, 
+    "sort_id": 1463, 
     "resolved_url": "http://www.patheos.com/blogs/progressivesecularhumanist/2014/11/atheism-and-the-necessity-of-anti-theism-for-social-justice/", 
     "authors": {
       "15812261": {
@@ -55340,7 +55262,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1502, 
+    "sort_id": 1498, 
     "time_updated": "1418057293", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -58559,7 +58481,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1555, 
+    "sort_id": 1549, 
     "time_updated": "1419604718", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -59385,8 +59307,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1563, 
-    "time_updated": "1419783887", 
+    "sort_id": 1557, 
+    "time_updated": "1420245628", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "", 
@@ -59639,7 +59561,7 @@
     "has_video": "2", 
     "time_added": "1419186078", 
     "status": "0", 
-    "sort_id": 1535, 
+    "sort_id": 1531, 
     "resolved_url": "http://vimeo.com/54414551", 
     "authors": {
       "19939789": {
@@ -60170,7 +60092,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1451, 
+    "sort_id": 1449, 
     "time_updated": "1416414403", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -60463,7 +60385,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1543, 
+    "sort_id": 1539, 
     "time_updated": "1419386095", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -60623,7 +60545,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1528, 
+    "sort_id": 1524, 
     "time_updated": "1418674188", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -60741,7 +60663,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1551, 
+    "sort_id": 1545, 
     "time_updated": "1419561128", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -61271,7 +61193,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1529, 
+    "sort_id": 1525, 
     "time_updated": "1418679271", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -63159,7 +63081,7 @@
     "has_video": "0", 
     "time_added": "1418619581", 
     "status": "0", 
-    "sort_id": 1524, 
+    "sort_id": 1520, 
     "resolved_url": "http://www.wired.com/2014/12/digital-globe-best-earth-from-space-2014/", 
     "authors": {
       "17986331": {
@@ -63668,7 +63590,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1486, 
+    "sort_id": 1482, 
     "time_updated": "1417326746", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -63809,7 +63731,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1450, 
+    "sort_id": 1448, 
     "time_updated": "1416414362", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -65376,7 +65298,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1478, 
+    "sort_id": 1474, 
     "time_updated": "1417062931", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -66108,7 +66030,7 @@
     "has_video": "0", 
     "time_added": "1416959914", 
     "status": "0", 
-    "sort_id": 1472, 
+    "sort_id": 1468, 
     "resolved_url": "http://www.npr.org/2014/11/25/366544685/box-of-love-letters-reveals-grandfather-didnt-escape-wwii-with-everyone", 
     "authors": {
       "26721620": {
@@ -66621,7 +66543,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1482, 
+    "sort_id": 1478, 
     "time_updated": "1417155223", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67072,7 +66994,7 @@
     "has_video": "0", 
     "time_added": "1418107317", 
     "status": "0", 
-    "sort_id": 1508, 
+    "sort_id": 1504, 
     "resolved_url": "http://www.mlsfinder.com/tx_actris/joenormanjr/index.cfm?action=listing_detail&property_id=2350423&searchkey=2dc1e874-c5d7-9c0d-c0be-a2e20cfff488", 
     "authors": {
       "27220405": {
@@ -67135,7 +67057,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1510, 
+    "sort_id": 1506, 
     "time_updated": "1418107421", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67250,7 +67172,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1449, 
+    "sort_id": 1447, 
     "time_updated": "1416432318", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67288,7 +67210,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1441, 
+    "sort_id": 1440, 
     "time_updated": "1416791934", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67604,7 +67526,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1492, 
+    "sort_id": 1488, 
     "time_updated": "1417634316", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67669,7 +67591,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1446, 
+    "sort_id": 1444, 
     "time_updated": "1417583817", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67727,7 +67649,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1533, 
+    "sort_id": 1529, 
     "time_updated": "1418855384", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67748,7 +67670,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1498, 
+    "sort_id": 1494, 
     "time_updated": "1419595856", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -68054,7 +67976,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1469, 
+    "sort_id": 1465, 
     "time_updated": "1416890035", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -68620,7 +68542,7 @@
     "has_video": "0", 
     "time_added": "1415031178", 
     "status": "0", 
-    "sort_id": 1433, 
+    "sort_id": 1432, 
     "resolved_url": "http://blogs.wsj.com/indiarealtime/2014/10/31/is-sardar-patel-eclipsing-indira-gandhi/", 
     "authors": {
       "22412171": {
@@ -68721,7 +68643,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1483, 
+    "sort_id": 1479, 
     "time_updated": "1417276453", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -69343,35 +69265,6 @@
     "resolved_id": "413541134", 
     "given_url": "http://harpjs.com/", 
     "resolved_title": "The static web server with built-in preprocessing."
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1445, 
-    "time_updated": "1416285980", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Avoid scams, deal locally Beware wiring (e.g. Western Union), cashier checks, money orders, shipping.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "15", 
-    "authors": {
-      "26420716": {
-        "item_id": "768340221", 
-        "url": "", 
-        "author_id": "26420716", 
-        "name": "Auto Land"
-      }
-    }, 
-    "given_title": "", 
-    "resolved_url": "http://sanantonio.craigslist.org/ctd/4723893921.html", 
-    "is_article": "1", 
-    "item_id": "768340221", 
-    "time_added": "1416285978", 
-    "resolved_id": "768340221", 
-    "given_url": "http://sanantonio.craigslist.org/ctd/4723893921.html", 
-    "resolved_title": "1995 Chevrolet Corvette Base 2dr STD Hatchback"
   }, 
   {
     "status": "0", 
@@ -70028,7 +69921,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1519, 
+    "sort_id": 1515, 
     "time_updated": "1418418015", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -70686,7 +70579,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1553, 
+    "sort_id": 1547, 
     "time_updated": "1419568050", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -72526,7 +72419,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1438, 
+    "sort_id": 1437, 
     "resolved_url": "http://en.wikipedia.org/wiki/Trolltunga", 
     "authors": {
       "7331684": {
@@ -72551,7 +72444,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1507, 
+    "sort_id": 1503, 
     "time_updated": "1418107289", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -72722,7 +72615,7 @@
     "has_video": "1", 
     "time_added": "1415458980", 
     "status": "0", 
-    "sort_id": 1437, 
+    "sort_id": 1436, 
     "resolved_url": "http://mentalfloss.com/article/49559/46-things-i-learned-making-mister-rogers-me", 
     "authors": {
       "8118292": {
@@ -72888,7 +72781,7 @@
     "has_video": "0", 
     "time_added": "1419906157", 
     "status": "0", 
-    "sort_id": 1567, 
+    "sort_id": 1561, 
     "resolved_url": "http://www.brainpickings.org/2014/12/29/neil-degrasse-tyson-reading-list/", 
     "authors": {
       "23602465": {
@@ -73542,7 +73435,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1517, 
+    "sort_id": 1513, 
     "time_updated": "1418354731", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -74022,7 +73915,7 @@
     "has_video": "0", 
     "time_added": "1420161152", 
     "status": "0", 
-    "sort_id": 1574, 
+    "sort_id": 1568, 
     "resolved_url": "http://visual.ly/where-be-born-1988-2013", 
     "authors": {
       "6930226": {
@@ -74068,7 +73961,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1480, 
+    "sort_id": 1476, 
     "time_updated": "1417100688", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -74176,7 +74069,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1560, 
+    "sort_id": 1554, 
     "time_updated": "1420043523", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -74419,7 +74312,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1463, 
+    "sort_id": 1461, 
     "resolved_url": "http://weburbanist.com/2014/03/17/7-urban-underground-wonders-active-subterranean-spaces/", 
     "authors": {
       "5941823": {
@@ -74644,7 +74537,7 @@
     "has_video": "0", 
     "time_added": "1418223220", 
     "status": "0", 
-    "sort_id": 1513, 
+    "sort_id": 1509, 
     "resolved_url": "http://en.wikipedia.org/wiki/The_KLF", 
     "authors": {
       "7331684": {
@@ -74910,7 +74803,7 @@
         "tag": "work"
       }
     }, 
-    "sort_id": 1500, 
+    "sort_id": 1496, 
     "resolved_url": "http://knote.com/2014/11/10/why-germans-work-fewer-hours-but-produce-more-a-study-in-culture/", 
     "item_id": "762204501", 
     "resolved_id": "762204501", 
@@ -75459,7 +75352,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1474, 
+    "sort_id": 1470, 
     "time_updated": "1417515546", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -75524,7 +75417,7 @@
     "has_video": "0", 
     "time_added": "1418519456", 
     "status": "0", 
-    "sort_id": 1523, 
+    "sort_id": 1519, 
     "resolved_url": "http://eattoperform.com/2014/12/12/the-top-five-reasons-you-arent-losing-body-fat/", 
     "authors": {
       "22997834": {
@@ -76475,7 +76368,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1448, 
+    "sort_id": 1446, 
     "time_updated": "1416352004", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -78539,7 +78432,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1540, 
+    "sort_id": 1536, 
     "time_updated": "1419264556", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -80722,7 +80615,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1499, 
+    "sort_id": 1495, 
     "time_updated": "1419316515", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -82485,7 +82378,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1485, 
+    "sort_id": 1481, 
     "time_updated": "1418393906", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -84069,7 +83962,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1505, 
+    "sort_id": 1501, 
     "time_updated": "1418107135", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -84478,7 +84371,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
@@ -85590,7 +85483,7 @@
     "has_video": "1", 
     "time_added": "1416836381", 
     "status": "0", 
-    "sort_id": 1466, 
+    "sort_id": 1462, 
     "resolved_url": "http://www.science20.com/robert_inventor/will_we_build_colonies_that_float_over_venus_like_buckminster_fullers_cloud_nine-127573", 
     "authors": {
       "9570140": {
@@ -86066,27 +85959,6 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1547, 
-    "time_updated": "1419558662", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
-    "given_title": "RARE LOT IN HOT EAST AUSTIN $128,000.00", 
-    "resolved_url": "https://austin.craigslist.org/reo/4786100827.html", 
-    "is_article": "0", 
-    "item_id": "799803302", 
-    "time_added": "1419558661", 
-    "resolved_id": "799803302", 
-    "given_url": "https://austin.craigslist.org/reo/4786100827.html", 
-    "resolved_title": ""
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
     "sort_id": 970, 
     "time_updated": "1391493530", 
     "time_favorited": "0", 
@@ -86194,7 +86066,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1536, 
+    "sort_id": 1532, 
     "time_updated": "1419186224", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -86244,7 +86116,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1453, 
+    "sort_id": 1451, 
     "time_updated": "1416430112", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -86844,7 +86716,7 @@
     "has_video": "0", 
     "time_added": "1418740315", 
     "status": "0", 
-    "sort_id": 1530, 
+    "sort_id": 1526, 
     "resolved_url": "https://medium.com/founder-stories/ten-things-we-believe-2c85c462d508", 
     "authors": {
       "10023176": {
