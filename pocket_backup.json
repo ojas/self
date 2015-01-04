@@ -5215,6 +5215,98 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1574, 
+    "time_updated": "1420394108", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "{ title: Towards Better Keyboards description: Keyboard are better when their keys are not staggered.", 
+    "image": {
+      "item_id": "45200809", 
+      "src": "http://loup-vaillant.fr/articles/keyboard/small-keyboard-straight.jpg", 
+      "height": "177", 
+      "width": "500"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "918", 
+    "images": {
+      "1": {
+        "src": "http://loup-vaillant.fr/articles/keyboard/small-keyboard-straight.jpg", 
+        "credit": "", 
+        "height": "177", 
+        "image_id": "1", 
+        "item_id": "45200809", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "3": {
+        "src": "http://loup-vaillant.fr/articles/keyboard/small-alpha-slanted-painted.jpg", 
+        "credit": "", 
+        "height": "162", 
+        "image_id": "3", 
+        "item_id": "45200809", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "2": {
+        "src": "http://loup-vaillant.fr/articles/keyboard/small-alpha-slanted.jpg", 
+        "credit": "", 
+        "height": "162", 
+        "image_id": "2", 
+        "item_id": "45200809", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "5": {
+        "src": "http://loup-vaillant.fr/articles/keyboard/small-alpha-slanted-painted-3.jpg", 
+        "credit": "", 
+        "height": "162", 
+        "image_id": "5", 
+        "item_id": "45200809", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "4": {
+        "src": "http://loup-vaillant.fr/articles/keyboard/small-alpha-slanted-painted-2.jpg", 
+        "credit": "", 
+        "height": "162", 
+        "image_id": "4", 
+        "item_id": "45200809", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "7": {
+        "src": "http://loup-vaillant.fr/articles/keyboard/typewriter.jpg", 
+        "credit": "", 
+        "height": "550", 
+        "image_id": "7", 
+        "item_id": "45200809", 
+        "caption": "", 
+        "width": "528"
+      }, 
+      "6": {
+        "src": "http://loup-vaillant.fr/articles/keyboard/small-alpha-straight-painted.jpg", 
+        "credit": "", 
+        "height": "156", 
+        "image_id": "6", 
+        "item_id": "45200809", 
+        "caption": "", 
+        "width": "454"
+      }
+    }, 
+    "given_title": "Towards Better Keyboards", 
+    "resolved_url": "http://loup-vaillant.fr/articles/better-keyboards", 
+    "is_article": "1", 
+    "item_id": "45200809", 
+    "time_added": "1420394108", 
+    "resolved_id": "45200809", 
+    "given_url": "http://loup-vaillant.fr/articles/better-keyboards", 
+    "resolved_title": ""
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "281016672", 
@@ -8617,6 +8709,47 @@
     "resolved_id": "380058049", 
     "given_url": "http://en.m.wikiquote.org/wiki/Edward_Robert_Harrison", 
     "resolved_title": "Edward Robert Harrison"
+  }, 
+  {
+    "status": "0", 
+    "sort_id": 1573, 
+    "time_updated": "1420393744", 
+    "time_favorited": "0", 
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/v/YJMr6nrl7c0", 
+        "vid": "YJMr6nrl7c0", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "501312112", 
+        "type": "1"
+      }
+    }, 
+    "time_read": "0", 
+    "image": {
+      "item_id": "501312112", 
+      "src": "tel:8884328530", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "favorite": "0", 
+    "images": {
+      "1": {
+        "src": "tel:8884328530", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "501312112", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Belief, Respect, and Facts", 
+    "item_id": "501312112", 
+    "time_added": "1420393744", 
+    "resolved_id": "0", 
+    "given_url": "http://loup-vaillant.fr/articles/beliefs-respect-and-facts"
   }, 
   {
     "status": "0", 
@@ -25832,7 +25965,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1518, 
-    "time_updated": "1420306910", 
+    "time_updated": "1420394558", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Gaze at Alexander Von Humboldt\u2019s 1814 self-portrait and you peer into the eyes of a man who sought to see and understand everything.", 
@@ -54862,6 +54995,79 @@
     "resolved_id": "167239307", 
     "given_url": "https://www.dotcloud.com/pricing.html", 
     "resolved_title": "Pricing Calculator"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "797169264", 
+      "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*7A6q2fZOz_N9nrQuQeTx0A.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Dragan Roganovi\u0107 has an eye\u2014and ear\u2014for the artistic. During the past decade, he\u2019s found success in the form of musical expression as DJ/producer Dirty South\u2014his remixes have been nominated for two Grammy awards.", 
+    "word_count": "1459", 
+    "images": {
+      "1": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*7A6q2fZOz_N9nrQuQeTx0A.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "797169264", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*WLfMgxkSxtEepqTijDJy6g.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "797169264", 
+        "caption": "Dirty South\u2019s With You wasn\u2019t made for the dancefloor.", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*kZPY4wJzW_Q09W9OhRpKtg.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "797169264", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/1200/1*S26ew1XohKLmFQsl3YRKXw.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "797169264", 
+        "caption": "Dirty South\u2019s With You album acts as the score to it\u2019s accompanying short film", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1420393741", 
+    "status": "0", 
+    "sort_id": 1572, 
+    "resolved_url": "https://medium.com/cuepoint/my-evolution-from-music-producer-to-filmmaker-by-dirty-south-5b7fd57600e1", 
+    "authors": {
+      "583173": {
+        "item_id": "797169264", 
+        "url": "", 
+        "author_id": "583173", 
+        "name": "Dirty South"
+      }
+    }, 
+    "item_id": "797169264", 
+    "resolved_id": "797169264", 
+    "given_url": "https://medium.com/cuepoint/my-evolution-from-music-producer-to-filmmaker-by-dirty-south-5b7fd57600e1", 
+    "resolved_title": "My Evolution from Music Producer to Filmmaker", 
+    "is_index": "0", 
+    "time_updated": "1420393741", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "My Evolution from Music Producer to Filmmaker, by Dirty South \u2014 Cuepoint \u2014 ", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
