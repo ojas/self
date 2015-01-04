@@ -22810,7 +22810,7 @@
       "width": "0"
     }, 
     "excerpt": "Should you wish to pay homage to the great physicist James Clerk Maxwell, you wouldn\u2019t lack for locales in which to do it. There\u2019s a memorial marker in London\u2019s Westminster Abbey, not far from Isaac Newton\u2019s grave.", 
-    "word_count": "3427", 
+    "word_count": "3438", 
     "images": {
       "1": {
         "src": "http://spectrum.ieee.org/img/12MaxwellOpenerart-lrg2-1416244505795.jpg", 
@@ -30041,7 +30041,7 @@
     "excerpt": "Quality happens only when someone is responsible for it.", 
     "image": {
       "item_id": "209770958", 
-      "src": "http://queue.acm.org/img/q%20stamp_small.jpg", 
+      "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
       "height": "45", 
       "width": "26"
     }, 
@@ -30051,7 +30051,7 @@
     "word_count": "3647", 
     "images": {
       "1": {
-        "src": "http://queue.acm.org/img/q%20stamp_small.jpg", 
+        "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
         "credit": "", 
         "height": "45", 
         "image_id": "1", 
@@ -30061,7 +30061,7 @@
       }
     }, 
     "given_title": "A Generation Lost in the Bazaar - ACM Queue", 
-    "resolved_url": "http://queue.acm.org/detail.cfm?id=2349257&ref=fullrss", 
+    "resolved_url": "https://queue.acm.org/detail.cfm?id=2349257&ref=fullrss", 
     "is_article": "1", 
     "item_id": "209770958", 
     "time_added": "1419904486", 
