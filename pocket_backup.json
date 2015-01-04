@@ -40233,7 +40233,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1789", 
+    "word_count": "1791", 
     "authors": {
       "7331684": {
         "item_id": "275422367", 
@@ -40243,7 +40243,7 @@
       }
     }, 
     "given_title": "Parkinson's law of triviality - Wikipedia, the free encyclopedia", 
-    "resolved_url": "http://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality", 
+    "resolved_url": "https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality", 
     "is_article": "1", 
     "item_id": "275422367", 
     "time_added": "1391499442", 
@@ -41206,12 +41206,12 @@
       }
     }, 
     "sort_id": 532, 
-    "resolved_url": "http://miter.mit.edu/the-unexotic-underclass/", 
+    "resolved_url": "https://miter.mit.edu/the-unexotic-underclass/", 
     "authors": {
-      "9300782": {
+      "9442405": {
         "item_id": "362978193", 
-        "url": "http://miter.mit.edu/author/nnaemeka/", 
-        "author_id": "9300782", 
+        "url": "https://miter.mit.edu/author/nnaemeka/", 
+        "author_id": "9442405", 
         "name": "C.Z. Nnaemeka"
       }
     }, 
