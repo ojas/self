@@ -2,7 +2,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1854, 
+    "sort_id": 1852, 
     "time_updated": "1436746460", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -1116,7 +1116,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1858, 
+    "sort_id": 1856, 
     "time_updated": "1436810954", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -2283,7 +2283,7 @@
     "has_video": "0", 
     "time_added": "1438347608", 
     "status": "0", 
-    "sort_id": 1881, 
+    "sort_id": 1879, 
     "resolved_url": "http://lwn.net/SubscriberLink/652580/ddb64b1eb568fe87/", 
     "authors": {
       "2491632": {
@@ -11611,7 +11611,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1852, 
+    "sort_id": 1850, 
     "time_updated": "1436674724", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -12220,22 +12220,14 @@
     "resolved_title": ""
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1806, 
-    "time_updated": "1433255118", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "The Lexus LFA is a 2-seat exotic sports coupe produced by Lexus as a concept car, \"halo\" vehicle, racing prototype, and production model.[1] It is the second model in the F marque line of performance vehicles from Lexus, following the IS F.", 
+    "is_article": "1", 
     "image": {
       "item_id": "37133005", 
       "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lexus_LFA_Yellow_Las_Vegas.jpg/250px-Lexus_LFA_Yellow_Las_Vegas.jpg", 
       "height": "130", 
       "width": "250"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "The Lexus LFA is a 2-seat exotic sports coupe produced by Lexus as a concept car, \"halo\" vehicle, racing prototype, and production model.[1] It is the second model in the F marque line of performance vehicles from Lexus, following the IS F.", 
     "word_count": "13404", 
     "images": {
       "24": {
@@ -12509,14 +12501,28 @@
         "width": "220"
       }
     }, 
-    "given_title": "Lexus LFA - Wikipedia, the free encyclopedia", 
-    "resolved_url": "http://en.wikipedia.org/wiki/Lexus_LFA", 
-    "is_article": "1", 
-    "item_id": "37133005", 
+    "has_video": "0", 
     "time_added": "1433255118", 
+    "status": "0", 
+    "tags": {
+      "lfa": {
+        "item_id": "37133005", 
+        "tag": "lfa"
+      }
+    }, 
+    "sort_id": 1806, 
+    "resolved_url": "http://en.wikipedia.org/wiki/Lexus_LFA", 
+    "item_id": "37133005", 
     "resolved_id": "37133005", 
     "given_url": "http://en.wikipedia.org/wiki/Lexus_LFA", 
-    "resolved_title": "Lexus LFA"
+    "resolved_title": "Lexus LFA", 
+    "is_index": "0", 
+    "time_updated": "1438361793", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Lexus LFA - Wikipedia, the free encyclopedia", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
@@ -14217,7 +14223,7 @@
         "tag": "to-watch"
       }
     }, 
-    "sort_id": 1848, 
+    "sort_id": 1847, 
     "resolved_url": "https://en.wikipedia.org/wiki/Moonrunners#Connections_to_The_Dukes_of_Hazzard", 
     "authors": {
       "7331684": {
@@ -16812,7 +16818,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1847, 
+    "sort_id": 1846, 
     "time_updated": "1436472515", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -19664,7 +19670,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1857, 
+    "sort_id": 1855, 
     "time_updated": "1436810787", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -26471,7 +26477,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1865, 
+    "sort_id": 1863, 
     "time_updated": "1436988595", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -29046,7 +29052,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1868, 
+    "sort_id": 1866, 
     "time_updated": "1437662496", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -31679,7 +31685,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1869, 
+    "sort_id": 1867, 
     "time_updated": "1437667137", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -32777,7 +32783,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1875, 
+    "sort_id": 1873, 
     "time_updated": "1438183080", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -37175,7 +37181,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1853, 
+    "sort_id": 1851, 
     "time_updated": "1436746357", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -37267,7 +37273,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1861, 
+    "sort_id": 1859, 
     "time_updated": "1436816253", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -37619,27 +37625,6 @@
     "time_added": "1357688773", 
     "resolved_id": "278030447", 
     "given_url": "https://orgscience.uncc.edu/sites/orgscience.uncc.edu/files/Meetings%20At%20Work.pdf", 
-    "resolved_title": ""
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1849, 
-    "time_updated": "1436616306", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
-    "given_title": "", 
-    "resolved_url": "http://austin.craigslist.org/cto/5070291826.html", 
-    "is_article": "0", 
-    "item_id": "978679825", 
-    "time_added": "1436616304", 
-    "resolved_id": "978679825", 
-    "given_url": "http://austin.craigslist.org/cto/5070291826.html", 
     "resolved_title": ""
   }, 
   {
@@ -38396,7 +38381,7 @@
     "has_video": "0", 
     "time_added": "1436642744", 
     "status": "0", 
-    "sort_id": 1851, 
+    "sort_id": 1849, 
     "resolved_url": "http://nginx.com/blog/introduction-to-microservices/", 
     "authors": {
       "36672181": {
@@ -38671,7 +38656,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1863, 
+    "sort_id": 1861, 
     "time_updated": "1436883058", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -40367,7 +40352,7 @@
     "has_video": "0", 
     "time_added": "1436804268", 
     "status": "0", 
-    "sort_id": 1855, 
+    "sort_id": 1853, 
     "resolved_url": "http://formulafreak.kinja.com/man-rebuilds-2007-honda-f1-car-for-track-day-use-1717383001", 
     "authors": {
       "33391231": {
@@ -44633,7 +44618,7 @@
     "has_video": "0", 
     "time_added": "1438359863", 
     "status": "0", 
-    "sort_id": 1882, 
+    "sort_id": 1880, 
     "resolved_url": "https://en.wikipedia.org/wiki/Nelson_rules", 
     "authors": {
       "7331684": {
@@ -46275,7 +46260,7 @@
     "has_video": "0", 
     "time_added": "1438183076", 
     "status": "0", 
-    "sort_id": 1874, 
+    "sort_id": 1872, 
     "resolved_url": "http://phys.org/news/2015-07-life-emergence-self-replication-early-earth.html", 
     "authors": {
       "36827272": {
@@ -49110,27 +49095,6 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1843, 
-    "time_updated": "1435960879", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
-    "given_title": "Tektronix T922 15MHz Oscilloscope", 
-    "resolved_url": "https://austin.craigslist.org/ele/5089962283.html", 
-    "is_article": "0", 
-    "item_id": "971659079", 
-    "time_added": "1435960878", 
-    "resolved_id": "971659079", 
-    "given_url": "https://austin.craigslist.org/ele/5089962283.html", 
-    "resolved_title": ""
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
     "sort_id": 582, 
     "time_updated": "1374153901", 
     "time_favorited": "0", 
@@ -49607,7 +49571,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1878, 
+    "sort_id": 1876, 
     "time_updated": "1438233753", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -49850,8 +49814,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1879, 
-    "time_updated": "1438235000", 
+    "sort_id": 1877, 
+    "time_updated": "1438361721", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Despite their often futuristic appearances, most modern supercars are, in a sense, things of the past.", 
@@ -49866,7 +49830,13 @@
     "time_added": "1438234993", 
     "resolved_id": "996536635", 
     "given_url": "http://robbreport.com/Automobiles/Wheels-Lexus-Rex", 
-    "resolved_title": "2011 Lexus LFA Supercar : Automobiles : The Best Luxury Cars, Jets, Yachts, Travel, Watches"
+    "resolved_title": "2011 Lexus LFA Supercar : Automobiles : The Best Luxury Cars, Jets, Yachts, Travel, Watches", 
+    "tags": {
+      "lfa": {
+        "item_id": "996536635", 
+        "tag": "lfa"
+      }
+    }
   }, 
   {
     "status": "0", 
@@ -50411,7 +50381,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1856, 
+    "sort_id": 1854, 
     "time_updated": "1436804597", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -52764,7 +52734,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1846, 
+    "sort_id": 1845, 
     "resolved_url": "http://us1.campaign-archive1.com/?u=f7535b861176cc30bddc8246d&id=21b526458b", 
     "item_id": "976139855", 
     "resolved_id": "976139855", 
@@ -61430,7 +61400,7 @@
         "tag": "react.js"
       }
     }, 
-    "sort_id": 1862, 
+    "sort_id": 1860, 
     "resolved_url": "http://rauchg.com/2015/pure-ui/", 
     "item_id": "980594354", 
     "resolved_id": "980594354", 
@@ -64965,7 +64935,7 @@
     "has_video": "0", 
     "time_added": "1437509911", 
     "status": "0", 
-    "sort_id": 1866, 
+    "sort_id": 1864, 
     "resolved_url": "http://brendanmcaleer.kinja.com/flight-of-the-bumblebee-driving-the-autozam-az-1-1719009571", 
     "authors": {
       "34272250": {
@@ -66687,7 +66657,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1873, 
+    "sort_id": 1871, 
     "time_updated": "1438136774", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67558,7 +67528,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1864, 
+    "sort_id": 1862, 
     "time_updated": "1436975771", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -72883,22 +72853,14 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1859, 
-    "time_updated": "1436811003", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "The following instructions for converting your garage door to a high lift system are written for only the confident mechanic. The task is more complex than installing a garage door from start to finish. The average diy-er should not attempt this.", 
+    "is_article": "1", 
     "image": {
       "item_id": "68536742", 
       "src": "http://ddmgaragedoors.com/diy-instructions/images/high-lift-conversion/high-lift-conversion.jpg", 
       "height": "450", 
       "width": "292"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "The following instructions for converting your garage door to a high lift system are written for only the confident mechanic. The task is more complex than installing a garage door from start to finish. The average diy-er should not attempt this.", 
     "word_count": "5392", 
     "images": {
       "133": {
@@ -74297,14 +74259,28 @@
         "width": "300"
       }
     }, 
-    "given_title": "High Lift Garage Door Conversion", 
-    "resolved_url": "http://ddmgaragedoors.com/diy-instructions/garage-door-high-lift-conversion.php#intro", 
-    "is_article": "1", 
-    "item_id": "68536742", 
+    "has_video": "0", 
     "time_added": "1436811003", 
+    "status": "0", 
+    "tags": {
+      "garage": {
+        "item_id": "68536742", 
+        "tag": "garage"
+      }
+    }, 
+    "sort_id": 1857, 
+    "resolved_url": "http://ddmgaragedoors.com/diy-instructions/garage-door-high-lift-conversion.php#intro", 
+    "item_id": "68536742", 
     "resolved_id": "68536742", 
     "given_url": "http://ddmgaragedoors.com/diy-instructions/garage-door-high-lift-conversion.php", 
-    "resolved_title": "High Lift Garage Door Conversion"
+    "resolved_title": "High Lift Garage Door Conversion", 
+    "is_index": "0", 
+    "time_updated": "1438361741", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "High Lift Garage Door Conversion", 
+    "has_image": "1"
   }, 
   {
     "videos": {
@@ -80588,7 +80564,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1880, 
+    "sort_id": 1878, 
     "time_updated": "1438343886", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -87087,7 +87063,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1850, 
+    "sort_id": 1848, 
     "time_updated": "1436647250", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -90114,7 +90090,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1845, 
+    "sort_id": 1844, 
     "time_updated": "1436389288", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -91727,7 +91703,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1877, 
+    "sort_id": 1875, 
     "time_updated": "1438230262", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -94260,7 +94236,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1860, 
+    "sort_id": 1858, 
     "time_updated": "1436811173", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -95164,22 +95140,14 @@
     "resolved_title": "I don't know, Timmy, being God is a big responsibility @ Things Of Interest"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1876, 
-    "time_updated": "1438230158", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Even today, four years after Toyota's Lexus division set out into the supercar world with the 552-hp, V-10-engined Lexus LFA, the car seems like a mirage. After a decade of planning and research, only 500 were built \u2014\u00a0meticulously, mostly by hand \u2014 with prices of $375,000 each.", 
+    "is_article": "1", 
     "image": {
       "item_id": "996489240", 
       "src": "https://s.yimg.com/lo/api/res/1.2/7witDCJKg7C3SAN13jl13w--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https:/s.yimg.com/os/publish-images/autos/2013-06-18/01f5d6e3-1b47-424a-a19e-0fc9f4e5f2fc_Rancho-Valencia-Allan-Nuguid-Lexus-LFA_sm-1024x724.jpg", 
       "height": "0", 
       "width": "800"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "Even today, four years after Toyota's Lexus division set out into the supercar world with the 552-hp, V-10-engined Lexus LFA, the car seems like a mirage. After a decade of planning and research, only 500 were built \u2014\u00a0meticulously, mostly by hand \u2014 with prices of $375,000 each.", 
     "word_count": "407", 
     "images": {
       "1": {
@@ -95192,14 +95160,28 @@
         "width": "800"
       }
     }, 
-    "given_title": "", 
-    "resolved_url": "https://www.yahoo.com/autos/bp/new-lexus-lfas-still-unsold-two-years-after-production-ended-192812270.html", 
-    "is_article": "1", 
-    "item_id": "996489240", 
+    "has_video": "0", 
     "time_added": "1438230155", 
+    "status": "0", 
+    "tags": {
+      "lfa": {
+        "item_id": "996489240", 
+        "tag": "lfa"
+      }
+    }, 
+    "sort_id": 1874, 
+    "resolved_url": "https://www.yahoo.com/autos/bp/new-lexus-lfas-still-unsold-two-years-after-production-ended-192812270.html", 
+    "item_id": "996489240", 
     "resolved_id": "996489240", 
     "given_url": "https://www.yahoo.com/autos/bp/new-lexus-lfas-still-unsold-two-years-after-production-ended-192812270.html", 
-    "resolved_title": "New Lexus LFAs still unsold two years after production ended"
+    "resolved_title": "New Lexus LFAs still unsold two years after production ended", 
+    "is_index": "0", 
+    "time_updated": "1438361724", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
@@ -97220,7 +97202,7 @@
     "has_video": "0", 
     "time_added": "1437846919", 
     "status": "0", 
-    "sort_id": 1871, 
+    "sort_id": 1869, 
     "resolved_url": "http://ubiquity.acm.org/blog/the-facebook-method-of-dealing-with-complexity/", 
     "authors": {
       "36251478": {
@@ -99359,7 +99341,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1867, 
+    "sort_id": 1865, 
     "time_updated": "1437536459", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -101289,7 +101271,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1872, 
+    "sort_id": 1870, 
     "time_updated": "1438106184", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -102694,7 +102676,7 @@
     "has_video": "0", 
     "time_added": "1436115900", 
     "status": "0", 
-    "sort_id": 1844, 
+    "sort_id": 1843, 
     "resolved_url": "http://www.architecturendesign.net/10-spectacular-underground-homes-around-the-world/", 
     "authors": {
       "20997694": {
@@ -103175,7 +103157,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1870, 
+    "sort_id": 1868, 
     "time_updated": "1437713204", 
     "time_favorited": "0", 
     "time_read": "0", 
