@@ -2,7 +2,7 @@
 
 ![The-Space-Shuttle-Columbia-is-carried-atop-a-NASA-747-at-the-Edwards-Air-Fo](http://wodumedia.com/wp-content/uploads/2012/11/The-Space-Shuttle-Columbia-is-carried-atop-a-NASA-747-at-the-Edwards-Air-Force-Base-California-on-November-25-1981.-AP-PhotoLennox-McLendon-960x628.jpg)
 
-![6a00d83431352e53ef017d40add625970c-pi (500×745)](http://www.summerofdan.net/.a/6a00d83431352e53ef017d40add625970c-pi)
+![6a00d83431352e53ef01b7c7510f62970b-pi 500×750 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c7510f62970b-pi)
 
 ![tumblr_mkqvc3WvfI1rvoixgo1_500.jpg (500×375)](http://24.media.tumblr.com/f6f0f12e863c7ab064e9cdbe165a43cf/tumblr_mkqvc3WvfI1rvoixgo1_500.jpg)
 
@@ -13,6 +13,8 @@
 ![6a00d83431352e53ef01a511f31c06970c-pi 636×1,185 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31c06970c-pi)
 
 ![1380183_641845145846483_1148782810_n.jpg (722×960)](https://scontent-a-ord.xx.fbcdn.net/hphotos-prn2/t1.0-9/1380183_641845145846483_1148782810_n.jpg)
+
+![Slacklining - Imgur](http://imgur.com/a/HLY1A)
 
 ![6a00d83431352e53ef01b7c6d599cc970b-pi 500×495 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c6d599cc970b-pi)
 
@@ -34,7 +36,9 @@
 
 ![6a00d83431352e53ef017ee8d74917970d-pi (500×749)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8d74917970d-pi)
 
-![6a00d83431352e53ef01a3fb3c4eff970b-pi 500×689 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fb3c4eff970b-pi)
+![6a00d83431352e53ef017d40adb380970c-pi (500×667)](http://www.summerofdan.net/.a/6a00d83431352e53ef017d40adb380970c-pi)
+
+![omdtmc181ds0sl.jpg 420×566 pixels](http://file.vintageadbrowser.com/omdtmc181ds0sl.jpg)
 
 ![6a00d83431352e53ef01a3fd437854970b-pi 500×500 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fd437854970b-pi)
 
@@ -48,6 +52,8 @@
 
 ![6a00d83431352e53ef017ee9554a68970d-pi (500×648)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee9554a68970d-pi)
 
+![6a00d83431352e53ef017d40add625970c-pi (500×745)](http://www.summerofdan.net/.a/6a00d83431352e53ef017d40add625970c-pi)
+
 ![6a00d83431352e53ef01901c86b3ee970b-pi (500×526)](http://www.summerofdan.net/.a/6a00d83431352e53ef01901c86b3ee970b-pi)
 
 ![1424360_10152111622646275_7872616177428780741_n.png (403×402)](https://scontent-a.xx.fbcdn.net/hphotos-ash3/t1.0-9/1424360_10152111622646275_7872616177428780741_n.png)
@@ -56,7 +62,7 @@
 
 ![6a00d83431352e53ef01bb078d877f970d-pi 500×625 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01bb078d877f970d-pi)
 
-![8kT0ioL.gif 350×197 pixels](http://i.imgur.com/8kT0ioL.gif)
+![Something we'd all do well to remember - Imgur](http://imgur.com/a/mNDXo)
 
 ![kUWMRkK.gif (320×180)](http://i.imgur.com/kUWMRkK.gif)
 
@@ -64,11 +70,11 @@
 
 ![10468202_10152231114630025_1255164168361320872_n.jpg 605×785 pixels](https://scontent-b-iad.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10468202_10152231114630025_1255164168361320872_n.jpg)
 
-![6a00d83431352e53ef01a511f31bfc970c-pi 499×665 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31bfc970c-pi)
+![8kT0ioL.gif 350×197 pixels](http://i.imgur.com/8kT0ioL.gif)
 
 ![tumblr_mlyjajupvK1ql2603o1_500.jpg (500×573)](http://25.media.tumblr.com/b8d728e80e0a362a4cb742b0b4edb295/tumblr_mlyjajupvK1ql2603o1_500.jpg)
 
-![6a00d83431352e53ef01a3fd300427970b-pi 736×490 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fd300427970b-pi)
+![6a00d83431352e53ef01a3fb3c4eff970b-pi 500×689 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fb3c4eff970b-pi)
 
 ![6a00d83431352e53ef019b03619751970d-pi 900×600 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef019b03619751970d-pi)
 
@@ -94,7 +100,7 @@
 
 ![6a00d83431352e53ef01a511f31c1d970c-pi 500×667 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31c1d970c-pi)
 
-![6a00d83431352e53ef0191044ee03b970c-pi (500×329)](http://www.summerofdan.net/.a/6a00d83431352e53ef0191044ee03b970c-pi)
+![Taylor Swift quotes by @SwiftOnSecurity - Imgur](https://imgur.com/a/1PDRJ)
 
 ![6a00d83431352e53ef01a3fd2b61b3970b-pi 347×260 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fd2b61b3970b-pi)
 
@@ -104,9 +110,13 @@
 
 ![6a00d83431352e53ef01a73deb093f970d-pi 600×600 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73deb093f970d-pi)
 
-![6a00d83431352e53ef017d40adb380970c-pi (500×667)](http://www.summerofdan.net/.a/6a00d83431352e53ef017d40adb380970c-pi)
+![6a00d83431352e53ef01a3fd300427970b-pi 736×490 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fd300427970b-pi)
+
+![6a00d83431352e53ef017d4110953d970c-pi (800×600)](http://www.summerofdan.net/.a/6a00d83431352e53ef017d4110953d970c-pi)
 
 ![6a00d83431352e53ef017ee67fd7e3970d-pi (464×700)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee67fd7e3970d-pi)
+
+![6a00d83431352e53ef01b7c776d1c7970b-pi 900×600 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c776d1c7970b-pi)
 
 ![6a00d83431352e53ef017eeb468312970d-pi (499×490)](http://www.summerofdan.net/.a/6a00d83431352e53ef017eeb468312970d-pi)
 
@@ -122,7 +132,7 @@
 
 ![6a00d83431352e53ef017ee9552eed970d-pi (497×591)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee9552eed970d-pi)
 
-![6a00d83431352e53ef017d4110953d970c-pi (800×600)](http://www.summerofdan.net/.a/6a00d83431352e53ef017d4110953d970c-pi)
+![6a00d83431352e53ef0191044ee03b970c-pi (500×329)](http://www.summerofdan.net/.a/6a00d83431352e53ef0191044ee03b970c-pi)
 
 ![6a00d83431352e53ef01a510b566c3970c-pi 400×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a510b566c3970c-pi)
 
@@ -144,7 +154,11 @@
 
 ![6a00d83431352e53ef01a73d9ca316970d-pi 400×224 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73d9ca316970d-pi)
 
+![6a00d83431352e53ef01a511f31bfc970c-pi 499×665 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31bfc970c-pi)
+
 ![es19etC.jpg 1,688×1,125 pixels](http://i.imgur.com/es19etC.jpg)
+
+![](https://instagram.com/p/2fWePMKfaW/)
 
 ![6a00d83431352e53ef01b8d07f835b970c-pi 500×500 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b8d07f835b970c-pi)
 
