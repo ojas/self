@@ -44532,15 +44532,15 @@
     "has_image": "2"
   }, 
   {
-    "is_article": "1", 
+    "is_article": "0", 
     "image": {
       "item_id": "135206336", 
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rule_1_-_Control_Charts_for_Nelson_Rules.svg/256px-Rule_1_-_Control_Charts_for_Nelson_Rules.svg.png", 
       "height": "185", 
       "width": "256"
     }, 
-    "excerpt": "Nelson rules are a method in process control of determining if some measured variable is out of control (unpredictable versus consistent). Rules, for detecting \"out-of-control\" or non-random conditions were first postulated by Walter A. Shewhart [1] in the 1920s.", 
-    "word_count": "565", 
+    "excerpt": "", 
+    "word_count": "0", 
     "images": {
       "1": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rule_1_-_Control_Charts_for_Nelson_Rules.svg/256px-Rule_1_-_Control_Charts_for_Nelson_Rules.svg.png", 
@@ -44631,14 +44631,14 @@
     "item_id": "135206336", 
     "resolved_id": "135206336", 
     "given_url": "https://en.wikipedia.org/wiki/Nelson_rules", 
-    "resolved_title": "Nelson rules", 
+    "resolved_title": "", 
     "is_index": "0", 
     "time_updated": "1438359863", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Nelson rules - Wikipedia, the free encyclopedia", 
-    "has_image": "1"
+    "has_image": "0"
   }, 
   {
     "status": "0", 
@@ -66007,7 +66007,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "689184535", 
-      "src": "https://cdn-images-1.medium.com/max/800/1*XJo3cIb4l4vqPeMAfa9q5w.png", 
+      "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*XJo3cIb4l4vqPeMAfa9q5w.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -66015,7 +66015,7 @@
     "word_count": "2249", 
     "images": {
       "1": {
-        "src": "https://cdn-images-1.medium.com/max/800/1*XJo3cIb4l4vqPeMAfa9q5w.png", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*XJo3cIb4l4vqPeMAfa9q5w.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
