@@ -77354,6 +77354,70 @@
     "resolved_title": "Ask HN: How much recurring income do you generate and from what?"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "994991648", 
+      "src": "http://media.npr.org/assets/img/2015/07/28/self-identity_wide-593012d29d82fcf11be24fb6d9d317a3cef5496c-s1100-c15.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Your purchase helps support NPR Programming. How?  Science journalist Anil Ananthaswamy thinks a lot about \"self\" \u2014 not necessarily himself, but the role the brain plays in our notions of self and existence.", 
+    "word_count": "1489", 
+    "images": {
+      "1": {
+        "src": "http://media.npr.org/assets/img/2015/07/28/self-identity_wide-593012d29d82fcf11be24fb6d9d317a3cef5496c-s1100-c15.jpg", 
+        "credit": "\n\nLee Woodgate/Ikon Images/Corbis", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "994991648", 
+        "caption": "\n\nLee Woodgate/Ikon Images/Corbis", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://media.npr.org/assets/img/2015/07/27/anil-ananthaswamy_authorphoto_creditprasadvaidya-c8056054d191033239edc97af8376d2e2fe25fb7-s800-c15.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "994991648", 
+        "caption": "\n\nAnil Ananthaswamy is a consultant for New Scientist Magazine. Prasad Vaidya/Dutton hide caption\n\nitoggle caption Prasad Vaidya/Dutton", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://media.npr.org/assets/bakertaylor/covers/t/the-man-who-wasnt-there/9780525954194_custom-c8afddfa19ba314e851f349e875de7b305c545c9-s1200-c15.jpg", 
+        "credit": "\n\n", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "994991648", 
+        "caption": "\n\n", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1438401983", 
+    "status": "0", 
+    "sort_id": 1881, 
+    "resolved_url": "http://www.npr.org/sections/health-shots/2015/07/28/426753409/a-sense-of-self-what-happens-when-your-brain-says-you-dont-exist", 
+    "authors": {
+      "36832393": {
+        "item_id": "994991648", 
+        "url": "http://www.npr.org/books/authors/426753233/anil-ananthaswamy", 
+        "author_id": "36832393", 
+        "name": "Anil Ananthaswamy"
+      }
+    }, 
+    "item_id": "994991648", 
+    "resolved_id": "994991648", 
+    "given_url": "http://www.npr.org/sections/health-shots/2015/07/28/426753409/a-sense-of-self-what-happens-when-your-brain-says-you-dont-exist", 
+    "resolved_title": "A Sense Of Self: What Happens When Your Brain Says You Don't Exist", 
+    "is_index": "0", 
+    "time_updated": "1438401983", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "What Happens When Your Brain Says You Don't Exist : Shots - Health News : N", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 1409, 
