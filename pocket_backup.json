@@ -97369,11 +97369,11 @@
     "time_updated": "1407426173", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "The Countries of the World (COW) database is our Premier Geospatial Database. For more information and download.  Map FIPS 10-4 2-letter country codes to the equivalent ISO 3166-1 alpha-2 2-letter country codes.", 
+    "excerpt": "The Countries of the World (COW) database is our Premier Geospatial Database. For more information and download of our   Map FIPS 10-4 2-letter country codes to the equivalent ISO 3166-1 alpha-2 2-letter country codes.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "401", 
+    "word_count": "1547", 
     "authors": {
       "89560": {
         "item_id": "297501483", 
@@ -97383,7 +97383,7 @@
       }
     }, 
     "given_title": "OpenGeocode.Org - FREE, Public Domain Download of Geolocation and Geospatia", 
-    "resolved_url": "http://opengeocode.org/download.php", 
+    "resolved_url": "http://www.opengeocode.org/download.php#cities", 
     "is_article": "1", 
     "item_id": "297501483", 
     "time_added": "1387403330", 
