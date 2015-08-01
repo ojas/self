@@ -24418,11 +24418,429 @@
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Find community, conversation and inspiration about the things you love.  Please enable cookies in your browser preferences before signing in.", 
-    "has_image": "0", 
+    "excerpt": "Find community, conversation and inspiration about the things you love.  One of the true greats of all time. My heart goes out to his family and the fans he entertained over the years. RIP Rowdy.", 
+    "has_image": "1", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "320", 
+    "has_video": "1", 
+    "word_count": "1424", 
+    "images": {
+      "3": {
+        "src": "https://abs.twimg.com/emoji/v1/72x72/2764.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "124414", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://abs.twimg.com/emoji/v1/72x72/1f602.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "124414", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "authors": {
+      "11360462": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11360462", 
+        "name": "BBC News (World)"
+      }, 
+      "32888": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "32888", 
+        "name": "NFL"
+      }, 
+      "2582650": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2582650", 
+        "name": "AUDI"
+      }, 
+      "173993": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "173993", 
+        "name": "Kourtney Kardashian"
+      }, 
+      "590477": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "590477", 
+        "name": "NWS"
+      }, 
+      "3121285": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3121285", 
+        "name": "Good Morning America"
+      }, 
+      "7713209": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "7713209", 
+        "name": "Macy's"
+      }, 
+      "3167204": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3167204", 
+        "name": "Mariah Carey"
+      }, 
+      "2526149": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2526149", 
+        "name": "Louis Vuitton"
+      }, 
+      "11171318": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11171318", 
+        "name": "PM of Israel"
+      }, 
+      "12109111": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "12109111", 
+        "name": "U.S. Dept of Defense"
+      }, 
+      "2489683": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2489683", 
+        "name": "Forbes"
+      }, 
+      "113804": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "113804", 
+        "name": "Ricky Gervais"
+      }, 
+      "21164": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "21164", 
+        "name": "Jimmy Fallon"
+      }, 
+      "9436536": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "9436536", 
+        "name": "Style Me Pretty"
+      }, 
+      "5461364": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "5461364", 
+        "name": "Urban Decay"
+      }, 
+      "2538790": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2538790", 
+        "name": "Greenpeace"
+      }, 
+      "36988620": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "36988620", 
+        "name": "Vevo Latino"
+      }, 
+      "725807": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "725807", 
+        "name": "Women's Health"
+      }, 
+      "2478791": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2478791", 
+        "name": "coach"
+      }, 
+      "49974": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "49974", 
+        "name": "Marvel Entertainment"
+      }, 
+      "535470": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "535470", 
+        "name": "HGTV"
+      }, 
+      "2695031": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2695031", 
+        "name": "Tim Cook"
+      }, 
+      "36988621": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "36988621", 
+        "name": "Gente De Zona"
+      }, 
+      "13378103": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "13378103", 
+        "name": "500px"
+      }, 
+      "2475109": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2475109", 
+        "name": "Alton Brown"
+      }, 
+      "5486742": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "5486742", 
+        "name": "Modern Family"
+      }, 
+      "4870220": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "4870220", 
+        "name": "Marc Anthony"
+      }, 
+      "250234": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "250234", 
+        "name": "Nicki Minaj"
+      }, 
+      "3302642": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3302642", 
+        "name": "NHL"
+      }, 
+      "36988619": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "36988619", 
+        "name": "Motiff"
+      }, 
+      "29994609": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "29994609", 
+        "name": "sergio george"
+      }, 
+      "7039111": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "7039111", 
+        "name": "TIME.com"
+      }, 
+      "1321697": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "1321697", 
+        "name": "THE VERGE"
+      }, 
+      "2837756": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2837756", 
+        "name": "Goodreads"
+      }, 
+      "11158114": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11158114", 
+        "name": "Emergency Kittens"
+      }, 
+      "19530": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "19530", 
+        "name": "Justin Bieber"
+      }, 
+      "19537": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "19537", 
+        "name": "MarketWatch"
+      }, 
+      "2540678": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2540678", 
+        "name": "Lonely Planet"
+      }, 
+      "96570": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "96570", 
+        "name": "National Geographic"
+      }, 
+      "127041": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "127041", 
+        "name": "The Rolling Stones"
+      }, 
+      "2804966": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2804966", 
+        "name": "The Voice"
+      }, 
+      "35180842": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "35180842", 
+        "name": "NASCAR Trucks"
+      }, 
+      "14674365": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "14674365", 
+        "name": "UNC Tar Heels"
+      }, 
+      "135082": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "135082", 
+        "name": "TMZ"
+      }, 
+      "11218272": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11218272", 
+        "name": "Dezeen"
+      }, 
+      "49253": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "49253", 
+        "name": "PlayStation"
+      }, 
+      "2499173": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2499173", 
+        "name": "NASA"
+      }, 
+      "3839364": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3839364", 
+        "name": "Zedd"
+      }, 
+      "11606615": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11606615", 
+        "name": "The MOMS"
+      }, 
+      "572030": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "572030", 
+        "name": "SlipKnot"
+      }, 
+      "17396": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "17396", 
+        "name": "Deepak Chopra"
+      }, 
+      "26185257": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "26185257", 
+        "name": "NYT Food"
+      }, 
+      "2596156": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2596156", 
+        "name": "Kenny Chesney"
+      }, 
+      "44803": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "44803", 
+        "name": "UFC"
+      }, 
+      "2734543": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2734543", 
+        "name": "MLB"
+      }, 
+      "11312886": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11312886", 
+        "name": "New York Times Arts"
+      }, 
+      "2633727": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2633727", 
+        "name": "PGA Tour"
+      }, 
+      "4260232": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "4260232", 
+        "name": "Major League Soccer"
+      }, 
+      "2487320": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2487320", 
+        "name": "NBA"
+      }, 
+      "34893305": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "34893305", 
+        "name": "Sony Music Latin"
+      }, 
+      "3364780": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3364780", 
+        "name": "Ted Cruz"
+      }, 
+      "11373530": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11373530", 
+        "name": "ESPN CollegeFootball"
+      }, 
+      "789669": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "789669", 
+        "name": "John Cena"
+      }, 
+      "11086019": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11086019", 
+        "name": "ClassicPics"
+      }, 
+      "36423": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "36423", 
+        "name": "Hugh Jackman"
+      }
+    }, 
     "given_title": "(3) Twitter", 
     "resolved_url": "https://twitter.com/", 
     "is_article": "0", 
