@@ -12,7 +12,7 @@
 
 ![6a00d83431352e53ef01a511f31c06970c-pi 636×1,185 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31c06970c-pi)
 
-![1380183_641845145846483_1148782810_n.jpg (722×960)](https://scontent-a-ord.xx.fbcdn.net/hphotos-prn2/t1.0-9/1380183_641845145846483_1148782810_n.jpg)
+![I have a physics lab soon, so here some physics gifs. - Imgur](http://imgur.com/a/CVbTk#0)
 
 ![Slacklining - Imgur](http://imgur.com/a/HLY1A)
 
@@ -20,11 +20,13 @@
 
 ![6a00d83431352e53ef017ee8591af8970d-pi (403×403)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8591af8970d-pi)
 
-![I have a physics lab soon, so here some physics gifs. - Imgur](http://imgur.com/a/CVbTk#0)
+![6a00d83431352e53ef01a511f31bfc970c-pi 499×665 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31bfc970c-pi)
 
 ![6a00d83431352e53ef0192abe335f7970d-pi (500×690)](http://www.summerofdan.net/.a/6a00d83431352e53ef0192abe335f7970d-pi)
 
 ![6a00d83431352e53ef017d42c0f647970c-pi (720×594)](http://www.summerofdan.net/.a/6a00d83431352e53ef017d42c0f647970c-pi)
+
+![1380183_641845145846483_1148782810_n.jpg (722×960)](https://scontent-a-ord.xx.fbcdn.net/hphotos-prn2/t1.0-9/1380183_641845145846483_1148782810_n.jpg)
 
 ![6a00d83431352e53ef017eeacc6143970d-pi (499×750)](http://www.summerofdan.net/.a/6a00d83431352e53ef017eeacc6143970d-pi)
 
@@ -154,7 +156,7 @@
 
 ![6a00d83431352e53ef01a73d9ca316970d-pi 400×224 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73d9ca316970d-pi)
 
-![6a00d83431352e53ef01a511f31bfc970c-pi 499×665 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31bfc970c-pi)
+![](https://instagram.com/p/54ojf5oGox/)
 
 ![es19etC.jpg 1,688×1,125 pixels](http://i.imgur.com/es19etC.jpg)
 
