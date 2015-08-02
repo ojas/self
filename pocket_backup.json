@@ -68710,11 +68710,11 @@
     "time_updated": "1406744299", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "jq is written in portable C, and it has zero runtime dependencies. You can download a single binary, scp it to a far away machine, and expect it to work.  jq 1.4 (finally) released! Get it on the download page.", 
+    "excerpt": "jq is written in portable C, and it has zero runtime dependencies. You can download a single binary, scp it to a far away machine of the same type, and expect it to work.  jq 1.4 (finally) released! Get it on the download page.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "117", 
+    "word_count": "121", 
     "given_title": "", 
     "resolved_url": "http://stedolan.github.io/jq/", 
     "is_article": "1", 
@@ -68722,7 +68722,7 @@
     "time_added": "1402843447", 
     "resolved_id": "333924044", 
     "given_url": "http://stedolan.github.io/jq/#", 
-    "resolved_title": "jq", 
+    "resolved_title": "Download jq-1.4 or 1.5rc2", 
     "tags": {
       "json command line": {
         "item_id": "333924044", 
