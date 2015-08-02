@@ -4560,7 +4560,7 @@
     "time_updated": "1372743851", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "html{height:100%;font-weight:400;font-family:\"Helvetica Neue\", Helvetica, Arial, sans-serif;font-size:15px;line-height:1.", 
+    "excerpt": "a:hover{text-decoration:underline}h1,h2,h3,h4,h5,h6,ul,ol,li{margin:0;padding:0}ul,ol{list-style:none}input[type=text],input.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
