@@ -2235,7 +2235,7 @@
     "time_favorited": "0", 
     "videos": {
       "1": {
-        "src": "https://videos.teamtreehouse.com/videos/TH-Joy-Of-Marketing-720p.mp4?token=55ac1c6b_aa2bbf43a02c5ff2ef02168a8e2b2f21c54d73ac", 
+        "src": "https://videos.teamtreehouse.com/videos/TH-Joy-Of-Marketing-720p.mp4?token=55c00ee7_c3af4e7860f3f2e6c92955a0f8cf0e46b4a3fa65", 
         "vid": "", 
         "video_id": "1", 
         "height": "0", 
@@ -2251,7 +2251,7 @@
     "has_video": "1", 
     "word_count": "370", 
     "given_title": "Learn Web Design, Web Development, and More | Treehouse", 
-    "resolved_url": "http://www.teamtreehouse.com/", 
+    "resolved_url": "https://teamtreehouse.com/", 
     "is_article": "0", 
     "item_id": "100571499", 
     "time_added": "1369769479", 
