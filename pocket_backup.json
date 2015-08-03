@@ -2,7 +2,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-     "sort_id": 1852, 
+    "sort_id": 1852, 
     "time_updated": "1436746460", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -103428,7 +103428,7 @@
       }
     }, 
     "given_title": "Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni", 
-    "resolved_url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api", 
+    "resolved_url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#method-override", 
     "is_article": "0", 
     "item_id": "368052398", 
     "time_added": "1382935205", 
