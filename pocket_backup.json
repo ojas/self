@@ -36581,31 +36581,14 @@
     "time_updated": "1428182536", 
     "time_favorited": "0", 
     "time_read": "1426103162", 
-    "excerpt": "Here\u2019s a story that you may have heard.  Median wages and living standards are stagnant, and by some measures they have worsened, having decoupled from productivity growth for several decades.", 
-    "image": {
-      "item_id": "864291793", 
-      "src": "http://ftalphaville.ft.com/files/2015/03/Engel.png", 
-      "height": "260", 
-      "width": "383"
-    }, 
-    "has_image": "1", 
+    "excerpt": "Print\t\tEmail", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2528", 
-    "images": {
-      "1": {
-        "src": "http://ftalphaville.ft.com/files/2015/03/Engel.png", 
-        "credit": "", 
-        "height": "260", 
-        "image_id": "1", 
-        "item_id": "864291793", 
-        "caption": "", 
-        "width": "383"
-      }
-    }, 
+    "word_count": "2", 
     "given_title": "Jobs, automation, Engels\u2019 pause and the limits of history | FT Alphaville", 
     "resolved_url": "http://ftalphaville.ft.com/2015/03/09/2120134/jobs-automation-engels-pause-and-the-limits-of-history/", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "864291793", 
     "time_added": "1425988894", 
     "resolved_id": "864291793", 
