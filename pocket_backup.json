@@ -23217,6 +23217,44 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1886, 
+    "time_updated": "1438722566", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "If you ever wondered how to perform an oil change on a Lexus LFA, wonder no more. First of all, you won\u2019t actually do it yourself. You\u2019ll have to go to a shop with a lift to hoist it into the air. From there the procedure takes a good 2 to 3 hours to get done right.", 
+    "image": {
+      "item_id": "1001889821", 
+      "src": "http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/ad/65/ad657b0da26cedc7cc2f6cd41d99c6a4.jpg?itok=KnpzqNcu", 
+      "height": "342", 
+      "width": "594"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "256", 
+    "images": {
+      "1": {
+        "src": "http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/ad/65/ad657b0da26cedc7cc2f6cd41d99c6a4.jpg?itok=KnpzqNcu", 
+        "credit": "Junko Kimura/Getty Images", 
+        "height": "342", 
+        "image_id": "1", 
+        "item_id": "1001889821", 
+        "caption": "", 
+        "width": "594"
+      }
+    }, 
+    "given_title": "How the $375,000 Lexus LFA gets a routine oil change - Fresno Car Buying | ", 
+    "resolved_url": "http://www.examiner.com/article/how-the-375-000-lexus-lfa-gets-a-routine-oil-change", 
+    "is_article": "1", 
+    "item_id": "1001889821", 
+    "time_added": "1438722566", 
+    "resolved_id": "1001889821", 
+    "given_url": "http://www.examiner.com/article/how-the-375-000-lexus-lfa-gets-a-routine-oil-change", 
+    "resolved_title": "How the $375,000 Lexus LFA gets a routine oil change"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1829, 
     "time_updated": "1435300662", 
     "time_favorited": "0", 
