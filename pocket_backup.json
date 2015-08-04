@@ -6158,7 +6158,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "17432", 
+    "word_count": "17521", 
     "images": {
       "1": {
         "src": "http://backbonejs.org/docs/images/backbone.png", 
@@ -6225,7 +6225,7 @@
       }
     }, 
     "given_title": "Backbone.js", 
-    "resolved_url": "http://backbonejs.org", 
+    "resolved_url": "http://backbonejs.org/", 
     "is_article": "0", 
     "item_id": "117329770", 
     "time_added": "1368720828", 
