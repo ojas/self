@@ -66289,6 +66289,52 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "993357133", 
+      "src": "https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_diagram_javascript_aws.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "This stack uses new tools from Amazon Web Services to completely redefine how to build massively scalable (and cheap) web applications.  There are no servers are included in this stack. The entire back-end is comprised of Lambda functions which are organized in the api folder.", 
+    "word_count": "638", 
+    "images": {
+      "1": {
+        "src": "https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_diagram_javascript_aws.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "993357133", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1438741236", 
+    "status": "0", 
+    "sort_id": 1887, 
+    "resolved_url": "https://github.com/servant-app/JAWS", 
+    "authors": {
+      "26025328": {
+        "item_id": "993357133", 
+        "url": "https://github.com/ac360", 
+        "author_id": "26025328", 
+        "name": "ac360"
+      }
+    }, 
+    "item_id": "993357133", 
+    "resolved_id": "993357133", 
+    "given_url": "https://github.com/servant-app/JAWS", 
+    "resolved_title": "servant-app/JAWS", 
+    "is_index": "0", 
+    "time_updated": "1438741236", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "servant-app/JAWS", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1833, 
@@ -83450,7 +83496,7 @@
   }, 
   {
     "status": "1", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 44, 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
