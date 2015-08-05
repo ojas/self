@@ -96535,9 +96535,17 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "38005", 
+    "word_count": "42131", 
+    "authors": {
+      "37191117": {
+        "item_id": "74997758", 
+        "url": "http://worrydream.com/quotes/?author=Alan%20Moore", 
+        "author_id": "37191117", 
+        "name": "Alan Moore"
+      }
+    }, 
     "given_title": "Quotes", 
-    "resolved_url": "http://worrydream.com/quotes/#richard-feynman-surely-you-1", 
+    "resolved_url": "http://worrydream.com/quotes/#doug-engelbart-the-augmented-knowledge-workshop", 
     "is_article": "0", 
     "item_id": "74997758", 
     "time_added": "1411522274", 
