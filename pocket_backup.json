@@ -1968,6 +1968,106 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "1001790653", 
+      "src": "https://cdn0.vox-cdn.com/thumbor/Jwe7tTjsD4DXuj7yLvMudtF92Rk=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3932290/mlb-dot-com-8918__3_.0.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "It was the first week of April, 2015, and New York\u2019s Chelsea Market, typically packed with hordes of noisy tourists, was quiet. It was close to midnight, but five stories above, things were tense. The building is a former cookie factory, and the outlines of ovens still scar the brick walls.", 
+    "word_count": "3777", 
+    "images": {
+      "1": {
+        "src": "https://cdn0.vox-cdn.com/thumbor/Jwe7tTjsD4DXuj7yLvMudtF92Rk=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3932290/mlb-dot-com-8918__3_.0.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1001790653", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://cdn0.vox-cdn.com/thumbor/PfqQZD2ufWbiDmo8fXKfrL_XK-A=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3934286/mlb-dot-com-8770.0.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1001790653", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://cdn2.vox-cdn.com/thumbor/G5IZCFjZddNXeidA3KzOn4KtSPE=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3940924/mlb-nhl-deal-0122.0.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1001790653", 
+        "caption": "The announcement of BAM's partnership with the NHL. From left to right: NHL Chief Operating Officer John Collins, NHL Commissioner Gary Bettman, MLB Commissioner Rob Manfred, MLB President, Business, Bob Bowman.", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://cdn2.vox-cdn.com/thumbor/TdXlmQ7nrIdLoshIf1qTYjQNeFs=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3934506/mlb-dot-com-8859.0.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "1001790653", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://cdn1.vox-cdn.com/thumbor/J5vSJ0dGJVt_AbO-mD_2BPThbYw=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3934290/mlb-dot-com-8731.0.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1001790653", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://cdn1.vox-cdn.com/thumbor/H8BNEVXeHo7IpASCXjJz2wOir0Y=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3934312/mlb-dot-com-8772.0.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "1001790653", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://cdn1.vox-cdn.com/thumbor/igIgGmHkcq4GtX40ISpZnKwNFAU=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3934304/mlb-dot-com-9158.0.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "1001790653", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1438781352", 
+    "status": "0", 
+    "sort_id": 1889, 
+    "resolved_url": "http://www.theverge.com/2015/8/4/9090897/mlb-bam-live-streaming-internet-tv-nhl-hbo-now-espn", 
+    "authors": {
+      "2557056": {
+        "item_id": "1001790653", 
+        "url": "", 
+        "author_id": "2557056", 
+        "name": "Ben Popper"
+      }
+    }, 
+    "item_id": "1001790653", 
+    "resolved_id": "1001790653", 
+    "given_url": "http://www.theverge.com/2015/8/4/9090897/mlb-bam-live-streaming-internet-tv-nhl-hbo-now-espn", 
+    "resolved_title": "How baseball\u2019s tech team built the future of television", 
+    "is_index": "0", 
+    "time_updated": "1438781352", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "How baseball\u2019s tech team built the future of television | The Verge", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "200377817", 
       "src": "http://s.radar.oreilly.com/wp-content/plugins/lazy-load/images/1x1.trans.gif", 
       "height": "0", 
@@ -94591,7 +94691,7 @@
     "has_video": "1", 
     "word_count": "1", 
     "given_title": "calm.com", 
-    "resolved_url": "http://calm.com", 
+    "resolved_url": "http://www.calm.com", 
     "is_article": "0", 
     "item_id": "112731722", 
     "time_added": "1398489869", 
