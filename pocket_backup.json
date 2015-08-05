@@ -44691,128 +44691,25 @@
     "resolved_title": "Blog"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "266058085", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork.jpg", 
-      "height": "0", 
-      "width": "190"
-    }, 
-    "excerpt": "\u201cThere is an ugliness in being paid for work one does not like,\u201d Ana\u00efs Nin wrote in her diary in 1941.", 
-    "word_count": "2630", 
-    "images": {
-      "11": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork10.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "11", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }, 
-      "10": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork9.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "10", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }, 
-      "12": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork1.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "12", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }, 
-      "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "190"
-      }, 
-      "3": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork2.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }, 
-      "2": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork15.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }, 
-      "5": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork7.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }, 
-      "4": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork5.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }, 
-      "7": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork6.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }, 
-      "6": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork3.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }, 
-      "9": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/thomasedison.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "9", 
-        "item_id": "266058085", 
-        "caption": "\n", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/12/howtoavoidwork8.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "266058085", 
-        "caption": "", 
-        "width": "500"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1360092833", 
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 275, 
+    "time_updated": "1368449198", 
+    "time_favorited": "1360092833", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "1", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "", 
+    "resolved_url": "http://www.brainpickings.org/index.php/2012/12/14/how-to-avoid-work/", 
+    "is_article": "0", 
+    "item_id": "266058085", 
+    "time_added": "1360092833", 
+    "resolved_id": "266058085", 
+    "given_url": "http://www.brainpickings.org/index.php/2012/12/14/how-to-avoid-work/", 
+    "resolved_title": "", 
     "tags": {
       "money": {
         "item_id": "266058085", 
@@ -44822,28 +44719,7 @@
         "item_id": "266058085", 
         "tag": "work"
       }
-    }, 
-    "sort_id": 275, 
-    "resolved_url": "http://www.brainpickings.org/index.php/2012/12/14/how-to-avoid-work/", 
-    "authors": {
-      "23602465": {
-        "item_id": "266058085", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
-        "name": "Maria Popova"
-      }
-    }, 
-    "item_id": "266058085", 
-    "resolved_id": "266058085", 
-    "given_url": "http://www.brainpickings.org/index.php/2012/12/14/how-to-avoid-work/", 
-    "resolved_title": "How to Avoid Work: A 1949 Guide to Doing What You Love", 
-    "is_index": "0", 
-    "time_updated": "1368449198", 
-    "time_favorited": "1360092833", 
-    "time_read": "0", 
-    "favorite": "1", 
-    "given_title": "", 
-    "has_image": "1"
+    }
   }, 
   {
     "status": "1", 
