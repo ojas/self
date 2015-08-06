@@ -233,19 +233,19 @@
     "time_updated": "1349463735", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "I want you to explain something to me. Pick any topic you want: a hobby you have, a book you\u2019ve read, a project you worked on\u2013anything. You\u2019ll have just 5 minutes to explain it.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "109", 
+    "word_count": "0", 
     "given_title": "A Brilliant Interview Question | Referly", 
     "resolved_url": "http://feeds.danielmiessler.com/~r/danielmiessler/~3/5Q-wUVWicyU/a-brilliant-interview-question-referly", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "232456010", 
     "time_added": "1349463734", 
     "resolved_id": "232456010", 
     "given_url": "http://feeds.danielmiessler.com/~r/danielmiessler/~3/5Q-wUVWicyU/a-brilliant-interview-question-referly", 
-    "resolved_title": "A Brilliant Interview Question : Referly : danielmiessler.com"
+    "resolved_title": ""
   }, 
   {
     "is_article": "1", 
@@ -31952,7 +31952,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "741807925", 
-      "src": "http://cdn.theatlantic.com/assets/media/img/mt/2014/10/shutterstock_105474239/lead_large.jpg?GE2DGMBRGUYTONJTFYYA====", 
+      "src": "http://cdn.theatlantic.com/assets/media/img/mt/2014/10/shutterstock_105474239/lead_large.jpg?1430151753", 
       "height": "0", 
       "width": "0"
     }, 
@@ -31960,7 +31960,7 @@
     "word_count": "874", 
     "images": {
       "1": {
-        "src": "http://cdn.theatlantic.com/assets/media/img/mt/2014/10/shutterstock_105474239/lead_large.jpg?GE2DGMBRGUYTONJTFYYA====", 
+        "src": "http://cdn.theatlantic.com/assets/media/img/mt/2014/10/shutterstock_105474239/lead_large.jpg?1430151753", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -93304,7 +93304,7 @@
     "given_url": "https://www.interviewcake.com/", 
     "resolved_title": "I will teach you to be good at programming interviews", 
     "is_index": "1", 
-    "time_updated": "1411172673", 
+    "time_updated": "1438891024", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
