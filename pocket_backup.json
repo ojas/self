@@ -91226,18 +91226,45 @@
     "is_article": "1", 
     "image": {
       "item_id": "881379164", 
-      "src": "https://github.com/thampiman/reverse-geocoder/blob/master/performance.png", 
+      "src": "https://camo.githubusercontent.com/c9bfcda4692d75296df0cef7d81c6f72018b7e43/68747470733a2f2f70797069702e696e2f762f726576657273655f67656f636f6465722f62616467652e706e67", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "A Python library for offline reverse geocoding. It improves on an existing library called reverse_geocode developed by Richard Penman.  UPDATE (30-Mar-15): v1.2 released with Python3 support and more accurate geocoding! See release notes below.", 
-    "word_count": "335", 
+    "excerpt": "A Python library for offline reverse geocoding. It improves on an existing library called reverse_geocode developed by Richard Penman.  UPDATE (11-Apr-15): v1.3 released! See release notes below.", 
+    "word_count": "357", 
     "images": {
       "1": {
-        "src": "https://github.com/thampiman/reverse-geocoder/blob/master/performance.png", 
+        "src": "https://camo.githubusercontent.com/c9bfcda4692d75296df0cef7d81c6f72018b7e43/68747470733a2f2f70797069702e696e2f762f726576657273655f67656f636f6465722f62616467652e706e67", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
+        "item_id": "881379164", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://camo.githubusercontent.com/440ee285c9da8a31c7b3eb7160b5233542f51580/68747470733a2f2f70797069702e696e2f6c6963656e73652f726576657273655f67656f636f6465722f62616467652e737667", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "881379164", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://camo.githubusercontent.com/83a4ab29b2a56156b0ce7295ba118ac0274429b8/68747470733a2f2f70797069702e696e2f642f726576657273655f67656f636f6465722f62616467652e706e67", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "881379164", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://github.com/thampiman/reverse-geocoder/blob/master/performance.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
         "item_id": "881379164", 
         "caption": "", 
         "width": "0"
