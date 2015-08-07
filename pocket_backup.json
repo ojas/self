@@ -55918,65 +55918,31 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "669197592", 
-      "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720COVER/0720COVER-blog427.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "ABD AL-RAHMAN III was an emir and caliph of C\u00f3rdoba in 10th-century Spain. He was an absolute ruler who lived in complete luxury. Here\u2019s how he assessed his life:  Fame, riches and pleasure beyond imagination. Sound great? He went on to write:", 
-    "word_count": "2208", 
-    "images": {
-      "1": {
-        "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720COVER/0720COVER-blog427.jpg", 
-        "credit": "\n            \n            Andrew DeGraff        ", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "669197592", 
-        "caption": "\n            Credit\n            Andrew DeGraff        \n            ", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720unhappinessJUMP/0720unhappinessJUMP-blog427.jpg", 
-        "credit": "\n            \n            Andrew DeGraff        ", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "669197592", 
-        "caption": "\n            Credit\n            Andrew DeGraff        \n            ", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1405950232", 
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1207, 
+    "time_updated": "1428182537", 
+    "time_favorited": "1426204286", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "1", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "Love People, Not Pleasure - NYTimes.com", 
+    "resolved_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html", 
+    "is_article": "0", 
+    "item_id": "669197592", 
+    "time_added": "1405950232", 
+    "resolved_id": "669197603", 
+    "given_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html?_r=1", 
+    "resolved_title": "", 
     "tags": {
       "happiness": {
         "item_id": "669197592", 
         "tag": "happiness"
       }
-    }, 
-    "sort_id": 1207, 
-    "resolved_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html", 
-    "authors": {
-      "14937": {
-        "item_id": "669197592", 
-        "url": "", 
-        "author_id": "14937", 
-        "name": "ARTHUR C. BROOKS"
-      }
-    }, 
-    "item_id": "669197592", 
-    "resolved_id": "669197603", 
-    "given_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html?_r=1", 
-    "resolved_title": "Love People, Not Pleasure", 
-    "is_index": "0", 
-    "time_updated": "1428182537", 
-    "time_favorited": "1426204286", 
-    "time_read": "0", 
-    "favorite": "1", 
-    "given_title": "Love People, Not Pleasure - NYTimes.com", 
-    "has_image": "1"
+    }
   }, 
   {
     "videos": {
