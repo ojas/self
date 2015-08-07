@@ -66753,37 +66753,28 @@
     "is_article": "1", 
     "image": {
       "item_id": "4968555", 
-      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Greeble.png/330px-Greeble.png", 
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Greeble.png/330px-Greeble.png", 
       "height": "176", 
       "width": "330"
     }, 
     "excerpt": "A greeble or nurnie is a fine detailing added to the surface of a larger object that makes it appear more complex, and therefore more visually interesting. It usually gives the audience an impression of increased scale.", 
-    "word_count": "743", 
+    "word_count": "890", 
     "images": {
       "1": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Greeble.png/330px-Greeble.png", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Greeble.png/330px-Greeble.png", 
         "credit": "", 
         "height": "176", 
         "image_id": "1", 
         "item_id": "4968555", 
-        "caption": "\n\nA cube and its greebled version", 
+        "caption": "\n\nA cube and a greebled version", 
         "width": "330"
-      }, 
-      "2": {
-        "src": "http://upload.wikimedia.org/wikipedia/en/thumb/6/62/TOS-galac.jpg/440px-TOS-galac.jpg", 
-        "credit": "", 
-        "height": "90", 
-        "image_id": "2", 
-        "item_id": "4968555", 
-        "caption": "\n\nThe eponymous ship from Battlestar Galactica, fully covered in greebles", 
-        "width": "440"
       }
     }, 
     "has_video": "0", 
     "time_added": "1432495631", 
     "status": "0", 
     "sort_id": 1783, 
-    "resolved_url": "http://en.wikipedia.org/wiki/Greeble", 
+    "resolved_url": "https://en.wikipedia.org/wiki/Greeble", 
     "authors": {
       "7331684": {
         "item_id": "4968555", 
