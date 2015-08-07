@@ -42831,6 +42831,35 @@
     "resolved_title": "Map of 73 Years of Lynchings"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1892, 
+    "time_updated": "1438962629", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "authors": {
+      "32328589": {
+        "item_id": "893419783", 
+        "url": "http://www.juliahgrace.com/blog/?author=55240a0ce4b0ef65b027ac30", 
+        "author_id": "32328589", 
+        "name": "Julia Grace"
+      }
+    }, 
+    "given_title": "An Unconventional Guide for Getting a Software Engineering Job \u2014 Julia H Gr", 
+    "resolved_url": "http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job", 
+    "is_article": "0", 
+    "item_id": "893419783", 
+    "time_added": "1438962629", 
+    "resolved_id": "893419783", 
+    "given_url": "http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job", 
+    "resolved_title": "Redirecting"
+  }, 
+  {
     "status": "1", 
     "is_index": "0", 
     "sort_id": 476, 
