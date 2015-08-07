@@ -102651,40 +102651,40 @@
     "is_article": "1", 
     "image": {
       "item_id": "353401383", 
-      "src": "http://static01.nyt.com/images/2013/05/12/health/12well_physed/12well_physed-articleInline.jpg", 
-      "height": "0", 
-      "width": "0"
+      "src": "http://graphics8.nytimes.com/images/2013/05/12/health/12well_physed/12well_physed-tmagArticle.jpg", 
+      "height": "557", 
+      "width": "592"
     }, 
-    "excerpt": "For a greater challenge, see \u201cThe Advanced 7-Minute Workout.\u201d And download our new, free 7-Minute Workout App for your phone, tablet or other device.  Exercise science is a fine and intellectually fascinating thing.", 
-    "word_count": "353", 
+    "excerpt": "Updated, Oct. 24, 2014  | For a greater challenge, see \u201cThe Advanced 7-Minute Workout.\u201d And download our new, free 7-Minute Workout App for your phone, tablet or other device.  Exercise science is a fine and intellectually fascinating thing.", 
+    "word_count": "355", 
     "images": {
       "1": {
-        "src": "http://static01.nyt.com/images/2013/05/12/health/12well_physed/12well_physed-articleInline.jpg", 
-        "credit": "", 
-        "height": "0", 
+        "src": "http://graphics8.nytimes.com/images/2013/05/12/health/12well_physed/12well_physed-tmagArticle.jpg", 
+        "credit": " Ben Wiseman", 
+        "height": "557", 
         "image_id": "1", 
         "item_id": "353401383", 
         "caption": "", 
-        "width": "0"
+        "width": "592"
       }
     }, 
     "has_video": "0", 
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com//2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
-      "2476517": {
+      "11702": {
         "item_id": "353401383", 
-        "url": "", 
-        "author_id": "2476517", 
+        "url": "http://well.blogs.nytimes.com/author/gretchen-reynolds/", 
+        "author_id": "11702", 
         "name": "GRETCHEN REYNOLDS"
       }
     }, 
     "item_id": "353401383", 
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
-    "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
+    "resolved_title": "The Scientific 7-Minute Workout", 
     "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
