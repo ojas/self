@@ -46549,87 +46549,24 @@
     "is_article": "1", 
     "image": {
       "item_id": "620030636", 
-      "src": "http://www.blastr.com/sites/blastr/files/styles/media_gallery_image/public/altered-states_0.jpg?itok=3pl9QGcb", 
-      "height": "369", 
-      "width": "690"
+      "src": "http://www.blastr.com/sites/blastr/files/styles/rectangle_960x480/public/arthouse_main.jpg?itok=Bl6LrdrQ&timestamp=1400276510", 
+      "height": "0", 
+      "width": "0"
     }, 
     "excerpt": "There's a lot more to \"science-fiction cinema\" than just Star Wars, Star Trek and the MCU. And \"arthouse cinema\" doesn't just mean black and white movies in which people sit around and spew witty existential dialogue before bursting into random song.", 
-    "word_count": "2510", 
+    "word_count": "159", 
     "images": {
       "1": {
-        "src": "http://www.blastr.com/sites/blastr/files/styles/media_gallery_image/public/altered-states_0.jpg?itok=3pl9QGcb", 
-        "credit": "1980", 
-        "height": "369", 
+        "src": "http://www.blastr.com/sites/blastr/files/styles/rectangle_960x480/public/arthouse_main.jpg?itok=Bl6LrdrQ&timestamp=1400276510", 
+        "credit": "", 
+        "height": "0", 
         "image_id": "1", 
         "item_id": "620030636", 
-        "caption": "Altered States", 
-        "width": "690"
-      }, 
-      "3": {
-        "src": "http://www.blastr.com/sites/blastr/files/styles/media_gallery_image/public/gattaca_0.jpg?itok=hUAj_XM-", 
-        "credit": "1997", 
-        "height": "385", 
-        "image_id": "3", 
-        "item_id": "620030636", 
-        "caption": "Gattaca", 
-        "width": "685"
-      }, 
-      "2": {
-        "src": "http://www.blastr.com/sites/blastr/files/styles/media_gallery_image/public/brazil_0.jpg?itok=EuIjfk06", 
-        "credit": "1985", 
-        "height": "240", 
-        "image_id": "2", 
-        "item_id": "620030636", 
-        "caption": "Brazil", 
-        "width": "590"
-      }, 
-      "5": {
-        "src": "http://www.blastr.com/sites/blastr/files/styles/media_gallery_image/public/liquid-sky_0.jpg?itok=pEv80YCD", 
-        "credit": "1983", 
-        "height": "440", 
-        "image_id": "5", 
-        "item_id": "620030636", 
-        "caption": "Liquid Sky", 
-        "width": "615"
-      }, 
-      "4": {
-        "src": "http://www.blastr.com/sites/blastr/files/styles/media_gallery_image/public/handmaids-tale_0.jpg?itok=5PMF62o_", 
-        "credit": "1990", 
-        "height": "276", 
-        "image_id": "4", 
-        "item_id": "620030636", 
-        "caption": "The Handmaid's Tale", 
-        "width": "460"
-      }, 
-      "7": {
-        "src": "http://www.blastr.com/sites/blastr/files/styles/media_gallery_image/public/solaris-1972_0.jpg?itok=MeY4o_CQ", 
-        "credit": "1972", 
-        "height": "251", 
-        "image_id": "7", 
-        "item_id": "620030636", 
-        "caption": "Solaris", 
-        "width": "580"
-      }, 
-      "6": {
-        "src": "http://www.blastr.com/sites/blastr/files/styles/media_gallery_image/public/new-rose-hotel_0.jpg?itok=w5ksx4JL", 
-        "credit": "1998", 
-        "height": "396", 
-        "image_id": "6", 
-        "item_id": "620030636", 
-        "caption": "New Rose Hotel", 
-        "width": "600"
-      }, 
-      "8": {
-        "src": "http://www.blastr.com/sites/blastr/files/styles/media_gallery_image/public/world-on-a-wire_0.jpg?itok=LlNdBTOx", 
-        "credit": "1973", 
-        "height": "372", 
-        "image_id": "8", 
-        "item_id": "620030636", 
-        "caption": "World on a Wire", 
-        "width": "500"
+        "caption": "", 
+        "width": "0"
       }
     }, 
-    "has_video": "1", 
+    "has_video": "0", 
     "time_added": "1400564434", 
     "status": "0", 
     "tags": {
@@ -46641,11 +46578,11 @@
     "sort_id": 1123, 
     "resolved_url": "http://www.blastr.com/2014-5-16/28-arthouse-sci-fi-films-will-make-you-smarter-and-cooler", 
     "authors": {
-      "19659794": {
+      "7041183": {
         "item_id": "620030636", 
-        "url": "http://www.blastr.com/author/bryan-enk", 
-        "author_id": "19659794", 
-        "name": "Bryan Enk"
+        "url": "http://www.blastr.com/author/don-kaye", 
+        "author_id": "7041183", 
+        "name": "Don Kaye"
       }
     }, 
     "item_id": "620030636", 
