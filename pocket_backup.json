@@ -23433,6 +23433,71 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1896, 
+    "time_updated": "1439040567", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "In a lush green bayou a little southeast of New Orleans, John Lopez and Howard Callahan are cruising the waterways in an airboat under the hot Louisiana sun on a recent day.", 
+    "image": {
+      "item_id": "1005537442", 
+      "src": "http://media.npr.org/assets/img/2015/08/07/river-diversions-03_custom-b213124db0e34560606fba0ce10f791c56765f57-s1100-c15.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "640", 
+    "images": {
+      "1": {
+        "src": "http://media.npr.org/assets/img/2015/08/07/river-diversions-03_custom-b213124db0e34560606fba0ce10f791c56765f57-s1100-c15.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1005537442", 
+        "caption": "\n\nIn the past decade, freshwater and sediment diverted from the nearby Mississippi River have turned what once was an open bay into a thriving wetlands area. Local environmental groups have planted thousands of cypress trees, attempting to create a marsh that will help absorb storms that pass through. Weenta Girmay for WWNO hide caption\n\nitoggle caption Weenta Girmay for WWNO", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://media.npr.org/assets/img/2015/08/07/river-diversions-01_custom-22d89692717eeedb0f1649dd51990ac19cea1d11-s1100-c15.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1005537442", 
+        "caption": "\n\nJohn Lopez, director of coastal sustainability for the Lake Pontchartrain Basin Foundation, looks out at the Caernarvon river diversion. The structure diverts freshwater from the Mississippi River into the Breton Basin, helping to restore a balance with saltwater from the Gulf of Mexico. Weenta Girmay for WWNO hide caption\n\nitoggle caption Weenta Girmay for WWNO", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://media.npr.org/news/graphics/2015/08/map-louisiana-wetlands-300.png", 
+        "credit": "Weenta Girmay for WWNO", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1005537442", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://media.npr.org/assets/img/2015/08/07/river-diversions-02_custom-96ee49ed2eca5c199df0ea7ff57e890910eb82ce-s1100-c15.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1005537442", 
+        "caption": "\n\nLocal land manager Howard Callahan navigates his airboat, which helps local environmental groups get deep into the Breton Basin area to investigate the impact of the Caernarvon river diversion. Weenta Girmay for WWNO hide caption\n\nitoggle caption Weenta Girmay for WWNO", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.npr.org/2015/08/08/430059658/in-louisiana-rebuilding-mother-natures-storm-protection-a-living-coast", 
+    "is_article": "1", 
+    "item_id": "1005537442", 
+    "time_added": "1439040564", 
+    "resolved_id": "1005395216", 
+    "given_url": "http://www.npr.org/2015/08/08/430059658/in-louisiana-rebuilding-mother-natures-storm-protection-a-living-coast?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20150808", 
+    "resolved_title": "In Louisiana, Rebuilding Mother Nature's Storm Protection: A 'Living Coast'"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 487, 
     "time_updated": "1368992808", 
     "time_favorited": "0", 
@@ -78638,7 +78703,7 @@
     "time_added": "1408803273", 
     "status": "0", 
     "sort_id": 1261, 
-    "resolved_url": "http://www.wired.com/2014/08/what-makes-us-fat", 
+    "resolved_url": "http://www.wired.com/2014/08/what-makes-us-fat/", 
     "item_id": "693932926", 
     "resolved_id": "693932926", 
     "given_url": "http://www.wired.com/2014/08/what-makes-us-fat", 
