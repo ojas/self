@@ -50705,37 +50705,17 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "961741693", 
-      "src": "http://cdn.theatlantic.com/assets/media/img/2015/06/18/WEL_ThompsonWork_Phone-3/1920.jpg?1434651057", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "For centuries, experts have predicted that machines would make workers obsolete. That moment may finally be arriving. Could that be a good thing?  1. Youngstown, U.S.A.", 
-    "word_count": "8243", 
-    "images": {
-      "1": {
-        "src": "http://cdn.theatlantic.com/assets/media/img/2015/06/18/WEL_ThompsonWork_Phone-3/1920.jpg?1434651057", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "961741693", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1435102576", 
     "status": "0", 
-    "tags": {
-      "work": {
-        "item_id": "961741693", 
-        "tag": "work"
-      }
-    }, 
+    "is_index": "0", 
     "sort_id": 1827, 
-    "resolved_url": "http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/", 
+    "time_updated": "1435102584", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Today, many working parents worry that they spend too many hours at the office. As full-time work declined, rearing children could become less overwhelming.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1029", 
     "authors": {
       "32790808": {
         "item_id": "961741693", 
@@ -50744,17 +50724,20 @@
         "name": "Derek Thompson"
       }
     }, 
+    "given_title": "A World Without Work - The Atlantic", 
+    "resolved_url": "http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/", 
+    "is_article": "1", 
     "item_id": "961741693", 
+    "time_added": "1435102576", 
     "resolved_id": "961175747", 
     "given_url": "http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/?single_page=true", 
     "resolved_title": "A World Without Work", 
-    "is_index": "0", 
-    "time_updated": "1435102584", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "A World Without Work - The Atlantic", 
-    "has_image": "1"
+    "tags": {
+      "work": {
+        "item_id": "961741693", 
+        "tag": "work"
+      }
+    }
   }, 
   {
     "status": "0", 
