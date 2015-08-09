@@ -66497,8 +66497,8 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "This stack uses new tools from Amazon Web Services to completely redefine how to build massively scalable (and cheap) web applications.  There are no servers are included in this stack. The entire back-end is comprised of Lambda functions which are organized in the api folder.", 
-    "word_count": "638", 
+    "excerpt": "This stack uses new tools from Amazon Web Services to completely redefine how to build massively scalable (and cheap) web applications.  There are no servers included in this stack. The entire back-end is comprised of Lambda functions which are organized in the api folder.", 
+    "word_count": "592", 
     "images": {
       "1": {
         "src": "https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_diagram_javascript_aws.png", 
@@ -66526,7 +66526,7 @@
     "item_id": "993357133", 
     "resolved_id": "993357133", 
     "given_url": "https://github.com/servant-app/JAWS", 
-    "resolved_title": "servant-app/JAWS", 
+    "resolved_title": "jaws-stack/JAWS", 
     "is_index": "0", 
     "time_updated": "1438741236", 
     "time_favorited": "0", 
