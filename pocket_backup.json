@@ -3707,8 +3707,8 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "It's not too late to ditch the ad-based business model and build a better web.  Ron Carlson\u2019s\u00a0short story\u00a0\u201cWhat We Wanted To Do\u201d\u00a0takes the form of an apology from a villager who failed to protect his comrades from marauding Visigoths. It begins:", 
-    "word_count": "4255", 
+    "excerpt": "Ron Carlson\u2019s\u00a0short story\u00a0\u201cWhat We Wanted To Do\u201d\u00a0takes the form of an apology from a villager who failed to protect his comrades from marauding Visigoths. It begins:", 
+    "word_count": "733", 
     "images": {
       "1": {
         "src": "http://cdn.theatlantic.com/assets/media/img/mt/2014/08/795px_The_Fall_of_Man_1616_Hendrik_Goltzius-1/lead_large.jpg?1430154006", 
@@ -46215,28 +46215,109 @@
     "excerpt": "Microsoft Project Siena (code name) is a breakthrough technology that enables your business experts, analysts and imagineers to create transformative business apps.", 
     "image": {
       "item_id": "505660720", 
-      "src": "http://wscont2.apps.microsoft.com/winstore/1x/19323a52-7d7d-4d2f-b575-f1d7f924e5ae/Screenshot.314542.100000.jpg", 
+      "src": "https://store-images.microsoft.com/image/apps.58117.9007199266246176.67b5e76b-cb6f-43fe-b833-27f3dd300450.fd98a261-4640-483e-b5a3-e5695d7a81cc?w=712&h=400&mode=letterbox&background=black", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "171", 
+    "word_count": "616", 
     "images": {
+      "10": {
+        "src": "https://store-images.microsoft.com/image/apps.48898.9007199266246176.1f7ba13c-946e-4485-92db-7832dbd287fb.cd1197d1-c528-45c7-8fad-cf084d5e9764?w=191&h=191", 
+        "credit": "", 
+        "height": "48", 
+        "image_id": "10", 
+        "item_id": "505660720", 
+        "caption": " Microsoft \"Project Siena\"", 
+        "width": "0"
+      }, 
       "1": {
-        "src": "http://wscont2.apps.microsoft.com/winstore/1x/19323a52-7d7d-4d2f-b575-f1d7f924e5ae/Screenshot.314542.100000.jpg", 
+        "src": "https://store-images.microsoft.com/image/apps.58117.9007199266246176.67b5e76b-cb6f-43fe-b833-27f3dd300450.fd98a261-4640-483e-b5a3-e5695d7a81cc?w=712&h=400&mode=letterbox&background=black", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "505660720", 
-        "caption": "\n\n\n\n \n", 
+        "caption": "\nWorks on: PC More\n", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://store-images.microsoft.com/image/apps.1627.9007199266246176.62065d9f-075c-4da4-9e61-003a91af69dc.5d663953-d6e5-4879-92e3-f74b9535470b?w=712&h=400&mode=letterbox&background=black", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "505660720", 
+        "caption": "\nWorks on: PC More\n", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://store-images.microsoft.com/image/apps.47573.9007199266246176.44db7de1-98c5-42c0-92ec-a3fe50a848ce.07c09fd1-8d3e-4451-a63d-79a569dc4baf?w=712&h=400&mode=letterbox&background=black", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "505660720", 
+        "caption": "\nWorks on: PC More\n", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://store-images.microsoft.com/image/apps.29792.9007199266246176.4e49eb57-82ed-4417-814d-c386e032b3a3.6c875fd2-a8bb-4459-b01e-ae1ed78a2f56?w=712&h=400&mode=letterbox&background=black", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "505660720", 
+        "caption": "\nWorks on: PC More\n", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://store-images.microsoft.com/image/apps.13828.9007199266246176.8f692bda-3f3e-4f28-8b94-d56d132b09b3.be25d34d-bab5-4523-8a5a-ee2c17fde838?w=712&h=400&mode=letterbox&background=black", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "505660720", 
+        "caption": "\nWorks on: PC More\n", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://store-images.microsoft.com/image/apps.37629.9007199266246176.42b8bc7a-4b39-45c9-b132-a9dab67f7226.89e1b749-5c2c-4b50-af1b-dd86e08d2b13?w=712&h=400&mode=letterbox&background=black", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "505660720", 
+        "caption": "\nWorks on: PC More\n", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://store-images.microsoft.com/image/apps.13086.9007199266246176.e6318576-f1b9-414b-88e4-1c0f74c4f86b.aada0f77-f3b4-4ddc-ab1b-fb7f5ae757cf?w=712&h=400&mode=letterbox&background=black", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "505660720", 
+        "caption": "\nWorks on: PC More\n", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "https://store-images.microsoft.com/image/apps.7437.9007199266246176.2c3d0727-20a1-4371-9ac4-df8c458735de.b9bfd666-872c-482b-8d4d-fbaad9ff9612?w=712&h=400&mode=letterbox&background=black", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "505660720", 
+        "caption": "\nWorks on: PC More\n", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://store-images.microsoft.com/image/apps.1372.9007199266246176.487d9c82-587b-4344-a987-461f8b05ec4e.c7f8b2d4-1e09-45d0-bfae-7de0ade8f843?w=712&h=400&mode=letterbox&background=black", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "505660720", 
+        "caption": "\nWorks on: PC More\n", 
         "width": "0"
       }
     }, 
     "given_title": "Microsoft \"Project Siena\" app for Windows in the Windows Store", 
     "resolved_url": "http://apps.microsoft.com/windows/en-us/app/microsoft-project-siena/5ae47651-e8f3-4e41-aab7-e19ab1b80180", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "505660720", 
     "time_added": "1387777083", 
     "resolved_id": "505660720", 
