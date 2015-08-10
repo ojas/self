@@ -66676,18 +66676,27 @@
     "is_article": "1", 
     "image": {
       "item_id": "993357133", 
-      "src": "https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_diagram_javascript_aws.png", 
+      "src": "https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667", 
       "height": "0", 
       "width": "0"
     }, 
     "excerpt": "This stack uses new tools from Amazon Web Services to completely redefine how to build massively scalable (and cheap) web applications.  There are no servers included in this stack. The entire back-end is comprised of Lambda functions which are organized in the api folder.", 
-    "word_count": "592", 
+    "word_count": "605", 
     "images": {
       "1": {
-        "src": "https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_diagram_javascript_aws.png", 
+        "src": "https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
+        "item_id": "993357133", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_diagram_javascript_aws.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
         "item_id": "993357133", 
         "caption": "", 
         "width": "0"
@@ -66697,7 +66706,7 @@
     "time_added": "1438741236", 
     "status": "0", 
     "sort_id": 1887, 
-    "resolved_url": "https://github.com/servant-app/JAWS", 
+    "resolved_url": "https://github.com/servant-app/JAWS/", 
     "authors": {
       "26025328": {
         "item_id": "993357133", 
