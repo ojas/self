@@ -27123,6 +27123,52 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "558258375", 
+      "src": "http://blog.codinghorror.com/content/images/uploads/2012/07/6a0120a85dcdae970b0177438da35e970d-pi.jpg", 
+      "height": "406", 
+      "width": "300"
+    }, 
+    "excerpt": "One of my favorite movie scenes is from The Last King of Scotland, a dramatized \"biography\" of the megalomaniac dictator Idi Amin, as seen through the eyes of a fictional Scottish personal physician.  If you haven't watched this movie yet, you should. It is amazing.", 
+    "word_count": "917", 
+    "images": {
+      "1": {
+        "src": "http://blog.codinghorror.com/content/images/uploads/2012/07/6a0120a85dcdae970b0177438da35e970d-pi.jpg", 
+        "credit": "", 
+        "height": "406", 
+        "image_id": "1", 
+        "item_id": "558258375", 
+        "caption": "", 
+        "width": "300"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1439214179", 
+    "status": "0", 
+    "sort_id": 1898, 
+    "resolved_url": "http://blog.codinghorror.com/but-you-did-not-persuade-me/", 
+    "authors": {
+      "4507": {
+        "item_id": "558258375", 
+        "url": "", 
+        "author_id": "4507", 
+        "name": "Jeff Atwood"
+      }
+    }, 
+    "item_id": "558258375", 
+    "resolved_id": "558258375", 
+    "given_url": "http://blog.codinghorror.com/but-you-did-not-persuade-me/", 
+    "resolved_title": "But You Did Not Persuade Me", 
+    "is_index": "0", 
+    "time_updated": "1439214182", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 369, 
