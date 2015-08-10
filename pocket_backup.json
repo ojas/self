@@ -63237,23 +63237,15 @@
     "resolved_title": "Learning How to Exert Self-Control"
   }, 
   {
-    "status": "0", 
-    "is_index": "1", 
-    "sort_id": 1629, 
-    "time_updated": "1422372278", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
+    "is_article": "1", 
     "image": {
       "item_id": "810469879", 
       "src": "http://blog.invisionapp.com/wp-content/uploads/2015/01/synced_searchable.png", 
       "height": "582", 
       "width": "1017"
     }, 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
+    "excerpt": "The designers and developers who develop digital products have discovered, explored, and defined problems and best practices for a variety of digital experiences. But there\u2019s an element of web and mobile app design that\u2019s still in its (relative) infancy: user onboarding.", 
+    "word_count": "634", 
     "images": {
       "1": {
         "src": "http://blog.invisionapp.com/wp-content/uploads/2015/01/synced_searchable.png", 
@@ -63292,14 +63284,30 @@
         "width": "1156"
       }
     }, 
-    "given_title": "An intro to user onboarding, part 1 \u00ab Thoughts on users, experience, and de", 
-    "resolved_url": "http://blog.invisionapp.com/an_intro_to_user_onboarding_part_1/", 
-    "is_article": "0", 
-    "item_id": "810469879", 
+    "has_video": "0", 
     "time_added": "1422372278", 
+    "status": "0", 
+    "sort_id": 1629, 
+    "resolved_url": "http://blog.invisionapp.com/an_intro_to_user_onboarding_part_1/", 
+    "authors": {
+      "8732041": {
+        "item_id": "810469879", 
+        "url": "", 
+        "author_id": "8732041", 
+        "name": "Alex Fedorov"
+      }
+    }, 
+    "item_id": "810469879", 
     "resolved_id": "810469879", 
     "given_url": "http://blog.invisionapp.com/an_intro_to_user_onboarding_part_1/", 
-    "resolved_title": "Redirecting"
+    "resolved_title": "An intro to user onboarding, part 1", 
+    "is_index": "0", 
+    "time_updated": "1422372278", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "An intro to user onboarding, part 1 \u00ab Thoughts on users, experience, and de", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
