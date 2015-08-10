@@ -3941,15 +3941,15 @@
     "is_article": "1", 
     "image": {
       "item_id": "65661497", 
-      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/274px-Red_Giant_Earth_warm.jpg", 
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/274px-Red_Giant_Earth_warm.jpg", 
       "height": "185", 
       "width": "274"
     }, 
-    "excerpt": "While predictions of the future can never be absolutely certain,[1] present scientific understanding in various fields has allowed a projected course for the farthest future events to be sketched out, if only in the broadest strokes.", 
-    "word_count": "8067", 
+    "excerpt": "While predictions of the future can never be absolutely certain,[1] present scientific understanding in various fields has allowed a projected course for the furthest future events to be sketched out, if only in the broadest strokes.", 
+    "word_count": "8092", 
     "images": {
       "1": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/274px-Red_Giant_Earth_warm.jpg", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/274px-Red_Giant_Earth_warm.jpg", 
         "credit": "", 
         "height": "185", 
         "image_id": "1", 
@@ -3962,7 +3962,7 @@
     "time_added": "1359429842", 
     "status": "0", 
     "sort_id": 258, 
-    "resolved_url": "http://en.wikipedia.org/wiki/Timeline_of_the_far_future", 
+    "resolved_url": "https://en.wikipedia.org/wiki/Timeline_of_the_far_future", 
     "authors": {
       "7331684": {
         "item_id": "65661497", 
