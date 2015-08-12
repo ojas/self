@@ -14746,7 +14746,7 @@
     "has_video": "0", 
     "word_count": "634", 
     "given_title": "", 
-    "resolved_url": "https://www.mysliderule.com/learning-paths/data-analysis", 
+    "resolved_url": "http://www.mysliderule.com/learning-paths/data-analysis", 
     "is_article": "0", 
     "item_id": "629296992", 
     "time_added": "1401396056", 
@@ -83814,7 +83814,7 @@
   }, 
   {
     "status": "1", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 44, 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
