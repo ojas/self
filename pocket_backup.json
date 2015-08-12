@@ -12149,33 +12149,24 @@
     "is_article": "1", 
     "image": {
       "item_id": "735594013", 
-      "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_3.jpg?m=1376689109g", 
-      "height": "230", 
-      "width": "548"
+      "src": "http://fhww.files.wordpress.com/2013/07/5481288261_042f8f6e2b.jpg?quality=80&strip=all&w=640", 
+      "height": "0", 
+      "width": "0"
     }, 
     "excerpt": "This is a tactical post on travel from Ryan Holiday, who\u2019s written on this blog before about the pragmatism of Stoicism and lessons learned as Director of Marketing for American Apparel.  To his 21 rules, I\u2019ve added a few of my own tricks. Please share your own rules and tips in the comments!", 
     "word_count": "2001", 
     "images": {
       "1": {
-        "src": "http://s0.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_3.jpg?m=1376689109g", 
-        "credit": "", 
-        "height": "230", 
-        "image_id": "1", 
-        "item_id": "735594013", 
-        "caption": "", 
-        "width": "548"
-      }, 
-      "3": {
-        "src": "http://fhww.files.wordpress.com/2013/07/5015699055_341d243f21.jpg?w=640", 
+        "src": "http://fhww.files.wordpress.com/2013/07/5481288261_042f8f6e2b.jpg?quality=80&strip=all&w=640", 
         "credit": "", 
         "height": "0", 
-        "image_id": "3", 
+        "image_id": "1", 
         "item_id": "735594013", 
         "caption": "", 
         "width": "0"
       }, 
       "2": {
-        "src": "http://fhww.files.wordpress.com/2013/07/5481288261_042f8f6e2b.jpg?w=640", 
+        "src": "http://fhww.files.wordpress.com/2013/07/5015699055_341d243f21.jpg?quality=80&strip=all&w=640", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -12196,17 +12187,17 @@
     "sort_id": 1383, 
     "resolved_url": "http://fourhourworkweek.com/2013/07/14/how-to-travel-21-contrarian-rules/", 
     "authors": {
-      "2477551": {
+      "2518922": {
         "item_id": "735594013", 
         "url": "", 
-        "author_id": "2477551", 
-        "name": "Ryan"
+        "author_id": "2518922", 
+        "name": "Tim Ferriss"
       }
     }, 
     "item_id": "735594013", 
     "resolved_id": "595772705", 
     "given_url": "http://fourhourworkweek.com/2013/07/14/how-to-travel-21-contrarian-rules/?utm_content=buffer04343&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer#more-9724", 
-    "resolved_title": "The Blog of Author Tim Ferriss", 
+    "resolved_title": "How to Travel: 21 Contrarian Rules", 
     "is_index": "0", 
     "time_updated": "1413215707", 
     "time_favorited": "0", 
