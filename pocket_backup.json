@@ -95540,6 +95540,80 @@
     "resolved_title": "Published for the First Time : a 1959 Essay by Isaac Asimov on Creativity"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1900, 
+    "time_updated": "1439399992", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "San Leandro, Calif. \u2014 The founder of a unique chain of active retirement communities targeted to elderly Indian Americans is ready to branch out in Silicon Valley.", 
+    "image": {
+      "item_id": "889034707", 
+      "src": "http://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/5/65/565e9c06-9776-11e4-8274-f311e335835a/54aeecfda5572.image.jpg?resize=300%2C188", 
+      "height": "0", 
+      "width": "300"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "774", 
+    "images": {
+      "1": {
+        "src": "http://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/5/65/565e9c06-9776-11e4-8274-f311e335835a/54aeecfda5572.image.jpg?resize=300%2C188", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "889034707", 
+        "caption": "shantiniketan-2tulsi.jpg", 
+        "width": "300"
+      }, 
+      "3": {
+        "src": "http://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/4/e7/4e739168-9776-11e4-a6e6-07202eb40781/54aeeac69b34d.image.jpg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "889034707", 
+        "caption": "shantiniketan-4.jpg", 
+        "width": "300"
+      }, 
+      "2": {
+        "src": "http://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/5/79/579225a2-9776-11e4-b101-f3faaf3f1a1d/54aeed4e4eb10.image.jpg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "889034707", 
+        "caption": "shantiniketan-3interior.jpg", 
+        "width": "300"
+      }, 
+      "5": {
+        "src": "http://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/5/49/5495401e-9776-11e4-baf7-032668101999/54aeedd86137e.image.jpg?resize=300%2C232", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "889034707", 
+        "caption": "shantiniketan-6.jpg", 
+        "width": "300"
+      }, 
+      "4": {
+        "src": "http://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/5/8c/58c241aa-9776-11e4-9ce0-4f2daa4a95c6/54aeead7dd2ca.image.jpg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "889034707", 
+        "caption": "shantiniketan-5phase2.jpg", 
+        "width": "300"
+      }
+    }, 
+    "given_title": "\u2018ShantiNiketan\u2019 Retirement Community Coming to the S.F. Bay Area - India We", 
+    "resolved_url": "http://www.indiawest.com/news/global_indian/shantiniketan-retirement-community-coming-to-the-s-f-bay-area/article_de9af31c-9776-11e4-b463-4f3e71c5c14c.html", 
+    "is_article": "1", 
+    "item_id": "889034707", 
+    "time_added": "1439399992", 
+    "resolved_id": "889034707", 
+    "given_url": "http://www.indiawest.com/news/global_indian/shantiniketan-retirement-community-coming-to-the-s-f-bay-area/article_de9af31c-9776-11e4-b463-4f3e71c5c14c.html", 
+    "resolved_title": "\u2018ShantiNiketan\u2019 Retirement Community Coming to the S.F. Bay Area"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/t5ylqK-aPX8?rel=0", 
