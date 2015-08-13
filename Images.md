@@ -18,7 +18,7 @@
 
 ![6a00d83431352e53ef01b7c6d599cc970b-pi 500×495 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c6d599cc970b-pi)
 
-![6a00d83431352e53ef017ee8591af8970d-pi (403×403)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8591af8970d-pi)
+![6a00d83431352e53ef019101c4fc1f970c-pi (500×281)](http://www.summerofdan.net/.a/6a00d83431352e53ef019101c4fc1f970c-pi)
 
 ![6a00d83431352e53ef01a511f31bfc970c-pi 499×665 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31bfc970c-pi)
 
@@ -84,7 +84,7 @@
 
 ![10 lesser known movies to check out in 2014 - Imgur](https://imgur.com/a/oo5p0)
 
-![6a00d83431352e53ef019101c4fc1f970c-pi (500×281)](http://www.summerofdan.net/.a/6a00d83431352e53ef019101c4fc1f970c-pi)
+![tumblr_llcmrfhG4P1qcnqszo1_400.gif 400×170 pixels](http://33.media.tumblr.com/tumblr_llcmrfhG4P1qcnqszo1_400.gif)
 
 ![6a00d83431352e53ef019b0360cf06970c-pi 500×602 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef019b0360cf06970c-pi)
 
@@ -101,6 +101,8 @@
 ![6a00d83431352e53ef019101c4e2ff970c-pi (500×287)](http://www.summerofdan.net/.a/6a00d83431352e53ef019101c4e2ff970c-pi)
 
 ![6a00d83431352e53ef01a511f31c1d970c-pi 500×667 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31c1d970c-pi)
+
+![6a00d83431352e53ef017ee8591af8970d-pi (403×403)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8591af8970d-pi)
 
 ![Taylor Swift quotes by @SwiftOnSecurity - Imgur](https://imgur.com/a/1PDRJ)
 
