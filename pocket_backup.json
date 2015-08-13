@@ -38934,7 +38934,7 @@
     "time_added": "1421846881", 
     "status": "0", 
     "sort_id": 1614, 
-    "resolved_url": "http://mobile.nytimes.com/blogs/well/2015/01/19/writing-your-way-to-happiness/#_=_", 
+    "resolved_url": "http://mobile.nytimes.com/blogs/well/2015/01/19/writing-your-way-to-happiness/", 
     "authors": {
       "2485116": {
         "item_id": "821307156", 
@@ -83814,7 +83814,7 @@
   }, 
   {
     "status": "1", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 44, 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
@@ -83833,7 +83833,7 @@
       }
     }, 
     "given_title": "The 'Busy' Trap - NYTimes.com", 
-    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/", 
+    "resolved_url": "http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/#more-130759", 
     "is_article": "1", 
     "item_id": "185909912", 
     "time_added": "1348062671", 
@@ -103152,7 +103152,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
