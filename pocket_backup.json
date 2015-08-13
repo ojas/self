@@ -13597,7 +13597,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3261", 
+    "word_count": "3269", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -100123,6 +100123,35 @@
     "resolved_id": "582965704", 
     "given_url": "http://mobile.nytimes.com/2014/04/01/opinion/slomo.html?src=rechp&_r=3&referrer=", 
     "resolved_title": "\u2018Slomo\u2019"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1901, 
+    "time_updated": "1439436100", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The inside of an internal-combustion engine is a just about the most violent place on Earth. Thousands of explosions happen every minute, resulting in great masses of metal being thrown up, down, and around. It\u2019s almost miraculous that engines can produce civilized, usable thrust at all.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "975", 
+    "authors": {
+      "32933121": {
+        "item_id": "161862049", 
+        "url": "http://www.caranddriver.com/search/all/author/JOHN+PEARLEY+HUFFMAN", 
+        "author_id": "32933121", 
+        "name": "Multiple Authors"
+      }
+    }, 
+    "given_title": "The Physics of Engine Cylinder-Bank Angles - Feature - Car and Driver", 
+    "resolved_url": "http://www.caranddriver.com/features/the-physics-of-engine-cylinder-bank-angles-feature", 
+    "is_article": "1", 
+    "item_id": "161862049", 
+    "time_added": "1439436100", 
+    "resolved_id": "161862049", 
+    "given_url": "http://www.caranddriver.com/features/the-physics-of-engine-cylinder-bank-angles-feature", 
+    "resolved_title": "The Physics of: Engine Cylinder-Bank Angles"
   }, 
   {
     "status": "0", 
