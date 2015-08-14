@@ -27706,15 +27706,15 @@
     "is_article": "1", 
     "image": {
       "item_id": "2925679", 
-      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boltzmann_%28427167382%29.jpg/220px-Boltzmann_%28427167382%29.jpg", 
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boltzmann_%28427167382%29.jpg/220px-Boltzmann_%28427167382%29.jpg", 
       "height": "241", 
       "width": "220"
     }, 
     "excerpt": "A Boltzmann brain is a hypothesized self aware entity which arises due to random fluctuations out of a state of chaos.", 
-    "word_count": "958", 
+    "word_count": "968", 
     "images": {
       "1": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boltzmann_%28427167382%29.jpg/220px-Boltzmann_%28427167382%29.jpg", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boltzmann_%28427167382%29.jpg/220px-Boltzmann_%28427167382%29.jpg", 
         "credit": "", 
         "height": "241", 
         "image_id": "1", 
@@ -27727,7 +27727,7 @@
     "time_added": "1388759803", 
     "status": "0", 
     "sort_id": 891, 
-    "resolved_url": "http://en.wikipedia.org/wiki/Boltzmann_brain", 
+    "resolved_url": "https://en.wikipedia.org/wiki/Boltzmann_brain", 
     "authors": {
       "7331684": {
         "item_id": "2925679", 
