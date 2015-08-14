@@ -13618,7 +13618,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3161", 
+    "word_count": "3275", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -26856,7 +26856,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "702563219", 
-      "src": "https://qzprod.files.wordpress.com/2014/08/ap080306052145.jpg?w=640", 
+      "src": "https://qzprod.files.wordpress.com/2014/08/ap080306052145.jpg?quality=80&strip=all&w=640", 
       "height": "0", 
       "width": "0"
     }, 
@@ -26864,7 +26864,7 @@
     "word_count": "3225", 
     "images": {
       "1": {
-        "src": "https://qzprod.files.wordpress.com/2014/08/ap080306052145.jpg?w=640", 
+        "src": "https://qzprod.files.wordpress.com/2014/08/ap080306052145.jpg?quality=80&strip=all&w=640", 
         "credit": "(AP Photo/Keystone, Walter Bieri)", 
         "height": "0", 
         "image_id": "1", 
