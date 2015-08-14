@@ -13618,7 +13618,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3283", 
+    "word_count": "3273", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -59927,11 +59927,11 @@
     "time_updated": "1397437620", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "The Last Question by Isaac Asimov \u00a9 1956  The last question was asked for the first time, half in jest, on May 21, 2061, at a time when humanity first stepped into the light.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "4437", 
+    "word_count": "0", 
     "authors": {
       "2489108": {
         "item_id": "13323", 
@@ -59947,7 +59947,7 @@
     "time_added": "1397437620", 
     "resolved_id": "13323", 
     "given_url": "http://www.multivax.com/last_question.html", 
-    "resolved_title": "The Last Question by Isaac Asimov \u00a9 1956"
+    "resolved_title": ""
   }, 
   {
     "videos": {
