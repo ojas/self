@@ -7840,7 +7840,7 @@
     "time_added": "1389205774", 
     "status": "0", 
     "sort_id": 900, 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036#!", 
     "authors": {
       "9969180": {
         "item_id": "518589471", 
@@ -13618,7 +13618,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3277", 
+    "word_count": "3276", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
