@@ -43445,206 +43445,25 @@
     "has_image": "1"
   }, 
   {
-    "videos": {
-      "1": {
-        "src": "https://www.youtube.com/embed/QZXjjLJz8V4", 
-        "vid": "QZXjjLJz8V4", 
-        "video_id": "1", 
-        "height": "315", 
-        "width": "560", 
-        "item_id": "24717795", 
-        "type": "1"
-      }
-    }, 
-    "is_article": "0", 
-    "image": {
-      "item_id": "24717795", 
-      "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/13/about/ePx5Z6j5S3qIFdokrXSx", 
-      "height": "216", 
-      "width": "351"
-    }, 
-    "excerpt": "Welcome Login or Register 0 items Hi there! We ship from Michigan at cost price. Sugru is the world\u2019s first mouldable glue that turns into rubber. It all started with an idea and a small team of product designers and material scientists here in London.", 
-    "word_count": "1147", 
-    "images": {
-      "11": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/22/about/9JyExSY1Q2iLl774sUPw", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "11", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "10": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/21/about/favourite1.jpg", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "10", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "13": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/24/about/uxKwHqFuQ9OaEADCdbuO", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "13", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "12": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/23/about/favourite3.jpg", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "12", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "15": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/26/about/favourite6.jpg", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "15", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "14": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/25/about/favourite5.jpg", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "14", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "17": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/39/about/VbUTW5FiSqGXpqVMguWj", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "17", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "16": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/38/about/_9t927noRbytpMImGerQ", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "16", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "18": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/132/about/Dznal185QPiN1iM9nIuc", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "18", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "1": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/13/about/ePx5Z6j5S3qIFdokrXSx", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "1", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "3": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/15/about/vOYzA6rnSCGyyBTduJdQ", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "3", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "2": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/14/about/vXWXoZYDQXKTiEP1RTZA", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "2", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "5": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/17/about/zrtvjpP8TfyuPWkKN4kW", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "5", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "4": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/16/about/lI3ALdAeQgyTQiFjjjpv", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "4", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "7": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/34/about/ELWKgONuQR2mT0o2K9fZ", 
-        "credit": "-58\u00b0F", 
-        "height": "216", 
-        "image_id": "7", 
-        "item_id": "24717795", 
-        "caption": "Sugru is resistant from -50\u00b0C", 
-        "width": "351"
-      }, 
-      "6": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/18/about/QPAkQeY1QKS70BVhPAhc", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "6", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "9": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/20/about/unj3xRwzSLCilVbfDhwy", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "9", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }, 
-      "8": {
-        "src": "https://drwsxce6xtjnu.cloudfront.net/snippets/images/19/about/vPlXrIMxQRK7JDtEDt8v", 
-        "credit": "", 
-        "height": "216", 
-        "image_id": "8", 
-        "item_id": "24717795", 
-        "caption": "", 
-        "width": "351"
-      }
-    }, 
-    "has_video": "1", 
-    "time_added": "1361344157", 
     "status": "1", 
-    "sort_id": 307, 
-    "resolved_url": "https://sugru.com/about/", 
-    "item_id": "24717795", 
-    "resolved_id": "24717795", 
-    "given_url": "http://sugru.com/about", 
-    "resolved_title": "About Sugru | Sugru", 
     "is_index": "1", 
+    "sort_id": 307, 
     "time_updated": "1364928797", 
     "time_favorited": "0", 
     "time_read": "1364928797", 
+    "excerpt": "It all started with an idea and a small team of product designers and material scientists here in London. Our dream is to make fixing, modifying and making things easy and fun for anyone, and Sugru is our solution.  Our patented silicone technology is unique.", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "108", 
     "given_title": "About sugru - the future needs fixing - sugru", 
-    "has_image": "1"
+    "resolved_url": "https://sugru.com/about", 
+    "is_article": "1", 
+    "item_id": "24717795", 
+    "time_added": "1361344157", 
+    "resolved_id": "24717795", 
+    "given_url": "http://sugru.com/about", 
+    "resolved_title": "Sugru is the world\u2019s first mouldable glue that turns into rubber."
   }, 
   {
     "status": "0", 
