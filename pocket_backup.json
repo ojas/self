@@ -23408,7 +23408,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "640", 
+    "word_count": "644", 
     "images": {
       "1": {
         "src": "http://media.npr.org/assets/img/2015/08/07/river-diversions-03_custom-b213124db0e34560606fba0ce10f791c56765f57-s1100-c15.jpg", 
@@ -23420,30 +23420,21 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://media.npr.org/assets/img/2015/08/07/river-diversions-01_custom-22d89692717eeedb0f1649dd51990ac19cea1d11-s1100-c15.jpg", 
+        "src": "http://media.npr.org/assets/img/2015/08/07/river-diversions-02_custom-96ee49ed2eca5c199df0ea7ff57e890910eb82ce-s1100-c15.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "1005537442", 
-        "caption": "\n\nJohn Lopez, director of coastal sustainability for the Lake Pontchartrain Basin Foundation, looks out at the Caernarvon river diversion. The structure diverts freshwater from the Mississippi River into the Breton Basin, helping to restore a balance with saltwater from the Gulf of Mexico. Weenta Girmay for WWNO hide caption\n\nitoggle caption Weenta Girmay for WWNO", 
+        "caption": "\n\nLocal land manager Howard Callahan navigates his airboat, which helps local environmental groups get deep into the Breton Basin area to investigate the impact of the Caernarvon river diversion. Weenta Girmay for WWNO hide caption\n\nitoggle caption Weenta Girmay for WWNO", 
         "width": "0"
       }, 
       "2": {
-        "src": "http://media.npr.org/news/graphics/2015/08/map-louisiana-wetlands-300.png", 
-        "credit": "Weenta Girmay for WWNO", 
+        "src": "http://media.npr.org/assets/img/2015/08/07/river-diversions-01_custom-22d89692717eeedb0f1649dd51990ac19cea1d11-s1100-c15.jpg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "1005537442", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://media.npr.org/assets/img/2015/08/07/river-diversions-02_custom-96ee49ed2eca5c199df0ea7ff57e890910eb82ce-s1100-c15.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "1005537442", 
-        "caption": "\n\nLocal land manager Howard Callahan navigates his airboat, which helps local environmental groups get deep into the Breton Basin area to investigate the impact of the Caernarvon river diversion. Weenta Girmay for WWNO hide caption\n\nitoggle caption Weenta Girmay for WWNO", 
+        "caption": "\n\nJohn Lopez, director of coastal sustainability for the Lake Pontchartrain Basin Foundation, looks out at the Caernarvon river diversion. The structure diverts freshwater from the Mississippi River into the Breton Basin, helping to restore a balance with saltwater from the Gulf of Mexico. Weenta Girmay for WWNO hide caption\n\nitoggle caption Weenta Girmay for WWNO", 
         "width": "0"
       }
     }, 
