@@ -28532,6 +28532,35 @@
     "resolved_title": "Classic Porsche Car Porn"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1907, 
+    "time_updated": "1439607428", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The false positive paradox is a statistical result where false positive tests are more probable than true positive tests, occurring when the overall population has a low incidence of a condition and the incidence rate is lower than the false positive rate.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1255", 
+    "authors": {
+      "7331684": {
+        "item_id": "19768702", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "given_title": "False positive paradox - Wikipedia, the free encyclopedia", 
+    "resolved_url": "https://en.wikipedia.org/wiki/False_positive_paradox", 
+    "is_article": "1", 
+    "item_id": "19768702", 
+    "time_added": "1439607428", 
+    "resolved_id": "19768702", 
+    "given_url": "https://en.wikipedia.org/wiki/False_positive_paradox", 
+    "resolved_title": "False positive paradox"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "378537419", 
