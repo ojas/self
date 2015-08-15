@@ -12230,6 +12230,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1905, 
+    "time_updated": "1439605602", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Schedule and Syllabus Unless otherwise specified the course lectures and meeting times are: Monday, Wednesday 1:00-2:15 Location: 320-105", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "16", 
+    "given_title": "Stanford University CS224d: Deep Learning for Natural Language Processing", 
+    "resolved_url": "http://cs224d.stanford.edu/syllabus.html", 
+    "is_article": "0", 
+    "item_id": "861511778", 
+    "time_added": "1439605602", 
+    "resolved_id": "861511778", 
+    "given_url": "http://cs224d.stanford.edu/syllabus.html", 
+    "resolved_title": "Deep Learning for Natural Language Processing"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1834, 
     "time_updated": "1436987427", 
     "time_favorited": "0", 
@@ -37523,6 +37544,52 @@
     "resolved_id": "373034784", 
     "given_url": "http://www.aeonmagazine.com/living-together/james-somers-web-developer-money/", 
     "resolved_title": ""
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "925961106", 
+      "src": "http://media.npr.org/assets/img/2013/10/17/sleepingbrain_wide-e40290d47221863e13990f78f86b983781d5673e-s1100-c15.jpeg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "While the brain sleeps, it clears out harmful toxins, a process that may reduce the risk of Alzheimer's, researchers say.", 
+    "word_count": "589", 
+    "images": {
+      "1": {
+        "src": "http://media.npr.org/assets/img/2013/10/17/sleepingbrain_wide-e40290d47221863e13990f78f86b983781d5673e-s1100-c15.jpeg", 
+        "credit": "\n\nKatherine Streeter for NPR", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "925961106", 
+        "caption": "\n\nKatherine Streeter for NPR", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1439605623", 
+    "status": "0", 
+    "sort_id": 1906, 
+    "resolved_url": "http://www.npr.org/sections/health-shots/2013/10/18/236211811/brains-sweep-themselves-clean-of-toxins-during-sleep", 
+    "authors": {
+      "12876172": {
+        "item_id": "925961106", 
+        "url": "https://www.urmc.rochester.edu/people/23788299-maiken-nedergaard", 
+        "author_id": "12876172", 
+        "name": "Dr. Maiken Nedergaard"
+      }
+    }, 
+    "item_id": "925961106", 
+    "resolved_id": "925961106", 
+    "given_url": "http://www.npr.org/sections/health-shots/2013/10/18/236211811/brains-sweep-themselves-clean-of-toxins-during-sleep", 
+    "resolved_title": "Brains Sweep Themselves Clean Of Toxins During Sleep", 
+    "is_index": "0", 
+    "time_updated": "1439605623", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Brains Sweep Themselves Clean Of Toxins During Sleep : Shots - Health News ", 
+    "has_image": "1"
   }, 
   {
     "is_article": "0", 
