@@ -44556,18 +44556,36 @@
   }, 
   {
     "videos": {
-      "1": {
-        "src": "http://player.vimeo.com/video/112797307?title=0&byline=0&portrait=0&color=ffcc00", 
-        "vid": "112797307", 
-        "video_id": "1", 
+      "11": {
+        "src": "http://player.vimeo.com/video/132689965?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "132689965", 
+        "video_id": "11", 
         "height": "281", 
         "width": "498", 
         "item_id": "103010038", 
         "type": "4"
       }, 
+      "10": {
+        "src": "http://player.vimeo.com/video/133937162?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "133937162", 
+        "video_id": "10", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }, 
+      "1": {
+        "src": "http://www.youtube.com/embed/ZTc49K2tiEM", 
+        "vid": "ZTc49K2tiEM", 
+        "video_id": "1", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "1"
+      }, 
       "3": {
-        "src": "http://player.vimeo.com/video/109994761?title=0&byline=0&portrait=0&color=ffcc00", 
-        "vid": "109994761", 
+        "src": "http://player.vimeo.com/video/135104859?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "135104859", 
         "video_id": "3", 
         "height": "281", 
         "width": "498", 
@@ -44575,18 +44593,63 @@
         "type": "4"
       }, 
       "2": {
-        "src": "http://player.vimeo.com/video/109763259?title=0&byline=0&portrait=0&color=ffcc00", 
-        "vid": "109763259", 
+        "src": "http://player.vimeo.com/video/135527583?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "135527583", 
         "video_id": "2", 
         "height": "281", 
         "width": "498", 
         "item_id": "103010038", 
         "type": "4"
       }, 
+      "5": {
+        "src": "http://player.vimeo.com/video/135106476?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "135106476", 
+        "video_id": "5", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }, 
       "4": {
-        "src": "http://player.vimeo.com/video/108871511?title=0&byline=0&portrait=0&color=ffcc00", 
-        "vid": "108871511", 
+        "src": "http://player.vimeo.com/video/135109689?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "135109689", 
         "video_id": "4", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }, 
+      "7": {
+        "src": "http://player.vimeo.com/video/135119205?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "135119205", 
+        "video_id": "7", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }, 
+      "6": {
+        "src": "http://player.vimeo.com/video/135105032?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "135105032", 
+        "video_id": "6", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }, 
+      "9": {
+        "src": "http://player.vimeo.com/video/134379514?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "134379514", 
+        "video_id": "9", 
+        "height": "281", 
+        "width": "498", 
+        "item_id": "103010038", 
+        "type": "4"
+      }, 
+      "8": {
+        "src": "http://player.vimeo.com/video/134781396?title=0&byline=0&portrait=0&color=ffcc00", 
+        "vid": "134781396", 
+        "video_id": "8", 
         "height": "281", 
         "width": "498", 
         "item_id": "103010038", 
@@ -44596,168 +44659,33 @@
     "is_article": "0", 
     "image": {
       "item_id": "103010038", 
-      "src": "http://deuscustoms.com/wp-content/uploads/2014/11/RNINET_b4-001-280x420.jpg", 
-      "height": "420", 
+      "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/08/IMG_3390-1200x900-copy1-280x210.jpg", 
+      "height": "210", 
       "width": "280"
     }, 
-    "excerpt": "Every art exhibit needs an opening party\u2026 and this is Joe\u2019s. When the curtains were drawn from the Temple of Enthusiam\u2019s gallery, crowds flocked in to admire his inspiring show. No one had ever seen anything\u2026 More", 
-    "word_count": "847", 
+    "excerpt": "Deus Amigos Andrew Simpson and Ben Cooper have come up with the revolutionary Kayak design inspired by ancient inuit designs from the bronze age. The O Six Hundred kayaks is a build-it-your self, Ikea like Kayak\u2026 More", 
+    "word_count": "882", 
     "images": {
-      "24": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/horace-jacket-thumb.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "24", 
-        "item_id": "103010038", 
-        "caption": "Shop Barbour x Deus - Horace Jacket\n", 
-        "width": "0"
-      }, 
-      "25": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/scorpido-jacket-thumb.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "25", 
-        "item_id": "103010038", 
-        "caption": "Shop Barbour x Deus - Scorpido Worker Jacket\n", 
-        "width": "0"
-      }, 
-      "20": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/10590592_10152530119289160_2889706656316105290_n-280x280.jpg", 
-        "credit": "", 
-        "height": "280", 
-        "image_id": "20", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
-      }, 
-      "21": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/YH_2.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "21", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "22": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/YH_1.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "22", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "23": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2013/10/deus_x_ornamental.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "23", 
-        "item_id": "103010038", 
-        "caption": "Shop Deus x Ornamental Conifer - Limited Edition Tees\n", 
-        "width": "0"
-      }, 
-      "1": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/RNINET_b4-001-280x420.jpg", 
-        "credit": "", 
-        "height": "420", 
-        "image_id": "1", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
-      }, 
-      "3": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/DSC_76891-280x186.jpg", 
-        "credit": "", 
-        "height": "186", 
-        "image_id": "3", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
-      }, 
-      "2": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/DucatiBuildred-5848-280x420.jpg", 
-        "credit": "", 
-        "height": "420", 
-        "image_id": "2", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
-      }, 
-      "5": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/Schermata-2014-11-06-alle-17.13.45-280x185.png", 
-        "credit": "", 
-        "height": "185", 
-        "image_id": "5", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
-      }, 
-      "4": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/YHblogXdeus_131-280x186.jpg", 
-        "credit": "", 
-        "height": "186", 
-        "image_id": "4", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
-      }, 
-      "7": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/RNINET_b3-003-280x186.jpg", 
-        "credit": "", 
-        "height": "186", 
-        "image_id": "7", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
-      }, 
-      "6": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/14SundaySlideBlog_0461-280x186.jpg", 
-        "credit": "", 
-        "height": "186", 
-        "image_id": "6", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
-      }, 
-      "9": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/11/Barber2014-27-280x186.jpg", 
-        "credit": "", 
-        "height": "186", 
-        "image_id": "9", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
-      }, 
-      "8": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/TZHiRes-0315-HERO2.jpg", 
-        "credit": "", 
-        "height": "386", 
-        "image_id": "8", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "580"
-      }, 
       "11": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/Deus-Derrick-280x184.png", 
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/TOM88391-280x421.jpg", 
         "credit": "", 
-        "height": "184", 
+        "height": "421", 
         "image_id": "11", 
         "item_id": "103010038", 
         "caption": "", 
         "width": "280"
       }, 
       "10": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/deus_ferroveloce_0-280x186.jpg", 
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/Saint_Hero-280x187.jpg", 
         "credit": "", 
-        "height": "186", 
+        "height": "187", 
         "image_id": "10", 
         "item_id": "103010038", 
         "caption": "", 
         "width": "280"
       }, 
       "13": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/slidetober_moto_blog0002-280x186.jpg", 
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/06/OntheroadtoBiarritz_481-280x186.jpg", 
         "credit": "", 
         "height": "186", 
         "image_id": "13", 
@@ -44766,78 +44694,150 @@
         "width": "280"
       }, 
       "12": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/slidetober_portrait_blog0062-280x201.jpg", 
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/TOM8106-280x186.jpg", 
         "credit": "", 
-        "height": "201", 
+        "height": "186", 
         "image_id": "12", 
         "item_id": "103010038", 
         "caption": "", 
         "width": "280"
       }, 
       "15": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/IMG_54481-280x186.jpg", 
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/DSC_4527-2.jpg", 
         "credit": "", 
-        "height": "186", 
+        "height": "0", 
         "image_id": "15", 
         "item_id": "103010038", 
         "caption": "", 
-        "width": "280"
+        "width": "0"
       }, 
       "14": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/Slidetober_2014_Surf_Action2207-280x186.jpg", 
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2013/10/TOM1414-2.jpeg", 
         "credit": "", 
-        "height": "186", 
+        "height": "0", 
         "image_id": "14", 
         "item_id": "103010038", 
         "caption": "", 
-        "width": "280"
+        "width": "0"
       }, 
       "17": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/B46T4258-copy-280x186.jpg", 
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/TOM9917.jpg", 
         "credit": "", 
-        "height": "186", 
+        "height": "0", 
         "image_id": "17", 
         "item_id": "103010038", 
         "caption": "", 
-        "width": "280"
+        "width": "0"
       }, 
       "16": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/Red-pill-280x186.jpg", 
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2013/10/TOM0166.jpeg", 
         "credit": "", 
-        "height": "186", 
+        "height": "0", 
         "image_id": "16", 
         "item_id": "103010038", 
         "caption": "", 
-        "width": "280"
-      }, 
-      "19": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/RNINET_b2-021-280x186.jpg", 
-        "credit": "", 
-        "height": "186", 
-        "image_id": "19", 
-        "item_id": "103010038", 
-        "caption": "", 
-        "width": "280"
+        "width": "0"
       }, 
       "18": {
-        "src": "http://deuscustoms.com/wp-content/uploads/2014/10/OCmain-280x186.jpg", 
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/TOM8276.jpg", 
         "credit": "", 
-        "height": "186", 
+        "height": "0", 
         "image_id": "18", 
         "item_id": "103010038", 
         "caption": "", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/08/IMG_3390-1200x900-copy1-280x210.jpg", 
+        "credit": "", 
+        "height": "210", 
+        "image_id": "1", 
+        "item_id": "103010038", 
+        "caption": "", 
         "width": "280"
+      }, 
+      "3": {
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/DP5D9385-280x187.jpg", 
+        "credit": "", 
+        "height": "187", 
+        "image_id": "3", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "2": {
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/08/SURFSWAP_v1SQUAREblog-280x280.jpg", 
+        "credit": "", 
+        "height": "280", 
+        "image_id": "2", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "5": {
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/BLOG_04001-580x387.jpg", 
+        "credit": "", 
+        "height": "387", 
+        "image_id": "5", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "580"
+      }, 
+      "4": {
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/RAEN_Arlo_Deus_Sunglasses_06-280x181.jpg", 
+        "credit": "", 
+        "height": "181", 
+        "image_id": "4", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "7": {
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/BLOG_02001-580x387.jpg", 
+        "credit": "", 
+        "height": "387", 
+        "image_id": "7", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "580"
+      }, 
+      "6": {
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/BLOG_03001-580x387.jpg", 
+        "credit": "", 
+        "height": "387", 
+        "image_id": "6", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "580"
+      }, 
+      "9": {
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/TOM98512-280x421.jpg", 
+        "credit": "", 
+        "height": "421", 
+        "image_id": "9", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "8": {
+        "src": "http://cdn.deuscustoms.com/wp-content/uploads/2015/07/BLOG_01001-580x387.jpg", 
+        "credit": "", 
+        "height": "387", 
+        "image_id": "8", 
+        "item_id": "103010038", 
+        "caption": "", 
+        "width": "580"
       }
     }, 
     "has_video": "1", 
     "time_added": "1417638316", 
     "status": "0", 
     "sort_id": 1485, 
-    "resolved_url": "http://deuscustoms.com/", 
+    "resolved_url": "http://deuscustoms.com", 
     "item_id": "103010038", 
     "resolved_id": "103010038", 
     "given_url": "http://deuscustoms.com/", 
-    "resolved_title": "Deus Ex Machina | Custom Motorcycles, Surfboards, Clothing and Accessories", 
+    "resolved_title": "Deus Ex Machina", 
     "is_index": "1", 
     "time_updated": "1417638316", 
     "time_favorited": "0", 
@@ -103259,7 +103259,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
