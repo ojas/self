@@ -44022,25 +44022,16 @@
     "is_article": "1", 
     "image": {
       "item_id": "726601573", 
-      "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-Hero.jpg.CROP.fresca-xlarge.jpg", 
+      "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-HilltopSteakhouse.jpg.CROP.original-original.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "In 1990, Susan Orlean published a book called Saturday Night, in which she set out to document how Americans spend their weekly reprieve from work. \u201cSaturday night,\u201d she wrote, \u201cis when you want to do what you want to do and not what you have to do.", 
-    "word_count": "15683", 
+    "excerpt": "In this climate, the self-made man started to look more villainous than heroic. John Cawelti points to T.S. Denison\u2019s pithily titled 1885 novel An Iron Crown: or, Modern Mammon. A Graphic and Thrilling History of Great Money Makers and How They Got Millions.", 
+    "word_count": "152", 
     "images": {
-      "42": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-08_BunkerHill.jpg.CROP.original-original.jpg", 
-        "credit": "Photo courtesy Library of Congress", 
-        "height": "0", 
-        "image_id": "42", 
-        "item_id": "726601573", 
-        "caption": "The Bunker Hill Monument, Charlestown, Massachusetts, at the turn of the 20th century.", 
-        "width": "0"
-      }, 
       "24": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_ThomasAScott.jpg.CROP.original-original.jpg", 
-        "credit": "Photo courtesy Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_WilliamLawrenceBishop.jpg.CROP.original-original.jpg", 
+        "credit": "Photo via Wikimedia Commons", 
         "height": "0", 
         "image_id": "24", 
         "item_id": "726601573", 
@@ -44048,7 +44039,7 @@
         "width": "0"
       }, 
       "25": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/L-Mobile-O.jpg.CROP.original-original.jpg", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-LouisBorgenicht400.jpg.CROP.original-original.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "25", 
@@ -44057,8 +44048,8 @@
         "width": "0"
       }, 
       "26": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-AndrewCarnegie400.jpg.CROP.original-original.jpg", 
-        "credit": "", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-06_MaryAntin.jpg.CROP.original-original.jpg", 
+        "credit": "Photo via Wikimedia Commons", 
         "height": "0", 
         "image_id": "26", 
         "item_id": "726601573", 
@@ -44066,8 +44057,8 @@
         "width": "0"
       }, 
       "27": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_Rockefeller.jpg.CROP.original-original.jpg", 
-        "credit": "Photo courtesy Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/Slate%20Plus/articles/2014/09/140915_PLUS_SwansburgWinterPromo.jpg.CROP.promo-small2.jpg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "27", 
         "item_id": "726601573", 
@@ -44075,8 +44066,8 @@
         "width": "0"
       }, 
       "20": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-03_ParsonWeems.jpg.CROP.original-original.jpg", 
-        "credit": "Image via Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_Rockefeller.jpg.CROP.original-original.jpg", 
+        "credit": "Photo courtesy Wikimedia Commons", 
         "height": "0", 
         "image_id": "20", 
         "item_id": "726601573", 
@@ -44084,8 +44075,8 @@
         "width": "0"
       }, 
       "21": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-HoratioAlger400.jpg.CROP.original-original.jpg", 
-        "credit": "", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_HenryClayFrick.jpg.CROP.original-original.jpg", 
+        "credit": "Photo via Wikimedia Commons", 
         "height": "0", 
         "image_id": "21", 
         "item_id": "726601573", 
@@ -44093,80 +44084,89 @@
         "width": "0"
       }, 
       "22": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-04_JacobRiisChildren.jpg.CROP.original-original.jpg", 
-        "credit": " Jacob Riis via Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_Russell_Conwell.jpg.CROP.original-original.jpg", 
+        "credit": "Photo via Wikimedia Commons", 
         "height": "0", 
         "image_id": "22", 
-        "item_id": "726601573", 
-        "caption": "Children sleeping on Mulberry Street, New York, 1890.", 
-        "width": "0"
-      }, 
-      "23": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-dropcap-fresca-O.jpg.CROP.original-original.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "23", 
         "item_id": "726601573", 
         "caption": "", 
         "width": "0"
       }, 
+      "23": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_HomesteadSteel.jpg.CROP.original-original.jpg", 
+        "credit": "Photo courtesy Library of Congress", 
+        "height": "0", 
+        "image_id": "23", 
+        "item_id": "726601573", 
+        "caption": "Carnegie Steel Plant, Homestead, Pennsylvania, 1905.", 
+        "width": "0"
+      }, 
       "28": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_HenryClayFrick.jpg.CROP.original-original.jpg", 
-        "credit": "Photo via Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-dropcap-fresca-T.jpg.CROP.original-original.jpg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "28", 
         "item_id": "726601573", 
         "caption": "", 
         "width": "0"
       }, 
-      "43": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-08_Truck.jpg.CROP.original-original.jpg", 
-        "credit": " Lisa Larson-Walker/Slate", 
-        "height": "0", 
-        "image_id": "43", 
-        "item_id": "726601573", 
-        "caption": "Toy pick-up truck with \u201cEastern Roofing\u201d painted on the bed, a boyhood gift from father to son.", 
-        "width": "0"
-      }, 
-      "40": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-JackSwansburg400.jpg.CROP.original-original.jpg", 
+      "29": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/L-Mobile-T.jpg.CROP.original-original.jpg", 
         "credit": "", 
         "height": "0", 
-        "image_id": "40", 
-        "item_id": "726601573", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "41": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-Bees.jpg.CROP.original-original.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "41", 
+        "image_id": "29", 
         "item_id": "726601573", 
         "caption": "", 
         "width": "0"
       }, 
       "1": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-Hero.jpg.CROP.fresca-xlarge.jpg", 
-        "credit": "Illustrations  Happy Menocal", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-HilltopSteakhouse.jpg.CROP.original-original.jpg", 
+        "credit": " Bold Willie/Flickr", 
         "height": "0", 
         "image_id": "1", 
+        "item_id": "726601573", 
+        "caption": "The Hilltop Steakhouse, Saugus, Massachusetts.", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-01_JWinthrop.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-FrankGiuffrida400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-01_HenryClay.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Wikimedia Commons", 
+        "height": "0", 
+        "image_id": "5", 
         "item_id": "726601573", 
         "caption": "", 
         "width": "0"
       }, 
       "4": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-HilltopSteakhouse.jpg.CROP.original-original.jpg", 
-        "credit": " Bold Willie/Flickr", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-01_Bootstrap.gif.CROP.original-original.gif", 
+        "credit": "GIF  Lisa Larson-Walker/Slate", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "726601573", 
-        "caption": "The Hilltop Steakhouse, Saugus, Massachusetts.", 
+        "caption": "", 
         "width": "0"
       }, 
       "7": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-01_JWinthrop.jpg.CROP.original-original.jpg", 
-        "credit": "Image via Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-02_FranklinArrival.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Project Gutenberg", 
         "height": "0", 
         "image_id": "7", 
         "item_id": "726601573", 
@@ -44174,7 +44174,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-FrankGiuffrida400.jpg.CROP.original-original.jpg", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-BenFranklin400.jpg.CROP.original-original.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -44183,26 +44183,35 @@
         "width": "0"
       }, 
       "9": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-01_Bootstrap.gif.CROP.original-original.gif", 
-        "credit": "GIF  Lisa Larson-Walker/Slate", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-02_WilliamTempleFranklin.jpg.CROP.original-original.jpg", 
+        "credit": "Image viaYale University Art Gallery", 
         "height": "0", 
         "image_id": "9", 
         "item_id": "726601573", 
         "caption": "", 
         "width": "0"
       }, 
-      "39": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-07_SherylSandberg.jpg.CROP.original-original.jpg", 
-        "credit": " Justin Sullivan/Getty Images", 
+      "8": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-02_CottonMather.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Wikimedia Commons", 
         "height": "0", 
-        "image_id": "39", 
+        "image_id": "8", 
+        "item_id": "726601573", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "11": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/L-Mobile-A.jpg.CROP.original-original.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
         "item_id": "726601573", 
         "caption": "", 
         "width": "0"
       }, 
       "10": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-01_HenryClay.jpg.CROP.original-original.jpg", 
-        "credit": "Image via Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-dropcap-fresca-A.jpg.CROP.original-original.jpg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "10", 
         "item_id": "726601573", 
@@ -44210,35 +44219,35 @@
         "width": "0"
       }, 
       "13": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-BenFranklin400.jpg.CROP.original-original.jpg", 
-        "credit": "", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-03_ParsonWeems.jpg.CROP.original-original.jpg", 
+        "credit": "Image via Wikimedia Commons", 
         "height": "0", 
         "image_id": "13", 
         "item_id": "726601573", 
         "caption": "", 
         "width": "0"
       }, 
-      "38": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-SophiaAmoruso400.jpg.CROP.original-original.jpg", 
+      "12": {
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-AmosLawrence400.jpg.CROP.original-original.jpg", 
         "credit": "", 
         "height": "0", 
-        "image_id": "38", 
+        "image_id": "12", 
         "item_id": "726601573", 
         "caption": "", 
         "width": "0"
       }, 
       "15": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-02_CottonMather.jpg.CROP.original-original.jpg", 
-        "credit": "Image via Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-04_JacobRiisChildren.jpg.CROP.original-original.jpg", 
+        "credit": " Jacob Riis via Wikimedia Commons", 
         "height": "0", 
         "image_id": "15", 
         "item_id": "726601573", 
-        "caption": "", 
+        "caption": "Children sleeping on Mulberry Street, New York, 1890.", 
         "width": "0"
       }, 
       "14": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-02_FranklinArrival.jpg.CROP.original-original.jpg", 
-        "credit": "Image via Project Gutenberg", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-HoratioAlger400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "14", 
         "item_id": "726601573", 
@@ -44246,8 +44255,8 @@
         "width": "0"
       }, 
       "17": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-dropcap-fresca-A.jpg.CROP.original-original.jpg", 
-        "credit": "", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_ThomasAScott.jpg.CROP.original-original.jpg", 
+        "credit": "Photo courtesy Wikimedia Commons", 
         "height": "0", 
         "image_id": "17", 
         "item_id": "726601573", 
@@ -44255,8 +44264,8 @@
         "width": "0"
       }, 
       "16": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-02_WilliamTempleFranklin.jpg.CROP.original-original.jpg", 
-        "credit": "Image viaYale University Art Gallery", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-dropcap-fresca-O.jpg.CROP.original-original.jpg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "16", 
         "item_id": "726601573", 
@@ -44264,7 +44273,7 @@
         "width": "0"
       }, 
       "19": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-AmosLawrence400.jpg.CROP.original-original.jpg", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-AndrewCarnegie400.jpg.CROP.original-original.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "19", 
@@ -44273,7 +44282,7 @@
         "width": "0"
       }, 
       "18": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/L-Mobile-A.jpg.CROP.original-original.jpg", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/L-Mobile-O.jpg.CROP.original-original.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "18", 
@@ -44282,35 +44291,26 @@
         "width": "0"
       }, 
       "31": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_HomesteadSteel.jpg.CROP.original-original.jpg", 
-        "credit": "Photo courtesy Library of Congress", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-07_SherylSandberg.jpg.CROP.original-original.jpg", 
+        "credit": " Justin Sullivan/Getty Images", 
         "height": "0", 
         "image_id": "31", 
         "item_id": "726601573", 
-        "caption": "Carnegie Steel Plant, Homestead, Pennsylvania, 1905.", 
+        "caption": "", 
         "width": "0"
       }, 
       "30": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_Russell_Conwell.jpg.CROP.original-original.jpg", 
-        "credit": "Photo via Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-SophiaAmoruso400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "30", 
         "item_id": "726601573", 
         "caption": "", 
         "width": "0"
       }, 
-      "37": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/L-Mobile-T.jpg.CROP.original-original.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "37", 
-        "item_id": "726601573", 
-        "caption": "", 
-        "width": "0"
-      }, 
       "36": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-dropcap-fresca-T.jpg.CROP.original-original.jpg", 
-        "credit": "", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-Hero.jpg.CROP.fresca-xlarge.jpg", 
+        "credit": "Illustrations  Happy Menocal", 
         "height": "0", 
         "image_id": "36", 
         "item_id": "726601573", 
@@ -44318,25 +44318,25 @@
         "width": "0"
       }, 
       "35": {
-        "src": "http://www.slate.com/content/dam/slate/Slate%20Plus/articles/2014/09/140915_PLUS_SwansburgWinterPromo.jpg.CROP.promo-small2.jpg", 
-        "credit": "", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-08_Truck.jpg.CROP.original-original.jpg", 
+        "credit": " Lisa Larson-Walker/Slate", 
         "height": "0", 
         "image_id": "35", 
         "item_id": "726601573", 
-        "caption": "", 
+        "caption": "Toy pick-up truck with \u201cEastern Roofing\u201d painted on the bed, a boyhood gift from father to son.", 
         "width": "0"
       }, 
       "34": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-06_MaryAntin.jpg.CROP.original-original.jpg", 
-        "credit": "Photo via Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-08_BunkerHill.jpg.CROP.original-original.jpg", 
+        "credit": "Photo courtesy Library of Congress", 
         "height": "0", 
         "image_id": "34", 
         "item_id": "726601573", 
-        "caption": "", 
+        "caption": "The Bunker Hill Monument, Charlestown, Massachusetts, at the turn of the 20th century.", 
         "width": "0"
       }, 
       "33": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-LouisBorgenicht400.jpg.CROP.original-original.jpg", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/dropcaps/SelfMade-Bees.jpg.CROP.original-original.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "33", 
@@ -44345,8 +44345,8 @@
         "width": "0"
       }, 
       "32": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/SelfMade-05_WilliamLawrenceBishop.jpg.CROP.original-original.jpg", 
-        "credit": "Photo via Wikimedia Commons", 
+        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/history/2014/09/self_made_man/portrait/SelfMade-portrait-JackSwansburg400.jpg.CROP.original-original.jpg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "32", 
         "item_id": "726601573", 
