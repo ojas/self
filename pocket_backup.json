@@ -221,6 +221,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1909, 
+    "time_updated": "1439738288", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "", 
+    "resolved_url": "http://denver.craigslist.org/mcy/5125347625.html", 
+    "is_article": "0", 
+    "item_id": "1013124203", 
+    "time_added": "1439738286", 
+    "resolved_id": "1013124203", 
+    "given_url": "http://denver.craigslist.org/mcy/5125347625.html", 
+    "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 94, 
     "time_updated": "1349463735", 
     "time_favorited": "0", 
@@ -51518,6 +51539,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1910, 
+    "time_updated": "1439738478", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The bike was originally an Aspencade that I converted into a naked bike. All of the air suspension devices have been eliminated. Both front and rear fenders have been shortened/trimmed. The bike has been painted it a teal/pearl color shifting base coat clear coat finish.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "113", 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/mcy/5175236152.html", 
+    "is_article": "1", 
+    "item_id": "1013126451", 
+    "time_added": "1439738459", 
+    "resolved_id": "1013126451", 
+    "given_url": "http://austin.craigslist.org/mcy/5175236152.html", 
+    "resolved_title": "1982 Honda GL1100 Goldwing Naked - $2500 (austin)"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "718298605", 
@@ -88799,44 +88841,44 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
     "sort_id": 1908, 
-    "time_updated": "1439737998", 
+    "time_updated": "1439738240", 
     "time_favorited": "0", 
-    "videos": {
-      "1": {
-        "src": "http://www.youtube.com/v/XnMY44Ij7j4", 
-        "vid": "XnMY44Ij7j4", 
-        "video_id": "1", 
-        "height": "0", 
-        "width": "0", 
-        "item_id": "1013120574", 
-        "type": "1"
-      }
-    }, 
     "time_read": "0", 
-    "image": {
-      "item_id": "1013120574", 
-      "src": "http:2", 
-      "height": "0", 
-      "width": "0"
-    }, 
+    "excerpt": "< > (google map)  1988 Yamaha condition: excellentengine displacement (CC): 400fuel: gasodometer: 4800paint color: whitetitle status: cleantransmission: manual more ads by this user selling off my collection of motorcycles.", 
+    "has_image": "1", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "90", 
     "images": {
-      "1": {
-        "src": "http:2", 
+      "3": {
+        "src": "http://images.craigslist.org/00r0r_jFeC1tocQ1k_600x450.jpg", 
         "credit": "", 
         "height": "0", 
-        "image_id": "1", 
+        "image_id": "3", 
+        "item_id": "1013120574", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://images.craigslist.org/00404_f2y6NN0kGb8_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
         "item_id": "1013120574", 
         "caption": "", 
         "width": "0"
       }
     }, 
     "given_title": "", 
+    "resolved_url": "http://newjersey.craigslist.org/mcy/5059571585.html", 
+    "is_article": "0", 
     "item_id": "1013120574", 
     "time_added": "1439737998", 
-    "resolved_id": "0", 
-    "given_url": "http://newjersey.craigslist.org/mcy/5059571585.html"
+    "resolved_id": "1013120574", 
+    "given_url": "http://newjersey.craigslist.org/mcy/5059571585.html", 
+    "resolved_title": "1988 Yamaha FZR 400 - $5500 (mountain lakes)"
   }, 
   {
     "is_article": "1", 
@@ -103300,7 +103342,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
