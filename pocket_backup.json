@@ -50081,11 +50081,11 @@
     "time_updated": "1374153901", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "The steps in this tutorial require the user to have root privileges on your VPS. You can see how to set that up in the Users Tutorial. Prior to setting up nginx loadbalancing, you should have nginx installed on your VPS.", 
+    "excerpt": "Loadbalancing is a useful mechanism to distribute incoming traffic around several capable Virtual Private servers.By apportioning the processing mechanism to several machines, redundancy is provided to the application -- ensuring fault tolerance and heightened stability.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "582", 
+    "word_count": "723", 
     "authors": {
       "11068992": {
         "item_id": "231514848", 
