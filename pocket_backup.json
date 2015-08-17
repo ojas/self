@@ -71415,6 +71415,67 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "721464172", 
+      "src": "http://blog.andrewray.me/content/images/2014/Sep/Screen-Shot-2014-09-22-at-12-08-18-AM.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "TL;DR I struggled for a long time trying to understand what React is and how it fits in the application architecture. This post is what I wish someone had told me.", 
+    "word_count": "1279", 
+    "images": {
+      "1": {
+        "src": "http://blog.andrewray.me/content/images/2014/Sep/Screen-Shot-2014-09-22-at-12-08-18-AM.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "721464172", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://blog.andrewray.me/content/images/2014/Oct/react-size.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "721464172", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1439817586", 
+    "status": "0", 
+    "sort_id": 1912, 
+    "resolved_url": "http://blog.andrewray.me/reactjs-for-stupid-people/", 
+    "authors": {
+      "24297600": {
+        "item_id": "721464172", 
+        "url": "https://twitter.com/share?text=ReactJS%20For%20Stupid%20People%20by%20@andrewray&url=http://blog.andrewray.me/reactjs-for-stupid-people/", 
+        "author_id": "24297600", 
+        "name": "Twitter"
+      }, 
+      "24297601": {
+        "item_id": "721464172", 
+        "url": "https://www.facebook.com/sharer/sharer.php?u=http://blog.andrewray.me/reactjs-for-stupid-people/", 
+        "author_id": "24297601", 
+        "name": "Facebook"
+      }
+    }, 
+    "item_id": "721464172", 
+    "resolved_id": "721464172", 
+    "given_url": "http://blog.andrewray.me/reactjs-for-stupid-people/", 
+    "resolved_title": "ReactJS For Stupid People", 
+    "is_index": "0", 
+    "time_updated": "1439817586", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "ReactJS For Stupid People", 
+    "has_image": "1"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/3liCbRZPrZA?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent", 
@@ -85229,6 +85290,33 @@
     "resolved_id": "206554463", 
     "given_url": "https://opbeat.com/", 
     "resolved_title": "The first ops platform for developers"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1913, 
+    "time_updated": "1439818132", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "We noticed that you're using an unsupported browser. The TripAdvisor website may not display properly. We support the following browsers: Windows: Internet Explorer, Mozilla Firefox, Google Chrome. Mac: Safari.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "660", 
+    "given_title": "Ibiza Tourism: Best of Ibiza - TripAdvisor", 
+    "resolved_url": "http://www.tripadvisor.com/Tourism-g187460-Ibiza_Balearic_Islands-Vacations.html", 
+    "is_article": "0", 
+    "item_id": "182940269", 
+    "time_added": "1439818127", 
+    "resolved_id": "182940269", 
+    "given_url": "http://www.tripadvisor.com/Tourism-g187460-Ibiza_Balearic_Islands-Vacations.html", 
+    "resolved_title": "Ibiza Vacations, Tourism and Ibiza, Spain Travel Reviews - TripAdvisor", 
+    "tags": {
+      "travel": {
+        "item_id": "182940269", 
+        "tag": "travel"
+      }
+    }
   }, 
   {
     "status": "0", 
