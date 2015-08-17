@@ -89531,7 +89531,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "467", 
+    "word_count": "465", 
     "images": {
       "1": {
         "src": "https://developer.android.com/images/brand/en_generic_rgb_wo_60.png", 
@@ -89589,7 +89589,7 @@
       }
     }, 
     "given_title": "Dave Winer \u262e: Syncthing replaces proprietary sync and cloud services with s", 
-    "resolved_url": "http://syncthing.net/", 
+    "resolved_url": "https://syncthing.net/", 
     "is_article": "0", 
     "item_id": "559532027", 
     "time_added": "1430283536", 
@@ -93530,15 +93530,15 @@
     "is_article": "1", 
     "image": {
       "item_id": "615906678", 
-      "src": "http://fhww.files.wordpress.com/2008/07/2194168162_eee2f6ca21.jpg?w=450", 
+      "src": "http://fhww.files.wordpress.com/2008/07/2194168162_eee2f6ca21.jpg?quality=80&strip=all&w=450", 
       "height": "318", 
       "width": "450"
     }, 
     "excerpt": "The unbelievable Oregon coastline. (Photo: liquidskyarts)  Six weeks ago I conducted my first social media travel experiment.", 
-    "word_count": "1050", 
+    "word_count": "1052", 
     "images": {
       "1": {
-        "src": "http://fhww.files.wordpress.com/2008/07/2194168162_eee2f6ca21.jpg?w=450", 
+        "src": "http://fhww.files.wordpress.com/2008/07/2194168162_eee2f6ca21.jpg?quality=80&strip=all&w=450", 
         "credit": "", 
         "height": "318", 
         "image_id": "1", 
@@ -93547,7 +93547,7 @@
         "width": "450"
       }, 
       "3": {
-        "src": "http://fhww.files.wordpress.com/2008/07/2599631253_97f9c3dbaf.jpg?w=450", 
+        "src": "http://fhww.files.wordpress.com/2008/07/2599631253_97f9c3dbaf.jpg?quality=80&strip=all&w=450", 
         "credit": "", 
         "height": "300", 
         "image_id": "3", 
@@ -93556,22 +93556,13 @@
         "width": "450"
       }, 
       "2": {
-        "src": "http://fhww.files.wordpress.com/2008/07/2630660826_f468db8bf8.jpg?w=450", 
+        "src": "http://fhww.files.wordpress.com/2008/07/2630660826_f468db8bf8.jpg?quality=80&strip=all&w=450", 
         "credit": "", 
         "height": "338", 
         "image_id": "2", 
         "item_id": "615906678", 
         "caption": "", 
         "width": "450"
-      }, 
-      "4": {
-        "src": "http://s1.wp.com/wp-content/themes/vip/four-hour-work-week/images/header_11.jpg?m=1376689109g", 
-        "credit": "", 
-        "height": "230", 
-        "image_id": "4", 
-        "item_id": "615906678", 
-        "caption": "", 
-        "width": "548"
       }
     }, 
     "has_video": "0", 
@@ -93586,17 +93577,17 @@
     "sort_id": 1384, 
     "resolved_url": "http://fourhourworkweek.com/2008/07/30/12-gems-of-the-pacific-northwest-coast-plus-200-tweets-my-thoughts-on-practical-twitter-use/", 
     "authors": {
-      "18543212": {
+      "2518922": {
         "item_id": "615906678", 
-        "url": "http://fourhourworkweek.com/author/admin/", 
-        "author_id": "18543212", 
+        "url": "", 
+        "author_id": "2518922", 
         "name": "Tim Ferriss"
       }
     }, 
     "item_id": "615906678", 
     "resolved_id": "615906678", 
     "given_url": "http://fourhourworkweek.com/2008/07/30/12-gems-of-the-pacific-northwest-coast-plus-200-tweets-my-thoughts-on-practical-twitter-use/", 
-    "resolved_title": "The Blog of Author Tim Ferriss", 
+    "resolved_title": "12+ Gems of the Pacific Northwest Coast (Plus: 200 Tweets \u2013 My Thoughts on Practical Twitter Use)", 
     "is_index": "0", 
     "time_updated": "1413215696", 
     "time_favorited": "0", 
