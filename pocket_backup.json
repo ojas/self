@@ -62546,6 +62546,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1911, 
+    "time_updated": "1439781173", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "PostgreSQL 9.5 Alpha 2 is due to be released on August 6. Not only does the new version support UPSERT, more JSON functionality, and other new features we looked at back in July, it also has some major enhancements for \"big data\" workloads.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2480", 
+    "given_title": "\"Big data\" features coming in PostgreSQL 9.5 [LWN.net]", 
+    "resolved_url": "http://lwn.net/Articles/653411/", 
+    "is_article": "1", 
+    "item_id": "1006121980", 
+    "time_added": "1439781173", 
+    "resolved_id": "1006121980", 
+    "given_url": "http://lwn.net/Articles/653411/", 
+    "resolved_title": "\"Big data\" features coming in PostgreSQL 9.5"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "626767970", 
