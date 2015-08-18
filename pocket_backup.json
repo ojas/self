@@ -4668,16 +4668,16 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 625, 
     "time_updated": "1372743851", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "18", 
+    "word_count": "0", 
     "given_title": "Home - Quora", 
     "resolved_url": "http://www.quora.com/", 
     "is_article": "0", 
@@ -4685,7 +4685,7 @@
     "time_added": "1372743851", 
     "resolved_id": "27693939", 
     "given_url": "http://www.quora.com/", 
-    "resolved_title": "The best answer to any question"
+    "resolved_title": ""
   }, 
   {
     "videos": {
