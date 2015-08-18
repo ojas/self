@@ -45120,20 +45120,11 @@
   {
     "videos": {
       "1": {
-        "src": "http://www.youtube.com/embed/5BHWjh6UIsM?hd=1&wmode=opaque&controls=1&showinfo=0;rel=0;", 
-        "vid": "5BHWjh6UIsM", 
+        "src": "http://www.youtube.com/embed/-rxHff_b_0Y?&&vq=hd720", 
+        "vid": "-rxHff_b_0Y", 
         "video_id": "1", 
-        "height": "268", 
-        "width": "420", 
-        "item_id": "286114696", 
-        "type": "1"
-      }, 
-      "2": {
-        "src": "http://www.youtube.com/embed/NDR-iU5msWg?hd=1&wmode=opaque&controls=1&showinfo=0;rel=0;", 
-        "vid": "NDR-iU5msWg", 
-        "video_id": "2", 
-        "height": "262", 
-        "width": "414", 
+        "height": "260", 
+        "width": "500", 
         "item_id": "286114696", 
         "type": "1"
       }
@@ -45145,8 +45136,8 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "KeyLines will integrate data visualization capability into your web applications easily and with very little effort.  How you collect and store the data is entirely up to you.", 
-    "word_count": "343", 
+    "excerpt": "KeyLines Network Visualization KeyLines is a technology for understanding connected data. By exploring the networks in your data, you will find patterns and trends that are otherwise hidden, generating actionable insight.", 
+    "word_count": "328", 
     "images": {
       "1": {
         "src": "http://keylines.com/wp-content/uploads/2013/09/keylines-ipad-420px.png", 
@@ -45167,7 +45158,7 @@
         "width": "290"
       }, 
       "2": {
-        "src": "http://keylines.com/wp-content/uploads/2014/07/time-bar-small.png", 
+        "src": "http://keylines.com/wp-content/uploads/2015/04/KeyLines-Geospatial4.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -45176,7 +45167,7 @@
         "width": "290"
       }, 
       "5": {
-        "src": "http://keylines.com/wp-content/uploads/2013/10/426.png", 
+        "src": "http://keylines.com/wp-content/uploads/2015/01/cifas-white2.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -45185,7 +45176,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://keylines.com/wp-content/uploads/2013/10/cifas2.png", 
+        "src": "http://keylines.com/wp-content/uploads/2013/10/csc-white2.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -45194,7 +45185,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "http://keylines.com/wp-content/uploads/2013/10/csc-white2.png", 
+        "src": "http://keylines.com/wp-content/uploads/2013/10/426.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
