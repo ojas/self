@@ -73443,8 +73443,8 @@
         "src": "http://www.youtube.com/embed/UOzD0ZDjv4I", 
         "vid": "UOzD0ZDjv4I", 
         "video_id": "1", 
-        "height": "510", 
-        "width": "640", 
+        "height": "360", 
+        "width": "620", 
         "item_id": "15188", 
         "type": "1"
       }, 
@@ -73453,29 +73453,155 @@
         "vid": "XnYle_Zkgfs", 
         "video_id": "2", 
         "height": "360", 
-        "width": "640", 
+        "width": "620", 
         "item_id": "15188", 
         "type": "1"
       }
     }, 
-    "is_article": "1", 
+    "is_article": "0", 
     "image": {
       "item_id": "15188", 
-      "src": "http://img.youtube.com/vi/UOzD0ZDjv4I/0.jpg", 
-      "height": "360", 
-      "width": "480"
+      "src": "http://www.richsoil.com/images/lawn-care-clover-woman-300.png", 
+      "height": "0", 
+      "width": "0"
     }, 
-    "excerpt": "This will force your grass roots to go deep into the soil. Deeper than most weed roots. As the top few inches of soil becomes bone dry, the weeds and weed seedlings up there die while the grass still enjoys moisture from a little deeper.", 
-    "word_count": "664", 
+    "excerpt": "A little knowledge makes it so damn near anything can qualify for the \"cheap and lazy\" label. Including lawn care. Organic is just a bonus.  The key to the lawn care game is competition.", 
+    "word_count": "5961", 
     "images": {
-      "1": {
-        "src": "http://img.youtube.com/vi/UOzD0ZDjv4I/0.jpg", 
+      "11": {
+        "src": "http://www.richsoil.com/images/rocket-mass-heater-complete.jpg", 
         "credit": "", 
-        "height": "360", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "http://www.permies.com/t/26618/a/10570/thumb-Group-of-cards.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "http://www.richsoil.com/images/wdg.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "http://www.woodburningstoves2.com/wood-burning-stoves-dvd-set.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "http://www.richsoil.com/images/jump-drive-image.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "http://www.richsoil.com/images/wild-edibles-image.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "http://www.richsoil.com/images/lawn-care-clover-woman-300.png", 
+        "credit": "", 
+        "height": "0", 
         "image_id": "1", 
         "item_id": "15188", 
         "caption": "", 
-        "width": "480"
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://www.richsoil.com/images/grass-mow-high-weeds-350.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.richsoil.com/images/grass-weed-competition-200.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://www.richsoil.com/images/lawn-care-worm-250.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://www.richsoil.com/images/lawn-care-mow-high-350.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://www.richsoil.com/images/crocus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://www.richsoil.com/images/lawn-care-soil-depth-350.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "15188", 
+        "caption": "lawn care soil depth\n", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://www.richsoil.com/images/yarrow.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://www.richsoil.com/images/chamomile.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "15188", 
+        "caption": "", 
+        "width": "0"
       }
     }, 
     "has_video": "1", 
