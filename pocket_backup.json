@@ -48388,15 +48388,23 @@
     "resolved_title": "Timeline Photos"
   }, 
   {
-    "is_article": "1", 
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1837, 
+    "time_updated": "1435712020", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "I started at the top, first working on the dashboard which would serve the executive team. This would be in the form of a weekly tearsheet of metrics to be handed out at the executive meeting every Tuesday.", 
     "image": {
       "item_id": "960955826", 
       "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*iUj6Fy3ve-leU2g1jx0N_g.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Joining 500px as Analytics Lead was a quick decision. I saw an amazing opportunity that most analysts would drool over\u200a\u2014\u200athe chance to build an analytics function from the ground up at start-up with big ambitions.", 
-    "word_count": "5938", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1876", 
     "images": {
       "1": {
         "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*iUj6Fy3ve-leU2g1jx0N_g.png", 
@@ -48408,66 +48416,50 @@
         "width": "0"
       }, 
       "3": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*QSXo_qlqsF6URPpcflBlbg.png", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*W9d9nbfOAcuB4K7D_8TaLw.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "960955826", 
-        "caption": "An example of a dashboard", 
+        "caption": "The Luigi directed graph", 
         "width": "0"
       }, 
       "2": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*W9d9nbfOAcuB4K7D_8TaLw.png", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*gHqLGn0mFwjzh29sPZBdVA.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "960955826", 
-        "caption": "The Luigi directed graph", 
+        "caption": "", 
         "width": "0"
       }, 
       "5": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*gHqLGn0mFwjzh29sPZBdVA.png", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*bJQrVFYyB0fNqu6O2xcCYA.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
         "item_id": "960955826", 
-        "caption": "", 
+        "caption": "Writing SQL to create charts", 
         "width": "0"
       }, 
       "4": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*bJQrVFYyB0fNqu6O2xcCYA.png", 
+        "src": "https://d262ilb51hltx0.cloudfront.net/max/800/1*QSXo_qlqsF6URPpcflBlbg.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "960955826", 
-        "caption": "Writing SQL to create charts", 
+        "caption": "An example of a dashboard", 
         "width": "0"
       }
     }, 
-    "has_video": "0", 
-    "time_added": "1435712020", 
-    "status": "0", 
-    "sort_id": 1837, 
+    "given_title": "Building Analytics at 500px \u2014 Medium", 
     "resolved_url": "https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83", 
-    "authors": {
-      "28193605": {
-        "item_id": "960955826", 
-        "url": "https://medium.com/@samson_hu", 
-        "author_id": "28193605", 
-        "name": "Samson Hu"
-      }
-    }, 
+    "is_article": "1", 
     "item_id": "960955826", 
+    "time_added": "1435712020", 
     "resolved_id": "943909571", 
     "given_url": "https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83?hn", 
-    "resolved_title": "Building Analytics at 500px", 
-    "is_index": "0", 
-    "time_updated": "1435712020", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "Building Analytics at 500px \u2014 Medium", 
-    "has_image": "1"
+    "resolved_title": "Building Analytics at 500px"
   }, 
   {
     "is_article": "1", 
