@@ -83869,6 +83869,58 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "1016436687", 
+      "src": "http://www.iflscience.com/sites/www.iflscience.com/files/styles/ifls_large/public/blog/%5Bnid%5D/shutterstock_237142510.jpg?itok=nr4AHO3_", 
+      "height": "425", 
+      "width": "640"
+    }, 
+    "excerpt": "Forget LSD: eyes are the new high. Of course, we\u2019re not talking about consuming them, but rather staring intensely into a pair for a prolonged period of time. Apparently, this can make people enter into an altered state of consciousness.", 
+    "word_count": "579", 
+    "images": {
+      "1": {
+        "src": "http://www.iflscience.com/sites/www.iflscience.com/files/styles/ifls_large/public/blog/%5Bnid%5D/shutterstock_237142510.jpg?itok=nr4AHO3_", 
+        "credit": "", 
+        "height": "425", 
+        "image_id": "1", 
+        "item_id": "1016436687", 
+        "caption": "", 
+        "width": "640"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1440168093", 
+    "status": "0", 
+    "tags": {
+      "trippy": {
+        "item_id": "1016436687", 
+        "tag": "trippy"
+      }
+    }, 
+    "sort_id": 1918, 
+    "resolved_url": "http://www.iflscience.com/brain/you-can-alter-your-mind-staring-someones-eyes-10-minutes", 
+    "authors": {
+      "17396423": {
+        "item_id": "1016436687", 
+        "url": "", 
+        "author_id": "17396423", 
+        "name": "Justine Alford"
+      }
+    }, 
+    "item_id": "1016436687", 
+    "resolved_id": "1016436687", 
+    "given_url": "http://www.iflscience.com/brain/you-can-alter-your-mind-staring-someones-eyes-10-minutes", 
+    "resolved_title": "Staring Into Someone's Eyes For 10 Minutes Can Alter Your Consciousness", 
+    "is_index": "0", 
+    "time_updated": "1440168101", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Staring Into Someone's Eyes For 10 Minutes Can Alter Your Consciousness | I", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "743720173", 
       "src": "http://chronicle.com/img/photos/biz/photo_55447_wide_large.jpg", 
       "height": "0", 
