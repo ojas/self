@@ -10838,15 +10838,15 @@
     "is_article": "1", 
     "image": {
       "item_id": "9458425", 
-      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Droste.jpg/220px-Droste.jpg", 
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Droste.jpg/220px-Droste.jpg", 
       "height": "337", 
       "width": "220"
     }, 
     "excerpt": "The Droste effect \u2014 known as mise en abyme in art \u2014 is the effect of a picture appearing within itself, in a place where a similar picture would realistically be expected to appear.[1] The appearance is recursive: the smaller version contains an even smaller version of the picture, and so on.", 
-    "word_count": "452", 
+    "word_count": "696", 
     "images": {
       "1": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Droste.jpg/220px-Droste.jpg", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Droste.jpg/220px-Droste.jpg", 
         "credit": "", 
         "height": "337", 
         "image_id": "1", 
@@ -10854,13 +10854,22 @@
         "caption": "\n\nThe woman holds an object bearing a smaller image of her holding the same object, which in turn bears a smaller image of her holding the same object, and so on.", 
         "width": "220"
       }, 
+      "3": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drost_Effect_using_remote_desktop_connection.png/220px-Drost_Effect_using_remote_desktop_connection.png", 
+        "credit": "", 
+        "height": "124", 
+        "image_id": "3", 
+        "item_id": "9458425", 
+        "caption": "\n\nExample of Droste effect using Chrome Remote Desktop.", 
+        "width": "220"
+      }, 
       "2": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Droste_effect_1260359-3.jpg/220px-Droste_effect_1260359-3.jpg", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Droste_effect_1260359-3.jpg/220px-Droste_effect_1260359-3.jpg", 
         "credit": "", 
         "height": "165", 
         "image_id": "2", 
         "item_id": "9458425", 
-        "caption": "\n\nExample of the Droste Effect in a spiraling format", 
+        "caption": "\n\nExample of the Droste effect in a spiraling format", 
         "width": "220"
       }
     }, 
@@ -13660,7 +13669,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3161", 
+    "word_count": "3277", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -94052,11 +94061,11 @@
     "has_video": "0", 
     "word_count": "1512", 
     "authors": {
-      "25183315": {
+      "29751781": {
         "item_id": "253943655", 
         "url": "http://scottberkun.com/author/scottberkun/", 
-        "author_id": "25183315", 
-        "name": "Scott"
+        "author_id": "29751781", 
+        "name": "Scott Berkun"
       }
     }, 
     "given_title": "Inside Pixar\u2019s Leadership", 
