@@ -16702,8 +16702,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1914, 
-    "time_updated": "1440079801", 
+    "sort_id": 1917, 
+    "time_updated": "1440167002", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "On July 11, 2000, in one of the more unlikely moments in the history of the Senate Judiciary Committee, Senator Orrin Hatch handed the microphone to Metallica\u2019s drummer, Lars Ulrich, to hear his thoughts on art in the age of digital reproduction.", 
@@ -16723,7 +16723,7 @@
     "resolved_url": "http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html", 
     "is_article": "1", 
     "item_id": "1016039504", 
-    "time_added": "1440079801", 
+    "time_added": "1440167002", 
     "resolved_id": "1015959955", 
     "given_url": "http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html?_r=0", 
     "resolved_title": "The Creative Apocalypse That Wasn\u2019t"
@@ -36731,7 +36731,7 @@
         "tag": "work"
       }
     }, 
-    "sort_id": 1917, 
+    "sort_id": 1916, 
     "resolved_url": "http://www.businessinsider.com/why-people-quit-their-jobs-2015-7", 
     "authors": {
       "25662436": {
@@ -61519,7 +61519,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1915, 
+    "sort_id": 1914, 
     "resolved_url": "http://elitedaily.com/life/travel-alone-wise/1131083/", 
     "authors": {
       "36776670": {
@@ -77242,7 +77242,7 @@
         "tag": "life"
       }
     }, 
-    "sort_id": 1916, 
+    "sort_id": 1915, 
     "resolved_url": "http://www.techinsider.io/project-reveals-why-time-feels-like-it-flies-2015-7", 
     "item_id": "992979474", 
     "resolved_id": "992979474", 
