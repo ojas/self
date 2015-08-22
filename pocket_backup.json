@@ -60348,56 +60348,31 @@
     "resolved_title": "Income Inequality and N.R.A. Dominance May Not Last Forever"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "67134444", 
-      "src": "http://cdn8.openculture.com/wp-content/uploads/2011/02/11172036/free-noir-films-online.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "During the 1940s and 50s, Hollywood entered a \u201cnoir\u201d period, producing riveting films based on hard-boiled fiction. These films were set in dark locations and shot in a black & white aesthetic that fit like a glove. Hardened men wore fedoras and forever smoked cigarettes.", 
-    "word_count": "1771", 
-    "images": {
-      "1": {
-        "src": "http://cdn8.openculture.com/wp-content/uploads/2011/02/11172036/free-noir-films-online.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "67134444", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1417637490", 
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1484, 
+    "time_updated": "1417637497", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "50 Free Film Noir Movies | Open Culture", 
+    "resolved_url": "http://www.openculture.com/free_film_noir_movies", 
+    "is_article": "0", 
+    "item_id": "67134444", 
+    "time_added": "1417637490", 
+    "resolved_id": "67134444", 
+    "given_url": "http://www.openculture.com/free_film_noir_movies", 
+    "resolved_title": "", 
     "tags": {
       "movies": {
         "item_id": "67134444", 
         "tag": "movies"
       }
-    }, 
-    "sort_id": 1484, 
-    "resolved_url": "http://www.openculture.com/free_film_noir_movies", 
-    "authors": {
-      "36396999": {
-        "item_id": "67134444", 
-        "url": "", 
-        "author_id": "36396999", 
-        "name": "Paul Guilfoyle"
-      }
-    }, 
-    "item_id": "67134444", 
-    "resolved_id": "67134444", 
-    "given_url": "http://www.openculture.com/free_film_noir_movies", 
-    "resolved_title": "60 Free Film Noir Movies", 
-    "is_index": "0", 
-    "time_updated": "1417637497", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "50 Free Film Noir Movies | Open Culture", 
-    "has_image": "1"
+    }
   }, 
   {
     "is_article": "1", 
