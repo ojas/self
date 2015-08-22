@@ -83801,48 +83801,31 @@
     "resolved_title": "Congress"
   }, 
   {
-    "is_article": "0", 
-    "image": {
-      "item_id": "270839713", 
-      "src": "https://d3rlqa3rnk4r1f.cloudfront.net/assets/images/illustrations/excel-illustration-6a30a7031905366aa3142ef3e26d5875.svg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "", 
-    "word_count": "0", 
-    "images": {
-      "1": {
-        "src": "https://d3rlqa3rnk4r1f.cloudfront.net/assets/images/illustrations/excel-illustration-6a30a7031905366aa3142ef3e26d5875.svg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "270839713", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1408395009", 
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1258, 
+    "time_updated": "1408395015", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "Quandl - Find, Use and Share Numerical Data", 
+    "resolved_url": "https://www.quandl.com/", 
+    "is_article": "0", 
+    "item_id": "270839713", 
+    "time_added": "1408395009", 
+    "resolved_id": "270839713", 
+    "given_url": "http://www.quandl.com/", 
+    "resolved_title": "Quandl Financial and Economic Data", 
     "tags": {
       "data": {
         "item_id": "270839713", 
         "tag": "data"
       }
-    }, 
-    "sort_id": 1258, 
-    "resolved_url": "https://www.quandl.com/", 
-    "item_id": "270839713", 
-    "resolved_id": "270839713", 
-    "given_url": "http://www.quandl.com/", 
-    "resolved_title": "Quandl - Find, Use and Share Numerical Data", 
-    "is_index": "1", 
-    "time_updated": "1408395015", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "Quandl - Find, Use and Share Numerical Data", 
-    "has_image": "1"
+    }
   }, 
   {
     "status": "0", 
