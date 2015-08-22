@@ -13669,7 +13669,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3269", 
+    "word_count": "3161", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -100295,7 +100295,7 @@
       "width": "600"
     }, 
     "excerpt": "Aluminum ingots waiting to be shipped from a processor. Financial institutions like Goldman Sachs have used industry pricing regulations to earn millions of dollars each year.\u00a0    MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "922", 
+    "word_count": "5370", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
@@ -100322,6 +100322,42 @@
         "image_id": "2", 
         "item_id": "401365344", 
         "caption": "Graphic", 
+        "width": "190"
+      }, 
+      "5": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/markets4/markets4-articleInline.jpg", 
+        "credit": "Tyler Clay", 
+        "height": "275", 
+        "image_id": "5", 
+        "item_id": "401365344", 
+        "caption": "Aluminum at a Metro International warehouse in Michigan.                            ", 
+        "width": "190"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-market2/jp-market2-articleInline.jpg", 
+        "credit": "Fabrizio Costantini for The New York Times", 
+        "height": "127", 
+        "image_id": "4", 
+        "item_id": "401365344", 
+        "caption": "Another Metro International warehouse. Two or three times a day, sometimes more, drivers make the same circuits between warehouses.                            ", 
+        "width": "190"
+      }, 
+      "7": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/SUB-jp-MARKETS-6/SUB-jp-MARKETS-6-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "7", 
+        "item_id": "401365344", 
+        "caption": "Nick Madden, chief procurement officer for Novelis. He said the London Metal Exchange had for years tolerated delays and high premiums, so its proposal, while encouraging, was still a long way from a solution.                            ", 
+        "width": "190"
+      }, 
+      "6": {
+        "src": "http://graphics8.nytimes.com/images/2013/07/21/us/jp-markets5/jp-markets5-articleInline.jpg", 
+        "credit": "David Walter Banks for The New York Times", 
+        "height": "127", 
+        "image_id": "6", 
+        "item_id": "401365344", 
+        "caption": "A furnace at a Novelis aluminum processing plant in Greensboro, Ga. The company is one of the largest buyers of aluminum in the country.                            ", 
         "width": "190"
       }
     }, 
