@@ -96917,16 +96917,16 @@
     "is_article": "1", 
     "image": {
       "item_id": "323723864", 
-      "src": "http://alistapart.com/d/_made/d/ALA372_materialhonesty_300_960_448_10.jpg", 
+      "src": "http://alistapart.com/d/_made/d/ALA372_materialhonesty_300_960_448_81.jpg", 
       "height": "0", 
       "width": "0"
     }, 
     "excerpt": "To cover brick with plaster, and this plaster with fresco, is perfectly legitimate\u2026 But to cover brick with cement, and to divide this cement with joints that it may look like stone, is to tell a falsehood; and is just as contemptible a procedure as the other is noble.", 
-    "word_count": "2145", 
+    "word_count": "2131", 
     "images": {
       "1": {
-        "src": "http://alistapart.com/d/_made/d/ALA372_materialhonesty_300_960_448_10.jpg", 
-        "credit": "", 
+        "src": "http://alistapart.com/d/_made/d/ALA372_materialhonesty_300_960_448_81.jpg", 
+        "credit": "Illustration \n\t\t\t\t\t\n\t\t\t\t\tKevin Cornell\n\t\t\t\t\t\n\t\t\t\t", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "323723864", 
@@ -96934,7 +96934,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://d.alistapart.com/372/Alessi-Giovannoni-Merdolino-Toilet-Brush_b_1x.jpg", 
+        "src": "http://alistapart.com/d/372/Alessi-Giovannoni-Merdolino-Toilet-Brush_b_1x.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -96943,7 +96943,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://d.alistapart.com/372/Herman-Miller-Eames-LCW-Chair_b_1x.jpg", 
+        "src": "http://alistapart.com/d/372/Herman-Miller-Eames-LCW-Chair_b_1x.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -96951,8 +96951,17 @@
         "caption": "", 
         "width": "0"
       }, 
+      "5": {
+        "src": "http://alistapart.com/d/_made/d/ALA372_thirdpartymetadata_300_322_148_10.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "323723864", 
+        "caption": "", 
+        "width": "0"
+      }, 
       "4": {
-        "src": "http://d.alistapart.com/372/29thDrive-Pen-Sketch-Session_b_1x.jpg", 
+        "src": "http://alistapart.com/d/372/29thDrive-Pen-Sketch-Session_b_1x.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
