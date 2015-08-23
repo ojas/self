@@ -16715,27 +16715,19 @@
     "time_updated": "1440167002", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "On July 11, 2000, in one of the more unlikely moments in the history of the Senate Judiciary Committee, Senator Orrin Hatch handed the microphone to Metallica\u2019s drummer, Lars Ulrich, to hear his thoughts on art in the age of digital reproduction.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "5233", 
-    "authors": {
-      "2477170": {
-        "item_id": "1016039504", 
-        "url": "", 
-        "author_id": "2477170", 
-        "name": "STEVEN JOHNSON"
-      }
-    }, 
+    "word_count": "0", 
     "given_title": "The Creative Apocalypse That Wasn\u2019t - The New York Times", 
     "resolved_url": "http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "1016039504", 
     "time_added": "1440167002", 
     "resolved_id": "1015959955", 
     "given_url": "http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html?_r=0", 
-    "resolved_title": "The Creative Apocalypse That Wasn\u2019t"
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -24688,6 +24680,164 @@
     "resolved_id": "361533339", 
     "given_url": "https://twitter.com/brainpicker/status/336119834989432832", 
     "resolved_title": "\u201cA gracefully executed quit ..."
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1920, 
+    "time_updated": "1440366982", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "< > 14301 ronald w reagan (google map)  1998 ford e250 econoline condition: excellentcylinders: 8 cylindersdrive: rwdfuel: gaspaint color: redsize: full-sizetitle status: cleantransmission: automatictype: van more ads by this user 1998 Ford E250 Conversion van with a high top roof .5.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "131", 
+    "images": {
+      "11": {
+        "src": "http://images.craigslist.org/00T0T_9GkMSsqqKH7_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "http://images.craigslist.org/00o0o_69hsyZJwD6f_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "http://images.craigslist.org/00101_igpj28lZHvp_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "http://images.craigslist.org/00X0X_5bnjC4t6KwT_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "http://images.craigslist.org/01111_dv9xZzf6IGV_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "http://images.craigslist.org/00y0y_kXzZiiuuXLK_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "16": {
+        "src": "http://images.craigslist.org/00v0v_dw5v1EO7yGK_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "16", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://images.craigslist.org/00D0D_8hs8NOGlL5K_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://images.craigslist.org/00404_ey3eptyKI7Y_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://images.craigslist.org/00m0m_7icNQxfD9oJ_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://images.craigslist.org/00N0N_lrbVQyaNmmF_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://images.craigslist.org/00J0J_7ZKGX333XQG_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://images.craigslist.org/00S0S_7YZrqBucDVn_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://images.craigslist.org/01414_9QGp8I31Tlx_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://images.craigslist.org/00z0z_3EQA6eHJ2K4_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "1020120274", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/ctd/5185000391.html", 
+    "is_article": "1", 
+    "item_id": "1020120274", 
+    "time_added": "1440366956", 
+    "resolved_id": "1020120274", 
+    "given_url": "http://austin.craigslist.org/ctd/5185000391.html", 
+    "resolved_title": "1998 Ford E250 conversion van high top - $4395 (14301 Ronald W Reagan)"
   }, 
   {
     "is_article": "0", 
@@ -35590,56 +35740,25 @@
     "resolved_title": "Watch OpenStack Summit keynote and breakout session videos from Vancouver"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "945105496", 
-      "src": "http://static01.nyt.com/images/2015/06/07/opinion/sunday/07GRAY/07GRAY-blog427.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "DO physicists need empirical evidence to confirm their theories?  You may think that the answer is an obvious yes, experimental confirmation being the very heart of science. But a growing controversy at the frontiers of physics and cosmology suggests that the situation is not so simple.", 
-    "word_count": "977", 
-    "images": {
-      "1": {
-        "src": "http://static01.nyt.com/images/2015/06/07/opinion/sunday/07GRAY/07GRAY-blog427.jpg", 
-        "credit": "\n            \n            G\u00e9rard DuBois        ", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "945105496", 
-        "caption": "\n            Credit\n            G\u00e9rard DuBois        \n            ", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1433613541", 
     "status": "0", 
-    "sort_id": 1812, 
-    "resolved_url": "http://www.nytimes.com/2015/06/07/opinion/a-crisis-at-the-edge-of-physics.html", 
-    "authors": {
-      "65264": {
-        "item_id": "945105496", 
-        "url": "", 
-        "author_id": "65264", 
-        "name": "Marcelo Gleiser"
-      }, 
-      "12155": {
-        "item_id": "945105496", 
-        "url": "", 
-        "author_id": "12155", 
-        "name": "Adam Frank"
-      }
-    }, 
-    "item_id": "945105496", 
-    "resolved_id": "945044363", 
-    "given_url": "http://www.nytimes.com/2015/06/07/opinion/a-crisis-at-the-edge-of-physics.html?_r=0", 
-    "resolved_title": "A Crisis at the Edge of Physics", 
     "is_index": "0", 
+    "sort_id": 1812, 
     "time_updated": "1433613541", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "A Crisis at the Edge of Physics - NYTimes.com", 
-    "has_image": "1"
+    "resolved_url": "http://www.nytimes.com/2015/06/07/opinion/a-crisis-at-the-edge-of-physics.html", 
+    "is_article": "0", 
+    "item_id": "945105496", 
+    "time_added": "1433613541", 
+    "resolved_id": "945044363", 
+    "given_url": "http://www.nytimes.com/2015/06/07/opinion/a-crisis-at-the-edge-of-physics.html?_r=0", 
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
