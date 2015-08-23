@@ -67027,7 +67027,7 @@
       "width": "0"
     }, 
     "excerpt": "This stack uses new tools from Amazon Web Services to completely redefine how to build massively scalable (and cheap) web applications.  There are no servers included in this stack. The entire back-end is comprised of Lambda functions which are organized in the api folder.", 
-    "word_count": "605", 
+    "word_count": "571", 
     "images": {
       "1": {
         "src": "https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667", 
@@ -67038,11 +67038,38 @@
         "caption": "", 
         "width": "0"
       }, 
+      "3": {
+        "src": "https://camo.githubusercontent.com/39954ededcf8d69064fc918f3e6feb503fed7115/68747470733a2f2f73657276616e742d6173736574732e73332e616d617a6f6e6177732e636f6d2f696d672f6a6177735f7371756172655f656d61696c5f6c6973745f312e706e67", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "993357133", 
+        "caption": "", 
+        "width": "0"
+      }, 
       "2": {
-        "src": "https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_diagram_javascript_aws.png", 
+        "src": "https://camo.githubusercontent.com/e7c6ea239ba3011cf5281d8b79e937a9c2d72e27/68747470733a2f2f73657276616e742d6173736574732e73332e616d617a6f6e6177732e636f6d2f696d672f6a6177735f7371756172655f696e7374616c6c6174696f6e5f67756964655f322e706e67", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
+        "item_id": "993357133", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_diagram_javascript_aws.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "993357133", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://camo.githubusercontent.com/37e5cf01fac2e3d710b60eb827a0e10b94b5523a/68747470733a2f2f73657276616e742d6173736574732e73332e616d617a6f6e6177732e636f6d2f696d672f6a6177735f7371756172655f76315f636f6d696e675f736f6f6e5f322e706e67", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
         "item_id": "993357133", 
         "caption": "", 
         "width": "0"
