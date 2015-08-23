@@ -65679,15 +65679,6 @@
     "excerpt": "It\u2019s a good time to be a pessimist.", 
     "word_count": "4101", 
     "images": {
-      "10": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-armedconflicts.jpg.CROP.promovar-mediumlarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "10", 
-        "item_id": "797702078", 
-        "caption": "", 
-        "width": "0"
-      }, 
       "1": {
         "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141212_FOR_ISISBombing.jpg.CROP.promo-mediumlarge.jpg", 
         "credit": " Gokhan Sahin/Getty Images", 
@@ -65695,78 +65686,6 @@
         "image_id": "1", 
         "item_id": "797702078", 
         "caption": "An explosion rocks the Syrian city of Kobane during a reported suicide car bombing by the Islamic State, as seen from the Turkey-Syria border, on Oct. 20, 2014. The small picture is very bad, but the big picture of violence around the world is about as good as it\u2019s ever been.", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-Homicide-Rates-Mex.jpg.CROP.promovar-mediumlarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "797702078", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-Homicide-Rates-US-England.jpg.CROP.promovar-mediumlarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "797702078", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-children.jpg.CROP.promovar-mediumlarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "797702078", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-ratesofrape.jpg.CROP.promovar-mediumlarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "797702078", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "7": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-masskillings.jpg.CROP.promovar-mediumlarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "797702078", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-Autocracy.jpg.CROP.promovar-mediumlarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "797702078", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "9": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-numberofarmed.jpg.CROP.promo-mediumlarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "9", 
-        "item_id": "797702078", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "http://www.slate.com/content/dam/slate/articles/news_and_politics/foreigners/2014/12/141209_Charts-deathsin-genocide.jpg.CROP.promovar-mediumlarge.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "797702078", 
-        "caption": "", 
         "width": "0"
       }
     }, 
