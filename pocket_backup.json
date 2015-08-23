@@ -37878,7 +37878,7 @@
     "excerpt": "Quality happens only when someone is responsible for it.", 
     "image": {
       "item_id": "209770958", 
-      "src": "http://queue.acm.org/img/q%20stamp_small.jpg", 
+      "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
       "height": "45", 
       "width": "26"
     }, 
@@ -37888,7 +37888,7 @@
     "word_count": "4007", 
     "images": {
       "1": {
-        "src": "http://queue.acm.org/img/q%20stamp_small.jpg", 
+        "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
         "credit": "", 
         "height": "45", 
         "image_id": "1", 
@@ -37898,7 +37898,7 @@
       }
     }, 
     "given_title": "A Generation Lost in the Bazaar - ACM Queue", 
-    "resolved_url": "http://queue.acm.org/detail.cfm?id=2349257&ref=fullrss", 
+    "resolved_url": "https://queue.acm.org/detail.cfm?id=2349257&ref=fullrss", 
     "is_article": "1", 
     "item_id": "209770958", 
     "time_added": "1419904486", 
