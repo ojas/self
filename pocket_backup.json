@@ -67408,22 +67408,14 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1253, 
-    "time_updated": "1410492354", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Most people don\u2019t notice I\u2019m polite, which is sort of the point. I don\u2019t look polite. I am big and droopy and need a haircut. No soul would associate me with watercress sandwiches.", 
+    "is_article": "1", 
     "image": {
       "item_id": "689184535", 
       "src": "https://cdn-images-2.medium.com/max/800/1*XJo3cIb4l4vqPeMAfa9q5w.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "Most people don\u2019t notice I\u2019m polite, which is sort of the point. I don\u2019t look polite. I am big and droopy and need a haircut. No soul would associate me with watercress sandwiches.", 
     "word_count": "2249", 
     "images": {
       "1": {
@@ -67436,14 +67428,30 @@
         "width": "0"
       }
     }, 
-    "given_title": "How to Be Polite \u2014 The Message \u2014 Medium", 
-    "resolved_url": "https://medium.com/message/how-to-be-polite-9bf1e69e888c", 
-    "is_article": "1", 
-    "item_id": "689184535", 
+    "has_video": "0", 
     "time_added": "1408074402", 
+    "status": "0", 
+    "sort_id": 1253, 
+    "resolved_url": "https://medium.com/message/how-to-be-polite-9bf1e69e888c", 
+    "authors": {
+      "6093560": {
+        "item_id": "689184535", 
+        "url": "https://medium.com/@ftrain", 
+        "author_id": "6093560", 
+        "name": "Paul Ford"
+      }
+    }, 
+    "item_id": "689184535", 
     "resolved_id": "689184535", 
     "given_url": "https://medium.com/message/how-to-be-polite-9bf1e69e888c", 
-    "resolved_title": "How to Be Polite"
+    "resolved_title": "How to Be Polite", 
+    "is_index": "0", 
+    "time_updated": "1410492354", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "How to Be Polite \u2014 The Message \u2014 Medium", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
