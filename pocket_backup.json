@@ -24869,67 +24869,28 @@
     "resolved_title": "1998 Ford E250 conversion van high top - $4395 (14301 Ronald W Reagan)"
   }, 
   {
-    "is_article": "0", 
-    "image": {
-      "item_id": "124414", 
-      "src": "https://abs.twimg.com/emoji/v1/72x72/1f52d.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "Find community, conversation and inspiration about the things you love.  Excited to be meeting our next President tonight!! Maybe she'll take a selfie with me!", 
-    "word_count": "1546", 
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1276, 
+    "time_updated": "1409239467", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Find community, conversation and inspiration about the things you love.  A 34-yard gain as the @49ers RB?  Ok, @jarrydhayne_1. Now you're just showing off. #DALvsSF", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "1", 
+    "word_count": "1479", 
     "images": {
-      "1": {
-        "src": "https://abs.twimg.com/emoji/v1/72x72/1f52d.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "124414", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "https://abs.twimg.com/emoji/v1/72x72/1f3c0.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "124414", 
-        "caption": "", 
-        "width": "0"
-      }, 
       "2": {
-        "src": "https://abs.twimg.com/emoji/v1/72x72/1f440.png", 
+        "src": "https://abs.twimg.com/emoji/v1/72x72/1f60d.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "124414", 
         "caption": "", 
         "width": "0"
-      }, 
-      "7": {
-        "src": "https://abs.twimg.com/emoji/v1/72x72/2764.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "124414", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "https://abs.twimg.com/emoji/v1/72x72/1f44a.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "124414", 
-        "caption": "", 
-        "width": "0"
       }
     }, 
-    "has_video": "1", 
-    "time_added": "1409239467", 
-    "status": "0", 
-    "sort_id": 1276, 
-    "resolved_url": "https://twitter.com/", 
     "authors": {
       "11360462": {
         "item_id": "124414", 
@@ -24937,23 +24898,35 @@
         "author_id": "11360462", 
         "name": "BBC News (World)"
       }, 
-      "158061": {
+      "11458967": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "158061", 
-        "name": "Iron Maiden"
+        "author_id": "11458967", 
+        "name": "AP Top 25"
       }, 
-      "11545686": {
+      "32888": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "11545686", 
-        "name": "ESPNU"
+        "author_id": "32888", 
+        "name": "NFL"
       }, 
-      "37281401": {
+      "15514399": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "37281401", 
-        "name": "NASCAR from B/R"
+        "author_id": "15514399", 
+        "name": "20th Century Fox"
+      }, 
+      "2660960": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2660960", 
+        "name": "TAXI"
+      }, 
+      "80884": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "80884", 
+        "name": "Carrie Underwood"
       }, 
       "173993": {
         "item_id": "124414", 
@@ -24961,11 +24934,11 @@
         "author_id": "173993", 
         "name": "Kourtney Kardashian"
       }, 
-      "11434225": {
+      "716119": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "11434225", 
-        "name": "NFL on ESPN"
+        "author_id": "716119", 
+        "name": "Jimmy Traina"
       }, 
       "3616354": {
         "item_id": "124414", 
@@ -24973,11 +24946,11 @@
         "author_id": "3616354", 
         "name": "Brides"
       }, 
-      "2501583": {
+      "3195447": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "2501583", 
-        "name": "Barack Obama"
+        "author_id": "3195447", 
+        "name": "Skrillex"
       }, 
       "4957708": {
         "item_id": "124414", 
@@ -24985,23 +24958,11 @@
         "author_id": "4957708", 
         "name": "Pittsburgh Penguins"
       }, 
-      "13378103": {
+      "2148486": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "13378103", 
-        "name": "500px"
-      }, 
-      "2526149": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "2526149", 
-        "name": "Louis Vuitton"
-      }, 
-      "1496752": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "1496752", 
-        "name": "Tony Robbins"
+        "author_id": "2148486", 
+        "name": "Rita Ora"
       }, 
       "12078177": {
         "item_id": "124414", 
@@ -25009,23 +24970,17 @@
         "author_id": "12078177", 
         "name": "Anderson Cooper 360\u00b0"
       }, 
-      "302609": {
+      "175682": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "302609", 
-        "name": "Jeff Goodman"
+        "author_id": "175682", 
+        "name": "Duff McKagan"
       }, 
-      "2489683": {
+      "13502": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "2489683", 
-        "name": "Forbes"
-      }, 
-      "12590742": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "12590742", 
-        "name": "ACC Digital Network"
+        "author_id": "13502", 
+        "name": "WWF"
       }, 
       "12109111": {
         "item_id": "124414", 
@@ -25039,47 +24994,35 @@
         "author_id": "3543857", 
         "name": "Big Sean"
       }, 
-      "18786841": {
+      "1472714": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "18786841", 
-        "name": "ACC Men's Basketball"
+        "author_id": "1472714", 
+        "name": "IndyCar Series"
       }, 
-      "2538790": {
+      "2519082": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "2538790", 
-        "name": "Greenpeace"
+        "author_id": "2519082", 
+        "name": "TechCrunch"
       }, 
-      "2585670": {
+      "160918": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "2585670", 
-        "name": "Giada De Laurentiis"
+        "author_id": "160918", 
+        "name": "Conan O'Brien"
       }, 
-      "725807": {
+      "6150632": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "725807", 
-        "name": "Women's Health"
+        "author_id": "6150632", 
+        "name": "Epicurious"
       }, 
-      "190900": {
+      "3509860": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "190900", 
-        "name": "NOTRE DAME"
-      }, 
-      "49974": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "49974", 
-        "name": "Marvel Entertainment"
-      }, 
-      "11198605": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "11198605", 
-        "name": "Food & Wine"
+        "author_id": "3509860", 
+        "name": "Dale Earnhardt Jr."
       }, 
       "535470": {
         "item_id": "124414", 
@@ -25087,47 +25030,47 @@
         "author_id": "535470", 
         "name": "HGTV"
       }, 
-      "549738": {
+      "167304": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "549738", 
-        "name": "Amy Bellgardt"
+        "author_id": "167304", 
+        "name": "Ricky Martin"
       }, 
-      "14927685": {
+      "3623461": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "14927685", 
-        "name": "Notre Dame MBB"
+        "author_id": "3623461", 
+        "name": "Russell Crowe"
       }, 
-      "11086019": {
+      "2475109": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "11086019", 
-        "name": "ClassicPics"
+        "author_id": "2475109", 
+        "name": "Alton Brown"
       }, 
-      "149889": {
+      "2582650": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "149889", 
-        "name": "Dick Vitale"
+        "author_id": "2582650", 
+        "name": "AUDI"
       }, 
-      "228724": {
+      "11157107": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "228724", 
-        "name": "SCIENCE NEWS"
+        "author_id": "11157107", 
+        "name": "E! Online"
+      }, 
+      "12675637": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "12675637", 
+        "name": "Historical Pics"
       }, 
       "7039111": {
         "item_id": "124414", 
         "url": "", 
         "author_id": "7039111", 
         "name": "TIME.com"
-      }, 
-      "487598": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "487598", 
-        "name": "Aston Martin"
       }, 
       "11158114": {
         "item_id": "124414", 
@@ -25147,11 +25090,23 @@
         "author_id": "19537", 
         "name": "MarketWatch"
       }, 
-      "3099916": {
+      "17003097": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "3099916", 
-        "name": "Castle"
+        "author_id": "17003097", 
+        "name": "NYX Cosmetics"
+      }, 
+      "96570": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "96570", 
+        "name": "National Geographic"
+      }, 
+      "2737539": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2737539", 
+        "name": "DIOR"
       }, 
       "2757035": {
         "item_id": "124414", 
@@ -25159,35 +25114,11 @@
         "author_id": "2757035", 
         "name": "Hillary Clinton"
       }, 
-      "208108": {
+      "4090509": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "208108", 
-        "name": "MICHAEL BIERUT"
-      }, 
-      "135082": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "135082", 
-        "name": "TMZ"
-      }, 
-      "1014248": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "1014248", 
-        "name": "NABC"
-      }, 
-      "177144": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "177144", 
-        "name": "The ACC"
-      }, 
-      "446058": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "446058", 
-        "name": "Matthew Kiichi Heafy"
+        "author_id": "4090509", 
+        "name": "BBC Travel"
       }, 
       "49253": {
         "item_id": "124414", 
@@ -25195,11 +25126,11 @@
         "author_id": "49253", 
         "name": "PlayStation"
       }, 
-      "3823229": {
+      "3242215": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "3823229", 
-        "name": "Ronda Rousey"
+        "author_id": "3242215", 
+        "name": "Nordstrom"
       }, 
       "2499173": {
         "item_id": "124414", 
@@ -25207,65 +25138,35 @@
         "author_id": "2499173", 
         "name": "NASA"
       }, 
-      "4090509": {
+      "4399615": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "4090509", 
-        "name": "BBC Travel"
+        "author_id": "4399615", 
+        "name": "Triple H"
       }, 
-      "2564404": {
+      "11312886": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "2564404", 
-        "name": "WWE"
+        "author_id": "11312886", 
+        "name": "New York Times Arts"
       }, 
-      "11648770": {
+      "17396": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "11648770", 
-        "name": "College GameDay"
+        "author_id": "17396", 
+        "name": "Deepak Chopra"
       }, 
-      "3691058": {
+      "2837756": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "3691058", 
-        "name": "Mike Brey"
+        "author_id": "2837756", 
+        "name": "Goodreads"
       }, 
-      "4233": {
+      "44803": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "4233", 
-        "name": "Andy Katz"
-      }, 
-      "3501526": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "3501526", 
-        "name": "The Paris Review"
-      }, 
-      "3671897": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "3671897", 
-        "name": "The Weather Channel"
-      }, 
-      "219470": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "219470", 
-        "name": "Patton Oswalt"
-      }, 
-      "2450660": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "2450660", 
-        "name": "NBA TV"
-      }, 
-      "4897302": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "4897302", 
-        "name": "MACcosmetics"
+        "author_id": "44803", 
+        "name": "UFC"
       }, 
       "10021755": {
         "item_id": "124414", 
@@ -25279,90 +25180,87 @@
         "author_id": "2734543", 
         "name": "MLB"
       }, 
-      "11312886": {
-        "item_id": "124414", 
-        "url": "", 
-        "author_id": "11312886", 
-        "name": "New York Times Arts"
-      }, 
       "2633727": {
         "item_id": "124414", 
         "url": "", 
         "author_id": "2633727", 
         "name": "PGA Tour"
       }, 
-      "20161540": {
+      "8271751": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "20161540", 
-        "name": "Kim Kardashian West"
+        "author_id": "8271751", 
+        "name": "Shape Magazine"
       }, 
-      "2498859": {
+      "4260232": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "2498859", 
-        "name": "gizmodo"
+        "author_id": "4260232", 
+        "name": "Major League Soccer"
       }, 
-      "2655714": {
+      "79361": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "2655714", 
-        "name": "Ed Sheeran"
+        "author_id": "79361", 
+        "name": "CNNMoney"
       }, 
-      "1467736": {
+      "5486742": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "1467736", 
-        "name": "Luke Bryan"
+        "author_id": "5486742", 
+        "name": "Modern Family"
       }, 
-      "4870220": {
+      "11524051": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "4870220", 
-        "name": "Marc Anthony"
+        "author_id": "11524051", 
+        "name": "HuffPost Parents"
       }, 
-      "2446543": {
+      "3671897": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "2446543", 
-        "name": "Benedict Evans"
+        "author_id": "3671897", 
+        "name": "The Weather Channel"
       }, 
-      "8162541": {
+      "11373530": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "8162541", 
-        "name": "Kohl's"
+        "author_id": "11373530", 
+        "name": "ESPN CollegeFootball"
       }, 
-      "213754": {
+      "3627181": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "213754", 
-        "name": "FIFA.com"
+        "author_id": "3627181", 
+        "name": "Metal Hammer"
       }, 
-      "36423": {
+      "2605541": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "36423", 
-        "name": "Hugh Jackman"
+        "author_id": "2605541", 
+        "name": "Chris Dixon"
       }, 
-      "3839364": {
+      "13378103": {
         "item_id": "124414", 
         "url": "", 
-        "author_id": "3839364", 
-        "name": "Zedd"
+        "author_id": "13378103", 
+        "name": "500px"
+      }, 
+      "2487320": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2487320", 
+        "name": "NBA"
       }
     }, 
+    "given_title": "(3) Twitter", 
+    "resolved_url": "https://twitter.com/", 
+    "is_article": "0", 
     "item_id": "124414", 
+    "time_added": "1409239467", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": "Twitter Offers", 
-    "is_index": "1", 
-    "time_updated": "1409239467", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "(3) Twitter", 
-    "has_image": "1"
+    "resolved_title": "Twitter Offers"
   }, 
   {
     "status": "0", 
