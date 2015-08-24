@@ -35778,25 +35778,56 @@
     "resolved_title": "Watch OpenStack Summit keynote and breakout session videos from Vancouver"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "945105496", 
+      "src": "http://static01.nyt.com/images/2015/06/07/opinion/sunday/07GRAY/07GRAY-blog427.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "DO physicists need empirical evidence to confirm their theories?  You may think that the answer is an obvious yes, experimental confirmation being the very heart of science. But a growing controversy at the frontiers of physics and cosmology suggests that the situation is not so simple.", 
+    "word_count": "977", 
+    "images": {
+      "1": {
+        "src": "http://static01.nyt.com/images/2015/06/07/opinion/sunday/07GRAY/07GRAY-blog427.jpg", 
+        "credit": "\n            \n            G\u00e9rard DuBois        ", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "945105496", 
+        "caption": "\n            Credit\n            G\u00e9rard DuBois        \n            ", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1433613541", 
     "status": "0", 
-    "is_index": "0", 
     "sort_id": 1812, 
+    "resolved_url": "http://www.nytimes.com/2015/06/07/opinion/a-crisis-at-the-edge-of-physics.html", 
+    "authors": {
+      "65264": {
+        "item_id": "945105496", 
+        "url": "", 
+        "author_id": "65264", 
+        "name": "Marcelo Gleiser"
+      }, 
+      "12155": {
+        "item_id": "945105496", 
+        "url": "", 
+        "author_id": "12155", 
+        "name": "Adam Frank"
+      }
+    }, 
+    "item_id": "945105496", 
+    "resolved_id": "945044363", 
+    "given_url": "http://www.nytimes.com/2015/06/07/opinion/a-crisis-at-the-edge-of-physics.html?_r=0", 
+    "resolved_title": "A Crisis at the Edge of Physics", 
+    "is_index": "0", 
     "time_updated": "1433613541", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
     "given_title": "A Crisis at the Edge of Physics - NYTimes.com", 
-    "resolved_url": "http://www.nytimes.com/2015/06/07/opinion/a-crisis-at-the-edge-of-physics.html", 
-    "is_article": "0", 
-    "item_id": "945105496", 
-    "time_added": "1433613541", 
-    "resolved_id": "945044363", 
-    "given_url": "http://www.nytimes.com/2015/06/07/opinion/a-crisis-at-the-edge-of-physics.html?_r=0", 
-    "resolved_title": ""
+    "has_image": "1"
   }, 
   {
     "status": "0", 
