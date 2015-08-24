@@ -22719,7 +22719,7 @@
     "has_video": "0", 
     "word_count": "2072", 
     "given_title": "How to Minimize Politics in Your Company - Ben's Blog", 
-    "resolved_url": "http://www.bhorowitz.com/how_to_minimize_politics_in_your_company", 
+    "resolved_url": "http://www.bhorowitz.com/how_to_minimize_politics_in_your_company/", 
     "is_article": "1", 
     "item_id": "539248551", 
     "time_added": "1395025885", 
@@ -83591,25 +83591,50 @@
     "resolved_title": "Pedro Rio"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "547859179", 
+      "src": "http://static01.nyt.com/images/2014/02/16/sunday-review/16GRAY/16GRAY-blog427.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "IN Mikhail Bulgakov\u2019s\u00a0novel \u201cThe Master and Margarita,\u201d the protagonist, a writer, burns a manuscript in a moment of despair, only to find out later from the Devil that \u201cmanuscripts don\u2019t burn.", 
+    "word_count": "808", 
+    "images": {
+      "1": {
+        "src": "http://static01.nyt.com/images/2014/02/16/sunday-review/16GRAY/16GRAY-blog427.jpg", 
+        "credit": "\n            \n            Olimpia Zagnoli        ", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "547859179", 
+        "caption": "\n            Credit\n            Olimpia Zagnoli        \n            ", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1392681910", 
     "status": "0", 
-    "is_index": "0", 
     "sort_id": 989, 
+    "resolved_url": "http://www.nytimes.com/2014/02/16/opinion/sunday/is-the-universe-a-simulation.html", 
+    "authors": {
+      "2400998": {
+        "item_id": "547859179", 
+        "url": "", 
+        "author_id": "2400998", 
+        "name": "Edward Frenkel"
+      }
+    }, 
+    "item_id": "547859179", 
+    "resolved_id": "547304274", 
+    "given_url": "http://www.nytimes.com/2014/02/16/opinion/sunday/is-the-universe-a-simulation.html?action=click&contentCollection=Media&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article&_r=0", 
+    "resolved_title": "Is the Universe a Simulation?", 
+    "is_index": "0", 
     "time_updated": "1399999148", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
     "given_title": "Is the Universe a Simulation? - NYTimes.com", 
-    "resolved_url": "http://www.nytimes.com/2014/02/16/opinion/sunday/is-the-universe-a-simulation.html", 
-    "is_article": "0", 
-    "item_id": "547859179", 
-    "time_added": "1392681910", 
-    "resolved_id": "547304274", 
-    "given_url": "http://www.nytimes.com/2014/02/16/opinion/sunday/is-the-universe-a-simulation.html?action=click&contentCollection=Media&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article&_r=0", 
-    "resolved_title": ""
+    "has_image": "1"
   }, 
   {
     "status": "0", 
@@ -104062,7 +104087,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
