@@ -1384,7 +1384,7 @@
     "excerpt": "This value controls when a produce request is considered completed. Specifically, how many other brokers must have committed the data to their log and acknowledged this to the leader? Typical values are", 
     "image": {
       "item_id": "418064385", 
-      "src": "https://kafka.apache.org/images/consumer-groups.png", 
+      "src": "http://kafka.apache.org/images/consumer-groups.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -1394,7 +1394,7 @@
     "word_count": "32", 
     "images": {
       "1": {
-        "src": "https://kafka.apache.org/images/consumer-groups.png", 
+        "src": "http://kafka.apache.org/images/consumer-groups.png", 
         "credit": "P0-P3", 
         "height": "0", 
         "image_id": "1", 
@@ -1404,7 +1404,7 @@
       }
     }, 
     "given_title": "Apache Kafka", 
-    "resolved_url": "https://kafka.apache.org/documentation.html", 
+    "resolved_url": "http://kafka.apache.org/documentation.html#replication", 
     "is_article": "1", 
     "item_id": "418064385", 
     "time_added": "1394727555", 
