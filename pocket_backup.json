@@ -20455,6 +20455,52 @@
     "resolved_title": "Religious Ragings : for-all-mankind : dannysauruswrecks : This just..."
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "1020474572", 
+      "src": "http://www.mondaynote.com/wp-content/uploads/2015/08/slide-ruler.jpg", 
+      "height": "366", 
+      "width": "650"
+    }, 
+    "excerpt": "Parkinson\u2019s Law tells us that \u201cwork expands so as to fill the time available for its completion\u201d. Applied to software, this means that applications tend to bloatware, obese programs whose complexity makes them nearly impossible to debug and maintain.", 
+    "word_count": "1238", 
+    "images": {
+      "1": {
+        "src": "http://www.mondaynote.com/wp-content/uploads/2015/08/slide-ruler.jpg", 
+        "credit": "", 
+        "height": "366", 
+        "image_id": "1", 
+        "item_id": "1020474572", 
+        "caption": "Photo: Dominic Alves, Flickr", 
+        "width": "650"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1440470893", 
+    "status": "0", 
+    "sort_id": 1929, 
+    "resolved_url": "http://www.mondaynote.com/2015/08/24/a-salute-to-solo-programmers/", 
+    "authors": {
+      "2478784": {
+        "item_id": "1020474572", 
+        "url": "http://www.mondaynote.com/author/jlg/", 
+        "author_id": "2478784", 
+        "name": "Jean-Louis Gass\u00e9e"
+      }
+    }, 
+    "item_id": "1020474572", 
+    "resolved_id": "1020474572", 
+    "given_url": "http://www.mondaynote.com/2015/08/24/a-salute-to-solo-programmers/", 
+    "resolved_title": "A Salute To Solo Programmers", 
+    "is_index": "0", 
+    "time_updated": "1440470893", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "A Salute To Solo Programmers | Monday Note", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "1", 
     "sort_id": 1410, 
