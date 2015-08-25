@@ -38191,7 +38191,7 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Turn your spreadsheet into a map  1 - Upload your spreadsheet 2 - Get an interactive online map in secondsCreate your map      Improve your data skills (and keep this server running!) by buying my guides:  Data Source Handbook Big Data Glossary", 
+    "excerpt": "Turn your spreadsheet into a map  1 - Upload your spreadsheet 2 - Get an interactive online map in secondsCreate your map         Improve your data skills (and keep this server running!) by buying my guides:  Data Source Handbook Big Data Glossary", 
     "word_count": "38", 
     "images": {
       "1": {
@@ -38199,6 +38199,15 @@
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
+        "item_id": "42383429", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.openheatmap.com/banner.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
         "item_id": "42383429", 
         "caption": "", 
         "width": "0"
