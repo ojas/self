@@ -70025,13 +70025,13 @@
     "has_video": "0", 
     "word_count": "66", 
     "given_title": "", 
-    "resolved_url": "https://stedolan.github.io/jq/", 
+    "resolved_url": "http://stedolan.github.io/jq", 
     "is_article": "1", 
     "item_id": "333924044", 
     "time_added": "1402843447", 
     "resolved_id": "333924044", 
     "given_url": "http://stedolan.github.io/jq/#", 
-    "resolved_title": "Download jq 1.5", 
+    "resolved_title": "jq", 
     "tags": {
       "json command line": {
         "item_id": "333924044", 
