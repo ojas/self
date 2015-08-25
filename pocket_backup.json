@@ -13790,7 +13790,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3247", 
+    "word_count": "3254", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -26379,17 +26379,67 @@
     "resolved_title": "Apache Drill - Schema-free SQL for Hadoop, NoSQL and Cloud Storage"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1492, 
-    "time_updated": "1419595810", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "You can learn a lot about a place by seeing it from the air. I\u2019m a pilot and an aerial photographer; I am also trained as an architect. I\u2019ve always been interested in how the natural and constructed worlds work together, and sometimes collide.", 
-    "has_image": "0", 
-    "favorite": "0", 
+    "is_article": "0", 
+    "image": {
+      "item_id": "783771839", 
+      "src": "http://graphics8.nytimes.com/images/2014/07/06/opinion/exposures-russia-slide-JJWE/exposures-russia-slide-JJWE-custom1.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Recent Exposures", 
+    "word_count": "2", 
+    "images": {
+      "1": {
+        "src": "http://graphics8.nytimes.com/images/2014/07/06/opinion/exposures-russia-slide-JJWE/exposures-russia-slide-JJWE-custom1.jpg", 
+        "credit": "Photographs  Misha Friedman", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://graphics8.nytimes.com/images/2014/05/04/opinion/sunday/04exposures-hip-hop-slide-DKKR/04exposures-hip-hop-slide-DKKR-custom1.jpg", 
+        "credit": "Photographs  Jessica Lehrman", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://graphics8.nytimes.com/images/2014/06/13/opinion/ukraine-protesters-photos-slide-0UIP/ukraine-protesters-photos-slide-0UIP-custom1.jpg", 
+        "credit": "Photographs  Anastasia Taylor\u2011Lind", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://graphics8.nytimes.com/images/2014/03/08/opinion/Gays-in-military-slide-R8IC/Gays-in-military-slide-R8IC-custom2.jpg", 
+        "credit": "Photographs  Vincent Cianni", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://graphics8.nytimes.com/images/2014/04/20/opinion/sunday/20exposures-gazaSS-slide-1RBY/20exposures-gazaSS-slide-1RBY-custom1.jpg", 
+        "credit": "Photographs  Monique Jaques", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "783771839", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
     "has_video": "0", 
-    "word_count": "502", 
+    "time_added": "1418051836", 
+    "status": "0", 
+    "sort_id": 1492, 
+    "resolved_url": "http://www.nytimes.com/interactive/2014/12/07/opinion/sunday/exposures-detroit-by-air-alex-maclean.html", 
     "authors": {
       "24070815": {
         "item_id": "783771839", 
@@ -26398,14 +26448,17 @@
         "name": "Alex S. MacLean"
       }
     }, 
-    "given_title": "Detroit by Air - NYTimes.com", 
-    "resolved_url": "http://www.nytimes.com/interactive/2014/12/07/opinion/sunday/exposures-detroit-by-air-alex-maclean.html", 
-    "is_article": "1", 
     "item_id": "783771839", 
-    "time_added": "1418051836", 
     "resolved_id": "783771839", 
     "given_url": "http://www.nytimes.com/interactive/2014/12/07/opinion/sunday/exposures-detroit-by-air-alex-maclean.html", 
-    "resolved_title": "Detroit by Air"
+    "resolved_title": "Detroit by Air", 
+    "is_index": "0", 
+    "time_updated": "1419595810", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Detroit by Air - NYTimes.com", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
