@@ -33415,6 +33415,27 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1932, 
+    "time_updated": "1440474022", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "post id: 5177890285 posted: 2015-08-17 8:39pm updated: 2015-08-17 9:59pm email to friend \u2665 best of [?]", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "11", 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/cto/5177890285.html", 
+    "is_article": "0", 
+    "item_id": "1021364419", 
+    "time_added": "1440474004", 
+    "resolved_id": "1021364419", 
+    "given_url": "http://austin.craigslist.org/cto/5177890285.html", 
+    "resolved_title": "1996 Honda Accord SW - $600 (Central Austin)"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 1687, 
     "time_updated": "1427287742", 
@@ -69421,7 +69442,7 @@
       }
     }, 
     "given_title": "A Neural Network in 11 lines of Python - i am trask", 
-    "resolved_url": "http://iamtrask.github.io/2015/07/12/basic-python-network", 
+    "resolved_url": "http://iamtrask.github.io/2015/07/12/basic-python-network/", 
     "is_article": "1", 
     "item_id": "981422685", 
     "time_added": "1436975771", 
@@ -104246,7 +104267,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -105230,6 +105251,56 @@
     "resolved_id": "275820717", 
     "given_url": "http://whatever.scalzi.com/2013/01/03/killing-my-voice-mail/", 
     "resolved_title": "Killing My Voice Mail"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1931, 
+    "time_updated": "1440473784", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "< > 2004 Acura TSX condition: faircylinders: 4 cylindersdrive: fwdfuel: gasodometer: 236000paint color: blacksize: mid-sizetitle status: cleantransmission: manualtype: sedan Car's motor is in good condition, no problems with it mechanically.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "127", 
+    "images": {
+      "3": {
+        "src": "http://images.craigslist.org/00h0h_llXmPga0UHF_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1021361978", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://images.craigslist.org/00E0E_8yj5MH94pVi_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1021361978", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://images.craigslist.org/00o0o_lAWjQj6wLWl_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1021361978", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/cto/5152087212.html", 
+    "is_article": "1", 
+    "item_id": "1021361978", 
+    "time_added": "1440473766", 
+    "resolved_id": "1021361978", 
+    "given_url": "http://austin.craigslist.org/cto/5152087212.html", 
+    "resolved_title": "'04 Acura TSX - $3595 (MANOR)"
   }, 
   {
     "status": "0", 
