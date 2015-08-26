@@ -16840,7 +16840,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "5237", 
+    "word_count": "5233", 
     "authors": {
       "2477170": {
         "item_id": "1016039504", 
@@ -38148,6 +38148,12 @@
     "has_video": "0", 
     "time_added": "1439609492", 
     "status": "0", 
+    "tags": {
+      "sleep": {
+        "item_id": "925961106", 
+        "tag": "sleep"
+      }
+    }, 
     "sort_id": 1907, 
     "resolved_url": "http://www.npr.org/sections/health-shots/2013/10/18/236211811/brains-sweep-themselves-clean-of-toxins-during-sleep", 
     "authors": {
@@ -38163,7 +38169,7 @@
     "given_url": "http://www.npr.org/sections/health-shots/2013/10/18/236211811/brains-sweep-themselves-clean-of-toxins-during-sleep", 
     "resolved_title": "Brains Sweep Themselves Clean Of Toxins During Sleep", 
     "is_index": "0", 
-    "time_updated": "1439609492", 
+    "time_updated": "1440622156", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
