@@ -7982,7 +7982,7 @@
     "time_added": "1389205774", 
     "status": "0", 
     "sort_id": 900, 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036#printMode", 
     "authors": {
       "9969180": {
         "item_id": "518589471", 
@@ -67571,44 +67571,24 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
     "sort_id": 1937, 
-    "time_updated": "1440618326", 
+    "time_updated": "1440619149", 
     "time_favorited": "0", 
-    "videos": {
-      "1": {
-        "src": "http://www.youtube.com/v/XnMY44Ij7j4", 
-        "vid": "XnMY44Ij7j4", 
-        "video_id": "1", 
-        "height": "0", 
-        "width": "0", 
-        "item_id": "1023168332", 
-        "type": "1"
-      }
-    }, 
     "time_read": "0", 
-    "image": {
-      "item_id": "1023168332", 
-      "src": "http:2", 
-      "height": "0", 
-      "width": "0"
-    }, 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
-    "images": {
-      "1": {
-        "src": "http:2", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "1023168332", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "Performance Builder, New Construction, Remodels, and Additions, Austin, Tex", 
+    "resolved_url": "http://www.pbatx.com/", 
+    "is_article": "0", 
     "item_id": "1023168332", 
     "time_added": "1440618326", 
-    "resolved_id": "0", 
-    "given_url": "http://www.pbatx.com/"
+    "resolved_id": "1023168332", 
+    "given_url": "http://www.pbatx.com/", 
+    "resolved_title": "Performance Builder, New Construction, Remodels, and Additions, Austin, Texas"
   }, 
   {
     "status": "0", 
