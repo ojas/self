@@ -60156,40 +60156,17 @@
     "resolved_title": "tornado.gen \u2014 Simplify asynchronous code\u00b6"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "542351900", 
-      "src": "http://cdn.theatlantic.com/assets/media/img/posts/Gekko.jpg.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "When hedge funds use bots to buy and sell stocks within milliseconds, they're not improving the market. They're rigging the market.  I was a senior in high school, and I was staring at NBA legend Red Auerbach.", 
-    "word_count": "1015", 
-    "images": {
-      "1": {
-        "src": "http://cdn.theatlantic.com/assets/media/img/posts/Gekko.jpg.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "542351900", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://cdn.theatlantic.com/assets/media/img/posts/Screen%20Shot%202014-02-10%20at%2010.31.16%20AM.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "542351900", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1391962817", 
     "status": "1", 
+    "is_index": "0", 
     "sort_id": 978, 
-    "resolved_url": "http://www.theatlantic.com/business/archive/2014/02/high-speed-trading-isnt-about-efficiency-its-about-cheating/283677/", 
+    "time_updated": "1404449366", 
+    "time_favorited": "0", 
+    "time_read": "1404449366", 
+    "excerpt": "I was a senior in high school, and I was staring at NBA legend Red Auerbach. He'd coached the Boston Celtics to nine championships in 10 years, won seven more as an executive, and, a bit less notably, gotten his first coaching job at our school way back when.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "994", 
     "authors": {
       "32817720": {
         "item_id": "542351900", 
@@ -60198,17 +60175,14 @@
         "name": "Matthew O'Brien"
       }
     }, 
+    "given_title": "High-Speed Trading Isn't About Efficiency\u2014It's About Cheating - Matthew O'B", 
+    "resolved_url": "http://www.theatlantic.com/business/archive/2014/02/high-speed-trading-isnt-about-efficiency-its-about-cheating/283677/", 
+    "is_article": "1", 
     "item_id": "542351900", 
+    "time_added": "1391962817", 
     "resolved_id": "542351900", 
     "given_url": "http://www.theatlantic.com/business/archive/2014/02/high-speed-trading-isnt-about-efficiency-its-about-cheating/283677/", 
-    "resolved_title": "High-Speed Trading Isn't About Efficiency\u2014It's About Cheating", 
-    "is_index": "0", 
-    "time_updated": "1404449366", 
-    "time_favorited": "0", 
-    "time_read": "1404449366", 
-    "favorite": "0", 
-    "given_title": "High-Speed Trading Isn't About Efficiency\u2014It's About Cheating - Matthew O'B", 
-    "has_image": "1"
+    "resolved_title": "High-Speed Trading Isn't About Efficiency\u2014It's About Cheating"
   }, 
   {
     "is_article": "1", 
