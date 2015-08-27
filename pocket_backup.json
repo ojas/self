@@ -13874,21 +13874,21 @@
     "is_article": "1", 
     "image": {
       "item_id": "487891702", 
-      "src": "http://static.guim.co.uk/sys-images/Guardian/Pix/commercial/2011/9/23/1316785419620/Bentley-Motors-factory-wo-007.jpg", 
-      "height": "276", 
-      "width": "460"
+      "src": "http://i.guim.co.uk/img/static/sys-images/Guardian/Pix/commercial/2011/9/23/1316785419620/Bentley-Motors-factory-wo-007.jpg?w=300&q=85&auto=format&sharp=10&s=8dffb52e98d0317a9a5b714d73569c34", 
+      "height": "0", 
+      "width": "0"
     }, 
-    "excerpt": "The story is that innovation rapidly reduced the need for factory workers and other skilled labor.", 
-    "word_count": "912", 
+    "excerpt": "A widely held view in elite circles is that the rapid rise in inequality in the United States over the last three decades is an unfortunate side-effect of technological progress.", 
+    "word_count": "890", 
     "images": {
       "1": {
-        "src": "http://static.guim.co.uk/sys-images/Guardian/Pix/commercial/2011/9/23/1316785419620/Bentley-Motors-factory-wo-007.jpg", 
+        "src": "http://i.guim.co.uk/img/static/sys-images/Guardian/Pix/commercial/2011/9/23/1316785419620/Bentley-Motors-factory-wo-007.jpg?w=300&q=85&auto=format&sharp=10&s=8dffb52e98d0317a9a5b714d73569c34", 
         "credit": "", 
-        "height": "276", 
+        "height": "0", 
         "image_id": "1", 
         "item_id": "487891702", 
-        "caption": "Unionisation has shrunk in the US from over 20% in the 1970s to less than 7% today. Photograph: Christopher Furlong/Getty Images", 
-        "width": "460"
+        "caption": "\nUnionisation has shrunk in the US from over 20% in the 1970s to less than 7% today. Photograph: Christopher Furlong/Getty Images\n", 
+        "width": "0"
       }
     }, 
     "has_video": "0", 
@@ -13902,14 +13902,6 @@
     }, 
     "sort_id": 879, 
     "resolved_url": "http://www.theguardian.com/commentisfree/2013/nov/25/technology-middle-class-jobs-policy", 
-    "authors": {
-      "20019656": {
-        "item_id": "487891702", 
-        "url": "http://www.theguardian.com/profile/deanbaker", 
-        "author_id": "20019656", 
-        "name": "Dean Baker"
-      }
-    }, 
     "item_id": "487891702", 
     "resolved_id": "487891702", 
     "given_url": "http://www.theguardian.com/commentisfree/2013/nov/25/technology-middle-class-jobs-policy", 
