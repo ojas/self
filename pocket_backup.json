@@ -13790,7 +13790,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3161", 
+    "word_count": "3275", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -13800,7 +13800,7 @@
       }
     }, 
     "given_title": "Why Bitcoin Matters - NYTimes.com", 
-    "resolved_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters", 
+    "resolved_url": "http://mobile.nytimes.com/blogs/dealbook/2014/01/21/why-bitcoin-matters/", 
     "is_article": "0", 
     "item_id": "528571482", 
     "time_added": "1390343560", 
@@ -74510,7 +74510,7 @@
       "width": "0"
     }, 
     "excerpt": "For people with a condition that some scientists call misophonia, mealtime can be torture. The sounds of other people eating \u2014 chewing, chomping, slurping, gurgling \u2014 can send them into an instantaneous, blood-boiling rage.  \u201cThe reaction is irrational,\u201d said Ms.", 
-    "word_count": "808", 
+    "word_count": "804", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2011/09/06/science/06ANNO/06ANNO-popup.jpg", 
