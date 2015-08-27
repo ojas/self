@@ -17286,24 +17286,50 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1727, 
     "time_updated": "1430270867", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
+    "excerpt": "Caddy is an alternative web server that is easy to configure and use.  Other web servers were designed for the Web, but Caddy was designed for humans, with today's Web in mind.", 
+    "image": {
+      "item_id": "909488881", 
+      "src": "http://caddyserver.com/resources/images/caddy-open-white.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "541", 
+    "images": {
+      "1": {
+        "src": "http://caddyserver.com/resources/images/caddy-open-white.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "909488881", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://caddyserver.com/resources/images/site-example.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "909488881", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
     "given_title": "Caddy - The HTTP/2 Web Server Made for Humans", 
-    "resolved_url": "https://caddyserver.com/", 
+    "resolved_url": "http://caddyserver.com/", 
     "is_article": "0", 
     "item_id": "909488881", 
     "time_added": "1430270867", 
     "resolved_id": "909488881", 
     "given_url": "https://caddyserver.com/", 
-    "resolved_title": ""
+    "resolved_title": "Caddy - The HTTP/2 Web Server Made for Humans"
   }, 
   {
     "status": "0", 
