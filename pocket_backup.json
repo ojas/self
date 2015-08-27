@@ -17986,6 +17986,61 @@
     "resolved_title": "I Heart Chaos \u2014 Study finds Fox News is the top source of voter disinformation. Fucking duh."
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "895993033", 
+      "src": "http://media.npr.org/assets/bakertaylor/covers/t/the-road-to-character/9780812993257_custom-0462b35e987e92c596953777ed3bcd2ffc339c19-s1200-c15.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Your purchase helps support NPR Programming. How?  The day after Japan surrendered in 1945, and World War II ended, singer Bing Crosby appeared on the radio program Command Performance. \"Well it looks like this is it,\" he said.", 
+    "word_count": "1242", 
+    "images": {
+      "1": {
+        "src": "http://media.npr.org/assets/bakertaylor/covers/t/the-road-to-character/9780812993257_custom-0462b35e987e92c596953777ed3bcd2ffc339c19-s1200-c15.jpg", 
+        "credit": "\n\n", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "895993033", 
+        "caption": "\n\n", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://media.npr.org/assets/img/2015/04/13/david-brooks----credit-2011-david-burnett-f0bbcb483ee4149818d05359c7373495cd53e03a-s800-c15.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "895993033", 
+        "caption": "\n\nDavid Brooks' other books include The Social Animal and Bobos in Paradise. David Burnett/Courtesy of Random House Publishing hide caption\n\nitoggle caption David Burnett/Courtesy of Random House Publishing", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1440686187", 
+    "status": "0", 
+    "sort_id": 1939, 
+    "resolved_url": "http://www.npr.org/2015/04/13/399391894/take-it-from-david-brooks-career-success-doesnt-make-you-happy", 
+    "authors": {
+      "8748492": {
+        "item_id": "895993033", 
+        "url": "http://www.npr.org/books/authors/137908703/david-brooks", 
+        "author_id": "8748492", 
+        "name": "David Brooks"
+      }
+    }, 
+    "item_id": "895993033", 
+    "resolved_id": "895993033", 
+    "given_url": "http://www.npr.org/2015/04/13/399391894/take-it-from-david-brooks-career-success-doesnt-make-you-happy", 
+    "resolved_title": "More From Author Interviews", 
+    "is_index": "0", 
+    "time_updated": "1440686187", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Interview: David Brooks, Author Of 'The Road To Character' : NPR", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1144, 
@@ -30040,20 +30095,20 @@
     "time_updated": "1437662496", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Books on GitBook are written using a beautiful editor and published using Git or GitHub.  Sell your book at the price you want, GitBook can also distribute it on all main marketplaces.", 
+    "excerpt": "Simple to update, publish and update your books easily using Git or the web book editor.  Version Control, GitBook is based on GIT scm. A simple \"git push\" is enough to publish a new version.", 
     "image": {
       "item_id": "773323493", 
-      "src": "https://sm3lir.cloudimage.io/s/width/1000/https:/www.gitbook.com/assets/images/backgrounds/preview_editor.png?v=6.10.0", 
+      "src": "https://sm3lir.cloudimage.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/marketplaces.png?v=7.1.1", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "305", 
+    "word_count": "237", 
     "images": {
       "1": {
-        "src": "https://sm3lir.cloudimage.io/s/width/1000/https:/www.gitbook.com/assets/images/backgrounds/preview_editor.png?v=6.10.0", 
+        "src": "https://sm3lir.cloudimage.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/marketplaces.png?v=7.1.1", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -30061,17 +30116,8 @@
         "caption": "", 
         "width": "0"
       }, 
-      "3": {
-        "src": "https://sm3lir.cloudimage.io/s/width/1000/https:/www.gitbook.com/assets/images/backgrounds/preview_analyse.png?v=6.10.0", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "773323493", 
-        "caption": "", 
-        "width": "0"
-      }, 
       "2": {
-        "src": "https://sm3lir.cloudimage.io/s/width/1000/https:/www.gitbook.com/assets/images/backgrounds/preview.png?v=6.10.0", 
+        "src": "https://sm3lir.cloudimage.io/s/width/1000/https:/www.gitbook.com/assets/images/backgrounds/preview.jpg?v=7.1.1", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -43979,6 +44025,35 @@
     "favorite": "0", 
     "given_title": "Christopher Hitchens: Why Confront Religion? - YouTube", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1938, 
+    "time_updated": "1440686032", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Spinuzzi, C., Pogue, G., Nelson, R. S., Thomson, K. S., Lorenzini, F., French, R. A., Burback, S., & Momberger, J. (2015). How do entrepreneurs hone their pitches? Analyzing how pitch presentations develop in a technology commercialization competition.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "797", 
+    "authors": {
+      "4399087": {
+        "item_id": "53976685", 
+        "url": "https://plus.google.com/113694310584540361843", 
+        "author_id": "4399087", 
+        "name": "Clay Spinuzzi"
+      }
+    }, 
+    "given_title": "Spinuzzi", 
+    "resolved_url": "http://spinuzzi.blogspot.com/", 
+    "is_article": "0", 
+    "item_id": "53976685", 
+    "time_added": "1440686032", 
+    "resolved_id": "53976685", 
+    "given_url": "http://spinuzzi.blogspot.com/", 
+    "resolved_title": "Spinuzzi"
   }, 
   {
     "is_article": "1", 
