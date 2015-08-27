@@ -6771,7 +6771,7 @@
     "excerpt": "Connect with friends and theworld around you on Facebook.  See photos and updates  from friends in News Feed.  Share what's new  in your life on your Timeline.  Find more  of what you're looking for with Facebook Search. Sign UpIt\u2019s free and always will be.", 
     "image": {
       "item_id": "69969", 
-      "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
+      "src": "https://scontent.xx.fbcdn.net/hphotos-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -6781,7 +6781,7 @@
     "word_count": "46", 
     "images": {
       "1": {
-        "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
+        "src": "https://scontent.xx.fbcdn.net/hphotos-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -6809,7 +6809,7 @@
       }
     }, 
     "given_title": "Facebook", 
-    "resolved_url": "https://www.facebook.com/", 
+    "resolved_url": "https://www.facebook.com/#", 
     "is_article": "0", 
     "item_id": "69969", 
     "time_added": "1414680500", 
