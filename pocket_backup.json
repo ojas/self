@@ -52556,48 +52556,30 @@
     "is_article": "1", 
     "image": {
       "item_id": "236484297", 
-      "src": "http://i2.cdn.turner.com/cnn/dam/assets/121013054204-richard-hernandez-headshot-left-tease.jpg", 
-      "height": "122", 
-      "width": "214"
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/121012121433-hernandez-mobile-photography-tools-00022322-story-top.jpg", 
+      "height": "0", 
+      "width": "0"
     }, 
-    "excerpt": "(CNN) -- It's the greatest magic trick in the world. This act of wizardry is performed hundreds of millions of times every day with the press of a button, or more increasingly, with a gentle tap of the screen -- and poof, time stops.  The magic is photography.", 
-    "word_count": "759", 
+    "excerpt": "It's the greatest magic trick in the world. This act of wizardry is performed hundreds of millions of times every day with the press of a button, or more increasingly, with a gentle tap of the screen -- and poof, time stops.  The magic is photography.", 
+    "word_count": "797", 
     "images": {
       "1": {
-        "src": "http://i2.cdn.turner.com/cnn/dam/assets/121013054204-richard-hernandez-headshot-left-tease.jpg", 
+        "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/121012121433-hernandez-mobile-photography-tools-00022322-story-top.jpg", 
         "credit": "", 
-        "height": "122", 
+        "height": "0", 
         "image_id": "1", 
         "item_id": "236484297", 
-        "caption": "", 
-        "width": "214"
-      }, 
-      "3": {
-        "src": "http://i2.cdn.turner.com/cnn/dam/assets/121013063437-koci-2-story-body.jpg", 
-        "credit": "", 
-        "height": "169", 
-        "image_id": "3", 
-        "item_id": "236484297", 
-        "caption": "", 
-        "width": "300"
+        "caption": "Mobile tools bring new photography era 10:15", 
+        "width": "0"
       }, 
       "2": {
-        "src": "http://i2.cdn.turner.com/cnn/dam/assets/121013063321-koci-1-story-body.jpg", 
+        "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/121013054204-richard-hernandez-headshot-story-top.jpg", 
         "credit": "", 
-        "height": "169", 
+        "height": "0", 
         "image_id": "2", 
         "item_id": "236484297", 
-        "caption": "", 
-        "width": "300"
-      }, 
-      "4": {
-        "src": "http://i2.cdn.turner.com/cnn/dam/assets/121013063649-koci-3-story-body.jpg", 
-        "credit": "", 
-        "height": "169", 
-        "image_id": "4", 
-        "item_id": "236484297", 
-        "caption": "", 
-        "width": "300"
+        "caption": "Richard Koci Hernandez", 
+        "width": "0"
       }
     }, 
     "has_video": "0", 
