@@ -39680,6 +39680,27 @@
     "resolved_title": "Divine Irony"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1942, 
+    "time_updated": "1440814550", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "post id: 5178066643 posted: 2015-08-17 11:46pm email to friend \u2665 best of [?]", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "9", 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/cto/5178066643.html", 
+    "is_article": "0", 
+    "item_id": "1025533914", 
+    "time_added": "1440814531", 
+    "resolved_id": "1025533914", 
+    "given_url": "http://austin.craigslist.org/cto/5178066643.html", 
+    "resolved_title": "81 honda civic hatchback 5speed - $1000 (nw)"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "928592204", 
@@ -62740,6 +62761,56 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1943, 
+    "time_updated": "1440814681", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "< > 1987 Acura Integra LS fuel: gasodometer: 125990title status: cleantransmission: automatictype: hatchback Only two actual owners! Mileage, 125,990. Interior and body clean. No accident history. Present owner has owned 3 years. All local driving. Gets good mileage.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "68", 
+    "images": {
+      "3": {
+        "src": "http://images.craigslist.org/00f0f_hIe6wDJZcvA_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1025535018", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://images.craigslist.org/00J0J_6XlTyK5eIH1_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1025535018", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://images.craigslist.org/00404_gVm4S74PKSA_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1025535018", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/cto/5193497632.html", 
+    "is_article": "1", 
+    "item_id": "1025535018", 
+    "time_added": "1440814663", 
+    "resolved_id": "1025535018", 
+    "given_url": "http://austin.craigslist.org/cto/5193497632.html", 
+    "resolved_title": "1987 Classic Acura Integra LS - $2200 (Austin)"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "980594354", 
@@ -77500,44 +77571,24 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
     "sort_id": 1940, 
-    "time_updated": "1440814416", 
+    "time_updated": "1440814435", 
     "time_favorited": "0", 
-    "videos": {
-      "1": {
-        "src": "http://www.youtube.com/v/XnMY44Ij7j4", 
-        "vid": "XnMY44Ij7j4", 
-        "video_id": "1", 
-        "height": "0", 
-        "width": "0", 
-        "item_id": "1025532957", 
-        "type": "1"
-      }
-    }, 
     "time_read": "0", 
-    "image": {
-      "item_id": "1025532957", 
-      "src": "http:2", 
-      "height": "0", 
-      "width": "0"
-    }, 
+    "excerpt": "For sale, a beautiful 1st generation 1981 Honda Accord. I am moving to Los Angeles and need a car that can haul more. It runs and drives. Although the clutch is worn out and I was quoted a $915 repair @ eagle transmission. Will knock a 1000$ off the price of the car for that repair and your time.", 
+    "has_image": "0", 
     "favorite": "0", 
-    "images": {
-      "1": {
-        "src": "http:2", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "1025532957", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
+    "has_video": "0", 
+    "word_count": "215", 
     "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/cto/5161411529.html", 
+    "is_article": "1", 
     "item_id": "1025532957", 
     "time_added": "1440814414", 
-    "resolved_id": "0", 
-    "given_url": "http://austin.craigslist.org/cto/5161411529.html"
+    "resolved_id": "1025532957", 
+    "given_url": "http://austin.craigslist.org/cto/5161411529.html", 
+    "resolved_title": "First Generation Honda Accord - $2000 (West Austin)"
   }, 
   {
     "status": "0", 
@@ -90916,6 +90967,83 @@
     "resolved_id": "255842433", 
     "given_url": "http://feeds.danielmiessler.com/~r/danielmiessler/~3/zpwds4EHgT8/jacques-mattheij-imagining-what-elon-musk-might-mean-by-hyperloop", 
     "resolved_title": "Jacques Mattheij Imagining What Elon Musk Might Mean by \u2018Hyperloop\u2019"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1941, 
+    "time_updated": "1440814451", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "< > 1984 Honda cylinders: 6 cylindersdrive: fwdfuel: gasodometer: 170000paint color: redsize: full-sizetitle status: cleantransmission: automatictype: convertible Selling my 84 Mercedes. It's a beautiful ride, old school. Daily driver. Runs great. Very clean, clean inside and out.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "83", 
+    "images": {
+      "3": {
+        "src": "http://images.craigslist.org/00A0A_5yktYEPKCQX_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1025533198", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://images.craigslist.org/00P0P_1Ijt0MxOfXS_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1025533198", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://images.craigslist.org/00F0F_22SH2huQIzk_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "1025533198", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://images.craigslist.org/00g0g_3LCfcXFnpR0_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1025533198", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://images.craigslist.org/00k0k_8oePGrQJq65_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "1025533198", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://images.craigslist.org/00D0D_dVxNZhABdgh_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "1025533198", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/cto/5189635999.html", 
+    "is_article": "1", 
+    "item_id": "1025533198", 
+    "time_added": "1440814447", 
+    "resolved_id": "1025533198", 
+    "given_url": "http://austin.craigslist.org/cto/5189635999.html", 
+    "resolved_title": "1984 Mercedes - $8200"
   }, 
   {
     "status": "0", 
