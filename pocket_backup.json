@@ -92269,6 +92269,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1944, 
+    "time_updated": "1440830186", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Charles Ira Fox (born October 30, 1940) is an American composer for film and television.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "925", 
+    "given_title": "", 
+    "resolved_url": "http://en.m.wikipedia.org/wiki/Charles_Fox_(composer)", 
+    "is_article": "1", 
+    "item_id": "622885072", 
+    "time_added": "1440830185", 
+    "resolved_id": "622885072", 
+    "given_url": "https://en.m.wikipedia.org/wiki/Charles_Fox_(composer)", 
+    "resolved_title": "Charles Fox (composer)"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/fetkS66chfA?wmode=transparent&rel=0&autohide=1&showinfo=0&enablejsapi=1", 
