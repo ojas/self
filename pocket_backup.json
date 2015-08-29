@@ -42221,6 +42221,18 @@
         "url": "http://fivethirtyeight.com/contributors/allison-mccann/", 
         "author_id": "17740547", 
         "name": "Allison McCann"
+      }, 
+      "28506712": {
+        "item_id": "828508064", 
+        "url": "http://fivethirtyeight.com/contributors/mikhail-zinshteyn/", 
+        "author_id": "28506712", 
+        "name": "Mikhail Zinshteyn"
+      }, 
+      "22669218": {
+        "item_id": "828508064", 
+        "url": "http://fivethirtyeight.com/contributors/oliver-roeder/", 
+        "author_id": "22669218", 
+        "name": "Oliver Roeder"
       }
     }, 
     "given_title": "John Resig: Woah. @FiveThirtyEight just posted a short documentary on Grace", 
