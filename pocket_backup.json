@@ -20847,14 +20847,22 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1236, 
+    "time_updated": "1409446444", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Two years ago I launched Storemapper an embedded store locator service that runs on any website or ecommerce platform. Today around 500 brands use Storemapper to help their customers find the closest place to buy their stuff.  The service has grown from bootstrapped to over $50,000 per year.", 
     "image": {
       "item_id": "686926969", 
       "src": "http://img.svbtle.com/oveglwpj4gijug.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Two years ago I launched Storemapper an embedded store locator service that runs on any website or ecommerce platform. Today around 500 brands use Storemapper to help their customers find the closest place to buy their stuff.  The service has grown from bootstrapped to over $50,000 per year.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
     "word_count": "3826", 
     "images": {
       "1": {
@@ -20912,30 +20920,14 @@
         "width": "0"
       }
     }, 
-    "has_video": "0", 
-    "time_added": "1407817443", 
-    "status": "0", 
-    "sort_id": 1236, 
+    "given_title": "Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)", 
     "resolved_url": "http://tylertringas.com/storemapper-store-locator-bootstrapped-to-50k/", 
-    "authors": {
-      "25502165": {
-        "item_id": "686926969", 
-        "url": "http://tylertringas.com/author/tyler-tringas", 
-        "author_id": "25502165", 
-        "name": "Tyler Tringas"
-      }
-    }, 
+    "is_article": "1", 
     "item_id": "686926969", 
+    "time_added": "1407817443", 
     "resolved_id": "686926969", 
     "given_url": "http://tylertringas.com/storemapper-store-locator-bootstrapped-to-50k", 
-    "resolved_title": "Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)", 
-    "is_index": "0", 
-    "time_updated": "1409446444", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)", 
-    "has_image": "1"
+    "resolved_title": "Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)"
   }, 
   {
     "is_article": "1", 
