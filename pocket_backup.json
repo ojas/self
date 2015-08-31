@@ -1404,7 +1404,7 @@
       }
     }, 
     "given_title": "Apache Kafka", 
-    "resolved_url": "http://kafka.apache.org/documentation.html#quickstart", 
+    "resolved_url": "http://kafka.apache.org/documentation.html", 
     "is_article": "1", 
     "item_id": "418064385", 
     "time_added": "1394727555", 
@@ -25205,42 +25205,551 @@
     "resolved_title": "\u201cA gracefully executed quit ..."
   }, 
   {
-    "status": "0", 
-    "is_index": "1", 
-    "sort_id": 1276, 
-    "time_updated": "1409239467", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           What a ride it has been. 166 days in #space, time for me @astro_alex @msuraev to head home.", 
+    "is_article": "0", 
     "image": {
       "item_id": "124414", 
-      "src": "https://abs.twimg.com/b/front_page/v1/US_CA_5.jpg", 
+      "src": "https://abs.twimg.com/emoji/v1/72x72/1f60d.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "258", 
+    "excerpt": "Find community, conversation and inspiration about the things you love.  Retweet if you agree.", 
+    "word_count": "1888", 
     "images": {
       "1": {
-        "src": "https://abs.twimg.com/b/front_page/v1/US_CA_5.jpg", 
+        "src": "https://abs.twimg.com/emoji/v1/72x72/1f60d.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "124414", 
         "caption": "", 
         "width": "0"
+      }, 
+      "3": {
+        "src": "https://abs.twimg.com/emoji/v1/72x72/1f618.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "124414", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://abs.twimg.com/emoji/v1/72x72/1f382.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "124414", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://abs.twimg.com/emoji/v1/72x72/1f389.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "124414", 
+        "caption": "", 
+        "width": "0"
       }
     }, 
-    "given_title": "(3) Twitter", 
-    "resolved_url": "https://twitter.com/", 
-    "is_article": "0", 
-    "item_id": "124414", 
+    "has_video": "1", 
     "time_added": "1409239467", 
+    "status": "0", 
+    "sort_id": 1276, 
+    "resolved_url": "https://twitter.com/", 
+    "authors": {
+      "12008927": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "12008927", 
+        "name": "John Legere"
+      }, 
+      "11181779": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11181779", 
+        "name": "New York Times World"
+      }, 
+      "2633727": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2633727", 
+        "name": "PGA Tour"
+      }, 
+      "32888": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "32888", 
+        "name": "NFL"
+      }, 
+      "75534": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "75534", 
+        "name": "Alice Cooper"
+      }, 
+      "10222583": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "10222583", 
+        "name": "Stephanie McMahon"
+      }, 
+      "11835366": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11835366", 
+        "name": "Dianna Marie Russini"
+      }, 
+      "173993": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "173993", 
+        "name": "Kourtney Kardashian"
+      }, 
+      "12220662": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "12220662", 
+        "name": "Spartan Basketball"
+      }, 
+      "11434225": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11434225", 
+        "name": "NFL on ESPN"
+      }, 
+      "3616354": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3616354", 
+        "name": "Brides"
+      }, 
+      "449211": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "449211", 
+        "name": "Guy Fieri"
+      }, 
+      "13378103": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "13378103", 
+        "name": "500px"
+      }, 
+      "2721587": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2721587", 
+        "name": "xbox"
+      }, 
+      "6686478": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "6686478", 
+        "name": "Jay Glazer"
+      }, 
+      "1226132": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "1226132", 
+        "name": "PREVENTION MAGAZINE"
+      }, 
+      "3839364": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3839364", 
+        "name": "Zedd"
+      }, 
+      "403381": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "403381", 
+        "name": "CoverGirl"
+      }, 
+      "4260232": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "4260232", 
+        "name": "Major League Soccer"
+      }, 
+      "2489683": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2489683", 
+        "name": "Forbes"
+      }, 
+      "184394": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "184394", 
+        "name": "Bruno Mars"
+      }, 
+      "3667489": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3667489", 
+        "name": "Trey Songz"
+      }, 
+      "11312886": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11312886", 
+        "name": "New York Times Arts"
+      }, 
+      "10021755": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "10021755", 
+        "name": "America's Got Talent"
+      }, 
+      "160918": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "160918", 
+        "name": "Conan O'Brien"
+      }, 
+      "15535661": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "15535661", 
+        "name": "ESA Rosetta Mission"
+      }, 
+      "11400619": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11400619", 
+        "name": "Anaheim Ducks"
+      }, 
+      "49974": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "49974", 
+        "name": "Marvel Entertainment"
+      }, 
+      "535470": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "535470", 
+        "name": "HGTV"
+      }, 
+      "167304": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "167304", 
+        "name": "Ricky Martin"
+      }, 
+      "6150632": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "6150632", 
+        "name": "Epicurious"
+      }, 
+      "3612483": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3612483", 
+        "name": "Jason Aldean"
+      }, 
+      "11373524": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11373524", 
+        "name": "FSU Football"
+      }, 
+      "6814818": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "6814818", 
+        "name": "Baseball Tonight"
+      }, 
+      "6021": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "6021", 
+        "name": "Katie Couric"
+      }, 
+      "11086019": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11086019", 
+        "name": "ClassicPics"
+      }, 
+      "12675637": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "12675637", 
+        "name": "Historical Pics"
+      }, 
+      "7039111": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "7039111", 
+        "name": "TIME.com"
+      }, 
+      "1321697": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "1321697", 
+        "name": "THE VERGE"
+      }, 
+      "11197045": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11197045", 
+        "name": "Baby Animals"
+      }, 
+      "7992392": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "7992392", 
+        "name": "Kris Jenner"
+      }, 
+      "19530": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "19530", 
+        "name": "Justin Bieber"
+      }, 
+      "11558920": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11558920", 
+        "name": "Museum of Modern Art"
+      }, 
+      "96570": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "96570", 
+        "name": "National Geographic"
+      }, 
+      "2757035": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2757035", 
+        "name": "Hillary Clinton"
+      }, 
+      "13502705": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "13502705", 
+        "name": "Mom Central"
+      }, 
+      "3419005": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3419005", 
+        "name": "Versace"
+      }, 
+      "11884524": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11884524", 
+        "name": "US Dept of Interior"
+      }, 
+      "49253": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "49253", 
+        "name": "PlayStation"
+      }, 
+      "37501": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "37501", 
+        "name": "Bill Williamson"
+      }, 
+      "2499173": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2499173", 
+        "name": "NASA"
+      }, 
+      "11158114": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11158114", 
+        "name": "Emergency Kittens"
+      }, 
+      "3167204": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3167204", 
+        "name": "Mariah Carey"
+      }, 
+      "2564404": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2564404", 
+        "name": "WWE"
+      }, 
+      "2667657": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2667657", 
+        "name": "Jack Canfield"
+      }, 
+      "291274": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "291274", 
+        "name": "Calvin Klein"
+      }, 
+      "11685575": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11685575", 
+        "name": "Travel + Leisure"
+      }, 
+      "3302642": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3302642", 
+        "name": "NHL"
+      }, 
+      "140660": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "140660", 
+        "name": "Sony Pictures"
+      }, 
+      "3785841": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3785841", 
+        "name": "Lamb Of God"
+      }, 
+      "2450660": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2450660", 
+        "name": "NBA TV"
+      }, 
+      "2837756": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2837756", 
+        "name": "Goodreads"
+      }, 
+      "44803": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "44803", 
+        "name": "UFC"
+      }, 
+      "7713209": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "7713209", 
+        "name": "Macy's"
+      }, 
+      "24824462": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "24824462", 
+        "name": "CNBC Now"
+      }, 
+      "2734543": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2734543", 
+        "name": "MLB"
+      }, 
+      "440523": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "440523", 
+        "name": "NASCAR"
+      }, 
+      "87111": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "87111", 
+        "name": "Us Weekly"
+      }, 
+      "2498859": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2498859", 
+        "name": "gizmodo"
+      }, 
+      "2487320": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2487320", 
+        "name": "NBA"
+      }, 
+      "11893518": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "11893518", 
+        "name": "The Big Bang Theory"
+      }, 
+      "2687237": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "2687237", 
+        "name": "DAVID MUIR"
+      }, 
+      "3671897": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3671897", 
+        "name": "The Weather Channel"
+      }, 
+      "3224373": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3224373", 
+        "name": "Lamborghini"
+      }, 
+      "775470": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "775470", 
+        "name": "designboom"
+      }, 
+      "3627181": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3627181", 
+        "name": "Metal Hammer"
+      }, 
+      "3364780": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3364780", 
+        "name": "Ted Cruz"
+      }, 
+      "213754": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "213754", 
+        "name": "FIFA.com"
+      }, 
+      "36423": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "36423", 
+        "name": "Hugh Jackman"
+      }, 
+      "3070509": {
+        "item_id": "124414", 
+        "url": "", 
+        "author_id": "3070509", 
+        "name": "AmnestyInternational"
+      }
+    }, 
+    "item_id": "124414", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": "Welcome to Twitter."
+    "resolved_title": "Twitter Offers", 
+    "is_index": "1", 
+    "time_updated": "1409239467", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "(3) Twitter", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
