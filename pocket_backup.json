@@ -222,7 +222,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1909, 
-    "time_updated": "1439738288", 
+    "time_updated": "1440983496", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "", 
@@ -1356,7 +1356,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1922, 
+    "sort_id": 1919, 
     "time_updated": "1440368324", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -4923,7 +4923,7 @@
     "has_video": "0", 
     "time_added": "1440466293", 
     "status": "0", 
-    "sort_id": 1928, 
+    "sort_id": 1923, 
     "resolved_url": "http://sebastianraschka.com/Articles/2015_why_python.html", 
     "authors": {
       "10017863": {
@@ -16841,8 +16841,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1917, 
-    "time_updated": "1440167002", 
+    "sort_id": 1916, 
+    "time_updated": "1440983457", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "On July 11, 2000, in one of the more unlikely moments in the history of the Senate Judiciary Committee, Senator Orrin Hatch handed the microphone to Metallica\u2019s drummer, Lars Ulrich, to hear his thoughts on art in the age of digital reproduction.", 
@@ -17017,7 +17017,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1946, 
+    "sort_id": 1939, 
     "time_updated": "1440955467", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -18289,7 +18289,7 @@
     "has_video": "0", 
     "time_added": "1440686187", 
     "status": "0", 
-    "sort_id": 1939, 
+    "sort_id": 1933, 
     "resolved_url": "http://www.npr.org/2015/04/13/399391894/take-it-from-david-brooks-career-success-doesnt-make-you-happy", 
     "authors": {
       "8748492": {
@@ -20635,7 +20635,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1949, 
+    "sort_id": 1941, 
     "time_updated": "1440974205", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -20834,7 +20834,7 @@
     "has_video": "0", 
     "time_added": "1440470893", 
     "status": "0", 
-    "sort_id": 1929, 
+    "sort_id": 1924, 
     "resolved_url": "http://www.mondaynote.com/2015/08/24/a-salute-to-solo-programmers/", 
     "authors": {
       "2478784": {
@@ -25206,164 +25206,6 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1920, 
-    "time_updated": "1440366982", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "< > 14301 ronald w reagan (google map)  1998 ford e250 econoline condition: excellentcylinders: 8 cylindersdrive: rwdfuel: gaspaint color: redsize: full-sizetitle status: cleantransmission: automatictype: van more ads by this user 1998 Ford E250 Conversion van with a high top roof .5.", 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "131", 
-    "images": {
-      "11": {
-        "src": "http://images.craigslist.org/00T0T_9GkMSsqqKH7_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "11", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "10": {
-        "src": "http://images.craigslist.org/00o0o_69hsyZJwD6f_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "10", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "13": {
-        "src": "http://images.craigslist.org/00101_igpj28lZHvp_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "13", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "12": {
-        "src": "http://images.craigslist.org/00X0X_5bnjC4t6KwT_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "12", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "15": {
-        "src": "http://images.craigslist.org/01111_dv9xZzf6IGV_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "15", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "14": {
-        "src": "http://images.craigslist.org/00y0y_kXzZiiuuXLK_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "14", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "16": {
-        "src": "http://images.craigslist.org/00v0v_dw5v1EO7yGK_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "16", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://images.craigslist.org/00D0D_8hs8NOGlL5K_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://images.craigslist.org/00404_ey3eptyKI7Y_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "http://images.craigslist.org/00m0m_7icNQxfD9oJ_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://images.craigslist.org/00N0N_lrbVQyaNmmF_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "7": {
-        "src": "http://images.craigslist.org/00J0J_7ZKGX333XQG_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "http://images.craigslist.org/00S0S_7YZrqBucDVn_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "9": {
-        "src": "http://images.craigslist.org/01414_9QGp8I31Tlx_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "9", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "http://images.craigslist.org/00z0z_3EQA6eHJ2K4_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "1020120274", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "given_title": "", 
-    "resolved_url": "http://austin.craigslist.org/ctd/5185000391.html", 
-    "is_article": "1", 
-    "item_id": "1020120274", 
-    "time_added": "1440366956", 
-    "resolved_id": "1020120274", 
-    "given_url": "http://austin.craigslist.org/ctd/5185000391.html", 
-    "resolved_title": "1998 Ford E250 conversion van high top - $4395 (14301 Ronald W Reagan)"
-  }, 
-  {
-    "status": "0", 
     "is_index": "1", 
     "sort_id": 1276, 
     "time_updated": "1409239467", 
@@ -26026,7 +25868,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1948, 
+    "sort_id": 1940, 
     "time_updated": "1440960826", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -28703,52 +28545,6 @@
   {
     "is_article": "1", 
     "image": {
-      "item_id": "45518953", 
-      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Column_impost.svg/34px-Column_impost.svg.png", 
-      "height": "30", 
-      "width": "34"
-    }, 
-    "excerpt": "The Poetics of Space (French: La Po\u00e9tique de l'Espace) is a 1958 book by . Bachelard applies the method of phenomenology to architecture basing his analysis not on purported origins (as was the trend in enlightenment thinking about architecture) but on lived experience of architecture.", 
-    "word_count": "293", 
-    "images": {
-      "1": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Column_impost.svg/34px-Column_impost.svg.png", 
-        "credit": "", 
-        "height": "30", 
-        "image_id": "1", 
-        "item_id": "45518953", 
-        "caption": "", 
-        "width": "34"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1440955471", 
-    "status": "0", 
-    "sort_id": 1947, 
-    "resolved_url": "http://en.wikipedia.org/wiki/The_Poetics_of_Space", 
-    "authors": {
-      "5132112": {
-        "item_id": "45518953", 
-        "url": "http://en.wikipedia.org/wiki/Gaston_Bachelard", 
-        "author_id": "5132112", 
-        "name": "Gaston Bachelard"
-      }
-    }, 
-    "item_id": "45518953", 
-    "resolved_id": "45518953", 
-    "given_url": "https://en.wikipedia.org/wiki/The_Poetics_of_Space", 
-    "resolved_title": "The Poetics of Space", 
-    "is_index": "0", 
-    "time_updated": "1440955471", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "The Poetics of Space - Wikipedia, the free encyclopedia", 
-    "has_image": "1"
-  }, 
-  {
-    "is_article": "1", 
-    "image": {
       "item_id": "797246078", 
       "src": "https://codeascraft.com/wp-content/uploads/2014/12/firstpush2-1024x768.jpg", 
       "height": "768", 
@@ -28921,7 +28717,7 @@
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1906, 
-    "time_updated": "1439607428", 
+    "time_updated": "1440983573", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "The false positive paradox is a statistical result where false positive tests are more probable than true positive tests, occurring when the overall population has a low incidence of a condition and the incidence rate is lower than the false positive rate.", 
@@ -28945,27 +28741,6 @@
     "resolved_id": "19768702", 
     "given_url": "https://en.wikipedia.org/wiki/False_positive_paradox", 
     "resolved_title": "False positive paradox"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1921, 
-    "time_updated": "1440367555", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "2007 Audi A3 2.0T Exterior Color: Charcoal Interior Color: Black Engine: 2.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "328", 
-    "given_title": "", 
-    "resolved_url": "http://austin.craigslist.org/ctd/5172604954.html", 
-    "is_article": "1", 
-    "item_id": "1020126055", 
-    "time_added": "1440367525", 
-    "resolved_id": "1020126055", 
-    "given_url": "http://austin.craigslist.org/ctd/5172604954.html", 
-    "resolved_title": "2007 Audi A3 S-line w/Panoramic Sunroof & 6-spd - $9995 (Austin)"
   }, 
   {
     "is_article": "1", 
@@ -30057,7 +29832,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1925, 
+    "sort_id": 1922, 
     "time_updated": "1440369094", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -33471,7 +33246,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1932, 
+    "sort_id": 1927, 
     "time_updated": "1440723158", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -33759,7 +33534,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1924, 
+    "sort_id": 1921, 
     "time_updated": "1440368933", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -36093,8 +35868,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1919, 
-    "time_updated": "1440361950", 
+    "sort_id": 1918, 
+    "time_updated": "1440983143", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "Description: Take a look at this BEAUTIFUL - VERY RARE - MOSTLY ORIGINAL SURVIVOR - 1987 Toyota MR2 AW11 T-Top Coupe !! This is the car that dreams are made of !! The MR2 began life as the brainchild of Akio Yoshida from the Toyota Testing Department as an economical commuter car that would still be", 
@@ -37171,7 +36946,7 @@
         "tag": "work"
       }
     }, 
-    "sort_id": 1916, 
+    "sort_id": 1915, 
     "resolved_url": "http://www.businessinsider.com/why-people-quit-their-jobs-2015-7", 
     "authors": {
       "25662436": {
@@ -40007,7 +39782,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1942, 
+    "sort_id": 1936, 
     "time_updated": "1440814550", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -44407,7 +44182,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1938, 
+    "sort_id": 1932, 
     "time_updated": "1440686032", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -52103,27 +51878,6 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1910, 
-    "time_updated": "1439738478", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "The bike was originally an Aspencade that I converted into a naked bike. All of the air suspension devices have been eliminated. Both front and rear fenders have been shortened/trimmed. The bike has been painted it a teal/pearl color shifting base coat clear coat finish.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "113", 
-    "given_title": "", 
-    "resolved_url": "http://austin.craigslist.org/mcy/5175236152.html", 
-    "is_article": "1", 
-    "item_id": "1013126451", 
-    "time_added": "1439738459", 
-    "resolved_id": "1013126451", 
-    "given_url": "http://austin.craigslist.org/mcy/5175236152.html", 
-    "resolved_title": "1982 Honda GL1100 Goldwing Naked - $2500 (austin)"
-  }, 
-  {
     "is_article": "0", 
     "image": {
       "item_id": "718298605", 
@@ -52460,7 +52214,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1936, 
+    "sort_id": 1930, 
     "time_updated": "1440552589", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -60163,27 +59917,6 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1926, 
-    "time_updated": "1440369190", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Insurance Cost Calculator  Powered by Hagerty Insurance", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "7", 
-    "given_title": "", 
-    "resolved_url": "http://www.hemmings.com/classifieds/carsforsale/bugatti/type_57s/1741078.html", 
-    "is_article": "0", 
-    "item_id": "1020143141", 
-    "time_added": "1440369187", 
-    "resolved_id": "1020143141", 
-    "given_url": "http://www.hemmings.com/classifieds/carsforsale/bugatti/type_57s/1741078.html", 
-    "resolved_title": "1937 Bugatti Type 57S Atlantic Replica"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
     "sort_id": 298, 
     "time_updated": "1361114564", 
     "time_favorited": "0", 
@@ -61850,7 +61583,7 @@
         "tag": "travel"
       }
     }, 
-    "sort_id": 1914, 
+    "sort_id": 1913, 
     "resolved_url": "http://elitedaily.com/life/travel-alone-wise/1131083/", 
     "authors": {
       "36776670": {
@@ -63074,56 +62807,6 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1943, 
-    "time_updated": "1440855848", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "< > 1987 Acura Integra LS fuel: gasodometer: 125990title status: cleantransmission: automatictype: hatchback Only two actual owners! Mileage, 125,990. Interior and body clean. No accident history. Present owner has owned 3 years. All local driving. Gets good mileage.", 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "68", 
-    "images": {
-      "3": {
-        "src": "http://images.craigslist.org/00f0f_hIe6wDJZcvA_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "1025535018", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://images.craigslist.org/00J0J_6XlTyK5eIH1_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "1025535018", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://images.craigslist.org/00404_gVm4S74PKSA_600x450.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "1025535018", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "given_title": "", 
-    "resolved_url": "http://austin.craigslist.org/cto/5193497632.html", 
-    "is_article": "1", 
-    "item_id": "1025535018", 
-    "time_added": "1440814663", 
-    "resolved_id": "1025535018", 
-    "given_url": "http://austin.craigslist.org/cto/5193497632.html", 
-    "resolved_title": "1987 Classic Acura Integra LS - $2200 (Austin)"
-  }, 
-  {
     "is_article": "1", 
     "image": {
       "item_id": "980594354", 
@@ -63188,7 +62871,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1911, 
+    "sort_id": 1910, 
     "time_updated": "1439781173", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -67246,7 +66929,7 @@
     "has_video": "2", 
     "time_added": "1440472238", 
     "status": "0", 
-    "sort_id": 1930, 
+    "sort_id": 1925, 
     "resolved_url": "https://www.youtube.com/watch?v=tYolHnbCavA", 
     "item_id": "1019267743", 
     "resolved_id": "1019267743", 
@@ -67480,7 +67163,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 1937, 
+    "sort_id": 1931, 
     "time_updated": "1440619149", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -70439,27 +70122,6 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1934, 
-    "time_updated": "1440477713", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "The perfect sports coupe with just the essentials. No extra fat. Twin turbo straight 6 cylinder. 6 speed manual transmission. JB+ performance chip producing estimated 330hp, 350tq. BMW professional sound system. (CD, SAT, FM, AUX/IPod functions) Alpine White with Black interior with wood accents.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "195", 
-    "given_title": "", 
-    "resolved_url": "http://austin.craigslist.org/cto/5174950280.html", 
-    "is_article": "1", 
-    "item_id": "1021398127", 
-    "time_added": "1440477687", 
-    "resolved_id": "1021398127", 
-    "given_url": "http://austin.craigslist.org/cto/5174950280.html", 
-    "resolved_title": "2008 BMW M-Sport 135i with 6 speed manual - $14500 (North Austin)"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
     "sort_id": 1196, 
     "time_updated": "1420519199", 
     "time_favorited": "0", 
@@ -72132,7 +71794,7 @@
     "has_video": "0", 
     "time_added": "1439817586", 
     "status": "0", 
-    "sort_id": 1912, 
+    "sort_id": 1911, 
     "resolved_url": "http://blog.andrewray.me/reactjs-for-stupid-people/", 
     "authors": {
       "24297600": {
@@ -77668,7 +77330,7 @@
         "tag": "life"
       }
     }, 
-    "sort_id": 1915, 
+    "sort_id": 1914, 
     "resolved_url": "http://www.techinsider.io/project-reveals-why-time-feels-like-it-flies-2015-7", 
     "item_id": "992979474", 
     "resolved_id": "992979474", 
@@ -77885,7 +77547,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1940, 
+    "sort_id": 1934, 
     "time_updated": "1440814435", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -80196,7 +79858,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1945, 
+    "sort_id": 1938, 
     "time_updated": "1440955464", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -84372,7 +84034,7 @@
         "tag": "trippy"
       }
     }, 
-    "sort_id": 1918, 
+    "sort_id": 1917, 
     "resolved_url": "http://www.iflscience.com/brain/you-can-alter-your-mind-staring-someones-eyes-10-minutes", 
     "authors": {
       "17396423": {
@@ -86232,7 +85894,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1913, 
+    "sort_id": 1912, 
     "time_updated": "1439818132", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -91322,7 +90984,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1941, 
+    "sort_id": 1935, 
     "time_updated": "1440814451", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -92622,7 +92284,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1944, 
+    "sort_id": 1937, 
     "time_updated": "1440830186", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -93642,27 +93304,6 @@
     "favorite": "0", 
     "given_title": "4709 Red Bluff Rd, Austin, TX 78702 - MLS/Listing # 6183313", 
     "has_image": "1"
-  }, 
-  {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1927, 
-    "time_updated": "1440369449", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "For Sale- Mazda RX-7 1979 with 63,202 original miles.  The vehicle runs and is in good overall condition. 5-speed manual transmission. A/C. Sunroof.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "59", 
-    "given_title": "", 
-    "resolved_url": "http://www.hemmings.com/classifieds/carsforsale/mazda/rx7/1755509.html", 
-    "is_article": "0", 
-    "item_id": "1020145500", 
-    "time_added": "1440369446", 
-    "resolved_id": "1020145500", 
-    "given_url": "http://www.hemmings.com/classifieds/carsforsale/mazda/rx7/1755509.html", 
-    "resolved_title": "1979 Mazda RX7 for Sale"
   }, 
   {
     "status": "0", 
@@ -102583,8 +102224,8 @@
     }, 
     "has_video": "1", 
     "time_added": "1440507280", 
-    "status": "0", 
-    "sort_id": 1935, 
+    "status": "1", 
+    "sort_id": 1929, 
     "resolved_url": "http://leancrew.com/all-this/2015/08/aluminum-and-strength/", 
     "authors": {
       "1726193": {
@@ -102599,9 +102240,9 @@
     "given_url": "http://leancrew.com/all-this/2015/08/aluminum-and-strength/", 
     "resolved_title": "Aluminum and strength", 
     "is_index": "0", 
-    "time_updated": "1440854392", 
+    "time_updated": "1440983100", 
     "time_favorited": "0", 
-    "time_read": "0", 
+    "time_read": "1440983099", 
     "favorite": "0", 
     "given_title": "Aluminum and strength - All this", 
     "has_image": "1"
@@ -104458,7 +104099,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1923, 
+    "sort_id": 1920, 
     "time_updated": "1440368431", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -105554,7 +105195,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1931, 
+    "sort_id": 1926, 
     "time_updated": "1440473784", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -108596,7 +108237,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 1933, 
+    "sort_id": 1928, 
     "time_updated": "1440475051", 
     "time_favorited": "0", 
     "time_read": "0", 
