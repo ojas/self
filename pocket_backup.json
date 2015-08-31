@@ -13790,7 +13790,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3253", 
+    "word_count": "3246", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -32071,6 +32071,44 @@
     "favorite": "0", 
     "given_title": "10 Miracles Of Nature You Will Only Find In Texas (Photo Gallery) | Country", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1942, 
+    "time_updated": "1441063573", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "\" I'm 87 years old...I only eat so I can smoke and stay alive.. The only fear I have is how long consciousness is gonna hang on after my body goes. I just hope there's nothing. Like there was before I was born. I'm not really into religion, they're all macrocosms of the ego.", 
+    "image": {
+      "item_id": "1028121681", 
+      "src": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10151899_10152330802333656_292357866_n.jpg?oh=200e7243f929ba9914af5d1f8c9fb083&oe=56840AD6", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "163", 
+    "images": {
+      "1": {
+        "src": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10151899_10152330802333656_292357866_n.jpg?oh=200e7243f929ba9914af5d1f8c9fb083&oe=56840AD6", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1028121681", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "https://www.facebook.com/13174008655/photos/a.10151186177358656.477610.13174008655/10152330802333656/", 
+    "is_article": "1", 
+    "item_id": "1028121681", 
+    "time_added": "1441063572", 
+    "resolved_id": "1028121685", 
+    "given_url": "https://www.facebook.com/13174008655/photos/a.10151186177358656.477610.13174008655/10152330802333656/?type=1", 
+    "resolved_title": "Timeline Photos"
   }, 
   {
     "status": "0", 
