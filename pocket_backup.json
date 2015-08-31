@@ -57792,7 +57792,7 @@
     "time_updated": "1374208657", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "An API UX project. Send us feedback!  Browse our list of API Providers and follow the services you care about.", 
+    "excerpt": "API Changelog", 
     "image": {
       "item_id": "395592302", 
       "src": "https://www.apichangelog.com/static/img/ico-1.png", 
@@ -57802,7 +57802,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "43", 
+    "word_count": "2", 
     "images": {
       "1": {
         "src": "https://www.apichangelog.com/static/img/ico-1.png", 
@@ -57810,7 +57810,7 @@
         "height": "36", 
         "image_id": "1", 
         "item_id": "395592302", 
-        "caption": "Sign in with your GitHub account. -- Sign In", 
+        "caption": "Sign up with your GitHub account. -- Sign up", 
         "width": "36"
       }, 
       "3": {
@@ -57823,13 +57823,13 @@
         "width": "36"
       }, 
       "2": {
-        "src": "https://www.apichangelog.com/static/img/ico-arrow.png", 
+        "src": "https://www.apichangelog.com/static/img/ico-2.png", 
         "credit": "", 
-        "height": "0", 
+        "height": "36", 
         "image_id": "2", 
         "item_id": "395592302", 
-        "caption": "", 
-        "width": "0"
+        "caption": "Browse our list of API Providers and follow the services you care about. -- ", 
+        "width": "36"
       }
     }, 
     "given_title": "API Documentation Change Notifications - API Changelog by Runscope", 
@@ -57839,7 +57839,7 @@
     "time_added": "1374208657", 
     "resolved_id": "395592302", 
     "given_url": "https://www.apichangelog.com/", 
-    "resolved_title": "API Documentation Change Notifications API Changelog"
+    "resolved_title": "API Documentation Change Notifications: API Changelog"
   }, 
   {
     "status": "0", 
