@@ -30084,7 +30084,7 @@
       "width": "0"
     }, 
     "excerpt": "One day in the fall of 1981, eight men in their 70s stepped out of a van in front of a converted monastery in New Hampshire. They shuffled forward, a few of them arthritically stooped, a couple with canes. Then they passed through the door and entered a time warp.", 
-    "word_count": "5560", 
+    "word_count": "5564", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/26counterclockwise2/26counterclockwise2-master1050-v11.jpg", 
@@ -56623,7 +56623,7 @@
       "width": "0"
     }, 
     "excerpt": "ABD AL-RAHMAN III was an emir and caliph of C\u00f3rdoba in 10th-century Spain. He was an absolute ruler who lived in complete luxury. Here\u2019s how he assessed his life:  Fame, riches and pleasure beyond imagination. Sound great? He went on to write:", 
-    "word_count": "2208", 
+    "word_count": "2212", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720COVER/0720COVER-blog427.jpg", 
@@ -64919,7 +64919,7 @@
     "is_article": "0", 
     "image": {
       "item_id": "718611705", 
-      "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/005/original/Welcome_Field_Guide_Banner_resized.jpg?1428597611", 
+      "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/011/original/DK_banner.jpg?1437757391", 
       "height": "0", 
       "width": "0"
     }, 
@@ -64927,70 +64927,79 @@
     "word_count": "125", 
     "images": {
       "11": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/resources/cover_images/000/000/005/original/_Acumen.png?1411004270", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/stories/admin_images/000/000/050/original/Stacy_post_770x380_web.jpg?1413268217", 
         "credit": "", 
         "height": "0", 
         "image_id": "11", 
         "item_id": "718611705", 
-        "caption": "\nDesign Kit: The Course for Human-Centered Design\nA seven-week course that will introduce you to the concepts of human-centered design.\n", 
+        "caption": "\nCard Sort\nby Stacy Barnes\nAgriculture\n", 
         "width": "0"
       }, 
       "10": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/stories/admin_images/000/000/050/original/Stacy_post_770x380_web.jpg?1413268217", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/results/thumbnail_images/000/000/003/original/Moneythink_case-study.jpg?1409805225", 
         "credit": "", 
         "height": "0", 
         "image_id": "10", 
         "item_id": "718611705", 
-        "caption": "\nCard Sort\nby Stacy Barnes\nAgriculture\n", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "http://design-kit-staging.s3.amazonaws.com/resources/cover_images/000/000/005/original/mac4.png?1437784734", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "718611705", 
+        "caption": "\nDesign Kit: The Course for Human-Centered Design\nA seven-week course that will introduce you to the concepts of human-centered design.\n", 
         "width": "0"
       }, 
       "1": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/005/original/Welcome_Field_Guide_Banner_resized.jpg?1428597611", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/011/original/DK_banner.jpg?1437757391", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "718611705", 
-        "caption": "\n\nIntroducing the Field Guide\nNow available for purchase and PDF download, check out the Field Guide to Human-Centered Design and start solving problems like a designer!\n", 
+        "caption": "\n\nRegistration Is Open!\nJoin us for the next round of Design Kit: The Course for Human-Centered Design\u2014begins August 20th!\n", 
         "width": "0"
       }, 
       "3": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/008/original/Brilliance_D-Rev.jpg?1420475966", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/007/original/Rapid_Prototyping.jpg?1420475696", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "718611705", 
-        "caption": "\n\nBrilliance\nFind out how D-Rev used human-centered design to create a phototherapy device to combat jaundice.\n", 
+        "caption": "\n\nRapid Prototyping\nBuild your prototypes quickly, share them immediately, keep learning.\n", 
         "width": "0"
       }, 
       "2": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/007/original/Rapid_Prototyping.jpg?1420475696", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/005/original/Welcome_Field_Guide_Banner_resized.jpg?1428597611", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "718611705", 
-        "caption": "\n\nRapid Prototyping\nBuild your prototypes quickly, share them immediately, keep learning.\n", 
+        "caption": "\n\nIntroducing the Field Guide\nNow available for purchase and PDF download, check out the Field Guide to Human-Centered Design and start solving problems like a designer!\n", 
         "width": "0"
       }, 
       "5": {
-        "src": "http://d1r3w4d5z5a88i.cloudfront.net/assets/home-carousel-right-e71ee6604b6f0b7ae2981d589f3f6004.png", 
+        "src": "http://d1r3w4d5z5a88i.cloudfront.net/assets/home-carousel-left-f00c0e178fc4677bfec611af5091e4e9.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
         "item_id": "718611705", 
-        "caption": "\n\nIntroducing the Field Guide\nNow available for purchase and PDF download, check out the Field Guide to Human-Centered Design and start solving problems like a designer!\n", 
+        "caption": "\n\nRegistration Is Open!\nJoin us for the next round of Design Kit: The Course for Human-Centered Design\u2014begins August 20th!\n", 
         "width": "0"
       }, 
       "4": {
-        "src": "http://d1r3w4d5z5a88i.cloudfront.net/assets/home-carousel-left-34f555b1dfbc866509705375797a6dc1.png", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/slides/images/000/000/008/original/Brilliance_D-Rev.jpg?1420475966", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "718611705", 
-        "caption": "\n\nIntroducing the Field Guide\nNow available for purchase and PDF download, check out the Field Guide to Human-Centered Design and start solving problems like a designer!\n", 
+        "caption": "\n\nBrilliance\nFind out how D-Rev used human-centered design to create a phototherapy device to combat jaundice.\n", 
         "width": "0"
       }, 
       "7": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/procedures/cover_images/000/000/049/original/Draw_it_575x575.png?1409109702", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/procedures/cover_images/000/000/033/original/Cocreate_session_575x575.png?1409105610", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -64999,16 +65008,16 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/procedures/cover_images/000/000/033/original/Cocreate_session_575x575.png?1409105610", 
+        "src": "http://d1r3w4d5z5a88i.cloudfront.net/assets/home-carousel-right-59cdc7f378f39a73edb57363f6311c8e.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
         "item_id": "718611705", 
-        "caption": "", 
+        "caption": "\n\nRegistration Is Open!\nJoin us for the next round of Design Kit: The Course for Human-Centered Design\u2014begins August 20th!\n", 
         "width": "0"
       }, 
       "9": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/results/thumbnail_images/000/000/003/original/Moneythink_case-study.jpg?1409805225", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/mindsets/thumbnail_images/000/000/007/original/Gaby_04_web.jpg?1409803493", 
         "credit": "", 
         "height": "0", 
         "image_id": "9", 
@@ -65017,7 +65026,7 @@
         "width": "0"
       }, 
       "8": {
-        "src": "http://design-kit-staging.s3.amazonaws.com/mindsets/thumbnail_images/000/000/007/original/Gaby_04_web.jpg?1409803493", 
+        "src": "http://design-kit-staging.s3.amazonaws.com/procedures/cover_images/000/000/049/original/Draw_it_575x575.png?1409109702", 
         "credit": "", 
         "height": "0", 
         "image_id": "8", 
@@ -65030,11 +65039,11 @@
     "time_added": "1411157017", 
     "status": "0", 
     "sort_id": 1336, 
-    "resolved_url": "http://www.designkit.org", 
+    "resolved_url": "http://www.designkit.org/", 
     "item_id": "718611705", 
     "resolved_id": "718611705", 
     "given_url": "http://www.designkit.org/", 
-    "resolved_title": "Design Kit", 
+    "resolved_title": "Join us for the next round of Design Kit: The Course for Human-Centered Design\u2014begins August 20th!", 
     "is_index": "1", 
     "time_updated": "1411157017", 
     "time_favorited": "0", 
