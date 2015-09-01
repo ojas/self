@@ -13790,7 +13790,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3261", 
+    "word_count": "3260", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -63369,6 +63369,80 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Learn the Basics - zeromq", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "1026173266", 
+      "src": "http://i.kinja-img.com/gawker-media/image/upload/s--3nq9xZ-2--/c_fit,fl_progressive,q_80,w_636/1406508445258212784.jpg", 
+      "height": "396", 
+      "width": "636"
+    }, 
+    "excerpt": "Life on Mars may sound glamorous, but in reality it\u2019s going to mean a lot of time crammed in a small bubble with a few other humans. This could end very badly. So to practice, NASA has taken to sticking people in domes and keeping them isolated for months on end.", 
+    "word_count": "226", 
+    "images": {
+      "1": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--3nq9xZ-2--/c_fit,fl_progressive,q_80,w_636/1406508445258212784.jpg", 
+        "credit": "", 
+        "height": "396", 
+        "image_id": "1", 
+        "item_id": "1026173266", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "3": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--ScPX0dqt--/c_fit,fl_progressive,q_80,w_636/1406508445522895536.jpg", 
+        "credit": "", 
+        "height": "396", 
+        "image_id": "3", 
+        "item_id": "1026173266", 
+        "caption": "", 
+        "width": "636"
+      }, 
+      "2": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--pkeqVomX--/c_fit,fl_progressive,q_80,w_636/1406508445406260144.jpg", 
+        "credit": "", 
+        "height": "396", 
+        "image_id": "2", 
+        "item_id": "1026173266", 
+        "caption": "", 
+        "width": "636"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1441117349", 
+    "status": "0", 
+    "tags": {
+      "architecture": {
+        "item_id": "1026173266", 
+        "tag": "architecture"
+      }, 
+      "space": {
+        "item_id": "1026173266", 
+        "tag": "space"
+      }
+    }, 
+    "sort_id": 1945, 
+    "resolved_url": "http://gizmodo.com/nasa-just-sealed-six-people-in-a-dome-for-a-year-to-pra-1727399163?utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow", 
+    "authors": {
+      "32307858": {
+        "item_id": "1026173266", 
+        "url": "http://kinja.com/maddiestone", 
+        "author_id": "32307858", 
+        "name": "Maddie Stone"
+      }
+    }, 
+    "item_id": "1026173266", 
+    "resolved_id": "1026173266", 
+    "given_url": "http://gizmodo.com/nasa-just-sealed-six-people-in-a-dome-for-a-year-to-pra-1727399163?utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow", 
+    "resolved_title": "NASA Just Sealed Six People In a Dome For a Year to Practice Mars", 
+    "is_index": "0", 
+    "time_updated": "1441117380", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
     "has_image": "1"
   }, 
   {
