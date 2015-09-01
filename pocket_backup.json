@@ -13790,7 +13790,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3245", 
+    "word_count": "3252", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -64101,6 +64101,104 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "A 1980 Teenager\u2019s View of Social Media \u2014 Medium", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "0", 
+    "image": {
+      "item_id": "1028166328", 
+      "src": "http://i1.wp.com/www.thevalueofarchitecture.com/wp-content/uploads/2015/08/cfac311b9554be69c05ee09520713e5c1440004391.jpeg?resize=300%2C200", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://i1.wp.com/www.thevalueofarchitecture.com/wp-content/uploads/2015/08/cfac311b9554be69c05ee09520713e5c1440004391.jpeg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1028166328", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://i0.wp.com/www.thevalueofarchitecture.com/wp-content/uploads/2015/06/5903e4db3c0957a763fe2d17faba201d1435340874.jpg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1028166328", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://i0.wp.com/www.thevalueofarchitecture.com/wp-content/uploads/2015/08/908_featured.jpeg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1028166328", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://i0.wp.com/www.thevalueofarchitecture.com/wp-content/uploads/2013/08/fb25b4690dc315e69f44728bce4248411426091462.jpeg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "1028166328", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://i2.wp.com/www.thevalueofarchitecture.com/wp-content/uploads/2015/06/86c280d6bc24d661d70d885a7b56664a1435173508.jpeg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1028166328", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://i1.wp.com/www.thevalueofarchitecture.com/wp-content/uploads/2013/08/6dcefad813cddf82dbccf3ffb2120bb41433876096.jpeg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "1028166328", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://i1.wp.com/www.thevalueofarchitecture.com/wp-content/uploads/2013/08/c990aeb719c5d6d7c9c65347d88297661433783814.jpeg?resize=300%2C200", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "1028166328", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1441067765", 
+    "status": "0", 
+    "tags": {
+      "architecture": {
+        "item_id": "1028166328", 
+        "tag": "architecture"
+      }
+    }, 
+    "sort_id": 1943, 
+    "resolved_url": "http://www.thevalueofarchitecture.com/locations/austin/featured-architecture/", 
+    "item_id": "1028166328", 
+    "resolved_id": "1028166328", 
+    "given_url": "http://www.thevalueofarchitecture.com/locations/austin/featured-architecture/", 
+    "resolved_title": "Austin \u2013 Featured Properties", 
+    "is_index": "0", 
+    "time_updated": "1441067770", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Austin Featured Architecture | The Value of Architecture", 
     "has_image": "1"
   }, 
   {
