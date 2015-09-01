@@ -43245,7 +43245,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "496976553", 
-      "src": "http://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2013/12/7/1386426689660/The-Wire-creator-David-Si-008.jpg?w=300&q=85&auto=format&sharp=10&s=147303b097cd968bad009c31d8edae7d", 
+      "src": "https://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2013/12/7/1386426689660/The-Wire-creator-David-Si-008.jpg?w=300&q=85&auto=format&sharp=10&s=147303b097cd968bad009c31d8edae7d", 
       "height": "0", 
       "width": "0"
     }, 
@@ -43253,7 +43253,7 @@
     "word_count": "2938", 
     "images": {
       "1": {
-        "src": "http://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2013/12/7/1386426689660/The-Wire-creator-David-Si-008.jpg?w=300&q=85&auto=format&sharp=10&s=147303b097cd968bad009c31d8edae7d", 
+        "src": "https://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2013/12/7/1386426689660/The-Wire-creator-David-Si-008.jpg?w=300&q=85&auto=format&sharp=10&s=147303b097cd968bad009c31d8edae7d", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -104910,7 +104910,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
