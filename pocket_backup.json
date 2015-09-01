@@ -46648,7 +46648,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "http://kivy.org/images/os_mandriva.png", 
+        "src": "http://kivy.org/images/os_rpi.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -46665,17 +46665,8 @@
         "caption": "", 
         "width": "0"
       }, 
-      "7": {
-        "src": "http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "83675063", 
-        "caption": "", 
-        "width": "0"
-      }, 
       "6": {
-        "src": "http://kivy.org/images/os_rpi.png", 
+        "src": "http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -50051,7 +50042,7 @@
     "item_id": "940513980", 
     "resolved_id": "940513980", 
     "given_url": "http://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/", 
-    "resolved_title": "The Next Feature Fallacy : The fallacy that the next new feature will suddenly make people use your product at andrewchen", 
+    "resolved_title": "The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product", 
     "is_index": "0", 
     "time_updated": "1433255032", 
     "time_favorited": "0", 
@@ -51037,7 +51028,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "723", 
+    "word_count": "694", 
     "authors": {
       "11068992": {
         "item_id": "231514848", 
@@ -101408,7 +101399,7 @@
       "width": "600"
     }, 
     "excerpt": "Aluminum ingots waiting to be shipped from a processor. Financial institutions like Goldman Sachs have used industry pricing regulations to earn millions of dollars each year.\u00a0    MOUNT CLEMENS, Mich. \u2014 Hundreds of millions of times a day, thirsty Americans open a can of soda, beer or juice.", 
-    "word_count": "4716", 
+    "word_count": "5370", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/07/21/business/markets-pic1/markets-pic1-articleLarge.jpg", 
