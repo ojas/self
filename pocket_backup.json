@@ -6763,6 +6763,71 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1946, 
+    "time_updated": "1441119172", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Rated 4.5 out of 5\u00a0by 27 reviewers.  Rated 5 out of 5\u00a0by aj3464 Comfortable chairs! I bought 5 of these Metal Jackson Tub Chairs to go with my Round Blanca Table. Not only do they look great but they are surprisingly very comfortable! Love World Market selection & prices.", 
+    "image": {
+      "item_id": "1028790486", 
+      "src": "http://worldmarket.ugc.bazaarvoice.com/3428-en_us/375781/photo.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "695", 
+    "images": {
+      "1": {
+        "src": "http://worldmarket.ugc.bazaarvoice.com/3428-en_us/375781/photo.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1028790486", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://worldmarket.ugc.bazaarvoice.com/3428-en_us/160427/photo.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1028790486", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://worldmarket.ugc.bazaarvoice.com/3428-en_us/213386/photo.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1028790486", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://worldmarket.ugc.bazaarvoice.com/3428-en_us/144146/photo.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1028790486", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.worldmarket.com/product/mobile/jackson-metal-tub-chair.do?sortby=ourPicksAscend&page=5", 
+    "is_article": "1", 
+    "item_id": "1028790486", 
+    "time_added": "1441119169", 
+    "resolved_id": "1028790486", 
+    "given_url": "http://www.worldmarket.com/product/mobile/jackson-metal-tub-chair.do?sortby=ourPicksAscend&page=5", 
+    "resolved_title": "Metal Jackson Tub Chair"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 1421, 
     "time_updated": "1414680500", 
@@ -108007,6 +108072,80 @@
     "resolved_id": "439182023", 
     "given_url": "http://t.co/giQJLztWz6", 
     "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1947, 
+    "time_updated": "1441119201", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Why We Love It+ With a mid-century modern aesthetic and a sculptural look, our sophisticated chairs have comfortable molded seats with flexible backs and rounded edges. An incredible value, these unique chairs feature beech wood legs and metal support accents for added visual detail.", 
+    "image": {
+      "item_id": "1028790963", 
+      "src": "http://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/50055_XXX_v2.tif&wid=500&cvt=jpeg", 
+      "height": "300", 
+      "width": "300"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "44", 
+    "images": {
+      "1": {
+        "src": "http://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/50055_XXX_v2.tif&wid=500&cvt=jpeg", 
+        "credit": "", 
+        "height": "300", 
+        "image_id": "1", 
+        "item_id": "1028790963", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "3": {
+        "src": "http://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/50055_XXX_v4.tif&wid=500&cvt=jpeg", 
+        "credit": "", 
+        "height": "300", 
+        "image_id": "3", 
+        "item_id": "1028790963", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "2": {
+        "src": "http://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/50055_XXX_v3.tif&wid=500&cvt=jpeg", 
+        "credit": "", 
+        "height": "300", 
+        "image_id": "2", 
+        "item_id": "1028790963", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "5": {
+        "src": "http://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/50055_XXX_v6.tif&wid=500&cvt=jpeg", 
+        "credit": "", 
+        "height": "300", 
+        "image_id": "5", 
+        "item_id": "1028790963", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "4": {
+        "src": "http://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/50055_XXX_v5.tif&wid=500&cvt=jpeg", 
+        "credit": "", 
+        "height": "300", 
+        "image_id": "4", 
+        "item_id": "1028790963", 
+        "caption": "", 
+        "width": "300"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.worldmarket.com/product/mobile/pagoda+blue+evie+molded+dining+chairs,+set+of+2.do?sortby=ourPicksAscend&page=5", 
+    "is_article": "1", 
+    "item_id": "1028790963", 
+    "time_added": "1441119199", 
+    "resolved_id": "1028790963", 
+    "given_url": "http://www.worldmarket.com/product/mobile/pagoda+blue+evie+molded+dining+chairs,+set+of+2.do?sortby=ourPicksAscend&page=5", 
+    "resolved_title": "Pagoda Blue Evie Molded Dining Chairs, Set of 2"
   }, 
   {
     "status": "0", 
