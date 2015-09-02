@@ -99486,27 +99486,63 @@
     "is_article": "1", 
     "image": {
       "item_id": "225276912", 
-      "src": "http://cdn.theatlantic.com/static/newsroom/img/2012/09/18/writing-desk/lead.jpg?n191br", 
-      "height": "432", 
-      "width": "570"
+      "src": "http://cdn.theatlantic.com/assets/media/img/2012/09/18/writing-desk/lead_large.jpg?1429717163", 
+      "height": "0", 
+      "width": "0"
     }, 
-    "excerpt": "Then, in 2001, came No Child Left Behind. The program\u2019s federally mandated tests assess two subjects\u2014math and reading\u2014and the familiar adage \u201cWhat gets tested gets taught\u201d has turned out to be true.", 
-    "word_count": "506", 
+    "excerpt": "In 2009, when Monica DiBella entered New Dorp, a notorious public high school on Staten Island, her academic future was cloudy. Monica had struggled to read in early childhood, and had repeated first grade.", 
+    "word_count": "4079", 
     "images": {
       "1": {
-        "src": "http://cdn.theatlantic.com/static/newsroom/img/2012/09/18/writing-desk/lead.jpg?n191br", 
-        "credit": "\n                                Kyoto Hamada            ", 
-        "height": "432", 
+        "src": "http://cdn.theatlantic.com/assets/media/img/2012/09/18/writing-desk/lead_large.jpg?1429717163", 
+        "credit": "Kyoto Hamada", 
+        "height": "0", 
         "image_id": "1", 
         "item_id": "225276912", 
         "caption": "", 
-        "width": "570"
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://cdn.theatlantic.com/assets/media/img/2012/09/14/1012%20ED%20Ripley%20DC/mag-article-small.jpg?macz38", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "225276912", 
+        "caption": "", 
+        "width": "0"
       }, 
       "2": {
-        "src": "http://cdn.theatlantic.com/assets/media/img/2012/09/28/monica-top.jpg", 
+        "src": "http://cdn.theatlantic.com/assets/media/img/2012/09/19/ed-graphic-cutaway1/mag-article-small.jpg?mam18e", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
+        "item_id": "225276912", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://cdn.theatlantic.com/assets/media/img/2012/09/19/goldstein/mag-article-small.jpg?malrps", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "225276912", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://cdn.theatlantic.com/assets/media/img/2012/09/14/1012%20ED%20Elie%20Homeschool/mag-article-small.jpg?macz49", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "225276912", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://cdn.theatlantic.com/assets/media/img/2012/09/28/monica-top.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
         "item_id": "225276912", 
         "caption": "", 
         "width": "0"
@@ -99535,7 +99571,7 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "The Writing Revolution - Peg Tyre - The Atlantic", 
-    "has_image": "0"
+    "has_image": "1"
   }, 
   {
     "status": "0", 
