@@ -84396,19 +84396,27 @@
     "time_updated": "1399999148", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
+    "excerpt": "IN Mikhail Bulgakov\u2019s\u00a0novel \u201cThe Master and Margarita,\u201d the protagonist, a writer, burns a manuscript in a moment of despair, only to find out later from the Devil that \u201cmanuscripts don\u2019t burn.", 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "808", 
+    "authors": {
+      "2400998": {
+        "item_id": "547859179", 
+        "url": "", 
+        "author_id": "2400998", 
+        "name": "Edward Frenkel"
+      }
+    }, 
     "given_title": "Is the Universe a Simulation? - NYTimes.com", 
     "resolved_url": "http://www.nytimes.com/2014/02/16/opinion/sunday/is-the-universe-a-simulation.html", 
-    "is_article": "0", 
+    "is_article": "1", 
     "item_id": "547859179", 
     "time_added": "1392681910", 
     "resolved_id": "547304274", 
     "given_url": "http://www.nytimes.com/2014/02/16/opinion/sunday/is-the-universe-a-simulation.html?action=click&contentCollection=Media&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article&_r=0", 
-    "resolved_title": ""
+    "resolved_title": "Is the Universe a Simulation?"
   }, 
   {
     "status": "0", 
