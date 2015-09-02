@@ -99132,6 +99132,62 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1951, 
+    "time_updated": "1441202361", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "PG-Strom is an extension of PostgreSQL, works as custom-scan provider. It was designed to off-load several CPU intensive workloads to GPU devices, to utilize its massive parallel execution capability.", 
+    "image": {
+      "item_id": "136357168", 
+      "src": "https://wiki.postgresql.org/images/d/d7/PGStrom_Fig_ArchOverview.png", 
+      "height": "239", 
+      "width": "640"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1667", 
+    "images": {
+      "1": {
+        "src": "https://wiki.postgresql.org/images/d/d7/PGStrom_Fig_ArchOverview.png", 
+        "credit": "", 
+        "height": "239", 
+        "image_id": "1", 
+        "item_id": "136357168", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "3": {
+        "src": "https://wiki.postgresql.org/images/6/61/PGStrom_Fig_ParallelApproach.png", 
+        "credit": "", 
+        "height": "313", 
+        "image_id": "3", 
+        "item_id": "136357168", 
+        "caption": "", 
+        "width": "384"
+      }, 
+      "2": {
+        "src": "https://wiki.postgresql.org/images/thumb/5/50/PGStrom_Fig_MicroBenchGpuJoin.png/512px-PGStrom_Fig_MicroBenchGpuJoin.png", 
+        "credit": "", 
+        "height": "245", 
+        "image_id": "2", 
+        "item_id": "136357168", 
+        "caption": "", 
+        "width": "512"
+      }
+    }, 
+    "given_title": "PGStrom - PostgreSQL wiki", 
+    "resolved_url": "https://wiki.postgresql.org/wiki/PGStrom", 
+    "is_article": "1", 
+    "item_id": "136357168", 
+    "time_added": "1441202361", 
+    "resolved_id": "136357168", 
+    "given_url": "https://wiki.postgresql.org/wiki/PGStrom", 
+    "resolved_title": "PGStrom"
+  }, 
+  {
+    "status": "0", 
     "is_index": "0", 
     "sort_id": 587, 
     "time_updated": "1371307737", 
