@@ -61494,6 +61494,44 @@
     "resolved_title": "Experimenting with CoreOS, confd, etcd, fleet, and CloudFormation"
   }, 
   {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1955, 
+    "time_updated": "1441292113", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Egeria is a collaborative multidimensional web-based spreadsheet service. It can be used to quickly implement a wide range of planning, budgeting or reporting solutions, create financial models and perform what-if simulations.", 
+    "image": {
+      "item_id": "962416358", 
+      "src": "http://egeria.rocks/img/finance_prod_income.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "519", 
+    "images": {
+      "1": {
+        "src": "http://egeria.rocks/img/finance_prod_income.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "962416358", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Egeria planning", 
+    "resolved_url": "http://egeria.rocks/", 
+    "is_article": "0", 
+    "item_id": "962416358", 
+    "time_added": "1441292113", 
+    "resolved_id": "962416358", 
+    "given_url": "http://egeria.rocks/", 
+    "resolved_title": "Egeria planning"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "287714017", 
@@ -71732,6 +71770,72 @@
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Understanding the National Debt and Budget Deficit - YouTube", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "https://www.youtube.com/embed/yl-tNLkZzoU?rel=0", 
+        "vid": "yl-tNLkZzoU", 
+        "video_id": "1", 
+        "height": "383", 
+        "width": "680", 
+        "item_id": "939103264", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "939103264", 
+      "src": "http://cdn.indiewire.com/dims4/INDIEWIRE/17cdef5/2147483647/thumbnail/680x478/quality/75/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fd0%2Fb6%2F5088901145a489b0c4c287965eeb%2Fcreep.jpg", 
+      "height": "478", 
+      "width": "680"
+    }, 
+    "excerpt": "Finally, director Patrick Brice's 2014 SXSW horror hit comes to iTunes June 23rd, and Netflix July 14th. We talk to the producers about the film and the imminent franchise it has spawned.", 
+    "word_count": "450", 
+    "images": {
+      "1": {
+        "src": "http://cdn.indiewire.com/dims4/INDIEWIRE/17cdef5/2147483647/thumbnail/680x478/quality/75/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fd0%2Fb6%2F5088901145a489b0c4c287965eeb%2Fcreep.jpg", 
+        "credit": "", 
+        "height": "478", 
+        "image_id": "1", 
+        "item_id": "939103264", 
+        "caption": "Mark Duplass in 'Creep'", 
+        "width": "680"
+      }, 
+      "2": {
+        "src": "http://cdn.indiewire.com/dims4/INDIEWIRE/539095d/2147483647/crop/508x357%2B102%2B0/resize/680x478/quality/75/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fb1%2F48%2F76ed623549ad9d6472ed6131809f%2Fjason-blum-and-mark-duplass-of-creep.13.50%20PM.png", 
+        "credit": "", 
+        "height": "478", 
+        "image_id": "2", 
+        "item_id": "939103264", 
+        "caption": "Jason Blum and Mark Duplass of 'Creep'", 
+        "width": "680"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1441292116", 
+    "status": "0", 
+    "sort_id": 1956, 
+    "resolved_url": "http://blogs.indiewire.com/thompsononhollywood/watch-mark-duplass-and-jason-blum-talk-found-footage-horror-creep-hits-vod-in-june-20150529", 
+    "authors": {
+      "24801183": {
+        "item_id": "939103264", 
+        "url": "http://blogs.indiewire.com/thompsononhollywood/author/anne-thompson", 
+        "author_id": "24801183", 
+        "name": "Anne Thompson"
+      }
+    }, 
+    "item_id": "939103264", 
+    "resolved_id": "939103264", 
+    "given_url": "http://blogs.indiewire.com/thompsononhollywood/watch-mark-duplass-and-jason-blum-talk-found-footage-horror-creep-hits-vod-in-june-20150529", 
+    "resolved_title": "Watch: Mark Duplass and Jason Blum Talk Found Footage Horror 'Creep,' Hits VOD in June", 
+    "is_index": "0", 
+    "time_updated": "1441292116", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Watch: Mark Duplass and Jason Blum Talk Found Footage Hor | Thompson on Hol", 
     "has_image": "1"
   }, 
   {
