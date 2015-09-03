@@ -83003,6 +83003,35 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1954, 
+    "time_updated": "1441248735", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Set your pickup & delivery timeframes.  Choose a transporter & book securely online.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "25", 
+    "authors": {
+      "758959": {
+        "item_id": "1030420477", 
+        "url": "", 
+        "author_id": "758959", 
+        "name": "Dealer"
+      }
+    }, 
+    "given_title": "Porsche 911 Carrera | eBay", 
+    "resolved_url": "http://www.ebay.com/itm/Porsche-911-Carrera-/141762432188?forcerrptr=true&hash=item2101b30cbc&item=141762432188", 
+    "is_article": "1", 
+    "item_id": "1030420477", 
+    "time_added": "1441248733", 
+    "resolved_id": "1030420477", 
+    "given_url": "http://www.ebay.com/itm/Porsche-911-Carrera-/141762432188?forcerrptr=true&hash=item2101b30cbc&item=141762432188", 
+    "resolved_title": "Details about 1995 Porsche 911 Carrera"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 376, 
     "time_updated": "1366152162", 
     "time_favorited": "0", 
