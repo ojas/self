@@ -43674,6 +43674,52 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "1030408459", 
+      "src": "http://www.govplanet.com/n_images/endofgallery-22.png", 
+      "height": "480", 
+      "width": "640"
+    }, 
+    "excerpt": "Within 3 business days after the auction, the buyer must submit full payment, including applicable taxes and fees to avoid late fees. For this item, payment is due on or before .  This item is subject to Iowa sales tax.", 
+    "word_count": "114", 
+    "images": {
+      "1": {
+        "src": "http://www.govplanet.com/n_images/endofgallery-22.png", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "1", 
+        "item_id": "1030408459", 
+        "caption": "", 
+        "width": "640"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1441247571", 
+    "status": "0", 
+    "sort_id": 1953, 
+    "resolved_url": "http://www.govplanet.com/for-sale/Trailers-Tanker-1991-Eastern-Technologies-T%2FA-Tanker-Trailer-Iowa/592717", 
+    "authors": {
+      "31458": {
+        "item_id": "1030408459", 
+        "url": "", 
+        "author_id": "31458", 
+        "name": "CATEGORY"
+      }
+    }, 
+    "item_id": "1030408459", 
+    "resolved_id": "1030408491", 
+    "given_url": "http://www.govplanet.com/for-sale/Trailers-Tanker-1991-Eastern-Technologies-T%2FA-Tanker-Trailer-Iowa/592717?h=5000%2Cct%7C31%2Cc%7C2255&rr=1&hitprm=c%3D2255,ct%3D31&pnLink=yes", 
+    "resolved_title": "Surplus 1991 Eastern Technologies T/A Tanker Trailer in Johnston, Iowa, United States (GovPlanet Item #592717)", 
+    "is_index": "0", 
+    "time_updated": "1441247574", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Surplus 1991 Eastern Technologies T/A Tanker Trailer in Johnston, Iowa, Uni", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "554126403", 
       "src": "http://williamnewton.co/blog/wp-content/uploads/2014/02/sketchbook-e.jpg", 
       "height": "489", 
