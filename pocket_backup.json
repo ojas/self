@@ -3734,6 +3734,27 @@
     "resolved_title": "I Heart Chaos \u2014 \u201cNow, for the first time in its billions of years..."
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1958, 
+    "time_updated": "1441389754", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Wonder if it come in touch up paint? I just need a few dabbles, not sure it its refinishing the entire rim?  www.paintscratch.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "166", 
+    "given_title": "Color code for Zanardi rims? [Archive] - NSX Prime", 
+    "resolved_url": "http://www.nsxprime.com/forum/archive/index.php/t-109367.html", 
+    "is_article": "1", 
+    "item_id": "1031696259", 
+    "time_added": "1441388799", 
+    "resolved_id": "1031696259", 
+    "given_url": "http://www.nsxprime.com/forum/archive/index.php/t-109367.html", 
+    "resolved_title": "Color code for Zanardi rims? [Archive]"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "689836321", 
@@ -57311,6 +57332,55 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/UbxfH7oE0q8?wmode=transparent&rel=0&autohide=1&enablejsapi=1&showinfo=1&list=PLsgqwTEPG-_09giFCbpBYsHgSnTEq9JRJ", 
+        "vid": "UbxfH7oE0q8", 
+        "video_id": "1", 
+        "height": "450", 
+        "width": "800", 
+        "item_id": "1031681594", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "1031681594", 
+      "src": "http://img.youtube.com/vi/UbxfH7oE0q8/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/UbxfH7oE0q8/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "1031681594", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1441388138", 
+    "status": "0", 
+    "sort_id": 1957, 
+    "resolved_url": "http://thegarage.jalopnik.com/how-to-legally-import-the-car-of-your-dreams-1728738126", 
+    "item_id": "1031681594", 
+    "resolved_id": "1031681594", 
+    "given_url": "http://thegarage.jalopnik.com/how-to-legally-import-the-car-of-your-dreams-1728738126", 
+    "resolved_title": "How To Legally Import The Car Of Your Dreams", 
+    "is_index": "0", 
+    "time_updated": "1441388966", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "How To Legally Import The Car Of Your Dreams", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "669197592", 
@@ -107432,6 +107502,27 @@
     "resolved_id": "176791863", 
     "given_url": "https://www.balancedpayments.com/", 
     "resolved_title": "Thank you for your\nyears of support"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1959, 
+    "time_updated": "1441389814", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "This Genuine Factory Bumper & Components fits your 2001 ACURA NSX Base V6 3.2 Liter GAS engine. The Original Equipment Manufacturer or OEM part number is 71107SL0000YG. We also offer a wide variety of other parts for your ACURA NSX.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "217", 
+    "given_title": "Parts.com\u00ae | ACURA COVER, FR. R510 PartNumber 71107SL0000YG", 
+    "resolved_url": "https://parts.com/index.cfm?fuseaction=store.PartInfo&PartNumber=71107SL0000YG&VehicleID=91910&diagram=4809010&Title%3D-1991-01-hook-red-COVER", 
+    "is_article": "1", 
+    "item_id": "1031696867", 
+    "time_added": "1441388836", 
+    "resolved_id": "1031696867", 
+    "given_url": "https://parts.com/index.cfm?fuseaction=store.PartInfo&PartNumber=71107SL0000YG&VehicleID=91910&diagram=4809010&Title%3D-1991-01-hook-red-COVER", 
+    "resolved_title": "ACURA COVER, FR. R510 PartNumber 71107SL0000YG"
   }, 
   {
     "is_article": "1", 
