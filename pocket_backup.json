@@ -464,7 +464,7 @@
       "width": "400"
     }, 
     "excerpt": "Welcome to a massive list of\u00a0psychological pricing strategies.  Whether you\u2019re marketing a new product, selling items on eBay, or negotiating a deal on your house, you\u2019ll learn how to choose a price that will maximize your profit.", 
-    "word_count": "6673", 
+    "word_count": "6663", 
     "images": {
       "24": {
         "src": "http://www.nickkolenda.com/wp-content/uploads/2015/04/pricing-strategy-s7-t18.jpg", 
@@ -4715,7 +4715,7 @@
     "time_updated": "1372743851", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": ".logged_out_page_big_signup .ContentWrapper .HomeLoggedOutBigSignup .container .signup .SignupFormBigButtonsOneClick .stacked_form .text{float:right}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.", 
+    "excerpt": ".logged_out_page_big_signup .ContentWrapper .HomeLoggedOutBigSignup .container .signup .SignupFormBigButtonsOneClick .connect_buttons_row .facebook_button:before{width:24px;height:24px;background-size:24px 24px;background-image:url(//qsf.is.quoracdn.net/-d153e4281adcbeb2.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
@@ -49030,6 +49030,55 @@
     }
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/embed/Pa1iPt9PWkw?wmode=transparent&rel=0&autohide=1&enablejsapi=1&showinfo=0", 
+        "vid": "Pa1iPt9PWkw", 
+        "video_id": "1", 
+        "height": "450", 
+        "width": "800", 
+        "item_id": "1031718105", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "1031718105", 
+      "src": "http://img.youtube.com/vi/Pa1iPt9PWkw/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/Pa1iPt9PWkw/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "1031718105", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1441399813", 
+    "status": "0", 
+    "sort_id": 1960, 
+    "resolved_url": "http://lanesplitter.jalopnik.com/heres-proof-that-supermotos-are-the-miata-of-the-moto-w-1728507957?rev=1441389239137", 
+    "item_id": "1031718105", 
+    "resolved_id": "1031718105", 
+    "given_url": "http://lanesplitter.jalopnik.com/heres-proof-that-supermotos-are-the-miata-of-the-moto-w-1728507957?rev=1441389239137", 
+    "resolved_title": "Here's Proof That Supermotos Are The Miata Of The Moto World", 
+    "is_index": "0", 
+    "time_updated": "1441399814", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1723, 
@@ -87780,7 +87829,7 @@
       "width": "0"
     }, 
     "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems:  A look back at how White House advisers have tried to fix the botched health care website.               WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
-    "word_count": "6344", 
+    "word_count": "894", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
