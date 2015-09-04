@@ -4849,7 +4849,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "1020934923", 
-      "src": "http://sebastianraschka.com/Images/2015_why_python/the_general_problem.png", 
+      "src": "http://sebastianraschka.com/Images_old/2015_why_python/the_general_problem.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -4857,7 +4857,7 @@
     "word_count": "4925", 
     "images": {
       "1": {
-        "src": "http://sebastianraschka.com/Images/2015_why_python/the_general_problem.png", 
+        "src": "http://sebastianraschka.com/Images_old/2015_why_python/the_general_problem.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -4866,7 +4866,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://sebastianraschka.com/Images/2015_why_python/heatmap.png", 
+        "src": "http://sebastianraschka.com/Images_old/2015_why_python/heatmap.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -4875,7 +4875,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://sebastianraschka.com/Images/2015_why_python/automation.png", 
+        "src": "http://sebastianraschka.com/Images_old/2015_why_python/automation.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -4884,7 +4884,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "http://sebastianraschka.com/Images/2015_why_python/tiobe.png", 
+        "src": "http://sebastianraschka.com/Images_old/2015_why_python/tiobe.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -4893,7 +4893,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://sebastianraschka.com/Images/2015_why_python/julia_benchmark.png", 
+        "src": "http://sebastianraschka.com/Images_old/2015_why_python/julia_benchmark.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -4902,7 +4902,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "http://sebastianraschka.com/Images/2015_why_python/python.png", 
+        "src": "http://sebastianraschka.com/Images_old/2015_why_python/python.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -4911,7 +4911,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://sebastianraschka.com/Images/2015_why_python/spectrum.jpg", 
+        "src": "http://sebastianraschka.com/Images_old/2015_why_python/spectrum.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
