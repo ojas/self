@@ -63235,19 +63235,11 @@
     "time_updated": "1406767187", 
     "time_favorited": "0", 
     "time_read": "1406767187", 
-    "excerpt": "Backend Architectures Keywords and References. #wiki backend-architectures.", 
+    "excerpt": "ror, scala, jetty, erlang, thrift, mongrel, comet server, my-sql, memchached, varnish, kestrel(mq), starling, gizzard, cassandra, hadoop, vertica, munin, nagios, awstats", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "412", 
-    "authors": {
-      "9901992": {
-        "item_id": "383288811", 
-        "url": "https://gist.github.com/ragingwind", 
-        "author_id": "9901992", 
-        "name": "ragingwind"
-      }
-    }, 
+    "word_count": "403", 
     "given_title": "Backend Architectures Keywords and References. #wiki", 
     "resolved_url": "https://gist.github.com/ragingwind/5840075", 
     "is_article": "1", 
@@ -63255,7 +63247,7 @@
     "time_added": "1372096970", 
     "resolved_id": "383288811", 
     "given_url": "https://gist.github.com/ragingwind/5840075", 
-    "resolved_title": "backend-architectures.md", 
+    "resolved_title": "Backend Architectures Keywords and References. #wiki \u00b7 GitHub", 
     "tags": {
       "webdev": {
         "item_id": "383288811", 
