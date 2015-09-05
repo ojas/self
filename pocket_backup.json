@@ -105587,50 +105587,25 @@
     "resolved_title": "Roundabouts"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "353401383", 
-      "src": "http://static01.nyt.com/images/2013/05/12/health/12well_physed/12well_physed-articleInline.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "For a greater challenge, see \u201cThe Advanced 7-Minute Workout.\u201d And download our new, free 7-Minute Workout App for your phone, tablet or other device.  Exercise science is a fine and intellectually fascinating thing.", 
-    "word_count": "353", 
-    "images": {
-      "1": {
-        "src": "http://static01.nyt.com/images/2013/05/12/health/12well_physed/12well_physed-articleInline.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "353401383", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1368210295", 
     "status": "0", 
-    "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
-    "authors": {
-      "2476517": {
-        "item_id": "353401383", 
-        "url": "", 
-        "author_id": "2476517", 
-        "name": "GRETCHEN REYNOLDS"
-      }
-    }, 
-    "item_id": "353401383", 
-    "resolved_id": "353364816", 
-    "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
-    "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
     "is_index": "0", 
+    "sort_id": 449, 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "has_image": "1"
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "is_article": "0", 
+    "item_id": "353401383", 
+    "time_added": "1368210295", 
+    "resolved_id": "353364816", 
+    "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
