@@ -68340,6 +68340,115 @@
   {
     "is_article": "1", 
     "image": {
+      "item_id": "1033094145", 
+      "src": "https://s3.amazonaws.com/awscomputeblogmedia/rose.png", 
+      "height": "0", 
+      "width": "200"
+    }, 
+    "excerpt": "At LinuxCon/ContainerCon 2015 I presented a demo-driven talk titled, \u201cMicroservices without the Servers\u201d.", 
+    "word_count": "3871", 
+    "images": {
+      "1": {
+        "src": "https://s3.amazonaws.com/awscomputeblogmedia/rose.png", 
+        "credit": "red rose", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1033094145", 
+        "caption": "Sample Image", 
+        "width": "200"
+      }, 
+      "3": {
+        "src": "https://s3.amazonaws.com/awscomputeblogmedia/ImageProcessingAndroidApp.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1033094145", 
+        "caption": " \n          Android Emulator Displaying the AWS Lambda Icon Image \n         ", 
+        "width": "200"
+      }, 
+      "2": {
+        "src": "https://s3.amazonaws.com/awscomputeblogmedia/bluerose.png", 
+        "credit": "negative of red rose sample image", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1033094145", 
+        "caption": "Blue Rose", 
+        "width": "200"
+      }, 
+      "5": {
+        "src": "https://s3.amazonaws.com/awscomputeblogmedia/ImageProcessingAndroidAppResult.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "1033094145", 
+        "caption": " \n          Result of Applying the \u2018Negate\u2019 Filter to the AWS Lambda Icon \n         ", 
+        "width": "200"
+      }, 
+      "4": {
+        "src": "https://s3.amazonaws.com/awscomputeblogmedia/ImageProcessingAndroidAppFilterSelection.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1033094145", 
+        "caption": " \n          Selecting the \u2018Negate\u2019 Image Conversion Filter \n         ", 
+        "width": "200"
+      }, 
+      "7": {
+        "src": "https://s3.amazonaws.com/awscomputeblogmedia/Cross-Region+Auto-Deployer.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "1033094145", 
+        "caption": " \n          A Serverless Mechanism to Deploy Lambda Functions in Two Additional Regions \n         ", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://s3.amazonaws.com/awscomputeblogmedia/ImageProcessingAndroidAppSepiaSeattle.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "1033094145", 
+        "caption": " \n          A Sepia-toned Seattle Skyline \n         ", 
+        "width": "200"
+      }, 
+      "8": {
+        "src": "https://s3.amazonaws.com/awscomputeblogmedia/Serverless+Unit+and+Load+Testing.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "1033094145", 
+        "caption": " \n          A Serverless Unit and Load Test Harness \n         ", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1441551787", 
+    "status": "0", 
+    "sort_id": 1965, 
+    "resolved_url": "https://aws.amazon.com/blogs/compute/microservices-without-the-servers/", 
+    "authors": {
+      "3840857": {
+        "item_id": "1033094145", 
+        "url": "", 
+        "author_id": "3840857", 
+        "name": "Tim Wagner"
+      }
+    }, 
+    "item_id": "1033094145", 
+    "resolved_id": "1033094145", 
+    "given_url": "https://aws.amazon.com/blogs/compute/microservices-without-the-servers/", 
+    "resolved_title": "AWS Compute Blog", 
+    "is_index": "0", 
+    "time_updated": "1441551787", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Microservices without the Servers | AWS Compute Blog", 
+    "has_image": "1"
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
       "item_id": "469161667", 
       "src": "http://corcodilos.com/blog/wp-content/uploads/2013/10/wtf.jpg", 
       "height": "187", 
