@@ -24308,6 +24308,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 1962, 
+    "time_updated": "1441509465", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "post id: 5194236462 posted: 2015-08-27 11:06pm email to friend \u2665 best of [?]", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "9", 
+    "given_title": "yamaha fzr 600", 
+    "resolved_url": "https://austin.craigslist.org/mcy/5194236462.html", 
+    "is_article": "0", 
+    "item_id": "1032956873", 
+    "time_added": "1441509449", 
+    "resolved_id": "1032956873", 
+    "given_url": "https://austin.craigslist.org/mcy/5194236462.html", 
+    "resolved_title": "yamaha fzr 600 - $2500 (United States)"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 538, 
     "time_updated": "1370397006", 
     "time_favorited": "0", 
@@ -92797,6 +92818,56 @@
     "resolved_id": "394329922", 
     "given_url": "http://blog.tabini.ca/the-7-bit-internet/", 
     "resolved_title": ""
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1963, 
+    "time_updated": "1441509629", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "< > 1995 taurus sho fuel: gasodometer: 133000title status: cleantransmission: manual For sale is a 95 SHO with 133k, car is a MTX with the 3.0 Yamaha engine. car has a bramd new clutch, AC & heater work great.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "62", 
+    "images": {
+      "3": {
+        "src": "http://images.craigslist.org/00R0R_aX02GcvsusS_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1032958229", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://images.craigslist.org/00B0B_lSELXuqhiE5_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1032958229", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://images.craigslist.org/00k0k_ikLIL6yr4OX_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1032958229", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "1995 Taurus SHO", 
+    "resolved_url": "https://austin.craigslist.org/cto/5205611929.html", 
+    "is_article": "1", 
+    "item_id": "1032958229", 
+    "time_added": "1441509612", 
+    "resolved_id": "1032958229", 
+    "given_url": "https://austin.craigslist.org/cto/5205611929.html", 
+    "resolved_title": "1995 Taurus SHO - $3700"
   }, 
   {
     "status": "0", 
