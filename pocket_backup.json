@@ -28394,6 +28394,27 @@
     "resolved_title": "Start to Finish - Serving Django with uWSGI/Nginx on EC2"
   }, 
   {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1964, 
+    "time_updated": "1441510305", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "ggvis is a data visualization package for R that renders web-based visualizations using Vega. It features a syntax similar in spirit to ggplot2.  Vincent allows you to build Vega specifications in a Pythonic way.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "259", 
+    "given_title": "Vega", 
+    "resolved_url": "http://vega.github.io", 
+    "is_article": "0", 
+    "item_id": "889286410", 
+    "time_added": "1441510305", 
+    "resolved_id": "889286410", 
+    "given_url": "http://vega.github.io/", 
+    "resolved_title": "Vega"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "756236095", 
