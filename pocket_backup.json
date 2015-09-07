@@ -105716,22 +105716,22 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 925, 
     "time_updated": "1389891375", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Carmel has become internationally known for its roundabout network. Since the late 1990\u2019s Camel has been building and replacing signalized intersections with roundabouts. Carmel now has more than 60 roundabouts, more than any other city in the United States.", 
+    "excerpt": "", 
     "image": {
       "item_id": "450619159", 
       "src": "http://www.carmel.in.gov/modules/showimage.aspx?imageid=720", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "371", 
+    "word_count": "0", 
     "images": {
       "1": {
         "src": "http://www.carmel.in.gov/modules/showimage.aspx?imageid=720", 
@@ -105772,12 +105772,12 @@
     }, 
     "given_title": "City of Carmel, IN : Roundabouts", 
     "resolved_url": "http://www.carmel.in.gov/index.aspx?page=123", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "450619159", 
     "time_added": "1389891375", 
     "resolved_id": "450619159", 
     "given_url": "http://www.carmel.in.gov/index.aspx?page=123", 
-    "resolved_title": "Roundabouts"
+    "resolved_title": ""
   }, 
   {
     "is_article": "1", 
