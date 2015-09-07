@@ -6434,7 +6434,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "17615", 
+    "word_count": "17668", 
     "images": {
       "1": {
         "src": "http://backbonejs.org/docs/images/backbone.png", 
@@ -6501,13 +6501,13 @@
       }
     }, 
     "given_title": "Backbone.js", 
-    "resolved_url": "http://backbonejs.org/#Getting-started", 
+    "resolved_url": "http://backbonejs.org/", 
     "is_article": "0", 
     "item_id": "117329770", 
     "time_added": "1368720828", 
     "resolved_id": "117329770", 
     "given_url": "http://backbonejs.org/", 
-    "resolved_title": "Backbone.js (1.2.2)"
+    "resolved_title": "Backbone.js (1.2.3)"
   }, 
   {
     "is_article": "1", 
