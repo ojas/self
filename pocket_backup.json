@@ -37975,6 +37975,107 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1966, 
+    "time_updated": "1441716128", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Need to find your new favorite men\u2019s jeans fit? American Eagle Outfitters has the denim you\u2019ll love. Whether you want a more relaxed jean or one that\u2019s skinny and tapered, you can find it at America\u2019s favorite denim brand.", 
+    "image": {
+      "item_id": "1035253903", 
+      "src": "https://pics.ae.com/is/image/aeo/1112_3554_916_l1?fit=crop&wid=330&hei=496&.qlt=50,0", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "315", 
+    "images": {
+      "1": {
+        "src": "https://pics.ae.com/is/image/aeo/1112_3554_916_l1?fit=crop&wid=330&hei=496&.qlt=50,0", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1035253903", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://pics.ae.com/is/image/aeo/1112_3364_073_l1?fit=crop&wid=330&hei=496&.qlt=50,0", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1035253903", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://pics.ae.com/is/image/aeo/1112_3553_738_l1?fit=crop&wid=330&hei=496&.qlt=50,0", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1035253903", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://pics.ae.com/is/image/aeo/0119_3589_981_l1?fit=crop&wid=330&hei=496&.qlt=50,0", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "1035253903", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://pics.ae.com/is/image/aeo/0119_3423_912_l1?fit=crop&wid=330&hei=496&.qlt=50,0", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1035253903", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://pics.ae.com/is/image/aeo/0119_3588_952_l1?fit=crop&wid=330&hei=496&.qlt=50,0", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "1035253903", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://pics.ae.com/is/image/aeo/0119_3590_073_l1?fit=crop&wid=330&hei=496&.qlt=50,0", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "1035253903", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://pics.ae.com/is/image/aeo/0117_3505_001_l1?fit=crop&wid=330&hei=496&.qlt=50,0", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "1035253903", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Men's Jeans | American Eagle Outfitters", 
+    "resolved_url": "https://www.ae.com/web/browse/category_products.jsp?catId=cat6430041&cid=AE_OMA_120290979_64105971", 
+    "is_article": "1", 
+    "item_id": "1035253903", 
+    "time_added": "1441716126", 
+    "resolved_id": "1035253903", 
+    "given_url": "https://www.ae.com/web/browse/category_products.jsp?catId=cat6430041&cid=AE_OMA_120290979_64105971", 
+    "resolved_title": "Men's Jeans"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "339918190", 
