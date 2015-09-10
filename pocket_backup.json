@@ -52623,8 +52623,8 @@
       "height": "0", 
       "width": "675"
     }, 
-    "excerpt": "Dat Alpha Now Available Our first stable API, intended for developers and early adopters. Read more here. Our Beta release is under active development now. Features Learn more at our getting started guide.", 
-    "word_count": "142", 
+    "excerpt": "", 
+    "word_count": "0", 
     "images": {
       "1": {
         "src": "http://dat-data.com/img/dat-diagram.png", 
@@ -52700,18 +52700,18 @@
       }
     }, 
     "sort_id": 1076, 
-    "resolved_url": "http://dat-data.com", 
+    "resolved_url": "http://dat-data.com/", 
     "item_id": "451245729", 
     "resolved_id": "451245729", 
     "given_url": "http://dat-data.com/", 
-    "resolved_title": "Support dat by donating Bitcoins to our address above.", 
-    "is_index": "1", 
+    "resolved_title": "", 
+    "is_index": "0", 
     "time_updated": "1406830039", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Dat", 
-    "has_image": "1"
+    "has_image": "0"
   }, 
   {
     "is_article": "0", 
