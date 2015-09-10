@@ -64413,11 +64413,19 @@
     "time_updated": "1434899118", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "21 management things I learned at ImgurIt\u2019s terribly difficult to manage unmotivated people. Make your job easier and don\u2019t.Different people need different kinds of management. Be adaptable to figure out what drives each person\u2019s best performance.Give feedback frequently and directly.", 
+    "excerpt": "Thanks to Wagon for providing a desk and copyediting.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "816", 
+    "authors": {
+      "8847783": {
+        "item_id": "957369088", 
+        "url": "https://medium.com/@gerstenzang", 
+        "author_id": "8847783", 
+        "name": "Sam Gerstenzang"
+      }
+    }, 
     "given_title": "21 management things I learned at Imgur \u2014 Medium", 
     "resolved_url": "https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf", 
     "is_article": "1", 
