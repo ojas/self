@@ -6150,13 +6150,21 @@
     "time_updated": "1439473959", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Product Hunt  Login                  189  YelohaAirBnB for solar power Web   H       115  HandUp Gift CardsGive directly to a homeless neighbor on the street Web   H       143  namewhaleGenerates modern startup names based on multiple seed words iPadiPhone   H       168  Making a product desig", 
+    "excerpt": "Product Hunt  Login 249  Beta PageBe the first to know about the next big app  H 259  Apple TVNew Apple TV running tvOS  H 367  Build vs.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "438", 
+    "word_count": "443", 
+    "authors": {
+      "38786254": {
+        "item_id": "632398772", 
+        "url": "http://www.producthunt.com/tech/teleport-city-profiles", 
+        "author_id": "38786254", 
+        "name": "Teleport City Profiles"
+      }
+    }, 
     "given_title": "Product Hunt", 
-    "resolved_url": "http://producthunt.com/", 
+    "resolved_url": "http://www.producthunt.com/", 
     "is_article": "0", 
     "item_id": "632398772", 
     "time_added": "1439473959", 
