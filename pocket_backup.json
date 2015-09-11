@@ -25330,55 +25330,28 @@
     "is_article": "0", 
     "image": {
       "item_id": "124414", 
-      "src": "https://abs.twimg.com/emoji/v1/72x72/1f60d.png", 
+      "src": "https://abs.twimg.com/b/front_page/v1/US_CA_2.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Find community, conversation and inspiration about the things you love.  Retweet if you agree.", 
-    "word_count": "1888", 
+    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           National moment of silence happening now. #Ferguson #JusticeForMikeBrown", 
+    "word_count": "258", 
     "images": {
       "1": {
-        "src": "https://abs.twimg.com/emoji/v1/72x72/1f60d.png", 
+        "src": "https://abs.twimg.com/b/front_page/v1/US_CA_2.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "124414", 
         "caption": "", 
         "width": "0"
-      }, 
-      "3": {
-        "src": "https://abs.twimg.com/emoji/v1/72x72/1f618.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "124414", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "https://abs.twimg.com/emoji/v1/72x72/1f382.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "124414", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "https://abs.twimg.com/emoji/v1/72x72/1f389.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "124414", 
-        "caption": "", 
-        "width": "0"
       }
     }, 
-    "has_video": "1", 
+    "has_video": "0", 
     "time_added": "1409239467", 
     "status": "0", 
     "sort_id": 1276, 
-    "resolved_url": "https://twitter.com/", 
+    "resolved_url": "https://twitter.com", 
     "authors": {
       "12008927": {
         "item_id": "124414", 
@@ -25864,7 +25837,7 @@
     "item_id": "124414", 
     "resolved_id": "124414", 
     "given_url": "https://twitter.com/", 
-    "resolved_title": "Twitter Offers", 
+    "resolved_title": "Welcome to Twitter.", 
     "is_index": "1", 
     "time_updated": "1409239467", 
     "time_favorited": "0", 
