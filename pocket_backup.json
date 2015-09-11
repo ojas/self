@@ -55098,6 +55098,52 @@
     "resolved_title": "swannodette/lt-cljs-tutorial"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "188329", 
+      "src": "http://www.joelonsoftware.com/i/hginit.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Have you ever heard of SEMA? It's a fairly esoteric system for measuring how good a software team is. No, wait! Don't follow that link! It will take you about six years just to understand that stuff.", 
+    "word_count": "3608", 
+    "images": {
+      "1": {
+        "src": "http://www.joelonsoftware.com/i/hginit.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "188329", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1441942867", 
+    "status": "0", 
+    "sort_id": 1972, 
+    "resolved_url": "http://www.joelonsoftware.com/articles/fog0000000043.html", 
+    "authors": {
+      "22520": {
+        "item_id": "188329", 
+        "url": "", 
+        "author_id": "22520", 
+        "name": "Joel Spolsky"
+      }
+    }, 
+    "item_id": "188329", 
+    "resolved_id": "188329", 
+    "given_url": "http://www.joelonsoftware.com/articles/fog0000000043.html", 
+    "resolved_title": "The Joel Test: 12 Steps to Better Code", 
+    "is_index": "0", 
+    "time_updated": "1441942867", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The Joel Test: 12 Steps to Better Code - Joel on Software", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 469, 
