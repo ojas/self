@@ -4715,7 +4715,7 @@
     "time_updated": "1372743851", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": ".logged_out_page_big_signup .ContentWrapper .HomeLoggedOutBigSignup .container .signup .SignupFormBigButtonsOneClick .connect_buttons_row .facebook_button:before{width:24px;height:24px;background-size:24px 24px;background-image:url(//qsf.is.quoracdn.net/-d153e4281adcbeb2.", 
+    "excerpt": ".logged_out_page_big_signup .ContentWrapper .HomeLoggedOutBigSignup .container .signup .SignupFormBigButtonsOneClick .connect_buttons_row .google_button{border:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
