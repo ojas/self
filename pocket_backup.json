@@ -20511,8 +20511,8 @@
       "height": "720", 
       "width": "1280"
     }, 
-    "excerpt": "Editor's Note: This  is one of the most-read leadership articles of 2013. Click here to see the full list.  I had an office. Now I don\u2019t.", 
-    "word_count": "1749", 
+    "excerpt": "Editor's Note: This is one of the most-read leadership articles of 2013. Click here to see the full list.  I had an office. Now I don\u2019t.", 
+    "word_count": "1799", 
     "images": {
       "1": {
         "src": "http://h.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/10/3019758-poster-p-1-open-office-layouts-are-disrespectful-to-employees-and-lower-their-quality-of-work.jpg", 
@@ -40816,7 +40816,7 @@
     "has_video": "0", 
     "word_count": "72", 
     "given_title": "Material Design for Bootstrap", 
-    "resolved_url": "https://fezvrasta.github.io/bootstrap-material-design/#dropdown-menu", 
+    "resolved_url": "http://fezvrasta.github.io/bootstrap-material-design/", 
     "is_article": "1", 
     "item_id": "696930327", 
     "time_added": "1418354718", 
