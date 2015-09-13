@@ -40318,6 +40318,63 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://player.vimeo.com/video/138192484", 
+        "vid": "138192484", 
+        "video_id": "1", 
+        "height": "360", 
+        "width": "640", 
+        "item_id": "1039993542", 
+        "type": "4"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "1039993542", 
+      "src": "http://i.kinja-img.com/gawker-media/image/upload/s--VSbRViAq--/c_fit,fl_progressive,q_80,w_636/1425017885147586704.jpg", 
+      "height": "362", 
+      "width": "800"
+    }, 
+    "excerpt": "Called Surfing Trails, you would think this beautiful video about Bali is about, well, surfing. But nope! It\u2019s a biking video that travels through the wonderland that is Bali, exploring trails on volcanoes and cuts through the forest and jumps through the hills.", 
+    "word_count": "132", 
+    "images": {
+      "1": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--VSbRViAq--/c_fit,fl_progressive,q_80,w_636/1425017885147586704.jpg", 
+        "credit": "", 
+        "height": "362", 
+        "image_id": "1", 
+        "item_id": "1039993542", 
+        "caption": "", 
+        "width": "800"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1442105522", 
+    "status": "0", 
+    "sort_id": 1974, 
+    "resolved_url": "http://sploid.gizmodo.com/biking-through-bali-is-like-exploring-a-wonderland-1729962309", 
+    "authors": {
+      "32277661": {
+        "item_id": "1039993542", 
+        "url": "http://kinja.com/caseychan", 
+        "author_id": "32277661", 
+        "name": "Casey Chan"
+      }
+    }, 
+    "item_id": "1039993542", 
+    "resolved_id": "1038134508", 
+    "given_url": "http://sploid.gizmodo.com/biking-through-bali-is-like-exploring-a-wonderland-1729962309?utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow", 
+    "resolved_title": "Biking through Bali is like exploring a wonderland", 
+    "is_index": "0", 
+    "time_updated": "1442105525", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "354568338", 
