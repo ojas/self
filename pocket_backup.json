@@ -96782,6 +96782,17 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "https://www.youtube.com/embed/V4IuXZOIf7E?rel=0&showinfo=0", 
+        "vid": "V4IuXZOIf7E", 
+        "video_id": "1", 
+        "height": "248", 
+        "width": "440", 
+        "item_id": "615906678", 
+        "type": "1"
+      }
+    }, 
     "is_article": "1", 
     "image": {
       "item_id": "615906678", 
@@ -96820,7 +96831,7 @@
         "width": "450"
       }
     }, 
-    "has_video": "0", 
+    "has_video": "1", 
     "time_added": "1412965778", 
     "status": "0", 
     "tags": {
