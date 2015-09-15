@@ -57614,17 +57614,17 @@
     "excerpt": "When your app polls for data, it becomes slow, unscalable, and cumbersome to maintain.  RethinkDB is the open-source, scalable database that makes building realtime apps dramatically easier.", 
     "image": {
       "item_id": "15281707", 
-      "src": "http://rethinkdb.com/assets/images/landing/features/1.png", 
+      "src": "http://www.rethinkdb.com/assets/images/landing/features/1.png", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "597", 
+    "word_count": "598", 
     "images": {
       "11": {
-        "src": "http://rethinkdb.com/assets/images/used-by/mediafly.png", 
+        "src": "http://www.rethinkdb.com/assets/images/used-by/mediafly.png", 
         "credit": "Guillermo Rauch, Cloudup CTO, creator of Mongoose", 
         "height": "0", 
         "image_id": "11", 
@@ -57633,7 +57633,7 @@
         "width": "0"
       }, 
       "10": {
-        "src": "http://rethinkdb.com/assets/images/used-by/socialradar.png", 
+        "src": "http://www.rethinkdb.com/assets/images/used-by/socialradar.png", 
         "credit": "Guillermo Rauch, Cloudup CTO, creator of Mongoose", 
         "height": "0", 
         "image_id": "10", 
@@ -57642,7 +57642,7 @@
         "width": "0"
       }, 
       "13": {
-        "src": "http://rethinkdb.com/assets/images/used-by/platzi.png", 
+        "src": "http://www.rethinkdb.com/assets/images/used-by/platzi.png", 
         "credit": "Guillermo Rauch, Cloudup CTO, creator of Mongoose", 
         "height": "0", 
         "image_id": "13", 
@@ -57651,7 +57651,7 @@
         "width": "0"
       }, 
       "12": {
-        "src": "http://rethinkdb.com/assets/images/used-by/wiseio.png", 
+        "src": "http://www.rethinkdb.com/assets/images/used-by/wiseio.png", 
         "credit": "Guillermo Rauch, Cloudup CTO, creator of Mongoose", 
         "height": "0", 
         "image_id": "12", 
@@ -57660,7 +57660,7 @@
         "width": "0"
       }, 
       "1": {
-        "src": "http://rethinkdb.com/assets/images/landing/features/1.png", 
+        "src": "http://www.rethinkdb.com/assets/images/landing/features/1.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -57669,7 +57669,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://rethinkdb.com/assets/images/landing/features/3.png", 
+        "src": "http://www.rethinkdb.com/assets/images/landing/features/3.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -57678,7 +57678,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://rethinkdb.com/assets/images/landing/features/2.png", 
+        "src": "http://www.rethinkdb.com/assets/images/landing/features/2.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -57687,7 +57687,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "http://rethinkdb.com/assets/images/landing/rethinkdb-ui_@2x.png", 
+        "src": "http://www.rethinkdb.com/assets/images/landing/rethinkdb-ui_@2x.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -57696,7 +57696,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://rethinkdb.com/assets/images/landing/features/4.png", 
+        "src": "http://www.rethinkdb.com/assets/images/landing/features/4.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -57705,7 +57705,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "http://rethinkdb.com/assets/images/used-by/narrative.png", 
+        "src": "http://www.rethinkdb.com/assets/images/used-by/narrative.png", 
         "credit": "Guillermo Rauch, Cloudup CTO, creator of Mongoose", 
         "height": "0", 
         "image_id": "7", 
@@ -57714,7 +57714,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://rethinkdb.com/assets/images/used-by/jive.png", 
+        "src": "http://www.rethinkdb.com/assets/images/used-by/jive.png", 
         "credit": "Guillermo Rauch, Cloudup CTO, creator of Mongoose", 
         "height": "0", 
         "image_id": "6", 
@@ -57723,7 +57723,7 @@
         "width": "0"
       }, 
       "9": {
-        "src": "http://rethinkdb.com/assets/images/used-by/cmune.png", 
+        "src": "http://www.rethinkdb.com/assets/images/used-by/cmune.png", 
         "credit": "Guillermo Rauch, Cloudup CTO, creator of Mongoose", 
         "height": "0", 
         "image_id": "9", 
@@ -57732,7 +57732,7 @@
         "width": "0"
       }, 
       "8": {
-        "src": "http://rethinkdb.com/assets/images/used-by/pristine.png", 
+        "src": "http://www.rethinkdb.com/assets/images/used-by/pristine.png", 
         "credit": "Guillermo Rauch, Cloudup CTO, creator of Mongoose", 
         "height": "0", 
         "image_id": "8", 
@@ -57742,7 +57742,7 @@
       }
     }, 
     "given_title": "RethinkDB: the open-source database for the realtime web", 
-    "resolved_url": "http://rethinkdb.com/", 
+    "resolved_url": "http://www.rethinkdb.com/", 
     "is_article": "0", 
     "item_id": "15281707", 
     "time_added": "1429538993", 
