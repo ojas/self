@@ -12541,6 +12541,27 @@
     "resolved_title": "Compile uwsgi with corresponding python interpreter"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1979, 
+    "time_updated": "1442353240", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "A.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "8", 
+    "given_title": "500 Lines or Less | A Web Crawler With asyncio Coroutines", 
+    "resolved_url": "http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html", 
+    "is_article": "0", 
+    "item_id": "1042557752", 
+    "time_added": "1442353240", 
+    "resolved_id": "1042557752", 
+    "given_url": "http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html", 
+    "resolved_title": "A Web Crawler With asyncio Coroutines"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "715115951", 
