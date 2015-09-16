@@ -4870,15 +4870,15 @@
     "is_article": "1", 
     "image": {
       "item_id": "1020934923", 
-      "src": "http://sebastianraschka.com/Images_old/2015_why_python/the_general_problem.png", 
+      "src": "http://sebastianraschka.com/images/blog/2015/why-python/the_general_problem.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Oh god, another one of those subjective, pointedly opinionated click-bait headlines? Yes! Why did I bother writing this? Well, here is one of the most trivial yet life-changing insights and worldly wisdoms from my former professor that has become my mantra ever since: \u201cIf you have to do this tas", 
-    "word_count": "4925", 
+    "excerpt": "Oh god, another one of those subjective, pointedly opinionated click-bait headlines? Yes! Why did I bother writing this? Well, here is one of the most trivial yet life-changing insights and worldly wisdoms from my former professor that has become my mantra ever since: \"If you have to do this task mo", 
+    "word_count": "4828", 
     "images": {
       "1": {
-        "src": "http://sebastianraschka.com/Images_old/2015_why_python/the_general_problem.png", 
+        "src": "http://sebastianraschka.com/images/blog/2015/why-python/the_general_problem.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -4887,7 +4887,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://sebastianraschka.com/Images_old/2015_why_python/heatmap.png", 
+        "src": "http://sebastianraschka.com/images/blog/2015/why-python/heatmap.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -4896,7 +4896,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://sebastianraschka.com/Images_old/2015_why_python/automation.png", 
+        "src": "http://sebastianraschka.com/images/blog/2015/why-python/automation.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -4905,7 +4905,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "http://sebastianraschka.com/Images_old/2015_why_python/tiobe.png", 
+        "src": "http://sebastianraschka.com/images/blog/2015/why-python/tiobe.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -4914,7 +4914,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://sebastianraschka.com/Images_old/2015_why_python/julia_benchmark.png", 
+        "src": "http://sebastianraschka.com/images/blog/2015/why-python/julia_benchmark.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -4923,7 +4923,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "http://sebastianraschka.com/Images_old/2015_why_python/python.png", 
+        "src": "http://sebastianraschka.com/images/blog/2015/why-python/python.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -4932,7 +4932,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://sebastianraschka.com/Images_old/2015_why_python/spectrum.jpg", 
+        "src": "http://sebastianraschka.com/images/blog/2015/why-python/spectrum.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -4957,7 +4957,7 @@
     "item_id": "1020934923", 
     "resolved_id": "1020934923", 
     "given_url": "http://sebastianraschka.com/Articles/2015_why_python.html", 
-    "resolved_title": "Python, Machine Learning, and Language Wars. A Highly Subjective Point of View", 
+    "resolved_title": "Machine Learning and Python", 
     "is_index": "0", 
     "time_updated": "1440466293", 
     "time_favorited": "0", 
