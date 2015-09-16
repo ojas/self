@@ -23681,7 +23681,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 549, 
     "time_updated": "1370551632", 
     "time_favorited": "0", 
@@ -87664,7 +87664,7 @@
   }, 
   {
     "status": "1", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 44, 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
@@ -110936,7 +110936,7 @@
       }
     }, 
     "given_title": "Why WhatsApp Only Needs 50 Engineers for Its 900M Users | WIRED", 
-    "resolved_url": "http://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers", 
+    "resolved_url": "http://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/", 
     "is_article": "1", 
     "item_id": "1042338078", 
     "time_added": "1442415615", 
