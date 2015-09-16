@@ -64122,6 +64122,35 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1987, 
+    "time_updated": "1442377488", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The Jordan Brown case involves Jordan Anthony Brown (born August 12, 1997), who at age 11 was initially charged as an adult in the fatal shooting of his father's fianc\u00e9e, Kenzie Marie Houk, 26, in Wampum, Pennsylvania, on February 20, 2009.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "727", 
+    "authors": {
+      "7331684": {
+        "item_id": "350768533", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "given_title": "Jordan Brown case - Wikipedia, the free encyclopedia", 
+    "resolved_url": "http://en.wikipedia.org/wiki/Jordan_Brown_case", 
+    "is_article": "1", 
+    "item_id": "350768533", 
+    "time_added": "1442377488", 
+    "resolved_id": "350768533", 
+    "given_url": "https://en.wikipedia.org/wiki/Jordan_Brown_case", 
+    "resolved_title": "Jordan Brown case"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/p/E715E326EA1ABB5B?hl=en_US&fs=1", 
