@@ -30965,7 +30965,7 @@
     "time_added": "1414257934", 
     "status": "0", 
     "sort_id": 1412, 
-    "resolved_url": "http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html#story-continues-2", 
+    "resolved_url": "http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html", 
     "authors": {
       "106871": {
         "item_id": "746094749", 
@@ -78652,6 +78652,251 @@
     "resolved_id": "304390269", 
     "given_url": "https://floobits.com/", 
     "resolved_title": "Floobits"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1986, 
+    "time_updated": "1442375171", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "India-Pakistan Border. One of the most dangerous lines on a map in the world. (i.imgur.com)  Where Russia, Norway and Finland meet. This was a friendly border once... (i.imgur.com)", 
+    "image": {
+      "item_id": "440196725", 
+      "src": "http://i.imgur.com/RWcZ0.jpg", 
+      "height": "46", 
+      "width": "70"
+    }, 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "532", 
+    "images": {
+      "24": {
+        "src": "http://i.imgur.com/PX5VYCv.jpg", 
+        "credit": "", 
+        "height": "46", 
+        "image_id": "24", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "20": {
+        "src": "http://a.thumbs.redditmedia.com/q1_DG_aZr1I5MClB.jpg", 
+        "credit": "", 
+        "height": "70", 
+        "image_id": "20", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "21": {
+        "src": "http://c.thumbs.redditmedia.com/Q95fm_ztIiivSygz.jpg", 
+        "credit": "", 
+        "height": "43", 
+        "image_id": "21", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "22": {
+        "src": "http://www.brendansadventures.com/wp-content/uploads/2011/05/IMG_1271.jpg", 
+        "credit": "", 
+        "height": "46", 
+        "image_id": "22", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "23": {
+        "src": "http://i.imgur.com/CWEykCR.jpg", 
+        "credit": "", 
+        "height": "52", 
+        "image_id": "23", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "1": {
+        "src": "http://i.imgur.com/RWcZ0.jpg", 
+        "credit": "", 
+        "height": "46", 
+        "image_id": "1", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "3": {
+        "src": "http://i.imgur.com/jcQlQIK.jpg", 
+        "credit": "", 
+        "height": "37", 
+        "image_id": "3", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "2": {
+        "src": "http://e.thumbs.redditmedia.com/v1rC9DxOQONo8efR.jpg", 
+        "credit": "", 
+        "height": "46", 
+        "image_id": "2", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "5": {
+        "src": "http://i.imgur.com/fnsTJM6.jpg", 
+        "credit": "", 
+        "height": "39", 
+        "image_id": "5", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "4": {
+        "src": "http://b.thumbs.redditmedia.com/dyY0erZr0xTMvcSC.jpg", 
+        "credit": "", 
+        "height": "45", 
+        "image_id": "4", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "7": {
+        "src": "http://d.thumbs.redditmedia.com/mPTcWk-eI2SXHxbo.jpg", 
+        "credit": "", 
+        "height": "46", 
+        "image_id": "7", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "6": {
+        "src": "http://e.thumbs.redditmedia.com/ZKwgjvDag0MkWzF4.jpg", 
+        "credit": "", 
+        "height": "70", 
+        "image_id": "6", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "9": {
+        "src": "http://i.imgur.com/JdPIQZ0.jpg", 
+        "credit": "", 
+        "height": "49", 
+        "image_id": "9", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "8": {
+        "src": "http://4.bp.blogspot.com/-7y3i_To_D70/TeFd2fxrV8I/AAAAAAAAHMw/28OZXIW9wOg/s1600/China_to_Russia_Mine_Is_Bigger.jpg", 
+        "credit": "", 
+        "height": "46", 
+        "image_id": "8", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "11": {
+        "src": "http://c.thumbs.redditmedia.com/oJSczTfJWkgi4Xbb.jpg", 
+        "credit": "", 
+        "height": "52", 
+        "image_id": "11", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "10": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Chinese_and_Pakistan_border_guards_at_Khunjerab_Pass_IMG_7721_Karakoram_Highway.jpg", 
+        "credit": "", 
+        "height": "46", 
+        "image_id": "10", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "13": {
+        "src": "http://d.thumbs.redditmedia.com/x_v3qlA61UOomKdW.jpg", 
+        "credit": "", 
+        "height": "19", 
+        "image_id": "13", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "12": {
+        "src": "http://d.thumbs.redditmedia.com/h0Cz75m8j_6ubSoK.jpg", 
+        "credit": "", 
+        "height": "39", 
+        "image_id": "12", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "15": {
+        "src": "http://b.thumbs.redditmedia.com/isU-k17Y-aHyUecU.jpg", 
+        "credit": "", 
+        "height": "46", 
+        "image_id": "15", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "14": {
+        "src": "http://i.imgur.com/Z1U5AVN.jpg", 
+        "credit": "", 
+        "height": "46", 
+        "image_id": "14", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "17": {
+        "src": "http://d.thumbs.redditmedia.com/nsUzuVHWCrXIXIH9.jpg", 
+        "credit": "", 
+        "height": "52", 
+        "image_id": "17", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "16": {
+        "src": "http://i.imgur.com/qXnQgZk.jpg", 
+        "credit": "", 
+        "height": "52", 
+        "image_id": "16", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "19": {
+        "src": "http://b.thumbs.redditmedia.com/Lji6-a8QJZkbk0jg.jpg", 
+        "credit": "", 
+        "height": "52", 
+        "image_id": "19", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }, 
+      "18": {
+        "src": "http://c.thumbs.redditmedia.com/VcyVax46DF6h4caJ.jpg", 
+        "credit": "", 
+        "height": "70", 
+        "image_id": "18", 
+        "item_id": "440196725", 
+        "caption": "", 
+        "width": "70"
+      }
+    }, 
+    "given_title": "Borderporn", 
+    "resolved_url": "http://www.reddit.com/r/Borderporn/", 
+    "is_article": "0", 
+    "item_id": "440196725", 
+    "time_added": "1442375171", 
+    "resolved_id": "440196725", 
+    "given_url": "https://www.reddit.com/r/Borderporn/", 
+    "resolved_title": "Borderporn"
   }, 
   {
     "status": "0", 
