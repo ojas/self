@@ -96142,50 +96142,23 @@
     "excerpt": "The BBC's Great British Class Survey has suggested there are seven identifiable social groupings in the UK. It's not easy to see where you fit into the class structure, writes Tom Heyden.  I'm 25. I'm a graduate. I'm a London suburbanite. Next week I'll be unemployed. And I have no savings.", 
     "image": {
       "item_id": "616889342", 
-      "src": "http://news.bbcimg.co.uk/media/images/66743000/jpg/_66743244_classcomposite624_2getty.jpg", 
+      "src": "http://ichef.bbci.co.uk/news/624/media/images/66743000/jpg/_66743244_classcomposite624_2getty.jpg", 
       "height": "403", 
       "width": "624"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1581", 
+    "word_count": "1290", 
     "images": {
       "1": {
-        "src": "http://news.bbcimg.co.uk/media/images/66743000/jpg/_66743244_classcomposite624_2getty.jpg", 
+        "src": "http://ichef.bbci.co.uk/news/624/media/images/66743000/jpg/_66743244_classcomposite624_2getty.jpg", 
         "credit": "", 
         "height": "403", 
         "image_id": "1", 
         "item_id": "616889342", 
         "caption": "", 
         "width": "624"
-      }, 
-      "3": {
-        "src": "http://news.bbcimg.co.uk/media/images/66667000/jpg/_66667933_andrew-cronnie.jpg", 
-        "credit": "", 
-        "height": "171", 
-        "image_id": "3", 
-        "item_id": "616889342", 
-        "caption": "", 
-        "width": "304"
-      }, 
-      "2": {
-        "src": "http://news.bbcimg.co.uk/media/images/66749000/gif/_66749252_classmap_624map.gif", 
-        "credit": "", 
-        "height": "620", 
-        "image_id": "2", 
-        "item_id": "616889342", 
-        "caption": "", 
-        "width": "624"
-      }, 
-      "4": {
-        "src": "http://news.bbcimg.co.uk/media/images/66667000/jpg/_66667931_alexrose.jpg", 
-        "credit": "", 
-        "height": "171", 
-        "image_id": "4", 
-        "item_id": "616889342", 
-        "caption": "", 
-        "width": "304"
       }
     }, 
     "given_title": "Class calculator: Can I have no job or money and still be middle class? - B", 
