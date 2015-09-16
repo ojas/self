@@ -83213,6 +83213,27 @@
     "resolved_title": "Facebook"
   }, 
   {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1983, 
+    "time_updated": "1442370750", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Is atheism valid? (self.DebateAnAtheist)", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "10", 
+    "given_title": "Debate an Atheist", 
+    "resolved_url": "http://www.reddit.com/r/DebateAnAtheist", 
+    "is_article": "1", 
+    "item_id": "246719921", 
+    "time_added": "1442370750", 
+    "resolved_id": "246719921", 
+    "given_url": "https://www.reddit.com/r/DebateAnAtheist/", 
+    "resolved_title": "Debate an Atheist"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/08LBltePDZw?rel=0", 
