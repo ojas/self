@@ -110878,6 +110878,35 @@
     }
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1991, 
+    "time_updated": "1442415615", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Skip Article Header. Skip to: Start of Article. Earlier this month, in a post to his Facebook page, WhatsApp CEO Jan Koum announced that his\u00a0company\u2019s instant messaging service is now used by more than 900 million people.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1053", 
+    "authors": {
+      "18122285": {
+        "item_id": "1042338078", 
+        "url": "http://www.wired.com/author/cade_metz/", 
+        "author_id": "18122285", 
+        "name": "Cade Metz"
+      }
+    }, 
+    "given_title": "Why WhatsApp Only Needs 50 Engineers for Its 900M Users | WIRED", 
+    "resolved_url": "http://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/", 
+    "is_article": "1", 
+    "item_id": "1042338078", 
+    "time_added": "1442415615", 
+    "resolved_id": "1042338078", 
+    "given_url": "http://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/", 
+    "resolved_title": "Why WhatsApp Only Needs 50 Engineers for Its 900M Users"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "781458506", 
