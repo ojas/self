@@ -48313,6 +48313,44 @@
     "resolved_title": "I love being wrong"
   }, 
   {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 1985, 
+    "time_updated": "1442374774", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Scientists took about 300 years to lay out the Periodic Table into neat rows and columns. In one hour, we\u2019re going to mess it all up.\u00a0 This episode, we enlist journalists, poets, musicians, and even a physicist\u00a0to help us tell stories of matter that matters.", 
+    "image": {
+      "item_id": "1021198707", 
+      "src": "https://media2.wnyc.org/i/200/0/c/80/1/RADIOLAB_ELEMENTS_E3.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "107", 
+    "images": {
+      "1": {
+        "src": "https://media2.wnyc.org/i/200/0/c/80/1/RADIOLAB_ELEMENTS_E3.jpg", 
+        "credit": "Photo Credit: Jamie York", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1021198707", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Elements - Radiolab", 
+    "resolved_url": "http://www.radiolab.org/story/elements/", 
+    "is_article": "1", 
+    "item_id": "1021198707", 
+    "time_added": "1442374774", 
+    "resolved_id": "1021198707", 
+    "given_url": "http://www.radiolab.org/story/elements/", 
+    "resolved_title": "Elements"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "293727657", 
@@ -52708,6 +52746,35 @@
     "favorite": "0", 
     "given_title": "Coudal Partners", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1984, 
+    "time_updated": "1442374696", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "After growing up poor in a predominantly African-American neighborhood of Cincinnati, the young adults had reached their early 20s. One by one, they passed through an MRI machine that displayed their brains in sharp, cross-sectioned images.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1026", 
+    "authors": {
+      "23417687": {
+        "item_id": "944845585", 
+        "url": "http://www.chicagotribune.com/chi-michael-hawthorne-staff.html", 
+        "author_id": "23417687", 
+        "name": "Michael Hawthorne"
+      }
+    }, 
+    "given_title": "Lead poisoning linked to violent crime - Chicago Tribune", 
+    "resolved_url": "http://www.chicagotribune.com/news/watchdog/ct-lead-poisoning-science-met-20150605-story.html", 
+    "is_article": "1", 
+    "item_id": "944845585", 
+    "time_added": "1442374696", 
+    "resolved_id": "944845585", 
+    "given_url": "http://www.chicagotribune.com/news/watchdog/ct-lead-poisoning-science-met-20150605-story.html", 
+    "resolved_title": "Studies link childhood lead exposure, violent crime"
   }, 
   {
     "status": "0", 
