@@ -17114,27 +17114,19 @@
     "time_updated": "1440983457", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "On July 11, 2000, in one of the more unlikely moments in the history of the Senate Judiciary Committee, Senator Orrin Hatch handed the microphone to Metallica\u2019s drummer, Lars Ulrich, to hear his thoughts on art in the age of digital reproduction.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "5233", 
-    "authors": {
-      "2477170": {
-        "item_id": "1016039504", 
-        "url": "", 
-        "author_id": "2477170", 
-        "name": "STEVEN JOHNSON"
-      }
-    }, 
+    "word_count": "0", 
     "given_title": "The Creative Apocalypse That Wasn\u2019t - The New York Times", 
     "resolved_url": "http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "1016039504", 
     "time_added": "1440167002", 
     "resolved_id": "1015959955", 
     "given_url": "http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html?_r=0", 
-    "resolved_title": "The Creative Apocalypse That Wasn\u2019t"
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -110965,7 +110957,7 @@
       }
     }, 
     "given_title": "Why WhatsApp Only Needs 50 Engineers for Its 900M Users | WIRED", 
-    "resolved_url": "http://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/", 
+    "resolved_url": "http://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers", 
     "is_article": "1", 
     "item_id": "1042338078", 
     "time_added": "1442415615", 
