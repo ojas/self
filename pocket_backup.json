@@ -21503,6 +21503,35 @@
     "resolved_title": "Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1993, 
+    "time_updated": "1442497355", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Nestled at the base of the Rocky Mountain foothills is an unlikely--yet booming--startup ecosystem.  At first glance, Boulder, Colorado may not appear to offer many advantages to small businesses.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1372", 
+    "authors": {
+      "20566075": {
+        "item_id": "1042753969", 
+        "url": "http://www.inc.com/author/zoe-henry", 
+        "author_id": "20566075", 
+        "name": "Zoe Henry"
+      }
+    }, 
+    "given_title": "Why Business is Booming In This Tiny Western Hub | Inc.com", 
+    "resolved_url": "http://www.inc.com/zoe-henry/startup-hot-spot-boulder-colorado.html?cid=sf01002", 
+    "is_article": "1", 
+    "item_id": "1042753969", 
+    "time_added": "1442497355", 
+    "resolved_id": "1042753969", 
+    "given_url": "http://www.inc.com/zoe-henry/startup-hot-spot-boulder-colorado.html?cid=sf01002", 
+    "resolved_title": "Startups Fly High in Boulder, Colorado"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "934215665", 
