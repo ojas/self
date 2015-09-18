@@ -92576,21 +92576,21 @@
     "is_article": "1", 
     "image": {
       "item_id": "801946068", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2014/12/neildegrassetyson.jpg", 
+      "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2014/12/neildegrassetyson.jpg?w=500", 
       "height": "0", 
-      "width": "500"
+      "width": "0"
     }, 
     "excerpt": "In December of 2011, Neil deGrasse Tyson \u2014 champion of science, celebrator of the cosmic perspective, master of the soundbite \u2014 participated in Reddit\u2019s Ask Me Anything series of public questions and answers.", 
-    "word_count": "346", 
+    "word_count": "309", 
     "images": {
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2014/12/neildegrassetyson.jpg", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2014/12/neildegrassetyson.jpg?w=500", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "801946068", 
         "caption": "", 
-        "width": "500"
+        "width": "0"
       }
     }, 
     "has_video": "0", 
@@ -92599,10 +92599,10 @@
     "sort_id": 1554, 
     "resolved_url": "http://www.brainpickings.org/2014/12/29/neil-degrasse-tyson-reading-list/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "801946068", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
