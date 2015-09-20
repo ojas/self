@@ -51378,20 +51378,20 @@
     "time_updated": "1381948094", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Donate as little as $5 to fund their healthcare.  Get an update after they receive healthcare.", 
+    "excerpt": "Meet a patient who needs life-changing healthcare.  Donate as little as $5 to fund their healthcare.", 
     "image": {
       "item_id": "152411167", 
-      "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/3998/profile_330x248_Aung_Myint_Myat_-_BCMF.jpg", 
+      "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/5350/profile_330x248_Tabitha_Waigwa_pre_op_AMHF_Kijabe.JPG", 
       "height": "248", 
       "width": "330"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "345", 
+    "word_count": "367", 
     "images": {
       "1": {
-        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/3998/profile_330x248_Aung_Myint_Myat_-_BCMF.jpg", 
+        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/5350/profile_330x248_Tabitha_Waigwa_pre_op_AMHF_Kijabe.JPG", 
         "credit": "", 
         "height": "248", 
         "image_id": "1", 
@@ -51400,7 +51400,7 @@
         "width": "330"
       }, 
       "3": {
-        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/3996/profile_330x248_100_1114.JPG", 
+        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/5301/profile_330x248_IMG-20150824-WA0001.jpg", 
         "credit": "", 
         "height": "248", 
         "image_id": "3", 
@@ -51409,7 +51409,7 @@
         "width": "330"
       }, 
       "2": {
-        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/3911/profile_330x248_Riziki_Achieng_Nyandiga.JPG", 
+        "src": "https://d3w52z135jkm97.cloudfront.net/uploads/profile/photo/5323/profile_330x248_Raphael_Kilala_Preop_Pic_1__AMHF_ALMC.JPG", 
         "credit": "", 
         "height": "248", 
         "image_id": "2", 
@@ -51419,7 +51419,7 @@
       }
     }, 
     "given_title": "Watsi | Fund medical treatments for people around the world", 
-    "resolved_url": "http://watsi.org", 
+    "resolved_url": "https://watsi.org", 
     "is_article": "0", 
     "item_id": "152411167", 
     "time_added": "1381948094", 
