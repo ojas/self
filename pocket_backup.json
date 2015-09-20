@@ -18260,25 +18260,50 @@
     "resolved_title": "Age of Reason, Part First, Section 1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "570682603", 
+      "src": "http://static01.nyt.com/images/2014/03/13/business/retirementspecial/13WISDOM/13WISDOM-master180-v2.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Since ancient times, the elusive concept of wisdom has figured prominently in philosophical and religious texts.", 
+    "word_count": "1724", 
+    "images": {
+      "1": {
+        "src": "http://static01.nyt.com/images/2014/03/13/business/retirementspecial/13WISDOM/13WISDOM-master180-v2.jpg", 
+        "credit": "\n            \n            Sarah Putnam        ", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "570682603", 
+        "caption": "INFLUENTIAL Joan and Erik Erikson devised a theory on human development.", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1395156284", 
     "status": "0", 
-    "is_index": "0", 
     "sort_id": 1041, 
+    "resolved_url": "http://www.nytimes.com/2014/03/13/business/retirementspecial/the-science-of-older-and-wiser.html", 
+    "authors": {
+      "1492": {
+        "item_id": "570682603", 
+        "url": "", 
+        "author_id": "1492", 
+        "name": "PHYLLIS KORKKI"
+      }
+    }, 
+    "item_id": "570682603", 
+    "resolved_id": "567655723", 
+    "given_url": "http://www.nytimes.com/2014/03/13/business/retirementspecial/the-science-of-older-and-wiser.html?src=me&ref=general&_r=1", 
+    "resolved_title": "The Science of Older and Wiser", 
+    "is_index": "0", 
     "time_updated": "1399999148", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
     "given_title": "The Science of Older and Wiser - NYTimes.com", 
-    "resolved_url": "http://www.nytimes.com/2014/03/13/business/retirementspecial/the-science-of-older-and-wiser.html", 
-    "is_article": "0", 
-    "item_id": "570682603", 
-    "time_added": "1395156284", 
-    "resolved_id": "567655723", 
-    "given_url": "http://www.nytimes.com/2014/03/13/business/retirementspecial/the-science-of-older-and-wiser.html?src=me&ref=general&_r=1", 
-    "resolved_title": ""
+    "has_image": "1"
   }, 
   {
     "status": "0", 
