@@ -8050,86 +8050,25 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "518589471", 
-      "src": "http://si.wsj.net/public/resources/images/PJ-BS513_WORKFA_P_20140107195408.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "Procrastinators, take note: If you've tried building self-discipline and you're still putting things off, maybe you need to try something different. One new approach: Check your mood.", 
-    "word_count": "1054", 
-    "images": {
-      "1": {
-        "src": "http://si.wsj.net/public/resources/images/PJ-BS513_WORKFA_P_20140107195408.jpg", 
-        "credit": " Kyle T. Webster", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "518589471", 
-        "caption": "Time Travel: If you are rebelling against the feeling of having to work, try projecting yourself into the future. Imagine the good feelings you will have if you stop procrastinating and finish a project", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://si.wsj.net/public/resources/images/PJ-BS512_WORKFA_P_20140107195306.jpg", 
-        "credit": " Kyle T. Webster", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "518589471", 
-        "caption": "Forgive Yourself: If you are feeling guilty about procrastinating, stop beating yourself up. Replace the negative thoughts with something more positive.", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://si.wsj.net/public/resources/images/PJ-BS511_WORKFA_P_20140107195159.jpg", 
-        "credit": " Kyle T. Webster", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "518589471", 
-        "caption": "'Just Get Started': If you are feeling frightened of possible failure, just get started. Tell yourself you don't have to do the whole project. Just do the first one or two steps on it.", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "http://si.wsj.net/public/resources/images/PJ-BS515_WORKFA_P_20140107195617.jpg", 
-        "credit": "Kyle T. Webster", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "518589471", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://si.wsj.net/public/resources/images/PJ-BS514_WORKFA_P_20140107195500.jpg", 
-        "credit": " Kyle T. Webster", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "518589471", 
-        "caption": "Easy Things First: If you are feeling a lot of dread about one task in particular on your to-do list, start with something else, preferably the task you feel most like doing. The momentum you gain will help you start the toughest task later.", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1389205774", 
     "status": "0", 
-    "sort_id": 900, 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
-    "authors": {
-      "9969180": {
-        "item_id": "518589471", 
-        "url": "http://topics.wsj.com/person/A/biography/6492", 
-        "author_id": "9969180", 
-        "name": "SUE SHELLENBARGER"
-      }
-    }, 
-    "item_id": "518589471", 
-    "resolved_id": "518248880", 
-    "given_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036?mod=trending_now_2", 
-    "resolved_title": "To Stop Procrastinating, Look to Science of Mood Repair", 
     "is_index": "0", 
+    "sort_id": 900, 
     "time_updated": "1394123408", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "To Stop Procrastinating, Look to Science of Mood Repair - WSJ.com", 
-    "has_image": "1"
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
+    "is_article": "0", 
+    "item_id": "518589471", 
+    "time_added": "1389205774", 
+    "resolved_id": "518248880", 
+    "given_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036?mod=trending_now_2", 
+    "resolved_title": "To Stop Procrastinating, Look to Science of Mood Repair"
   }, 
   {
     "is_article": "1", 
