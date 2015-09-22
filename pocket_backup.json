@@ -80271,6 +80271,44 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1998, 
+    "time_updated": "1442963539", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Its important you first know the established dimensions for cornhole. Here\u2019s a diagram with the basic measurements for the boards. The American Cornhole Organization is who we referred to for these measurements.", 
+    "image": {
+      "item_id": "72378623", 
+      "src": "http://www.cornholehowto.com/wp-content/themes/CornholeHowto/images/boarddimensions.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "171", 
+    "images": {
+      "1": {
+        "src": "http://www.cornholehowto.com/wp-content/themes/CornholeHowto/images/boarddimensions.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "72378623", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.cornholehowto.com/build-them-boards/dimensions/", 
+    "is_article": "1", 
+    "item_id": "72378623", 
+    "time_added": "1442963538", 
+    "resolved_id": "72378623", 
+    "given_url": "http://www.cornholehowto.com/build-them-boards/dimensions/", 
+    "resolved_title": "Dimensions"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 1622, 
     "time_updated": "1422039474", 
@@ -81419,11 +81457,11 @@
     "time_updated": "1346249377", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "This is a series of pieces on getting better at life.  The best posts are probably 2 and 4.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "28", 
+    "word_count": "0", 
     "authors": {
       "3373": {
         "item_id": "209928417", 
@@ -81434,12 +81472,12 @@
     }, 
     "given_title": "Raw Nerve (Aaron Swartz's Raw Thought)", 
     "resolved_url": "http://www.aaronsw.com/weblog/rawnerve", 
-    "is_article": "1", 
+    "is_article": "0", 
     "item_id": "209928417", 
     "time_added": "1346249377", 
     "resolved_id": "209928417", 
     "given_url": "http://www.aaronsw.com/weblog/rawnerve", 
-    "resolved_title": "Raw Nerve (Aaron Swartz's Raw Thought)"
+    "resolved_title": "Redirecting"
   }, 
   {
     "status": "0", 
@@ -107348,7 +107386,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
