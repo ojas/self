@@ -1250,6 +1250,61 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "1049046932", 
+      "src": "http://picture1.goo-net.com/7000540022/30150718/J/70005400223015071800200.jpg", 
+      "height": "480", 
+      "width": "640"
+    }, 
+    "excerpt": "All information provided on this site is believed to be reliable but is not guaranteed and should be independently verified.", 
+    "word_count": "37", 
+    "images": {
+      "1": {
+        "src": "http://picture1.goo-net.com/7000540022/30150718/J/70005400223015071800200.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "1", 
+        "item_id": "1049046932", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "2": {
+        "src": "http://img.goo-net.com/gne/img/btn_send.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1049046932", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1442896234", 
+    "status": "0", 
+    "sort_id": 1996, 
+    "resolved_url": "http://www.goo-net-exchange.com/usedcars/HONDA/CITY/700054002230150718002/index.html", 
+    "authors": {
+      "1335875": {
+        "item_id": "1049046932", 
+        "url": "", 
+        "author_id": "1335875", 
+        "name": "Official Dealer"
+      }
+    }, 
+    "item_id": "1049046932", 
+    "resolved_id": "1049046932", 
+    "given_url": "http://www.goo-net-exchange.com/usedcars/HONDA/CITY/700054002230150718002/index.html", 
+    "resolved_title": "HONDA CITY", 
+    "is_index": "0", 
+    "time_updated": "1442896237", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "HONDA CITY | 1984 | BLACK M | 0\u00a0km | details.- Japanese used cars.Goo-net E", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1342, 
@@ -4282,6 +4337,61 @@
         "tag": "webdev"
       }
     }
+  }, 
+  {
+    "is_article": "1", 
+    "image": {
+      "item_id": "1049045786", 
+      "src": "http://picture1.goo-net.com/7000400693/30150820/J/70004006933015082000200.jpg", 
+      "height": "480", 
+      "width": "640"
+    }, 
+    "excerpt": "All information provided on this site is believed to be reliable but is not guaranteed and should be independently verified.", 
+    "word_count": "37", 
+    "images": {
+      "1": {
+        "src": "http://picture1.goo-net.com/7000400693/30150820/J/70004006933015082000200.jpg", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "1", 
+        "item_id": "1049045786", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "2": {
+        "src": "http://img.goo-net.com/gne/img/btn_send.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1049045786", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1442896114", 
+    "status": "0", 
+    "sort_id": 1995, 
+    "resolved_url": "http://www.goo-net-exchange.com/usedcars/HONDA/CIVIC_SHUTTLE/700040069330150820002/index.html", 
+    "authors": {
+      "1335875": {
+        "item_id": "1049045786", 
+        "url": "", 
+        "author_id": "1335875", 
+        "name": "Official Dealer"
+      }
+    }, 
+    "item_id": "1049045786", 
+    "resolved_id": "1049045786", 
+    "given_url": "http://www.goo-net-exchange.com/usedcars/HONDA/CIVIC_SHUTTLE/700040069330150820002/index.html", 
+    "resolved_title": "HONDA CIVIC SHUTTLE 55X EXTRA", 
+    "is_index": "0", 
+    "time_updated": "1442896117", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "HONDA CIVIC SHUTTLE 55X EXTRA | 1994 | GRAY | 21,000\u00a0km | details.- Japanes", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
@@ -14021,7 +14131,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3274", 
+    "word_count": "3273", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -82957,6 +83067,27 @@
         "tag": "employment"
       }
     }
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1997, 
+    "time_updated": "1442896418", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "189 Used HONDA Cars Found (Showing 1-20) This page introduces various used HONDA INTEGRA. Please find your ideal used HONDA INTEGRA at Goo-net Exchange.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "61", 
+    "given_title": "INTEGRA Used HONDA - search results | Japanese used cars and Japanese impor", 
+    "resolved_url": "http://www.goo-net-exchange.com/php/search/summary.php?maker_cd=1020&car_cd=10201013", 
+    "is_article": "1", 
+    "item_id": "1049048613", 
+    "time_added": "1442896415", 
+    "resolved_id": "1049048613", 
+    "given_url": "http://www.goo-net-exchange.com/php/search/summary.php?maker_cd=1020&car_cd=10201013", 
+    "resolved_title": "Goo-net Exchange-Search for used HONDA INTEGRA"
   }, 
   {
     "status": "0", 
