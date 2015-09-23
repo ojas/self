@@ -22493,6 +22493,52 @@
     "resolved_title": "I Heart Chaos \u2014 Thursday animal gifs have just caught you in an ambush"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "454062107", 
+      "src": "http://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/10/7/1381162025738/Joe-and-Pip-in-2012s-film-010.jpg?w=300&q=85&auto=format&sharp=10&s=04b2d0d703d96a7dbcda1941d6988565", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Have you ever felt that reading a good book makes you better able to connect with your fellow human beings? If so, the results of a new scientific study back you up, but only if your reading material is literary fiction \u2013 pulp fiction or non-fiction will not do.", 
+    "word_count": "702", 
+    "images": {
+      "1": {
+        "src": "http://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/10/7/1381162025738/Joe-and-Pip-in-2012s-film-010.jpg?w=300&q=85&auto=format&sharp=10&s=04b2d0d703d96a7dbcda1941d6988565", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "454062107", 
+        "caption": "\nGreat Expectations from great literature \u2026\u00a0empathy occurs in the spaces between characters, such as Joe and Pip, pictured here in the 2012 film adaptation. Photograph: Moviestore/Rex Features\n", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1443020169", 
+    "status": "0", 
+    "sort_id": 1999, 
+    "resolved_url": "http://www.theguardian.com/books/booksblog/2013/oct/08/literary-fiction-improves-empathy-study", 
+    "authors": {
+      "9807062": {
+        "item_id": "454062107", 
+        "url": "", 
+        "author_id": "9807062", 
+        "name": "Liz Bury"
+      }
+    }, 
+    "item_id": "454062107", 
+    "resolved_id": "454062107", 
+    "given_url": "http://www.theguardian.com/books/booksblog/2013/oct/08/literary-fiction-improves-empathy-study", 
+    "resolved_title": "Reading literary fiction improves empathy, study finds", 
+    "is_index": "0", 
+    "time_updated": "1443020169", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Reading literary fiction improves empathy, study finds | Books | The Guardi", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 740, 
