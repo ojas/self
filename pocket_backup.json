@@ -36464,7 +36464,7 @@
     "time_updated": "1378026055", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "OpenStack software controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API. OpenStack works with popular enterprise and open source technologies making it ideal for heterogeneous infrastructure.", 
+    "excerpt": "Take a few minutes to share your perspective. Survey closes Friday, September 25.  OpenStack software controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API.", 
     "image": {
       "item_id": "42331462", 
       "src": "https://www.openstack.org/themes/openstack/images/control-your-cloud.svg", 
@@ -36474,7 +36474,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "566", 
+    "word_count": "598", 
     "images": {
       "1": {
         "src": "https://www.openstack.org/themes/openstack/images/control-your-cloud.svg", 
@@ -36522,7 +36522,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "https://www.openstack.org/themes/openstack/images/conferences/tokyo/tokyo-banner-home.jpg", 
+        "src": "https://www.openstack.org/themes/openstack/images/dft-workload-home-banner.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -36531,19 +36531,10 @@
         "width": "0"
       }, 
       "6": {
-        "src": "https://www.openstack.org/themes/openstack/images/customer-wells.png", 
+        "src": "https://www.openstack.org/themes/openstack/images/conferences/tokyo/tokyo-banner-home.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
-        "item_id": "42331462", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "https://www.openstack.org/themes/openstack/images/dft-workload-home-banner.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
         "item_id": "42331462", 
         "caption": "", 
         "width": "0"
@@ -36556,7 +36547,7 @@
     "time_added": "1378026055", 
     "resolved_id": "42331462", 
     "given_url": "http://www.openstack.org/", 
-    "resolved_title": "Watch OpenStack Summit keynote and breakout session videos from Vancouver"
+    "resolved_title": "Tell us how you're using OpenStack\u2014and influence our future roadmap"
   }, 
   {
     "is_article": "1", 
