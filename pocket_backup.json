@@ -69831,66 +69831,31 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "0", 
-    "image": {
-      "item_id": "856065255", 
-      "src": "http://getkong.org/assets/images/homepage/owen-garrett.jpg", 
-      "height": "64", 
-      "width": "64"
-    }, 
-    "excerpt": "Built on top of NGINX, Kong can be fully operated with a simple and easy to use RESTful API.  Put your services behind Kong and add powerful functionality through Kong Plugins, in one command.", 
-    "word_count": "245", 
-    "images": {
-      "1": {
-        "src": "http://getkong.org/assets/images/homepage/owen-garrett.jpg", 
-        "credit": "Owen Garrett, NGINX Head of Products", 
-        "height": "64", 
-        "image_id": "1", 
-        "item_id": "856065255", 
-        "caption": "", 
-        "width": "64"
-      }, 
-      "3": {
-        "src": "http://getkong.org/assets/images/homepage/diagram-right.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "856065255", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://getkong.org/assets/images/homepage/diagram-left.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "856065255", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1430347403", 
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1732, 
+    "time_updated": "1430347406", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "Kong - Open-Source API Management Layer", 
+    "resolved_url": "http://getkong.org/", 
+    "is_article": "0", 
+    "item_id": "856065255", 
+    "time_added": "1430347403", 
+    "resolved_id": "856065255", 
+    "given_url": "http://getkong.org/", 
+    "resolved_title": "", 
     "tags": {
       "api": {
         "item_id": "856065255", 
         "tag": "api"
       }
-    }, 
-    "sort_id": 1732, 
-    "resolved_url": "http://getkong.org/", 
-    "item_id": "856065255", 
-    "resolved_id": "856065255", 
-    "given_url": "http://getkong.org/", 
-    "resolved_title": "Kong - Open-Source API and Microservice Management Layer", 
-    "is_index": "1", 
-    "time_updated": "1430347406", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "Kong - Open-Source API Management Layer", 
-    "has_image": "1"
+    }
   }, 
   {
     "status": "0", 
