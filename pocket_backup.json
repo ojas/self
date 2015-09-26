@@ -93698,7 +93698,7 @@
       "width": "0"
     }, 
     "excerpt": "Discussions criticizing Python often talk about how it is difficult to use Python for multithreaded work, pointing fingers at what is known as the global interpreter lock (affectionately referred to as the \u201cGIL\u201d) that prevents multiple threads of Python code from running simultaneously.", 
-    "word_count": "2325", 
+    "word_count": "2329", 
     "images": {
       "1": {
         "src": "http://assets.toptal.io/uploads/blog/image/952/toptal-blog-image-1426661299127.jpg", 
