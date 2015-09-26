@@ -4339,6 +4339,62 @@
     }
   }, 
   {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 2000, 
+    "time_updated": "1443307202", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "We\u2019re a unique marketing agency comprised of freelance marketing experts, developers, content specialists, and experienced creatives who understand how to navigate the maze of modern marketing & business strategy.", 
+    "image": {
+      "item_id": "1053935592", 
+      "src": "http://pioneercollective.com/wp-content/uploads/2014/09/CompassionUnitedDeckJ-530x415.jpg", 
+      "height": "415", 
+      "width": "530"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "286", 
+    "images": {
+      "1": {
+        "src": "http://pioneercollective.com/wp-content/uploads/2014/09/CompassionUnitedDeckJ-530x415.jpg", 
+        "credit": "", 
+        "height": "415", 
+        "image_id": "1", 
+        "item_id": "1053935592", 
+        "caption": "", 
+        "width": "530"
+      }, 
+      "3": {
+        "src": "http://pioneercollective.com/wp-content/uploads/2015/08/VideoDeck-531x415.png", 
+        "credit": "", 
+        "height": "415", 
+        "image_id": "3", 
+        "item_id": "1053935592", 
+        "caption": "", 
+        "width": "531"
+      }, 
+      "2": {
+        "src": "http://pioneercollective.com/wp-content/uploads/2014/09/CosmeticDeckA-530x415.jpg", 
+        "credit": "", 
+        "height": "415", 
+        "image_id": "2", 
+        "item_id": "1053935592", 
+        "caption": "", 
+        "width": "530"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://pioneercollective.com/", 
+    "is_article": "0", 
+    "item_id": "1053935592", 
+    "time_added": "1443307200", 
+    "resolved_id": "1053935592", 
+    "given_url": "http://pioneercollective.com/", 
+    "resolved_title": "Home"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "1049045786", 
