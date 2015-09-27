@@ -47951,6 +47951,44 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2002, 
+    "time_updated": "1443367668", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "'; if (google_ads[0].bidtype == 'CPC') { /* insert this snippet for each ad call */ google_adnum = google_adnum + google_ads.length; } document.", 
+    "image": {
+      "item_id": "751030108", 
+      "src": "http://i.kinja-img.com/gawker-media/image/upload/s--FS40PeTi--/er6v9cc8b3dszg2wgfvx.jpg", 
+      "height": "287", 
+      "width": "636"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1092", 
+    "images": {
+      "1": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--FS40PeTi--/er6v9cc8b3dszg2wgfvx.jpg", 
+        "credit": "", 
+        "height": "287", 
+        "image_id": "1", 
+        "item_id": "751030108", 
+        "caption": "Here\u2019s Why The Lexus LFA Is The Worst Halo Car of All Time", 
+        "width": "636"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://jalopnik.com/here-s-why-the-lexus-lfa-is-the-worst-halo-car-of-all-t-1651833560", 
+    "is_article": "1", 
+    "item_id": "751030108", 
+    "time_added": "1443367667", 
+    "resolved_id": "751030108", 
+    "given_url": "http://jalopnik.com/here-s-why-the-lexus-lfa-is-the-worst-halo-car-of-all-t-1651833560", 
+    "resolved_title": "Here\u2019s Why The Lexus LFA Is The Worst Halo Car of All Time"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 435, 
     "time_updated": "1367874050", 
@@ -50810,7 +50848,7 @@
     "item_id": "940513980", 
     "resolved_id": "940513980", 
     "given_url": "http://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/", 
-    "resolved_title": "The Next Feature Fallacy : The fallacy that the next new feature will suddenly make people use your product at andrewchen", 
+    "resolved_title": "The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product", 
     "is_index": "0", 
     "time_updated": "1433255032", 
     "time_favorited": "0", 
