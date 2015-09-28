@@ -15070,6 +15070,35 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 2003, 
+    "time_updated": "1443455462", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "authors": {
+      "11405241": {
+        "item_id": "527761094", 
+        "url": "http://www.khanacademy.org/science/biology", 
+        "author_id": "11405241", 
+        "name": "Biology"
+      }
+    }, 
+    "given_title": "Introduction to Euclidean geometry | Geometry | Khan Academy", 
+    "resolved_url": "http://www.khanacademy.org/math/geometry/intro_euclid", 
+    "is_article": "0", 
+    "item_id": "527761094", 
+    "time_added": "1443455462", 
+    "resolved_id": "527761094", 
+    "given_url": "https://www.khanacademy.org/math/geometry/intro_euclid", 
+    "resolved_title": "Introduction to Euclidean geometry"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1350, 
     "time_updated": "1411755862", 
     "time_favorited": "0", 
@@ -40207,6 +40236,35 @@
     "resolved_id": "599528266", 
     "given_url": "http://www.everyonedeservesgreatdesign.com/#how", 
     "resolved_title": "Everyone Deserves Great Design"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2004, 
+    "time_updated": "1443455465", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Transsaccadic memory is the term used to describe the neural process that allows us to perceive our surroundings as a seamless, unified image despite rapid changes in fixation points.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "3771", 
+    "authors": {
+      "2494248": {
+        "item_id": "154096706", 
+        "url": "http://en.wikipedia.org/wiki/Autobiographical_memory", 
+        "author_id": "2494248", 
+        "name": "Autobiographical"
+      }
+    }, 
+    "given_title": "Transsaccadic memory - Wikipedia, the free encyclopedia", 
+    "resolved_url": "http://en.wikipedia.org/wiki/Transsaccadic_memory", 
+    "is_article": "1", 
+    "item_id": "154096706", 
+    "time_added": "1443455465", 
+    "resolved_id": "154096706", 
+    "given_url": "https://en.wikipedia.org/wiki/Transsaccadic_memory", 
+    "resolved_title": "Transsaccadic memory"
   }, 
   {
     "is_article": "0", 
@@ -96861,6 +96919,27 @@
     "resolved_id": "609653239", 
     "given_url": "http://osxc.github.io/", 
     "resolved_title": "simple configuration tool for os x"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2005, 
+    "time_updated": "1443455668", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The Interaction Design group at Chaotic Moon works side by side with Visual Design and Engineering to conceptualize and design great products and services for our clients. We\u2019re not just the voice of the end user \u2013 we\u2019re the glue that holds the design process together.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "355", 
+    "given_title": "UX Lead Designer at Chaotic Moon ~ Authentic Jobs", 
+    "resolved_url": "https://authenticjobs.com/jobs/25429/ux-lead-designer", 
+    "is_article": "1", 
+    "item_id": "1055491760", 
+    "time_added": "1443455668", 
+    "resolved_id": "1055491760", 
+    "given_url": "https://authenticjobs.com/jobs/25429/ux-lead-designer", 
+    "resolved_title": "UX Lead Designer"
   }, 
   {
     "videos": {
