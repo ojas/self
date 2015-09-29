@@ -16592,8 +16592,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 2006, 
-    "time_updated": "1443490060", 
+    "sort_id": 2008, 
+    "time_updated": "1443539121", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "", 
@@ -16622,7 +16622,7 @@
     "resolved_url": "http://i.imgur.com/e8a5w9s.gif", 
     "is_article": "0", 
     "item_id": "1054821150", 
-    "time_added": "1443490060", 
+    "time_added": "1443539121", 
     "resolved_id": "1054821150", 
     "given_url": "http://i.imgur.com/e8a5w9s.gif", 
     "resolved_title": ""
@@ -54244,7 +54244,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 2008, 
+    "sort_id": 2007, 
     "time_updated": "1443498807", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -54258,7 +54258,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1680", 
+    "word_count": "1699", 
     "images": {
       "1": {
         "src": "http://etodd.io/assets/ninjawars.png", 
@@ -100940,7 +100940,7 @@
     "has_video": "0", 
     "time_added": "1443497506", 
     "status": "0", 
-    "sort_id": 2007, 
+    "sort_id": 2006, 
     "resolved_url": "http://mathmistakes.org/", 
     "authors": {
       "25318735": {
