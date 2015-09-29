@@ -54277,6 +54277,116 @@
     "resolved_title": "Something we'd all do well to remember"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2008, 
+    "time_updated": "1443498807", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Developers hate him!  We'll cover some standard tips and tricks here, but we're not really interested in those. We're looking for the One Weird Trick to rule them all. Hopefully each trick we encounter brings us closer to coding Mecca.", 
+    "image": {
+      "item_id": "1055744104", 
+      "src": "http://etodd.io/assets/ninjawars.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1680", 
+    "images": {
+      "1": {
+        "src": "http://etodd.io/assets/ninjawars.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1055744104", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://etodd.io/assets/linked-list.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1055744104", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://etodd.io/assets/unity.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1055744104", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://etodd.io/assets/uml.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "1055744104", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://etodd.io/assets/components.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1055744104", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://etodd.io/assets/throne-of-lies.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "1055744104", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://etodd.io/assets/uml-encapsulation.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "1055744104", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://etodd.io/assets/data-flow-encapsulation.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "1055744104", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://etodd.io/assets/data-flow.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "1055744104", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "One Weird Trick to Write Better Code \u00b7 Evan Todd", 
+    "resolved_url": "http://etodd.io/2015/09/28/one-weird-trick-better-code/", 
+    "is_article": "1", 
+    "item_id": "1055744104", 
+    "time_added": "1443498807", 
+    "resolved_id": "1055744104", 
+    "given_url": "http://etodd.io/2015/09/28/one-weird-trick-better-code/", 
+    "resolved_title": "One Weird Trick to Write Better Code"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "367213272", 
