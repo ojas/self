@@ -1794,6 +1794,27 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2009, 
+    "time_updated": "1443544362", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "A large number of listings matched your criteria. You are seeing the top listings.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "18", 
+    "given_title": "1989 Porsche 911 Carrera 4 AWD - $39,930", 
+    "resolved_url": "http://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action?entitySelectingHelper.selectedEntity=c7840&newsletterSubscription=2407567&entitySelectingHelper.selectedEntity2=c3400&zip=78701&sourceContext=requestedNewsletter-ListingOverview-locationSubject_false_17079251&newSince=1443499200000&sntEmlId=362683525&linkSectionId=sampleListings&showListingId=125095024#listing=125095024", 
+    "is_article": "1", 
+    "item_id": "1056620733", 
+    "time_added": "1443544360", 
+    "resolved_id": "1056620733", 
+    "given_url": "http://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action?entitySelectingHelper.selectedEntity=c7840&newsletterSubscription=2407567&entitySelectingHelper.selectedEntity2=c3400&zip=78701&sourceContext=requestedNewsletter-ListingOverview-locationSubject_false_17079251&newSince=1443499200000&sntEmlId=362683525&linkSectionId=sampleListings&showListingId=125095024#listing=125095024", 
+    "resolved_title": "1967 Porsche 911 in Austin, TX"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/v/nwXF6UdkeI4", 
