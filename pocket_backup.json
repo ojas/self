@@ -14152,7 +14152,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3276", 
+    "word_count": "3161", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -39166,15 +39166,15 @@
     "is_article": "1", 
     "image": {
       "item_id": "587368600", 
-      "src": "https://camo.githubusercontent.com/97ae54167ed449d73bd8878d2111e5acd666b214/68747470733a2f2f7261772e6769746875622e636f6d2f746f70636c6f75642f736f636b6574636c75737465722f6d61737465722f62656e63686d61726b732f736f636b6574636c75737465725f76302e392e382e706e67", 
+      "src": "https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "SocketCluster is a WebSocket server cluster (with HTTP long-polling fallback) based on engine.io.", 
-    "word_count": "1413", 
+    "excerpt": "Renamed all occurrences of 'store' to 'broker' throughout SC (the default file store.js file was also renamed to broker.js). Since the primary purpose of a 'store' is actually to share messages and data between workers, the word 'broker' seems more appropriate.", 
+    "word_count": "813", 
     "images": {
       "1": {
-        "src": "https://camo.githubusercontent.com/97ae54167ed449d73bd8878d2111e5acd666b214/68747470733a2f2f7261772e6769746875622e636f6d2f746f70636c6f75642f736f636b6574636c75737465722f6d61737465722f62656e63686d61726b732f736f636b6574636c75737465725f76302e392e382e706e67", 
+        "src": "https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -39183,7 +39183,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "https://camo.githubusercontent.com/3c28b03cb80d2c31c7e0494230d62d1800b4782c/68747470733a2f2f7261772e6769746875622e636f6d2f746f70636c6f75642f736f636b6574636c75737465722f6d61737465722f62656e63686d61726b732f736f636b6574636c75737465725f736f636b65745f696f5f746573745f312e706e67", 
+        "src": "https://camo.githubusercontent.com/1e6a52dbf401b60f5979aec6416967a42aab8e53/68747470733a2f2f7261772e6769746875622e636f6d2f536f636b6574436c75737465722f736f636b6574636c75737465722f6d61737465722f6173736574732f6c6f676f2e706e67", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -39198,17 +39198,17 @@
     "sort_id": 1099, 
     "resolved_url": "https://github.com/topcloud/socketcluster", 
     "authors": {
-      "890199": {
+      "27762099": {
         "item_id": "587368600", 
-        "url": "", 
-        "author_id": "890199", 
-        "name": "require"
+        "url": "https://github.com/jondubois", 
+        "author_id": "27762099", 
+        "name": "jondubois"
       }
     }, 
     "item_id": "587368600", 
     "resolved_id": "587368600", 
     "given_url": "https://github.com/topcloud/socketcluster", 
-    "resolved_title": "topcloud/socketcluster \u00b7 GitHub", 
+    "resolved_title": "SocketCluster/socketcluster", 
     "is_index": "1", 
     "time_updated": "1399528075", 
     "time_favorited": "0", 
@@ -100941,7 +100941,7 @@
     "time_added": "1443497506", 
     "status": "0", 
     "sort_id": 2007, 
-    "resolved_url": "http://mathmistakes.org", 
+    "resolved_url": "http://mathmistakes.org/", 
     "authors": {
       "25318735": {
         "item_id": "204249233", 
