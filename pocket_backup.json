@@ -5615,8 +5615,8 @@
     "excerpt": "", 
     "image": {
       "item_id": "235124009", 
-      "src": "http://www.metmuseum.org/~/media/Images/Metpublication/Banner/MetPubs_BigBanner.jpg?h=457&mw=988&w=988", 
-      "height": "457", 
+      "src": "http://www.metmuseum.org/~/media/Images/Metpublication/Banner/MetPubs_BigBanner.jpg?h=360&la=en&mw=988&w=988", 
+      "height": "360", 
       "width": "988"
     }, 
     "has_image": "1", 
@@ -5625,9 +5625,9 @@
     "word_count": "0", 
     "images": {
       "1": {
-        "src": "http://www.metmuseum.org/~/media/Images/Metpublication/Banner/MetPubs_BigBanner.jpg?h=457&mw=988&w=988", 
+        "src": "http://www.metmuseum.org/~/media/Images/Metpublication/Banner/MetPubs_BigBanner.jpg?h=360&la=en&mw=988&w=988", 
         "credit": "", 
-        "height": "457", 
+        "height": "360", 
         "image_id": "1", 
         "item_id": "235124009", 
         "caption": "", 
@@ -5635,7 +5635,7 @@
       }
     }, 
     "given_title": "MetPublications | The Metropolitan Museum of Art", 
-    "resolved_url": "http://www.metmuseum.org/research/metpublications", 
+    "resolved_url": "http://www.metmuseum.org/research/metpublications/", 
     "is_article": "0", 
     "item_id": "235124009", 
     "time_added": "1427638241", 
