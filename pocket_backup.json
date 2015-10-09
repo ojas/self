@@ -31506,47 +31506,47 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/26counterclockwise2/26counterclockwise2-master1050-v11.jpg", 
-        "credit": "", 
+        "credit": " Photo illustrations  Zachary Scott for The New York Times. Hair and Makeup: Bruce Spaulding Fuller, Aimee Macabeo, Stephanie Daniel. Wardobe: Gillean McLeod. Set and Props: Patrick Muller. Retouching: Electric Art, Amy Dresser", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "746094749", 
-        "caption": "\n            Credit\n            Photo illustrations by Zachary Scott for The New York Times. Hair and Makeup: Bruce Spaulding Fuller, Aimee Macabeo, Stephanie Daniel. Wardobe: Gillean McLeod. Set and Props: Patrick Muller. Retouching: Electric Art, Amy Dresser.        ", 
+        "caption": "", 
         "width": "0"
       }, 
       "3": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/26CounterClockwise-slide-DHKA/26CounterClockwise-slide-DHKA-blog427.jpg", 
-        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.         ", 
+        "credit": " Photo illustration  Zachary Scott for The New York Times", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "746094749", 
-        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.         \n            ", 
+        "caption": "", 
         "width": "0"
       }, 
       "2": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-8IGX/2626counterclockwise-slide-8IGX-blog427.jpg", 
-        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.        ", 
+        "credit": " Photo illustration  Zachary Scott for The New York Times", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "746094749", 
-        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.        \n            ", 
+        "caption": "", 
         "width": "0"
       }, 
       "5": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-TNNM/2626counterclockwise-slide-TNNM-blog427.jpg", 
-        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.        ", 
+        "credit": " Photo illustration  Zachary Scott for The New York Times", 
         "height": "0", 
         "image_id": "5", 
         "item_id": "746094749", 
-        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.        \n            ", 
+        "caption": "", 
         "width": "0"
       }, 
       "4": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-2PGC/2626counterclockwise-slide-2PGC-blog427.jpg", 
-        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.        ", 
+        "credit": " Photo illustration  Zachary Scott for The New York Times", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "746094749", 
-        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.        \n            ", 
+        "caption": "", 
         "width": "0"
       }
     }, 
