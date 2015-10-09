@@ -330,6 +330,116 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 2011, 
+    "time_updated": "1443729212", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Terms and conditions apply.  Best Buy is dedicated to always offering the best value to our customers.", 
+    "image": {
+      "item_id": "931658893", 
+      "src": "http://pisces.bbystatic.com/image2/BestBuy_US/store/images/global/header/ug_pacificnew_126536.jpg;canvasHeight=231;canvasWidth=381", 
+      "height": "231", 
+      "width": "381"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "599", 
+    "images": {
+      "1": {
+        "src": "http://pisces.bbystatic.com/image2/BestBuy_US/store/images/global/header/ug_pacificnew_126536.jpg;canvasHeight=231;canvasWidth=381", 
+        "credit": "", 
+        "height": "231", 
+        "image_id": "1", 
+        "item_id": "931658893", 
+        "caption": "", 
+        "width": "381"
+      }, 
+      "3": {
+        "src": "http://pisces.bbystatic.com/image2/BestBuy_US/store/images/global/header/ug_4gdevices_130751.jpg;canvasHeight=231;canvasWidth=381", 
+        "credit": "", 
+        "height": "231", 
+        "image_id": "3", 
+        "item_id": "931658893", 
+        "caption": "", 
+        "width": "381"
+      }, 
+      "2": {
+        "src": "http://pisces.bbystatic.com/image2/BestBuy_US/en_US/images/global/header/ubergrapic-tvht.jpg;canvasHeight=231;canvasWidth=381", 
+        "credit": "", 
+        "height": "231", 
+        "image_id": "2", 
+        "item_id": "931658893", 
+        "caption": "", 
+        "width": "381"
+      }, 
+      "5": {
+        "src": "http://pisces.bbystatic.com/image2/BestBuy_US/en_US/images/global/header/ug_gamersclub_uber_flyout_nav.jpg;canvasHeight=231;canvasWidth=381", 
+        "credit": "", 
+        "height": "231", 
+        "image_id": "5", 
+        "item_id": "931658893", 
+        "caption": "", 
+        "width": "381"
+      }, 
+      "4": {
+        "src": "http://pisces.bbystatic.com/image2/BestBuy_US/en_US/images/global/header/ubergrapic-camerascamcorders.jpg;canvasHeight=231;canvasWidth=381", 
+        "credit": "", 
+        "height": "231", 
+        "image_id": "4", 
+        "item_id": "931658893", 
+        "caption": "", 
+        "width": "381"
+      }, 
+      "7": {
+        "src": "http://pisces.bbystatic.com/image2/BestBuy_US/en_US/images/global/header/rightSide_wearable.jpg;canvasHeight=589;canvasWidth=381", 
+        "credit": "", 
+        "height": "589", 
+        "image_id": "7", 
+        "item_id": "931658893", 
+        "caption": "", 
+        "width": "381"
+      }, 
+      "6": {
+        "src": "http://pisces.bbystatic.com/image2/BestBuy_US/en_US/images/global/header/ubergrapic-health.jpg;canvasHeight=231;canvasWidth=381", 
+        "credit": "", 
+        "height": "231", 
+        "image_id": "6", 
+        "item_id": "931658893", 
+        "caption": "", 
+        "width": "381"
+      }, 
+      "9": {
+        "src": "http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2014/global/buyingguides/refrigerators2/bg_refrigerator_pdp.png", 
+        "credit": "", 
+        "height": "90", 
+        "image_id": "9", 
+        "item_id": "931658893", 
+        "caption": "", 
+        "width": "468"
+      }, 
+      "8": {
+        "src": "http://pisces.bbystatic.com/image2/BestBuy_US/en_US/images/global/header/1uber.jpg;canvasHeight=231;canvasWidth=381", 
+        "credit": "", 
+        "height": "231", 
+        "image_id": "8", 
+        "item_id": "931658893", 
+        "caption": "", 
+        "width": "381"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://www.bestbuy.com/site/samsung-17-5-cu-ft-counter-depth-french-door-refrigerator-stainless-steel/9768562.p?id=1219435652648&skuId=9768562", 
+    "is_article": "0", 
+    "item_id": "931658893", 
+    "time_added": "1443729211", 
+    "resolved_id": "931658893", 
+    "given_url": "http://www.bestbuy.com/site/samsung-17-5-cu-ft-counter-depth-french-door-refrigerator-stainless-steel/9768562.p?id=1219435652648&skuId=9768562", 
+    "resolved_title": "Samsung - 17.5 Cu. Ft. Counter-Depth French Door Refrigerator - Stainless-Steel"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 519, 
     "time_updated": "1369669964", 
     "time_favorited": "0", 
@@ -1436,36 +1546,19 @@
     "time_updated": "1394727555", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "This value controls when a produce request is considered completed. Specifically, how many other brokers must have committed the data to their log and acknowledged this to the leader? Typical values are", 
-    "image": {
-      "item_id": "418064385", 
-      "src": "http://kafka.apache.org/images/consumer-groups.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "has_image": "1", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "32", 
-    "images": {
-      "1": {
-        "src": "http://kafka.apache.org/images/consumer-groups.png", 
-        "credit": "P0-P3", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "418064385", 
-        "caption": "A two server Kafka cluster hosting four partitions", 
-        "width": "0"
-      }
-    }, 
+    "word_count": "0", 
     "given_title": "Apache Kafka", 
-    "resolved_url": "http://kafka.apache.org/documentation.html", 
-    "is_article": "1", 
+    "resolved_url": "http://kafka.apache.org/documentation.html#introduction", 
+    "is_article": "0", 
     "item_id": "418064385", 
     "time_added": "1394727555", 
     "resolved_id": "418064385", 
     "given_url": "https://kafka.apache.org/documentation.html#introduction", 
-    "resolved_title": "Kafka 0.8.2 Documentation"
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -1498,48 +1591,48 @@
     "is_article": "1", 
     "image": {
       "item_id": "298126770", 
-      "src": "http://i.kinja-img.com/gawker-media/image/upload/s--tbsa6HRS--/c_fit,fl_progressive,q_80,w_636/18ec77jnf5fnojpg.jpg", 
-      "height": "357", 
-      "width": "636"
+      "src": "http://i.kinja-img.com/gawker-media/image/upload/s--3nwsoGyz--/c_scale,fl_progressive,q_80,w_800/18ec77jnf5fnojpg.jpg", 
+      "height": "450", 
+      "width": "800"
     }, 
     "excerpt": "Some of the greatest nonfiction books about science read like novels. They borrow tropes and narrative tricks from science fiction, fantasy, horror, and more \u2014 turning great discoveries into great adventures.", 
     "word_count": "2323", 
     "images": {
       "24": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--HavPc6kN--/c_fit,fl_progressive,q_80,w_320/18ec91x21wo78jpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--5mImPGpX--/18ec91x21wo78jpg.jpg", 
         "credit": "", 
-        "height": "426", 
+        "height": "680", 
         "image_id": "24", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "510"
       }, 
       "20": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--txBL63fS--/c_fit,fl_progressive,q_80,w_636/1864l1mwk0lhcjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--dHlVpfZe--/1864l1mwk0lhcjpg.jpg", 
         "credit": "", 
-        "height": "959", 
+        "height": "1207", 
         "image_id": "20", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "636"
+        "width": "800"
       }, 
       "21": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--9GVNMBm8--/c_fit,fl_progressive,q_80,w_320/18ec91h9r7651jpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--cVkL8qP1--/18ec91h9r7651jpg.jpg", 
         "credit": "", 
-        "height": "482", 
+        "height": "603", 
         "image_id": "21", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "400"
       }, 
       "22": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--IJ7OqjJ_--/c_fit,fl_progressive,q_80,w_320/18ec90pnbsv0bjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--6m4CawPZ--/18ec90pnbsv0bjpg.jpg", 
         "credit": "", 
-        "height": "473", 
+        "height": "700", 
         "image_id": "22", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "473"
       }, 
       "23": {
         "src": "http://i.kinja-img.com/gawker-media/image/upload/s--3K1ZXcUv--/18ec91j8wggafpng.png", 
@@ -1551,31 +1644,31 @@
         "width": "300"
       }, 
       "1": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--tbsa6HRS--/c_fit,fl_progressive,q_80,w_636/18ec77jnf5fnojpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--3nwsoGyz--/c_scale,fl_progressive,q_80,w_800/18ec77jnf5fnojpg.jpg", 
         "credit": "", 
-        "height": "357", 
+        "height": "450", 
         "image_id": "1", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "636"
+        "width": "800"
       }, 
       "3": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--yh39DB75--/c_fit,fl_progressive,q_80,w_320/18ec90tlftatdjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--CP9c31W5--/18ec90tlftatdjpg.jpg", 
         "credit": "", 
-        "height": "539", 
+        "height": "600", 
         "image_id": "3", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "356"
       }, 
       "2": {
         "src": "http://i.kinja-img.com/gawker-media/image/upload/s--JBPZpsRf--/c_fit,fl_progressive,q_80,w_320/18ec91l7u4cpkgif.jpg", 
         "credit": "", 
-        "height": "472", 
+        "height": "475", 
         "image_id": "2", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "322"
       }, 
       "5": {
         "src": "http://i.kinja-img.com/gawker-media/image/upload/s--dFbFqULM--/18ec90zidkcj0jpg.jpg", 
@@ -1587,22 +1680,22 @@
         "width": "318"
       }, 
       "4": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--6RQKrVEC--/c_fit,fl_progressive,q_80,w_320/18ec91t3v861bjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--hXdfX-Z1--/18ec91t3v861bjpg.jpg", 
         "credit": "", 
-        "height": "480", 
+        "height": "500", 
         "image_id": "4", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "333"
       }, 
       "7": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--LbL9DSlF--/c_fit,fl_progressive,q_80,w_320/18ec91v31o2erjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--p1hdBUkq--/18ec91v31o2erjpg.jpg", 
         "credit": "", 
-        "height": "391", 
+        "height": "621", 
         "image_id": "7", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "508"
       }, 
       "6": {
         "src": "http://i.kinja-img.com/gawker-media/image/upload/s--pXjCOP7J--/18ec911hkxni7png.png", 
@@ -1614,40 +1707,40 @@
         "width": "301"
       }, 
       "9": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--HQweW8f1--/c_fit,fl_progressive,q_80,w_320/18ec922z53szzjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--x7O6W4mN--/18ec922z53szzjpg.jpg", 
         "credit": "", 
-        "height": "426", 
+        "height": "680", 
         "image_id": "9", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "510"
       }, 
       "8": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--eW3jXkd6--/c_fit,fl_progressive,q_80,w_636/18ec919dhl4pyjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--CqXYh-tq--/c_scale,fl_progressive,q_80,w_800/18ec919dhl4pyjpg.jpg", 
         "credit": "", 
-        "height": "917", 
+        "height": "1154", 
         "image_id": "8", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "636"
+        "width": "800"
       }, 
       "11": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--8qMsDQeA--/c_fit,fl_progressive,q_80,w_320/18ec90vkib8f3jpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--5_CWM7gP--/18ec90vkib8f3jpg.jpg", 
         "credit": "", 
-        "height": "483", 
+        "height": "600", 
         "image_id": "11", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "397"
       }, 
       "10": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--w340Gz0e--/c_fit,fl_progressive,q_80,w_320/18ec90xjhmzt9jpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--H8YQgkXo--/18ec90xjhmzt9jpg.jpg", 
         "credit": "", 
-        "height": "493", 
+        "height": "600", 
         "image_id": "10", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "389"
       }, 
       "13": {
         "src": "http://i.kinja-img.com/gawker-media/image/upload/s--Zga9sqL9--/18ec90vkcmy2cgif.jpg", 
@@ -1659,13 +1752,13 @@
         "width": "315"
       }, 
       "12": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--BFuxfzHK--/c_fit,fl_progressive,q_80,w_320/18ec90tl8u8dajpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--QJ7Ms7Xg--/18ec90tl8u8dajpg.jpg", 
         "credit": "", 
-        "height": "489", 
+        "height": "648", 
         "image_id": "12", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "424"
       }, 
       "15": {
         "src": "http://i.kinja-img.com/gawker-media/image/upload/s--6uImchaD--/18ec91far8cr8jpg.jpg", 
@@ -1677,49 +1770,49 @@
         "width": "311"
       }, 
       "14": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--dyPpmLkR--/c_fit,fl_progressive,q_80,w_320/18ecaropqzcdkjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--AHx3jLu0--/18ecaropqzcdkjpg.jpg", 
         "credit": "", 
-        "height": "409", 
+        "height": "475", 
         "image_id": "14", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "371"
       }, 
       "17": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--7IdKP2MR--/c_fit,fl_progressive,q_80,w_320/18ec92103yusbjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--szyxZruA--/18ec92103yusbjpg.jpg", 
         "credit": "", 
-        "height": "462", 
+        "height": "600", 
         "image_id": "17", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "415"
       }, 
       "16": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--1qO4etIO--/c_fit,fl_progressive,q_80,w_320/18ec91n6y0robjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--aiXb9Ft1--/18ec91n6y0robjpg.jpg", 
         "credit": "", 
-        "height": "493", 
+        "height": "500", 
         "image_id": "16", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "324"
       }, 
       "19": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--DVOLJ9Bk--/c_fit,fl_progressive,q_80,w_320/18ec91r4v9i3djpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--lr0b7BPN--/18ec91r4v9i3djpg.jpg", 
         "credit": "", 
-        "height": "512", 
+        "height": "720", 
         "image_id": "19", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "450"
       }, 
       "18": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--ZPMWiVNv--/c_fit,fl_progressive,q_80,w_320/18ec7s5j3tugsjpg.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--L8von6ez--/18ec7s5j3tugsjpg.jpg", 
         "credit": "", 
-        "height": "487", 
+        "height": "648", 
         "image_id": "18", 
         "item_id": "298126770", 
         "caption": "", 
-        "width": "320"
+        "width": "425"
       }
     }, 
     "has_video": "0", 
@@ -3679,17 +3772,37 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1634, 
-    "time_updated": "1422554956", 
-    "time_favorited": "0", 
-    "time_read": "0", 
+    "is_article": "1", 
+    "image": {
+      "item_id": "81577030", 
+      "src": "https://chronicle-assets.s3.amazonaws.com/5/img/photos/biz/photo_12255_landscape_650x433.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
     "excerpt": "When the government gathers or analyzes personal information, many people say they're not worried. \"I've got nothing to hide,\" they declare. \"Only if you're doing something wrong should you worry, and then you don't deserve to keep it private.\"", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
     "word_count": "3218", 
+    "images": {
+      "1": {
+        "src": "https://chronicle-assets.s3.amazonaws.com/5/img/photos/biz/photo_12255_landscape_650x433.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "81577030", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1422554950", 
+    "status": "0", 
+    "tags": {
+      "privacy": {
+        "item_id": "81577030", 
+        "tag": "privacy"
+      }
+    }, 
+    "sort_id": 1634, 
+    "resolved_url": "http://chronicle.com/article/Why-Privacy-Matters-Even-if/127461/", 
     "authors": {
       "190779": {
         "item_id": "81577030", 
@@ -3698,20 +3811,17 @@
         "name": "Daniel J. Solove"
       }
     }, 
-    "given_title": "Why Privacy Matters Even if You Have 'Nothing to Hide' - The Chronicle Revi", 
-    "resolved_url": "http://chronicle.com/article/Why-Privacy-Matters-Even-if/127461/", 
-    "is_article": "1", 
     "item_id": "81577030", 
-    "time_added": "1422554950", 
     "resolved_id": "81577030", 
     "given_url": "https://chronicle.com/article/Why-Privacy-Matters-Even-if/127461/", 
     "resolved_title": "Why Privacy Matters Even if You Have 'Nothing to Hide'", 
-    "tags": {
-      "privacy": {
-        "item_id": "81577030", 
-        "tag": "privacy"
-      }
-    }
+    "is_index": "0", 
+    "time_updated": "1422554956", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Why Privacy Matters Even if You Have 'Nothing to Hide' - The Chronicle Revi", 
+    "has_image": "1"
   }, 
   {
     "videos": {
@@ -4076,8 +4186,8 @@
       "height": "185", 
       "width": "274"
     }, 
-    "excerpt": "While predictions of the future can never be absolutely certain,[1] present scientific understanding in various fields has allowed a projected course for the furthest future events to be sketched out, if only in the broadest strokes.", 
-    "word_count": "8267", 
+    "excerpt": "While scientific predictions of the future can never be absolutely certain,[1] present understanding in various fields allows for the prediction of far future events, if only in the broadest strokes.", 
+    "word_count": "5438", 
     "images": {
       "1": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/274px-Red_Giant_Earth_warm.jpg", 
@@ -4714,13 +4824,147 @@
     "time_updated": "1392932838", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Apache Cordova is a set of device APIs that allow a mobile app developer to access native device function such as the camera or accelerometer from JavaScript.", 
-    "has_image": "0", 
+    "excerpt": "Cordova command-line runs on Node.js and is available on NPM. Follow platform specific guides to install additional platform dependencies. Open a command prompt or Terminal, and type npm install -g cordova.  Create a blank Cordova project using the command-line tool.", 
+    "image": {
+      "item_id": "262693069", 
+      "src": "http://cordova.apache.org/static/img/cordova_bot.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "808", 
+    "word_count": "564", 
+    "images": {
+      "11": {
+        "src": "http://cordova.apache.org/static/img/showcase-apps/Pacifica.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "http://cordova.apache.org/static/img/showcase-apps/NewVo.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "http://cordova.apache.org/static/img/showcase-apps/FanReact.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "http://cordova.apache.org/static/img/showcase-apps/Sworkit.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "http://cordova.apache.org/static/img/showcase-apps/JustWatch.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "http://cordova.apache.org/static/img/cordova_bot.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://cordova.apache.org/static/img/tools/phonegap.svg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://cordova.apache.org/static/img/logo_text.svg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://cordova.apache.org/static/img/tools/monaca.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://cordova.apache.org/static/img/tools/ionic.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://cordova.apache.org/static/img/tools/visual_studio_white.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://cordova.apache.org/static/img/tools/onsen.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://cordova.apache.org/static/img/tools/telerik.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://cordova.apache.org/static/img/tools/TACO_105px.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
     "given_title": "Apache Cordova", 
-    "resolved_url": "https://cordova.apache.org/", 
+    "resolved_url": "http://cordova.apache.org", 
     "is_article": "0", 
     "item_id": "262693069", 
     "time_added": "1392932838", 
@@ -6337,13 +6581,21 @@
     "time_updated": "1439473959", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Product Hunt  Login 294  PeaceSpeed up web browsing by blocking ads & trackers on iOS 9 iPadiPhone H 220  Xcode 7.0Swift 2 and SDKs for iOS 9, watchOS 2, and OS X 10.", 
+    "excerpt": "Product Hunt  Login 1  Sphido CMSA rocket fast flat-file CMS written in PHP.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "525", 
+    "word_count": "209", 
+    "authors": {
+      "39788311": {
+        "item_id": "632398772", 
+        "url": "http://www.producthunt.com/tech/facebook-mobile-profiles", 
+        "author_id": "39788311", 
+        "name": "Facebook Mobile Profiles"
+      }
+    }, 
     "given_title": "Product Hunt", 
-    "resolved_url": "http://www.producthunt.com/", 
+    "resolved_url": "http://www.producthunt.com", 
     "is_article": "0", 
     "item_id": "632398772", 
     "time_added": "1439473959", 
@@ -7062,11 +7314,46 @@
     "time_updated": "1414680500", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Facebook helps you connect and share with the people in your life.Sign UpIt's free and always will be.", 
-    "has_image": "0", 
+    "excerpt": "Connect with friends and theworld around you on Facebook.  See photos and updates  from friends in News Feed.  Share what's new  in your life on your Timeline.  Find more  of what you're looking for with Facebook Search. Sign UpIt\u2019s free and always will be.", 
+    "image": {
+      "item_id": "69969", 
+      "src": "https://scontent.xx.fbcdn.net/hphotos-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "20", 
+    "word_count": "46", 
+    "images": {
+      "1": {
+        "src": "https://scontent.xx.fbcdn.net/hphotos-xap1/t39.2365-6/851565_602269956474188_918638970_n.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "69969", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/851558_160351450817973_1678868765_n.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "69969", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://scontent.xx.fbcdn.net/hphotos-xaf1/t39.2365-6/851585_216271631855613_2121533625_n.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "69969", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
     "given_title": "Facebook", 
     "resolved_url": "https://www.facebook.com/", 
     "is_article": "0", 
@@ -8021,6 +8308,27 @@
     "favorite": "0", 
     "given_title": "GeoCommons", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2021, 
+    "time_updated": "1444338439", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "LEVEL 1: Texas Series LLC or Nevada Series LLC (The First Line of Defense) establish a Texas Series LLC or Nevada Series LLC to own and manage investment properties and businesses in separate \u201cseries\u201d or compartments, establishing a barrier against personal liability; file an assumed name certi", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "630", 
+    "given_title": "Texas Asset Protection Review", 
+    "resolved_url": "http://www.lonestarlandlaw.com/3_Levels_Asset_Protection.html", 
+    "is_article": "1", 
+    "item_id": "1066186978", 
+    "time_added": "1444338438", 
+    "resolved_id": "1066186978", 
+    "given_url": "http://www.lonestarlandlaw.com/3_Levels_Asset_Protection.html", 
+    "resolved_title": "Texas Asset Protection Review"
   }, 
   {
     "is_article": "1", 
@@ -10792,20 +11100,20 @@
     "time_updated": "1368033042", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "bLazy is a lightweight lazy loading, multi-serving image script. It\u2019s written in JavaScript and doesn\u2019t have any dependencies for third party libraries like jQuery.  The goal of bLazy is to help save bandwidth and server requests to your site to everything loads that much faster.", 
+    "excerpt": "Dropify is a tool that helps you create stylish input field. This is a great little tool if you are sick of plain inputs and want to showcase some of your design finesse.  The plugin comes with a drag and drop default file style or you can add your own text or images for a truly custom look.", 
     "image": {
       "item_id": "246742401", 
-      "src": "http://www.unheap.com/wp-content/uploads/be-lazy.png", 
+      "src": "http://www.unheap.com/wp-content/uploads/Dropify.png", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2487", 
+    "word_count": "2635", 
     "images": {
       "11": {
-        "src": "http://www.unheap.com/wp-content/uploads/List.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/Dragula1.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "11", 
@@ -10814,7 +11122,7 @@
         "width": "0"
       }, 
       "10": {
-        "src": "http://www.unheap.com/wp-content/uploads/unheap-newsletter1.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/RoyalSlider.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "10", 
@@ -10823,7 +11131,7 @@
         "width": "0"
       }, 
       "13": {
-        "src": "http://www.unheap.com/wp-content/uploads/Guitar.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/unheap-newsletter1.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "13", 
@@ -10832,7 +11140,7 @@
         "width": "0"
       }, 
       "12": {
-        "src": "http://www.unheap.com/wp-content/uploads/jq2.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/bigfootjs.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "12", 
@@ -10841,7 +11149,7 @@
         "width": "0"
       }, 
       "14": {
-        "src": "http://www.unheap.com/wp-content/uploads/TouchCarousel.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/List.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "14", 
@@ -10850,7 +11158,7 @@
         "width": "0"
       }, 
       "1": {
-        "src": "http://www.unheap.com/wp-content/uploads/be-lazy.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/Dropify.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -10859,7 +11167,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://www.unheap.com/wp-content/uploads/Stretchy.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/Quick-select.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -10868,7 +11176,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://www.unheap.com/wp-content/uploads/jCalculator.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/readable.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -10877,7 +11185,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "http://www.unheap.com/wp-content/uploads/Zozo-Tabs.jpg", 
+        "src": "http://www.unheap.com/wp-content/uploads/jCalculator.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -10886,7 +11194,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://www.unheap.com/wp-content/uploads/chocolat.jpg", 
+        "src": "http://www.unheap.com/wp-content/uploads/be-lazy.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -10895,7 +11203,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "http://www.unheap.com/wp-content/uploads/RoyalSlider.jpg", 
+        "src": "http://www.unheap.com/wp-content/uploads/chocolat.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -10904,7 +11212,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://www.unheap.com/wp-content/uploads/LayerSlider.jpg", 
+        "src": "http://www.unheap.com/wp-content/uploads/Stretchy.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -10913,7 +11221,7 @@
         "width": "0"
       }, 
       "9": {
-        "src": "http://www.unheap.com/wp-content/uploads/bigfootjs.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/LayerSlider.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "9", 
@@ -10922,7 +11230,7 @@
         "width": "0"
       }, 
       "8": {
-        "src": "http://www.unheap.com/wp-content/uploads/Dragula1.png", 
+        "src": "http://www.unheap.com/wp-content/uploads/Zozo-Tabs.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "8", 
@@ -12289,7 +12597,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1220", 
+    "word_count": "1238", 
     "authors": {
       "1415071": {
         "item_id": "978743399", 
@@ -13983,6 +14291,72 @@
   {
     "videos": {
       "1": {
+        "src": "https://www.youtube.com/embed/ZiscokCGOhs", 
+        "vid": "ZiscokCGOhs", 
+        "video_id": "1", 
+        "height": "315", 
+        "width": "560", 
+        "item_id": "1060654774", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "1060654774", 
+      "src": "http://www.iflscience.com/sites/www.iflscience.com/files/styles/ifls_large/public/blog/%5Bnid%5D/radioation.png?itok=gp5pYpjZ", 
+      "height": "425", 
+      "width": "640"
+    }, 
+    "excerpt": "You\u2019ve heard of the catastrophic effects of radiation on environments, animals and humans. A seemingly silent and invisible destroyer, radiation can make whole cities inhabitable for hundreds of years.  But have you ever wondered what radiation actually looks like?", 
+    "word_count": "214", 
+    "images": {
+      "1": {
+        "src": "http://www.iflscience.com/sites/www.iflscience.com/files/styles/ifls_large/public/blog/%5Bnid%5D/radioation.png?itok=gp5pYpjZ", 
+        "credit": "", 
+        "height": "425", 
+        "image_id": "1", 
+        "item_id": "1060654774", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "2": {
+        "src": "http://i.imgur.com/MsmvIpj.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1060654774", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1443980383", 
+    "status": "0", 
+    "sort_id": 2013, 
+    "resolved_url": "http://www.iflscience.com/chemistry/watch-uranium-emit-radiation", 
+    "authors": {
+      "26415351": {
+        "item_id": "1060654774", 
+        "url": "", 
+        "author_id": "26415351", 
+        "name": "Danielle Andrew"
+      }
+    }, 
+    "item_id": "1060654774", 
+    "resolved_id": "1060654774", 
+    "given_url": "http://www.iflscience.com/chemistry/watch-uranium-emit-radiation", 
+    "resolved_title": "Watch Uranium Emit Radiation", 
+    "is_index": "0", 
+    "time_updated": "1443980383", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Watch Uranium Emit Radiation | IFLScience", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
         "src": "http://www.youtube.com/embed/irHgknaS2jA?feature=player_embedded", 
         "vid": "irHgknaS2jA", 
         "video_id": "1", 
@@ -14173,7 +14547,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3283", 
+    "word_count": "3260", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -14456,7 +14830,7 @@
       "width": "0"
     }, 
     "excerpt": "Below is a list of main features that any EVE-powered APIs can expose. Most of these features can be experienced live by consuming the Demo API (see Live demo).  The Eve project aims to provide the best possible REST-compliant API implementation.", 
-    "word_count": "8117", 
+    "word_count": "8474", 
     "images": {
       "1": {
         "src": "http://python-eve.org/_static/forkme_right_green_007200.png", 
@@ -17302,6 +17676,35 @@
     "favorite": "0", 
     "given_title": "One More Time: A Tribute to Daft Punk - Austin | NightCulture", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2018, 
+    "time_updated": "1444143532", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Prima facie (/\u02c8pra\u026am\u0259 \u02c8fe\u026a\u0283\u0268.i\u02d0/, /\u02c8fe\u026a\u0283\u0259/, or /\u02c8fe\u026a\u0283i\u02d0/;[1] from Latin: pr\u012bm\u0101 faci\u0113) is a Latin expression meaning on its first encounter or at first sight.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "946", 
+    "authors": {
+      "7331684": {
+        "item_id": "2445523", 
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
+      }
+    }, 
+    "given_title": "Prima facie - Wikipedia, the free encyclopedia", 
+    "resolved_url": "http://en.wikipedia.org/wiki/Prima_facie", 
+    "is_article": "1", 
+    "item_id": "2445523", 
+    "time_added": "1444143532", 
+    "resolved_id": "2445523", 
+    "given_url": "https://en.wikipedia.org/wiki/Prima_facie", 
+    "resolved_title": "Prima facie"
   }, 
   {
     "is_article": "1", 
@@ -21315,7 +21718,7 @@
       }
     }, 
     "sort_id": 1684, 
-    "resolved_url": "http://techcrunch.com/2015/03/03/in-the-age-of-disintermediation-the-battle-is-all-for-the-customer-interface/#.4q72md:RoSU", 
+    "resolved_url": "http://techcrunch.com/2015/03/03/in-the-age-of-disintermediation-the-battle-is-all-for-the-customer-interface/", 
     "authors": {
       "24090889": {
         "item_id": "859178829", 
@@ -21813,48 +22216,120 @@
     "is_article": "1", 
     "image": {
       "item_id": "934215665", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2013/04/fulfillingwork.jpg", 
+      "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
       "height": "0", 
-      "width": "190"
+      "width": "200"
     }, 
     "excerpt": "\u201cIf one wanted to crush and destroy a man entirely, to mete out to him the most terrible punishment,\u201d wrote Dostoevsky, \u201call one would have to do would be to make him do work that was completely and utterly devoid of usefulness and meaning.", 
     "word_count": "2300", 
     "images": {
+      "11": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/10/holsteemanifesto.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "934215665", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "10": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/wendycamus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "934215665", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "12": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "934215665", 
+        "caption": "", 
+        "width": "200"
+      }, 
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/04/fulfillingwork.jpg", 
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "934215665", 
-        "caption": "'Never have so many people felt so unfulfilled in their career roles, and been so unsure what to do about it.'", 
-        "width": "190"
+        "caption": "", 
+        "width": "200"
       }, 
       "3": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/02/vitruvianman.jpg", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2012/02/vitruvianman.jpg?w=480", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "934215665", 
-        "caption": "Leonardo's Vitruvian Man, arms stretched out wide, is the quintessential symbol of the Renaissance wide achiever.", 
-        "width": "480"
+        "caption": "Leonardo\u2019s Vitruvian Man, arms stretched out wide, is the quintessential symbol of the Renaissance wide achiever.", 
+        "width": "0"
       }, 
       "2": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/06/boredom1.jpg", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/04/fulfillingwork.jpg?w=190", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "934215665", 
-        "caption": "'Never have so many people felt so unfulfilled in their career roles, and been so unsure what to do about it.'", 
-        "width": "480"
+        "caption": "\u2018Never have so many people felt so unfulfilled in their career roles, and been so unsure what to do about it.\u2019", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "934215665", 
+        "caption": "", 
+        "width": "200"
       }, 
       "4": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/04/mariecurie.jpg", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2013/04/mariecurie.jpg?w=480", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "934215665", 
-        "caption": "Marie Curie didn't find her vocation. She grew it.", 
-        "width": "480"
+        "caption": "Marie Curie didn\u2019t find her vocation. She grew it.", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "934215665", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "6": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/12/anais_debbie1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "934215665", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "9": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/11/sontagart.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "934215665", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "8": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/02/sontaglove_unlimited.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "934215665", 
+        "caption": "", 
+        "width": "200"
       }
     }, 
     "has_video": "0", 
@@ -21863,10 +22338,10 @@
     "sort_id": 1787, 
     "resolved_url": "http://www.brainpickings.org/index.php/2013/04/23/how-to-find-fulfilling-work-roman-krznaric/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "934215665", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
@@ -23873,7 +24348,7 @@
     "has_video": "0", 
     "word_count": "2072", 
     "given_title": "How to Minimize Politics in Your Company - Ben's Blog", 
-    "resolved_url": "http://www.bhorowitz.com/how_to_minimize_politics_in_your_company/", 
+    "resolved_url": "http://www.bhorowitz.com/how_to_minimize_politics_in_your_company", 
     "is_article": "1", 
     "item_id": "539248551", 
     "time_added": "1395025885", 
@@ -25515,6 +25990,14 @@
     }, 
     "sort_id": 1259, 
     "resolved_url": "http://typicalprogrammer.com/how-i-work-as-a-digital-nomad/", 
+    "authors": {
+      "38617614": {
+        "item_id": "696949200", 
+        "url": "http://typicalprogrammer.com/author/admin/", 
+        "author_id": "38617614", 
+        "name": "Greg Jorgensen"
+      }
+    }, 
     "item_id": "696949200", 
     "resolved_id": "696949200", 
     "given_url": "http://typicalprogrammer.com/how-i-work-as-a-digital-nomad/", 
@@ -26083,10 +26566,10 @@
     "time_updated": "1409239467", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           What a ride it has been. 166 days in #space, time for me @astro_alex @msuraev to head home.", 
+    "excerpt": "Connect with your friends \u2014 and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.           .@ChicagoBulls outlast @Warriors in a dramatic finish,113-111. D-Rose overcomes TOs, nails game-winning jumper.", 
     "image": {
       "item_id": "124414", 
-      "src": "https://abs.twimg.com/b/front_page/v1/US_CA_4.jpg", 
+      "src": "https://abs.twimg.com/b/front_page/v1/US_CA_7.jpg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -26096,7 +26579,7 @@
     "word_count": "258", 
     "images": {
       "1": {
-        "src": "https://abs.twimg.com/b/front_page/v1/US_CA_4.jpg", 
+        "src": "https://abs.twimg.com/b/front_page/v1/US_CA_7.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -27611,6 +28094,27 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2010, 
+    "time_updated": "1443627071", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "In 1939 Reverend Davis was called to pastor Mount Calvary Missionary Baptist Church, the members of which met in the home of Willie Marshall. In 1950 Reverend Davis supervised construction by his two sons of the church's current brick building at 2111 S.L. Davis Avenue.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "350", 
+    "given_title": "Who was Rev. S.L. Davis?", 
+    "resolved_url": "http://2201sldavis.org/who-was-rev-s-l-davis/", 
+    "is_article": "1", 
+    "item_id": "1057665580", 
+    "time_added": "1443627071", 
+    "resolved_id": "1057665580", 
+    "given_url": "http://2201sldavis.org/who-was-rev-s-l-davis/", 
+    "resolved_title": "Who was Rev. S.L. Davis?"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 680, 
     "time_updated": "1375736958", 
@@ -27986,11 +28490,11 @@
     "time_updated": "1416769084", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Dave \"Dave\"          Season Six    16:48 now playing   Stephen Colbert \"Cut Up And Bloody But Looking Good\"   20:58 now playing   Trevor Noah \"That's the Whole Point of Apartheid, Jerry\"   18:53 now playing   Bill Maher \"The Comedy Team of Smug and Arrogant\"   16:33 now playing   Jim Carrey", 
+    "excerpt": "Inside Baseball \"Inside Baseball\"          Season Six    16:48 now playing   Stephen Colbert \"Cut Up And Bloody But Looking Good\"   20:58 now playing   Trevor Noah \"That's the Whole Point of Apartheid, Jerry\"   18:53 now playing   Bill Maher \"The Comedy Team of Smug and Arrogant\"   16:33 no", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "419", 
+    "word_count": "421", 
     "given_title": "Comedians In Cars Getting Coffee by Jerry Seinfeld", 
     "resolved_url": "http://comediansincarsgettingcoffee.com/", 
     "is_article": "0", 
@@ -27998,7 +28502,7 @@
     "time_added": "1416769084", 
     "resolved_id": "188197930", 
     "given_url": "http://comediansincarsgettingcoffee.com/", 
-    "resolved_title": "Dave"
+    "resolved_title": "Inside Baseball"
   }, 
   {
     "status": "0", 
@@ -28148,6 +28652,27 @@
     "favorite": "0", 
     "given_title": "The Science of Loneliness: How Isolation Can Kill You | New Republic", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2014, 
+    "time_updated": "1444016928", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "For sale, a classic 1st generation 1981 Honda Accord. I am moving and cannot take it with me. It runs like a top and drives but needs some love. This car is badass, hate to sell it. It's pretty loud, gets great gas milage and has been cheap to fix (compared to other classics).", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "212", 
+    "given_title": "", 
+    "resolved_url": "http://austin.craigslist.org/cto/5230741255.html", 
+    "is_article": "1", 
+    "item_id": "1062021175", 
+    "time_added": "1444016908", 
+    "resolved_id": "1062021175", 
+    "given_url": "http://austin.craigslist.org/cto/5230741255.html", 
+    "resolved_title": "Classic Honda Accord - $1200 (West Austin)"
   }, 
   {
     "is_article": "1", 
@@ -35978,50 +36503,25 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "215057090", 
-      "src": "https://www.jacobinmag.com/wp-content/uploads/2011/05/fraseart1.jpg", 
-      "height": "300", 
-      "width": "635"
-    }, 
-    "excerpt": "Recently, a friend of mine became the object of the Internet\u2019s daily\u00a0Two Minutes\u2019 Hate. An artist who\u2019s been unemployed and down on his luck, he had the misfortune of appearing in a story which\u00a0Salon decided to call \u201cA Hipster on Food Stamps.", 
-    "word_count": "2083", 
-    "images": {
-      "1": {
-        "src": "https://www.jacobinmag.com/wp-content/uploads/2011/05/fraseart1.jpg", 
-        "credit": "", 
-        "height": "300", 
-        "image_id": "1", 
-        "item_id": "215057090", 
-        "caption": "", 
-        "width": "635"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1368730167", 
     "status": "0", 
-    "sort_id": 473, 
-    "resolved_url": "https://www.jacobinmag.com/2011/01/hipsters-food-stamps-and-the-politics-of-resentment/", 
-    "authors": {
-      "15043850": {
-        "item_id": "215057090", 
-        "url": "https://www.jacobinmag.com/author/peter-frase/", 
-        "author_id": "15043850", 
-        "name": "Peter Frase"
-      }
-    }, 
-    "item_id": "215057090", 
-    "resolved_id": "215057090", 
-    "given_url": "http://jacobinmag.com/2011/01/hipsters-food-stamps-and-the-politics-of-resentment/", 
-    "resolved_title": "Resenting Hipsters", 
     "is_index": "0", 
+    "sort_id": 473, 
     "time_updated": "1368730167", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "Resenting Hipsters | Jacobin", 
-    "has_image": "1"
+    "resolved_url": "https://www.jacobinmag.com/2011/01/hipsters-food-stamps-and-the-politics-of-resentment/", 
+    "is_article": "0", 
+    "item_id": "215057090", 
+    "time_added": "1368730167", 
+    "resolved_id": "215057090", 
+    "given_url": "http://jacobinmag.com/2011/01/hipsters-food-stamps-and-the-politics-of-resentment/", 
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
@@ -36815,13 +37315,13 @@
     "time_updated": "1409314672", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "News: Bitcoin Core 0.9.2.1 has been released. Download. Sponsored by Private Internet Access, a Bitcoin-accepting VPN.  Loading...", 
+    "excerpt": "Sponsored by Private Internet Access, a Bitcoin-accepting VPN.  Loading...", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "16", 
+    "word_count": "9", 
     "given_title": "Bitcoin and me (Hal Finney)", 
-    "resolved_url": "https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833", 
+    "resolved_url": "https://bitcointalk.org/index.php?topic=155054.msg1643833", 
     "is_article": "0", 
     "item_id": "335512577", 
     "time_added": "1409314672", 
@@ -37675,19 +38175,19 @@
     "time_updated": "1382325320", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Torpio lets anyone create simple scripts. They run in the cloud, and come with built-in essentials such as simple data storage, logging & scheduling. Plus, built-in interfaces to popular business apps.  Every script has its own URL, so you can use Torpio scripts with webhooks.", 
+    "excerpt": "You might be able to replace your Torpio script with a Flow XO workflow. Please see the Flow XO site for more details. If Flow XO isn't suitable, you might find Webscript, Google Apps Script or Heroku good places to migrate your scripts to.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "245", 
+    "word_count": "95", 
     "given_title": "Home", 
-    "resolved_url": "http://Torpio.com", 
-    "is_article": "0", 
+    "resolved_url": "http://torpio.com", 
+    "is_article": "1", 
     "item_id": "413586360", 
     "time_added": "1375992680", 
     "resolved_id": "413586360", 
     "given_url": "https://torpio.com/", 
-    "resolved_title": "Torpio Makes Working with Webhooks Easy"
+    "resolved_title": "Migrating Other Torpio Scripts"
   }, 
   {
     "status": "0", 
@@ -38943,6 +39443,71 @@
     "resolved_title": ""
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2015, 
+    "time_updated": "1444026813", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "This is a Beta release of Cloud Shell. This feature is not covered by any SLA or deprecation policy and may be subject to backward-incompatible changes.  Cloud Shell is your command line environment in the Cloud.", 
+    "image": {
+      "item_id": "1027356707", 
+      "src": "https://cloud.google.com/cloud-shell/images/shell_icon.png", 
+      "height": "0", 
+      "width": "100"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1743", 
+    "images": {
+      "1": {
+        "src": "https://cloud.google.com/cloud-shell/images/shell_icon.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1027356707", 
+        "caption": "", 
+        "width": "100"
+      }, 
+      "2": {
+        "src": "https://cloud.google.com/cloud-shell/images/shell_window_top.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1027356707", 
+        "caption": "", 
+        "width": "100"
+      }, 
+      "5": {
+        "src": "https://cloud.google.com/cloud-shell/images/send_feedback.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "1027356707", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://cloud.google.com/cloud-shell/images/gear_icon.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1027356707", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Google Cloud Shell - Tools \u2014 Google Cloud Platform", 
+    "resolved_url": "https://cloud.google.com/cloud-shell/", 
+    "is_article": "1", 
+    "item_id": "1027356707", 
+    "time_added": "1444026813", 
+    "resolved_id": "1027356707", 
+    "given_url": "https://cloud.google.com/cloud-shell/", 
+    "resolved_title": "Google Cloud Shell"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "925961106", 
@@ -40130,75 +40695,39 @@
     "is_article": "1", 
     "image": {
       "item_id": "356739515", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/worrylessaboutmoney.jpg", 
+      "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/worrylessaboutmoney.jpg?w=190", 
       "height": "0", 
-      "width": "190"
+      "width": "0"
     }, 
-    "excerpt": "What Goethe can teach us about cultivating a healthy relationship with our finances.  The question of how people spend and earn money has been a cultural obsession since the dawn of economic history, but the psychology behind it is sometimes surprising and often riddled with various anxieties.", 
-    "word_count": "2347", 
+    "excerpt": "What Goethe can teach us about cultivating a healthy relationship with our finances. The question of how people spend and earn money has been a cultural obsession since the dawn of economic history, but the psychology behind it is sometimes surprising and often riddled with various anxieties.", 
+    "word_count": "2348", 
     "images": {
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/worrylessaboutmoney.jpg", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/worrylessaboutmoney.jpg?w=190", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "356739515", 
-        "caption": "Indianapolis Newsboys buying brass checks in a newspaper office, 1908", 
-        "width": "190"
+        "caption": "Indianapolis Newsboys buying brass checks in a newspaper office, 1908The U.S. National Archives, public domain", 
+        "width": "0"
       }, 
       "3": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/money4.jpg", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/goetheschmeller.jpg?w=480", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "356739515", 
-        "caption": "Indianapolis Newsboys buying brass checks in a newspaper office, 1908", 
-        "width": "480"
+        "caption": "\u2018The civilized ideal: elegance and devotion to work.\u2019Jonathan Joseph Schmeller, Goethe in His Study Dictating to His Secretary John, 1831", 
+        "width": "0"
       }, 
       "2": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/money1.jpg", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/money3.jpg?w=480", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "356739515", 
-        "caption": "Indianapolis Newsboys buying brass checks in a newspaper office, 1908", 
-        "width": "500"
-      }, 
-      "5": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/money3.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "356739515", 
-        "caption": "Market scene, 1922", 
-        "width": "480"
-      }, 
-      "4": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/money5.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "356739515", 
-        "caption": "Market scene, 1922", 
-        "width": "500"
-      }, 
-      "7": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/goetheschmeller.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "356739515", 
-        "caption": "'The civilized ideal: elegance and devotion to work.'", 
-        "width": "480"
-      }, 
-      "6": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/05/money6.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "356739515", 
-        "caption": "cause", 
-        "width": "500"
+        "caption": "Market scene, 1922The Field Museum Library, public domain", 
+        "width": "0"
       }
     }, 
     "has_video": "0", 
@@ -40213,10 +40742,10 @@
     "sort_id": 459, 
     "resolved_url": "http://www.brainpickings.org/index.php/2013/05/13/how-to-worry-less-about-money/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "356739515", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
@@ -40253,7 +40782,7 @@
       }
     }, 
     "given_title": "Everyone Deserves Great Design", 
-    "resolved_url": "http://www.everyonedeservesgreatdesign.com/#how", 
+    "resolved_url": "http://www.everyonedeservesgreatdesign.com/#now", 
     "is_article": "0", 
     "item_id": "599528266", 
     "time_added": "1400418038", 
@@ -40988,7 +41517,7 @@
     "time_added": "1436642744", 
     "status": "0", 
     "sort_id": 1849, 
-    "resolved_url": "http://nginx.com/blog/introduction-to-microservices/", 
+    "resolved_url": "https://www.nginx.com/blog/introduction-to-microservices/", 
     "authors": {
       "36672181": {
         "item_id": "928592204", 
@@ -41196,7 +41725,7 @@
     "has_video": "0", 
     "word_count": "72", 
     "given_title": "Material Design for Bootstrap", 
-    "resolved_url": "http://fezvrasta.github.io/bootstrap-material-design/", 
+    "resolved_url": "http://fezvrasta.github.io/bootstrap-material-design/#button", 
     "is_article": "1", 
     "item_id": "696930327", 
     "time_added": "1418354718", 
@@ -43382,21 +43911,102 @@
     "is_article": "1", 
     "image": {
       "item_id": "914187809", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2015/04/campbell_hero.jpg", 
+      "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
       "height": "0", 
-      "width": "195"
+      "width": "200"
     }, 
     "excerpt": "\u201cIt has always been the prime function of mythology and rite to supply the symbols that carry the human spirit forward.", 
     "word_count": "400", 
     "images": {
+      "10": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "914187809", 
+        "caption": "", 
+        "width": "200"
+      }, 
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2015/04/campbell_hero.jpg", 
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "914187809", 
         "caption": "", 
-        "width": "195"
+        "width": "200"
+      }, 
+      "3": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "914187809", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "2": {
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2015/04/campbell_hero.jpg?w=195", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "914187809", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "914187809", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "4": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/12/anais_debbie1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "914187809", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "7": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/11/sontagart.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "914187809", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "6": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/02/sontaglove_unlimited.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "914187809", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "9": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/10/holsteemanifesto.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "914187809", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "8": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/wendycamus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "914187809", 
+        "caption": "", 
+        "width": "200"
       }
     }, 
     "has_video": "1", 
@@ -43405,10 +44015,10 @@
     "sort_id": 1739, 
     "resolved_url": "http://www.brainpickings.org/2015/04/28/what-makes-a-hero-joseph-campbell-monomyth/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "914187809", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
@@ -43437,29 +44047,17 @@
     "has_video": "0", 
     "word_count": "104", 
     "authors": {
-      "17632911": {
+      "17623026": {
         "item_id": "828508064", 
-        "url": "http://fivethirtyeight.com/contributors/walt-hickey/", 
-        "author_id": "17632911", 
-        "name": "Walt Hickey"
+        "url": "http://fivethirtyeight.com/contributors/mona-chalabi/", 
+        "author_id": "17623026", 
+        "name": "Mona Chalabi"
       }, 
       "17740547": {
         "item_id": "828508064", 
         "url": "http://fivethirtyeight.com/contributors/allison-mccann/", 
         "author_id": "17740547", 
         "name": "Allison McCann"
-      }, 
-      "28506712": {
-        "item_id": "828508064", 
-        "url": "http://fivethirtyeight.com/contributors/mikhail-zinshteyn/", 
-        "author_id": "28506712", 
-        "name": "Mikhail Zinshteyn"
-      }, 
-      "22669218": {
-        "item_id": "828508064", 
-        "url": "http://fivethirtyeight.com/contributors/oliver-roeder/", 
-        "author_id": "22669218", 
-        "name": "Oliver Roeder"
       }
     }, 
     "given_title": "John Resig: Woah. @FiveThirtyEight just posted a short documentary on Grace", 
@@ -45376,6 +45974,27 @@
   {
     "status": "0", 
     "is_index": "1", 
+    "sort_id": 2017, 
+    "time_updated": "1444141875", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "living in costa rica - Google Search", 
+    "resolved_url": "https://www.google.com/search?client=safari&rls=en&q=living+in+costa+rica&ie=UTF-8&oe=UTF-8", 
+    "is_article": "0", 
+    "item_id": "1063606868", 
+    "time_added": "1444141873", 
+    "resolved_id": "1063606868", 
+    "given_url": "https://www.google.com/search?client=safari&rls=en&q=living+in+costa+rica&ie=UTF-8&oe=UTF-8", 
+    "resolved_title": "living in costa rica"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
     "sort_id": 1932, 
     "time_updated": "1440686032", 
     "time_favorited": "0", 
@@ -45779,7 +46398,7 @@
     "item_id": "726601573", 
     "resolved_id": "726601573", 
     "given_url": "http://www.slate.com/articles/news_and_politics/history/2014/09/the_self_made_man_history_of_a_myth_from_ben_franklin_to_andrew_carnegie.html", 
-    "resolved_title": "From Ben Franklin, to Andrew Carnegie, to Sophia Amoruso.", 
+    "resolved_title": "The Self-Made Man", 
     "is_index": "0", 
     "time_updated": "1421026133", 
     "time_favorited": "0", 
@@ -50016,7 +50635,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "960955826", 
-      "src": "https://cdn-images-1.medium.com/max/800/1*iUj6Fy3ve-leU2g1jx0N_g.png", 
+      "src": "https://cdn-images-1.medium.com/max/1600/1*iUj6Fy3ve-leU2g1jx0N_g.png", 
       "height": "0", 
       "width": "0"
     }, 
@@ -50024,7 +50643,7 @@
     "word_count": "5949", 
     "images": {
       "1": {
-        "src": "https://cdn-images-1.medium.com/max/800/1*iUj6Fy3ve-leU2g1jx0N_g.png", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*iUj6Fy3ve-leU2g1jx0N_g.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -50033,7 +50652,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "https://cdn-images-1.medium.com/max/800/1*QSXo_qlqsF6URPpcflBlbg.png", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*QSXo_qlqsF6URPpcflBlbg.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -50042,7 +50661,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "https://cdn-images-1.medium.com/max/800/1*W9d9nbfOAcuB4K7D_8TaLw.png", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*W9d9nbfOAcuB4K7D_8TaLw.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -50051,7 +50670,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "https://cdn-images-1.medium.com/freeze/max/30/1*gHqLGn0mFwjzh29sPZBdVA.png?q=20", 
+        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*gHqLGn0mFwjzh29sPZBdVA.png?q=20", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -50060,7 +50679,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "https://cdn-images-1.medium.com/max/800/1*bJQrVFYyB0fNqu6O2xcCYA.png", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*bJQrVFYyB0fNqu6O2xcCYA.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -50930,7 +51549,7 @@
     "item_id": "940513980", 
     "resolved_id": "940513980", 
     "given_url": "http://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/", 
-    "resolved_title": "The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product", 
+    "resolved_title": "The Next Feature Fallacy : The fallacy that the next new feature will suddenly make people use your product at andrewchen", 
     "is_index": "0", 
     "time_updated": "1433255032", 
     "time_favorited": "0", 
@@ -50968,8 +51587,8 @@
       "height": "316", 
       "width": "220"
     }, 
-    "excerpt": "Parkinson's law of triviality, also known as bikeshedding, bike-shed effect, or the bicycle-shed example, is C. Northcote Parkinson's 1957 argument that organisations give disproportionate weight to trivial issues.", 
-    "word_count": "1769", 
+    "excerpt": "Parkinson's law of triviality, also known as bikeshedding, bike-shed effect, and the bicycle-shed example, is C. Northcote Parkinson's 1957 argument that organisations give disproportionate weight to trivial issues.", 
+    "word_count": "1451", 
     "images": {
       "1": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Station_Oudegem_-_Foto_3_%282009%29.png/220px-Station_Oudegem_-_Foto_3_%282009%29.png", 
@@ -51097,7 +51716,7 @@
     "time_added": "1430676295", 
     "status": "0", 
     "sort_id": 1735, 
-    "resolved_url": "http://stratechery.com/2015/twitter-might/", 
+    "resolved_url": "https://stratechery.com/2015/twitter-might/", 
     "authors": {
       "33685485": {
         "item_id": "897499543", 
@@ -53166,7 +53785,7 @@
       }
     }, 
     "given_title": "A Soft Murmur", 
-    "resolved_url": "http://asoftmurmur.com/", 
+    "resolved_url": "http://www.asoftmurmur.com", 
     "is_article": "0", 
     "item_id": "414163543", 
     "time_added": "1388603770", 
@@ -54279,7 +54898,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1699", 
+    "word_count": "1749", 
     "images": {
       "1": {
         "src": "http://etodd.io/assets/ninjawars.png", 
@@ -64599,6 +65218,116 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 2019, 
+    "time_updated": "1444236867", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Dumpster Central What does home look like in a world of 10 billion people? How do we equip current and future generations with the tools they need for sustainable living practices? We believe promoting awareness and education in an engaging manner are critical to answering this question - and th", 
+    "image": {
+      "item_id": "433773414", 
+      "src": "http://dumpsterproject.org/wp-content/uploads/2013/06/dumpster_axon_exploded-254x254.jpg", 
+      "height": "254", 
+      "width": "254"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "919", 
+    "images": {
+      "1": {
+        "src": "http://dumpsterproject.org/wp-content/uploads/2013/06/dumpster_axon_exploded-254x254.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "1", 
+        "item_id": "433773414", 
+        "caption": "", 
+        "width": "254"
+      }, 
+      "3": {
+        "src": "http://dumpsterproject.org/wp-content/uploads/2013/06/dumpsterblog2-254x254.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "3", 
+        "item_id": "433773414", 
+        "caption": "", 
+        "width": "254"
+      }, 
+      "2": {
+        "src": "http://dumpsterproject.org/wp-content/uploads/2013/06/Fotolia_47456871_M-254x254.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "2", 
+        "item_id": "433773414", 
+        "caption": "", 
+        "width": "254"
+      }, 
+      "5": {
+        "src": "http://dumpsterproject.org/wp-content/uploads/2013/05/LIZogbu2-254x254.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "5", 
+        "item_id": "433773414", 
+        "caption": "", 
+        "width": "254"
+      }, 
+      "4": {
+        "src": "http://dumpsterproject.org/wp-content/uploads/2013/05/prof1.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "4", 
+        "item_id": "433773414", 
+        "caption": "", 
+        "width": "254"
+      }, 
+      "7": {
+        "src": "http://dumpsterproject.org/wp-content/uploads/2013/05/barbara2-254x254.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "7", 
+        "item_id": "433773414", 
+        "caption": "", 
+        "width": "254"
+      }, 
+      "6": {
+        "src": "http://dumpsterproject.org/wp-content/uploads/2013/05/Vanessa2-254x254.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "6", 
+        "item_id": "433773414", 
+        "caption": "", 
+        "width": "254"
+      }, 
+      "9": {
+        "src": "http://dumpsterproject.org/wp-content/uploads/2013/05/les2-254x254.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "9", 
+        "item_id": "433773414", 
+        "caption": "", 
+        "width": "254"
+      }, 
+      "8": {
+        "src": "http://dumpsterproject.org/wp-content/uploads/2013/05/rich-corsi2-254x254.jpg", 
+        "credit": "", 
+        "height": "254", 
+        "image_id": "8", 
+        "item_id": "433773414", 
+        "caption": "", 
+        "width": "254"
+      }
+    }, 
+    "given_title": "The Dumpster Project", 
+    "resolved_url": "http://dumpsterproject.org/", 
+    "is_article": "0", 
+    "item_id": "433773414", 
+    "time_added": "1444236867", 
+    "resolved_id": "433773414", 
+    "given_url": "http://dumpsterproject.org/", 
+    "resolved_title": "the DUMPSTER project"
+  }, 
+  {
+    "status": "0", 
     "is_index": "0", 
     "sort_id": 348, 
     "time_updated": "1364440827", 
@@ -69151,7 +69880,7 @@
       "width": "0"
     }, 
     "excerpt": "NEW PALTZ, N.Y. \u2014  Having sat in one too many hot cars in his life, Shiva Vencat decided on the kind of vacation home he would build here 15 years ago, up a winding road at the foot of the Shawangunk Mountains.  \u201cYou leave your car in the sun, it becomes a furnace,\u201d Mr.", 
-    "word_count": "1040", 
+    "word_count": "1041", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2015/06/07/nyregion/APPRAISAL2/APPRAISAL2-articleLarge.jpg", 
@@ -71969,7 +72698,7 @@
     "time_added": "1402843447", 
     "resolved_id": "333924044", 
     "given_url": "http://stedolan.github.io/jq/#", 
-    "resolved_title": "jq", 
+    "resolved_title": "Download jq 1.5", 
     "tags": {
       "json command line": {
         "item_id": "333924044", 
@@ -80367,7 +81096,7 @@
     "word_count": "2257", 
     "images": {
       "11": {
-        "src": "https://cdn-images-1.medium.com/max/600/1*h27krBfAhAeoTka-z-GhnQ.jpeg", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*h27krBfAhAeoTka-z-GhnQ.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "11", 
@@ -80376,7 +81105,7 @@
         "width": "0"
       }, 
       "10": {
-        "src": "https://cdn-images-1.medium.com/max/1200/1*gZx8NRS2Ljrv6gY4Zr1bsw.jpeg", 
+        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*gZx8NRS2Ljrv6gY4Zr1bsw.jpeg?q=20", 
         "credit": "", 
         "height": "0", 
         "image_id": "10", 
@@ -80385,7 +81114,7 @@
         "width": "0"
       }, 
       "13": {
-        "src": "https://cdn-images-1.medium.com/max/1200/1*p7z5XKhfNlK0lmbPYOyQfQ.jpeg", 
+        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*p7z5XKhfNlK0lmbPYOyQfQ.jpeg?q=20", 
         "credit": "", 
         "height": "0", 
         "image_id": "13", 
@@ -80394,7 +81123,7 @@
         "width": "0"
       }, 
       "12": {
-        "src": "https://cdn-images-1.medium.com/max/800/1*ohyycinH18fz98TCyUzVgQ.png", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*ohyycinH18fz98TCyUzVgQ.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "12", 
@@ -80403,7 +81132,7 @@
         "width": "0"
       }, 
       "14": {
-        "src": "https://cdn-images-1.medium.com/max/800/1*320_4I0lxbn5x3bx4XPI5Q.png", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*320_4I0lxbn5x3bx4XPI5Q.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "14", 
@@ -80421,7 +81150,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "https://cdn-images-1.medium.com/max/1200/1*1nUMBHtEGvbecCgo4286ZQ.jpeg", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*1nUMBHtEGvbecCgo4286ZQ.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -80430,7 +81159,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "https://cdn-images-1.medium.com/max/800/1*3vIhkoHIzcxvUdijoCVx6w.png", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*3vIhkoHIzcxvUdijoCVx6w.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -80439,7 +81168,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "https://cdn-images-1.medium.com/max/1200/1*FMOScVtSFrZyCXQ5ewamUg.jpeg", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*FMOScVtSFrZyCXQ5ewamUg.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -80448,7 +81177,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "https://cdn-images-1.medium.com/max/1200/1*Oo9_eIScT4l9a1SjKh_x2g.jpeg", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*Oo9_eIScT4l9a1SjKh_x2g.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -80457,7 +81186,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "https://cdn-images-1.medium.com/max/1200/1*j6SCWnQEHEGprl2mpOsbXg.jpeg", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*j6SCWnQEHEGprl2mpOsbXg.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -80466,7 +81195,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "https://cdn-images-1.medium.com/max/1200/1*xEJt5MJLwKz2-KXvHoKSEA.jpeg", 
+        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*xEJt5MJLwKz2-KXvHoKSEA.jpeg?q=20", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -80475,7 +81204,7 @@
         "width": "0"
       }, 
       "9": {
-        "src": "https://cdn-images-1.medium.com/max/1200/1*1BKbKVgoU_5-BSua-eK66A.png", 
+        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*1BKbKVgoU_5-BSua-eK66A.png?q=20", 
         "credit": "", 
         "height": "0", 
         "image_id": "9", 
@@ -80484,7 +81213,7 @@
         "width": "0"
       }, 
       "8": {
-        "src": "https://cdn-images-1.medium.com/max/1200/1*jYlyaAVNDKJYWYvF9Fq1rA.jpeg", 
+        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*jYlyaAVNDKJYWYvF9Fq1rA.jpeg?q=20", 
         "credit": "", 
         "height": "0", 
         "image_id": "8", 
@@ -81496,7 +82225,7 @@
     "time_added": "1380746945", 
     "status": "0", 
     "sort_id": 755, 
-    "resolved_url": "http://raw.densitydesign.org/", 
+    "resolved_url": "http://raw.densitydesign.org", 
     "item_id": "362375261", 
     "resolved_id": "362375261", 
     "given_url": "http://raw.densitydesign.org/", 
@@ -90237,6 +90966,27 @@
   }, 
   {
     "status": "0", 
+    "is_index": "1", 
+    "sort_id": 2020, 
+    "time_updated": "1444236875", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "We have created the ideal compact urban home through a completely new approach anchored in industrial design. The 208 square ft (19.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "58", 
+    "given_title": "Kasita | KASITA", 
+    "resolved_url": "http://kasita.com/kasita/", 
+    "is_article": "1", 
+    "item_id": "1063725994", 
+    "time_added": "1444236875", 
+    "resolved_id": "1063725994", 
+    "given_url": "http://kasita.com/kasita/", 
+    "resolved_title": "Kasita"
+  }, 
+  {
+    "status": "0", 
     "is_index": "0", 
     "sort_id": 1060, 
     "time_updated": "1397725006", 
@@ -91508,7 +92258,7 @@
       }
     }, 
     "sort_id": 696, 
-    "resolved_url": "http://www.strikemag.org/bullshit-jobs/", 
+    "resolved_url": "http://strikemag.org/bullshit-jobs/", 
     "authors": {
       "2474940": {
         "item_id": "419511321", 
@@ -93127,7 +93877,7 @@
         "width": "200"
       }, 
       "2": {
-        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2014/12/neildegrassetyson.jpg?w=500", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2014/12/neildegrassetyson.jpg?w=680", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -93194,7 +93944,7 @@
     "time_added": "1419906157", 
     "status": "0", 
     "sort_id": 1554, 
-    "resolved_url": "https://www.brainpickings.org/2014/12/29/neil-degrasse-tyson-reading-list/", 
+    "resolved_url": "http://www.brainpickings.org/2014/12/29/neil-degrasse-tyson-reading-list/", 
     "authors": {
       "2475265": {
         "item_id": "801946068", 
@@ -96762,6 +97512,55 @@
     "has_image": "1"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "http://www.youtube.com/v/zbIKSFvudtM", 
+        "vid": "zbIKSFvudtM", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "1061050488", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "1061050488", 
+      "src": "http://img.youtube.com/vi/zbIKSFvudtM/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "By DYLAN BADDOUR", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/zbIKSFvudtM/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "1061050488", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1443920312", 
+    "status": "0", 
+    "sort_id": 2012, 
+    "resolved_url": "https://www.youtube.com/watch?v=zbIKSFvudtM", 
+    "item_id": "1061050488", 
+    "resolved_id": "1061050488", 
+    "given_url": "https://www.youtube.com/watch?v=zbIKSFvudtM", 
+    "resolved_title": "\"The Corner\" at 12th and Chicon", 
+    "is_index": "0", 
+    "time_updated": "1443920312", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "\"The Corner\" at 12th and Chicon - YouTube", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1746, 
@@ -97252,8 +98051,8 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "The repl.it project is an attempt to create an online environment for interactively exploring programming languages. It provides a fully-featured terminal emulator and code editor, powered by interpreter engines for more than 15 languages.", 
-    "word_count": "825", 
+    "excerpt": "", 
+    "word_count": "0", 
     "images": {
       "1": {
         "src": "http://repl.it/public/images/amjad.jpg", 
@@ -97302,18 +98101,18 @@
       }
     }, 
     "sort_id": 725, 
-    "resolved_url": "http://repl.it/", 
+    "resolved_url": "https://repl.it/", 
     "item_id": "104785270", 
     "resolved_id": "104785270", 
     "given_url": "http://repl.it/", 
-    "resolved_title": "Online Interpreter", 
-    "is_index": "1", 
+    "resolved_title": "", 
+    "is_index": "0", 
     "time_updated": "1378672084", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "repl.it - QBasic", 
-    "has_image": "1"
+    "has_image": "0"
   }, 
   {
     "status": "0", 
@@ -100007,6 +100806,14 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "1890", 
+    "authors": {
+      "39865781": {
+        "item_id": "744012637", 
+        "url": "", 
+        "author_id": "39865781", 
+        "name": "Watching Humans"
+      }
+    }, 
     "given_title": "", 
     "resolved_url": "http://www.technologyreview.com/view/531911/isaac-asimov-mulls-how-do-people-get-new-ideas/", 
     "is_article": "1", 
@@ -100093,7 +100900,7 @@
   {
     "videos": {
       "1": {
-        "src": "http://www.youtube.com/embed/t5ylqK-aPX8?rel=0", 
+        "src": "https://www.youtube.com/embed/t5ylqK-aPX8?rel=0", 
         "vid": "t5ylqK-aPX8", 
         "video_id": "1", 
         "height": "254", 
@@ -100105,66 +100912,48 @@
     "is_article": "1", 
     "image": {
       "item_id": "165236615", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/internaltime.jpg", 
+      "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2012/05/internaltime1.jpg?w=480", 
       "height": "0", 
-      "width": "180"
+      "width": "0"
     }, 
-    "excerpt": "Debunking the social stigma around late risers, or what Einstein has to do with teens\u2019 risk for smoking.  \u201cSix hours\u2019 sleep for a man, seven for a woman, and eight for a fool,\u201d Napoleon famously prescribed.", 
-    "word_count": "2401", 
+    "excerpt": "Debunking the social stigma around late risers, or what Einstein has to do with teens\u2019 risk for smoking. \u201cSix hours\u2019 sleep for a man, seven for a woman, and eight for a fool,\u201d Napoleon famously prescribed.", 
+    "word_count": "2402", 
     "images": {
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/internaltime.jpg", 
-        "credit": "", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2012/05/internaltime1.jpg?w=480", 
+        "credit": "on free days", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "165236615", 
-        "caption": "chronotype", 
-        "width": "180"
+        "caption": "The distribution of midsleep in Central Europe. The midsleep times", 
+        "width": "0"
       }, 
       "3": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/internaltime2.jpg", 
-        "credit": "on the left", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2012/05/internaltime3.jpg?w=480", 
+        "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "165236615", 
-        "caption": "Sleep duration shows a bell-shaped distribution within a population, but there are more short sleepers", 
-        "width": "480"
+        "caption": "The scissors of sleep. Depending on chronotype, sleep duration can be very different between work days and free days.", 
+        "width": "0"
       }, 
       "2": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/internaltime1.jpg", 
-        "credit": "on free days", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2012/05/internaltime2.jpg?w=480", 
+        "credit": "on the left", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "165236615", 
-        "caption": "The distribution of midsleep in Central Europe. The midsleep times", 
-        "width": "480"
-      }, 
-      "5": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2011/09/queenslander20.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "165236615", 
-        "caption": "Across most ages, men are on average later chronotypes than women. The differences decrease as men and women age. Thus, when the man is older than his female partner, their chronotypes tend to be more similar.", 
-        "width": "500"
+        "caption": "Sleep duration shows a bell-shaped distribution within a population, but there are more short sleepers", 
+        "width": "0"
       }, 
       "4": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/internaltime3.jpg", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2011/09/queenslander20.jpg?w=500", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "165236615", 
-        "caption": "The scissors of sleep. Depending on chronotype, sleep duration can be very different between work days and free days.", 
-        "width": "480"
-      }, 
-      "6": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/05/internaltime4.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "165236615", 
         "caption": "Across most ages, men are on average later chronotypes than women. The differences decrease as men and women age. Thus, when the man is older than his female partner, their chronotypes tend to be more similar.", 
-        "width": "480"
+        "width": "0"
       }
     }, 
     "has_video": "1", 
@@ -100173,10 +100962,10 @@
     "sort_id": 775, 
     "resolved_url": "http://www.brainpickings.org/index.php/2012/05/11/internal-time-till-roenneber/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "165236615", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
@@ -101148,6 +101937,35 @@
     "favorite": "0", 
     "given_title": "The genetics of politics: Body politic | The Economist", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2016, 
+    "time_updated": "1444027271", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "We live in an increasingly software-defined world, a trend which has both good and bad aspects.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1050", 
+    "authors": {
+      "2484838": {
+        "item_id": "1051269680", 
+        "url": "", 
+        "author_id": "2484838", 
+        "name": "Jonathan Corbet"
+      }
+    }, 
+    "given_title": "The Internet of criminal things [LWN.net]", 
+    "resolved_url": "http://lwn.net/Articles/658198/", 
+    "is_article": "1", 
+    "item_id": "1051269680", 
+    "time_added": "1444027271", 
+    "resolved_id": "1051269680", 
+    "given_url": "http://lwn.net/Articles/658198/", 
+    "resolved_title": "The Internet of criminal things"
   }, 
   {
     "is_article": "1", 
@@ -107990,7 +108808,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "is_index": "1", 
+    "is_index": "0", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -108925,7 +109743,7 @@
       }
     }, 
     "given_title": "Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni", 
-    "resolved_url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful", 
+    "resolved_url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#pagination", 
     "is_article": "0", 
     "item_id": "368052398", 
     "time_added": "1382935205", 
