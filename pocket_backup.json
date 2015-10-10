@@ -23702,11 +23702,11 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2011/01/26/us/26guns_337/jp-GUNS-popup.jpg", 
-        "credit": "\n            \n            Rich Addicks for The New York Times        ", 
+        "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "266538469", 
-        "caption": "Mark Rosenberg, former director of the National Center for Injury Control and Prevention, in his office in Decatur, Ga.", 
+        "caption": "Mark Rosenberg, former director of the National Center for Injury Control and Prevention, in his office in Decatur, Ga. Credit Rich Addicks for The New York Times", 
         "width": "0"
       }
     }, 
