@@ -88640,20 +88640,20 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/03/20/business/20state-web1/20state-web1-master675.jpg", 
-        "credit": "\n            \n            Peter DaSilva for The New York Times        ", 
+        "credit": " Peter DaSilva for The New York Times", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "573025326", 
-        "caption": "Farhad Manjoo, tech columnist for The New York Times, turned off the monitor to his left at home in California. He said the return to a single display was punishingly cramped at first, but soon helped him improve his focus on work.", 
+        "caption": "Farhad Manjoo, tech columnist for The New York Times, turned off the monitor to his left at home in California. He said the return to a single display was punishingly cramped at first, but soon helped him improve his focus on work. Credit Peter DaSilva for The New York Times", 
         "width": "0"
       }, 
       "2": {
         "src": "http://static01.nyt.com/images/2014/03/20/business/20state-illo/20state-illo-master315.jpg", 
-        "credit": "\n            \n            Stuart Goldenberg        ", 
+        "credit": " Stuart Goldenberg", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "573025326", 
-        "caption": "\n            Credit\n            Stuart Goldenberg        \n            ", 
+        "caption": "", 
         "width": "0"
       }
     }, 
