@@ -8570,7 +8570,7 @@
     "time_added": "1389205774", 
     "status": "0", 
     "sort_id": 900, 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036#printMode", 
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
     "authors": {
       "9969180": {
         "item_id": "518589471", 
@@ -37209,11 +37209,11 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2015/06/07/opinion/sunday/07GRAY/07GRAY-blog427.jpg", 
-        "credit": "\n            \n            G\u00e9rard DuBois        ", 
+        "credit": " G\u00e9rard DuBois", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "945105496", 
-        "caption": "\n            Credit\n            G\u00e9rard DuBois        \n            ", 
+        "caption": "", 
         "width": "0"
       }
     }, 
