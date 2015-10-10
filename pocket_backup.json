@@ -8570,7 +8570,7 @@
     "time_added": "1389205774", 
     "status": "0", 
     "sort_id": 900, 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036#mjDropdown", 
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
     "authors": {
       "9969180": {
         "item_id": "518589471", 
@@ -18894,11 +18894,11 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/03/13/business/retirementspecial/13WISDOM/13WISDOM-master180-v2.jpg", 
-        "credit": "\n            \n            Sarah Putnam        ", 
+        "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "570682603", 
-        "caption": "INFLUENTIAL Joan and Erik Erikson devised a theory on human development.", 
+        "caption": "INFLUENTIAL Joan and Erik Erikson devised a theory on human development. Credit Sarah Putnam", 
         "width": "0"
       }
     }, 
