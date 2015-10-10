@@ -59010,20 +59010,20 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720COVER/0720COVER-blog427.jpg", 
-        "credit": "\n            \n            Andrew DeGraff        ", 
+        "credit": " Andrew DeGraff", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "669197592", 
-        "caption": "\n            Credit\n            Andrew DeGraff        \n            ", 
+        "caption": "", 
         "width": "0"
       }, 
       "2": {
         "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720unhappinessJUMP/0720unhappinessJUMP-blog427.jpg", 
-        "credit": "\n            \n            Andrew DeGraff        ", 
+        "credit": " Andrew DeGraff", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "669197592", 
-        "caption": "\n            Credit\n            Andrew DeGraff        \n            ", 
+        "caption": "", 
         "width": "0"
       }
     }, 
