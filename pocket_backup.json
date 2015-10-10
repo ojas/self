@@ -30261,6 +30261,33 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 2022, 
+    "time_updated": "1444497357", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
+    "given_title": "Qlik Sense: Mashup", 
+    "resolved_url": "http://sense.axisgroup.com/extensions/specialassets/specialassets.html", 
+    "is_article": "0", 
+    "item_id": "834056344", 
+    "time_added": "1444497352", 
+    "resolved_id": "834056344", 
+    "given_url": "http://sense.axisgroup.com/extensions/specialassets/specialassets.html", 
+    "resolved_title": "Qlik Sense: Mashup", 
+    "tags": {
+      "visualization": {
+        "item_id": "834056344", 
+        "tag": "visualization"
+      }
+    }
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1784, 
     "time_updated": "1432505021", 
     "time_favorited": "0", 
@@ -88456,7 +88483,7 @@
   }, 
   {
     "status": "1", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 44, 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
