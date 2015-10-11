@@ -60762,6 +60762,150 @@
     "resolved_title": "3. All about redirection"
   }, 
   {
+    "videos": {
+      "10": {
+        "src": "https://www.youtube.com/embed/qJa_yYyAlQM", 
+        "vid": "qJa_yYyAlQM", 
+        "video_id": "10", 
+        "height": "465", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }, 
+      "1": {
+        "src": "https://www.youtube.com/embed/gWycuaWJFCM", 
+        "vid": "gWycuaWJFCM", 
+        "video_id": "1", 
+        "height": "349", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }, 
+      "3": {
+        "src": "https://www.youtube.com/embed/dDNoWdyoGFY", 
+        "vid": "dDNoWdyoGFY", 
+        "video_id": "3", 
+        "height": "465", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }, 
+      "2": {
+        "src": "https://www.youtube.com/embed/Trck8tVtYyo", 
+        "vid": "Trck8tVtYyo", 
+        "video_id": "2", 
+        "height": "349", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }, 
+      "5": {
+        "src": "https://www.youtube.com/embed/G93beiYiE74", 
+        "vid": "G93beiYiE74", 
+        "video_id": "5", 
+        "height": "349", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }, 
+      "4": {
+        "src": "https://www.youtube.com/embed/tEPG9z9rHsc", 
+        "vid": "tEPG9z9rHsc", 
+        "video_id": "4", 
+        "height": "349", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }, 
+      "7": {
+        "src": "https://www.youtube.com/embed/Zwl-Pa_QT0M", 
+        "vid": "Zwl-Pa_QT0M", 
+        "video_id": "7", 
+        "height": "349", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }, 
+      "6": {
+        "src": "https://www.youtube.com/embed/dZXatzQ1kzg", 
+        "vid": "dZXatzQ1kzg", 
+        "video_id": "6", 
+        "height": "465", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }, 
+      "9": {
+        "src": "https://www.youtube.com/embed/67cMet52mL4", 
+        "vid": "67cMet52mL4", 
+        "video_id": "9", 
+        "height": "349", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }, 
+      "8": {
+        "src": "https://www.youtube.com/embed/Tfj_bVIwyeA", 
+        "vid": "Tfj_bVIwyeA", 
+        "video_id": "8", 
+        "height": "465", 
+        "width": "620", 
+        "item_id": "1068664471", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "1068664471", 
+      "src": "http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/grizzly.jpg", 
+      "height": "430", 
+      "width": "640"
+    }, 
+    "excerpt": "October is typically the time of year when people break out the popcorn and settle in for a few scary movies\u2014ones usually involving a scream queen and a bloodthirsty killer on the loose. But the more frightening movie genre is one that hardly gets any play around Halloween: documentaries.", 
+    "word_count": "1826", 
+    "images": {
+      "1": {
+        "src": "http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/grizzly.jpg", 
+        "credit": "\nYouTube\n", 
+        "height": "430", 
+        "image_id": "1", 
+        "item_id": "1068664471", 
+        "caption": "", 
+        "width": "640"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1444582572", 
+    "status": "0", 
+    "tags": {
+      "movies": {
+        "item_id": "1068664471", 
+        "tag": "movies"
+      }
+    }, 
+    "sort_id": 2023, 
+    "resolved_url": "http://mentalfloss.com/article/69723/10-haunting-documentaries-are-stranger-fiction", 
+    "authors": {
+      "7934674": {
+        "item_id": "1068664471", 
+        "url": "", 
+        "author_id": "7934674", 
+        "name": "Different Actors"
+      }
+    }, 
+    "item_id": "1068664471", 
+    "resolved_id": "1068664471", 
+    "given_url": "http://mentalfloss.com/article/69723/10-haunting-documentaries-are-stranger-fiction", 
+    "resolved_title": "10 Haunting Documentaries That Are Stranger Than Fiction", 
+    "is_index": "0", 
+    "time_updated": "1444582579", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "10 Haunting Documentaries That Are Stranger Than Fiction | Mental Floss", 
+    "has_image": "1"
+  }, 
+  {
     "is_article": "0", 
     "image": {
       "item_id": "398018312", 
