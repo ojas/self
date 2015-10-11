@@ -26164,6 +26164,467 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2027, 
+    "time_updated": "1444598419", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "If you\u2019re like me, you probably have a lot of old stuff just lying around your house. It\u2019s not doing anything but taking up space, but you\u2019re either too busy (or lazy), sentimental or just have more important things to deal with.", 
+    "image": {
+      "item_id": "178253622", 
+      "src": "http://twistedsifter.files.wordpress.com/2012/06/use-old-toilet-paper-rolls-to-store-organize-cables-and-chords.jpg?w=600&h=450", 
+      "height": "450", 
+      "width": "600"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "89", 
+    "images": {
+      "42": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/chair-made-from-old-waterskis.jpg?w=260&h=403", 
+        "credit": "", 
+        "height": "403", 
+        "image_id": "42", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "260"
+      }, 
+      "48": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/03/superman-macbook-decal-sticker.jpg?w=640&h=427", 
+        "credit": "", 
+        "height": "427", 
+        "image_id": "48", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "43": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/repurposed-vintage-books-library-desk.jpg?w=600&h=449", 
+        "credit": "", 
+        "height": "449", 
+        "image_id": "43", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "24": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/paper-clip-key-chain-and-money-clip.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "24", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "25": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/water-pipes-as-coat-rack.jpg?w=600&h=409", 
+        "credit": "", 
+        "height": "409", 
+        "image_id": "25", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "26": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/books-as-shelves.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "26", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "27": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/cassette-tape-case-into-gift-card-holder.jpg?w=640&h=479", 
+        "credit": "", 
+        "height": "479", 
+        "image_id": "27", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "20": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/shopping-cart-chair.jpg?w=391&h=352", 
+        "credit": "", 
+        "height": "352", 
+        "image_id": "20", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "391"
+      }, 
+      "21": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/turn-old-luggage-into-side-tables.jpg?w=400&h=451", 
+        "credit": "", 
+        "height": "451", 
+        "image_id": "21", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "400"
+      }, 
+      "22": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/upcycled-light-fixtures.jpg?w=694&h=558", 
+        "credit": "", 
+        "height": "558", 
+        "image_id": "22", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "694"
+      }, 
+      "23": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/use-life-savers-as-candle-holders.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "23", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "46": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/baking-tray-into-organizer.jpg?w=450&h=600", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "46", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "450"
+      }, 
+      "47": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/mason-jar-salad-transporters.jpg?w=576&h=640", 
+        "credit": "", 
+        "height": "640", 
+        "image_id": "47", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "576"
+      }, 
+      "44": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/six-pack_into-condiment-tray.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "44", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "45": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/bathroom-chair.jpg?w=360&h=480", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "45", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "360"
+      }, 
+      "28": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/cd-spindles-cases-as-holder-for-cables.jpg?w=600&h=449", 
+        "credit": "", 
+        "height": "449", 
+        "image_id": "28", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "29": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/old-mini-fridge-into-tv-stand.jpg?w=640&h=480", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "29", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "40": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/cupcake-wrapper-popsicle_300.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "40", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "41": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/repurposed-shoe-rack-into-pantry-organizer.jpg?w=454&h=640", 
+        "credit": "", 
+        "height": "640", 
+        "image_id": "41", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "454"
+      }, 
+      "1": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/use-old-toilet-paper-rolls-to-store-organize-cables-and-chords.jpg?w=600&h=450", 
+        "credit": "", 
+        "height": "450", 
+        "image_id": "1", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "3": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/old-picture-slides-into-window-door-frame-cover-drapes.jpg?w=442&h=640", 
+        "credit": "", 
+        "height": "640", 
+        "image_id": "3", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "442"
+      }, 
+      "2": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/turn-old-credit-cards-into-guitar-picks.jpg?w=600&h=472", 
+        "credit": "", 
+        "height": "472", 
+        "image_id": "2", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "5": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/cd-holder-spindle-into-bagel-sandwich-holder.jpg?w=600&h=358", 
+        "credit": "", 
+        "height": "358", 
+        "image_id": "5", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "4": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/upcycle-lightbulbs-into-candles.jpg?w=600&h=440", 
+        "credit": "", 
+        "height": "440", 
+        "image_id": "4", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "7": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/turn-old-picture-frames-into-serving-trays.jpg?w=640&h=480", 
+        "credit": "", 
+        "height": "480", 
+        "image_id": "7", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "6": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/skewer-knife-block.jpg?w=500&h=496", 
+        "credit": "", 
+        "height": "496", 
+        "image_id": "6", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "500"
+      }, 
+      "9": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/paperclips-to-ogranize-cables.jpg?w=600&h=400", 
+        "credit": "", 
+        "height": "400", 
+        "image_id": "9", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "8": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/ketchup-squeeze-bottle-into-pancake-squirter.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "8", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "39": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/repurposed_drums-from-old-barrels.jpg?w=600&h=450", 
+        "credit": "", 
+        "height": "450", 
+        "image_id": "39", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "38": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/frisbee-plates.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "38", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "11": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/old-suitcase-into-bathroom-medicine-cabinet-mirror.jpg?w=360&h=505", 
+        "credit": "", 
+        "height": "505", 
+        "image_id": "11", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "360"
+      }, 
+      "10": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/turn-old-wrenches-into-hooks.jpg?w=600&h=400", 
+        "credit": "", 
+        "height": "400", 
+        "image_id": "10", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "13": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/use-marbles-to-fill-fence-holes.jpg?w=299&h=400", 
+        "credit": "", 
+        "height": "400", 
+        "image_id": "13", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "299"
+      }, 
+      "12": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/old-computer-tower-as-a-mail-box.jpg?w=480&h=573", 
+        "credit": "", 
+        "height": "573", 
+        "image_id": "12", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "480"
+      }, 
+      "15": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/door-turned-coffee-table.jpg?w=425&h=318", 
+        "credit": "", 
+        "height": "318", 
+        "image_id": "15", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "425"
+      }, 
+      "14": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/old-kleenex-box-as-bag-dispenser.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "14", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "17": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/use-post-it-note-as-collector-for-dust-when-drilling.png?w=640&h=473", 
+        "credit": "", 
+        "height": "473", 
+        "image_id": "17", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "640"
+      }, 
+      "16": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/bulletin-board-into-jewellery-organizer.jpg?w=300&h=405", 
+        "credit": "", 
+        "height": "405", 
+        "image_id": "16", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "19": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/lego-key-holders.jpg?w=600&h=592", 
+        "credit": "", 
+        "height": "592", 
+        "image_id": "19", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "18": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/card-catalog-repurposed-into-a-bar.jpg?w=600&h=450", 
+        "credit": "", 
+        "height": "450", 
+        "image_id": "18", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "31": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/shower-hooks-in-close-as-bag-holder.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "31", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "30": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/wine-box-into-shoe-rack.jpg?w=300&h=357", 
+        "credit": "", 
+        "height": "357", 
+        "image_id": "30", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "37": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/bathtub-turned-into-love-seat.jpg?w=600&h=184", 
+        "credit": "", 
+        "height": "184", 
+        "image_id": "37", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "36": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/paper-towel-ribbon-holder.jpg?w=300&h=356", 
+        "credit": "", 
+        "height": "356", 
+        "image_id": "36", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "35": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/old-door-turned-into-standing-mirror.jpg?w=300&h=450", 
+        "credit": "", 
+        "height": "450", 
+        "image_id": "35", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "300"
+      }, 
+      "34": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/use-picture-frame-edges-as-decoration.jpg?w=600&h=400", 
+        "credit": "", 
+        "height": "400", 
+        "image_id": "34", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "33": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/tennis-racket-mirrors.jpg?w=313&h=400", 
+        "credit": "", 
+        "height": "400", 
+        "image_id": "33", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "313"
+      }, 
+      "32": {
+        "src": "http://twistedsifter.files.wordpress.com/2012/06/repurposed-suitcase-into-organizer-filing-cabinet.jpg?w=640&h=456", 
+        "credit": "", 
+        "height": "456", 
+        "image_id": "32", 
+        "item_id": "178253622", 
+        "caption": "", 
+        "width": "640"
+      }
+    }, 
+    "given_title": "50 Creative Ways to Repurpose, Reuse and Upcycle Old Things \u00abTwistedSifter", 
+    "resolved_url": "http://twistedsifter.com/2012/06/creative-ways-to-repurpose-reuse-and-upcycle-old-things/", 
+    "is_article": "1", 
+    "item_id": "178253622", 
+    "time_added": "1444598419", 
+    "resolved_id": "178253622", 
+    "given_url": "http://twistedsifter.com/2012/06/creative-ways-to-repurpose-reuse-and-upcycle-old-things/", 
+    "resolved_title": "50 Creative Ways to Repurpose, Reuse and Upcycle Old Things"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 1328, 
     "time_updated": "1410791963", 
@@ -60894,7 +61355,7 @@
       "width": "640"
     }, 
     "excerpt": "October is typically the time of year when people break out the popcorn and settle in for a few scary movies\u2014ones usually involving a scream queen and a bloodthirsty killer on the loose. But the more frightening movie genre is one that hardly gets any play around Halloween: documentaries.", 
-    "word_count": "1832", 
+    "word_count": "1843", 
     "images": {
       "1": {
         "src": "http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/grizzly.jpg", 
