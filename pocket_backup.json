@@ -14547,7 +14547,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3260", 
+    "word_count": "3161", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -88188,6 +88188,27 @@
     "resolved_id": "71679805", 
     "given_url": "http://www.django-userena.org/", 
     "resolved_title": "django-userena"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2024, 
+    "time_updated": "1444587240", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Take off all your clothes and roll around on one of these rugs. See? BLISS.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "15", 
+    "given_title": "Bliss Rugs from Momeni - Sellout.Woot", 
+    "resolved_url": "http://sellout.woot.com/plus/bliss-rugs-from-momeni?ref=cnt_wp_4", 
+    "is_article": "0", 
+    "item_id": "1068845505", 
+    "time_added": "1444587239", 
+    "resolved_id": "1068845505", 
+    "given_url": "http://sellout.woot.com/plus/bliss-rugs-from-momeni?ref=cnt_wp_4", 
+    "resolved_title": "Bliss Rugs from Momeni"
   }, 
   {
     "status": "0", 
