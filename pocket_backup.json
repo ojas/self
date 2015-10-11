@@ -75276,11 +75276,11 @@
     "sort_id": 1105, 
     "resolved_url": "https://github.com/soundcloud/roshi", 
     "authors": {
-      "24188900": {
+      "32283797": {
         "item_id": "525647205", 
-        "url": "https://github.com/peterbourgon", 
-        "author_id": "24188900", 
-        "name": "peterbourgon"
+        "url": "https://github.com/beorn7", 
+        "author_id": "32283797", 
+        "name": "beorn7"
       }
     }, 
     "item_id": "525647205", 
