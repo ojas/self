@@ -41018,6 +41018,38 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 2026, 
+    "time_updated": "1444598061", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "< > fuel: gastransmission: manual these days, especially the early ones with the upright type 2 motors. 68 to 71. This camper is gutted, but a good start if your looking for an Adventure. Motor was junk and sitting in the cargo area. I've got it and it goes with the bus, with the normal auction.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "70", 
+    "images": {
+      "2": {
+        "src": "http://images.craigslist.org/00R0R_fdszCbJEMLj_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1068962759", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Adventures are getting rarer and harder to find", 
+    "resolved_url": "https://sanmarcos.craigslist.org/rvd/5254773190.html", 
+    "is_article": "1", 
+    "item_id": "1068962759", 
+    "time_added": "1444598045", 
+    "resolved_id": "1068962759", 
+    "given_url": "https://sanmarcos.craigslist.org/rvd/5254773190.html", 
+    "resolved_title": "Adventures are getting rarer and harder to find - $2500"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1425, 
     "time_updated": "1414776194", 
     "time_favorited": "0", 
@@ -60862,7 +60894,7 @@
       "width": "640"
     }, 
     "excerpt": "October is typically the time of year when people break out the popcorn and settle in for a few scary movies\u2014ones usually involving a scream queen and a bloodthirsty killer on the loose. But the more frightening movie genre is one that hardly gets any play around Halloween: documentaries.", 
-    "word_count": "1843", 
+    "word_count": "1832", 
     "images": {
       "1": {
         "src": "http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/grizzly.jpg", 
@@ -75694,6 +75726,27 @@
     "favorite": "0", 
     "given_title": "Through a Table, Sparsely | MemSQL \u2013 The Database for Speed, Scale & Simpli", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2025, 
+    "time_updated": "1444597898", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "This is verything you need to connect an RV to a home. Sewage, water and electrical resources here. I used all these items last year to connect a 27' Airstream to a house and it worked great. Pics attached. All 3 items are approx one year old and were purchased new.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "153", 
+    "given_title": "Everything needed to connect RV to home: sewage, water & electric.", 
+    "resolved_url": "https://austin.craigslist.org/rvs/5222577996.html", 
+    "is_article": "1", 
+    "item_id": "1068961065", 
+    "time_added": "1444597878", 
+    "resolved_id": "1068961065", 
+    "given_url": "https://austin.craigslist.org/rvs/5222577996.html", 
+    "resolved_title": "Everything needed to connect RV to home: sewage, water & electric. - $200 (Austin)"
   }, 
   {
     "status": "0", 
