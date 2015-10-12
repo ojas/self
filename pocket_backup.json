@@ -77876,11 +77876,11 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2011/09/06/science/06ANNO/06ANNO-popup.jpg", 
-        "credit": "\n            \n            Daniel Bejar        ", 
+        "credit": " Daniel Bejar", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "305488778", 
-        "caption": "\n            Credit\n            Daniel Bejar        \n            ", 
+        "caption": "", 
         "width": "0"
       }
     }, 
