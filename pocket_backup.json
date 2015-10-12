@@ -91109,8 +91109,8 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems:  A look back at how White House advisers have tried to fix the botched health care website.               WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
-    "word_count": "894", 
+    "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems: A look back at how White House advisers have tried to fix the botched health care website.  WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
+    "word_count": "911", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
@@ -91118,34 +91118,16 @@
         "height": "0", 
         "image_id": "1", 
         "item_id": "491709397", 
-        "caption": "\nConfronting the Health Insurance Exchange\u2019s Problems: \nA look back at how White House advisers have tried to fix the botched health care website.            ", 
+        "caption": "Confronting the Health Insurance Exchange\u2019s Problems: A look back at how White House advisers have tried to fix the botched health care website.", 
         "width": "0"
       }, 
-      "3": {
-        "src": "http://graphics8.nytimes.com/images/2013/10/04/us/opening-week-of-health-exchanges-1380941953968/opening-week-of-health-exchanges-1380941953968-thumbWide-v5.png", 
-        "credit": "", 
-        "height": "126", 
-        "image_id": "3", 
-        "item_id": "491709397", 
-        "caption": "Graphic", 
-        "width": "190"
-      }, 
       "2": {
-        "src": "http://graphics8.nytimes.com/images/2013/11/20/us/which-states-will-allow-old-health-policies-to-be-renewed-1384928041514/which-states-will-allow-old-health-policies-to-be-renewed-1384928041514-thumbWide.png", 
-        "credit": "", 
-        "height": "126", 
-        "image_id": "2", 
-        "item_id": "491709397", 
-        "caption": "Graphic", 
-        "width": "190"
-      }, 
-      "4": {
         "src": "http://graphics8.nytimes.com/images/2013/12/01/us/JP-RECONSTRUCT-1/JP-RECONSTRUCT-1-articleInline.jpg", 
         "credit": "Gabriella Demczuk/The New York Times", 
         "height": "127", 
-        "image_id": "4", 
+        "image_id": "2", 
         "item_id": "491709397", 
-        "caption": "HEATED RECEPTION  Kathleen Sebelius, the health secretary, faced House Republicans on Oct. 30 after weeks of problems with HealthCare.gov.                            ", 
+        "caption": "HEATED RECEPTION Kathleen Sebelius, the health secretary, faced House Republicans on Oct. 30 after weeks of problems with HealthCare.gov.", 
         "width": "190"
       }
     }, 
