@@ -61377,7 +61377,7 @@
       }
     }, 
     "sort_id": 2022, 
-    "resolved_url": "http://mentalfloss.com/article/69723/10-haunting-documentaries-are-stranger-fiction#sthash.4V6muCMI.gbpl&st_refDomain=&st_refQuery=", 
+    "resolved_url": "http://mentalfloss.com/article/69723/10-haunting-documentaries-are-stranger-fiction#sthash.NSJlZpOh&st_refDomain=&st_refQuery=", 
     "authors": {
       "40262704": {
         "item_id": "1068664471", 
@@ -90196,48 +90196,120 @@
     "is_article": "1", 
     "image": {
       "item_id": "209796472", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman.jpg", 
+      "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman4.jpg?w=500", 
       "height": "0", 
-      "width": "190"
+      "width": "0"
     }, 
-    "excerpt": "On November 12, 1971, the day before NASA\u2019s Mariner 9 mission reached Mars and became the first spacecraft to orbit another planet, Caltech Planetary Science professor Bruce Murray summoned a formidable panel of thinkers to discuss the implications of the historic event.", 
-    "word_count": "1721", 
+    "excerpt": "Arthur C.", 
+    "word_count": "1533", 
     "images": {
+      "11": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/10/holsteemanifesto.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "209796472", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "10": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/wendycamus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "209796472", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "12": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "209796472", 
+        "caption": "", 
+        "width": "200"
+      }, 
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman.jpg", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman4.jpg?w=500", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "209796472", 
         "caption": "", 
-        "width": "190"
+        "width": "0"
       }, 
       "3": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman1.jpg", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman2.jpg?w=500", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "209796472", 
         "caption": "", 
-        "width": "500"
+        "width": "0"
       }, 
       "2": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman4.jpg", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman1.jpg?w=500", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "209796472", 
         "caption": "", 
-        "width": "500"
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "209796472", 
+        "caption": "", 
+        "width": "200"
       }, 
       "4": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/08/marsandthemindofman2.jpg", 
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "209796472", 
         "caption": "", 
-        "width": "500"
+        "width": "200"
+      }, 
+      "7": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "209796472", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "6": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/12/anais_debbie1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "209796472", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "9": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/11/sontagart.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "209796472", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "8": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/02/sontaglove_unlimited.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "209796472", 
+        "caption": "", 
+        "width": "200"
       }
     }, 
     "has_video": "0", 
@@ -90246,10 +90318,10 @@
     "sort_id": 15, 
     "resolved_url": "http://www.brainpickings.org/index.php/2012/08/20/mars-and-the-mind-of-man-sagan-bradbury-clarke-caltech-1971/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "209796472", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
