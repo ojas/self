@@ -39931,26 +39931,18 @@
     "resolved_title": ""
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 2014, 
-    "time_updated": "1444026813", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "This is a Beta release of Cloud Shell. This feature is not covered by any SLA or deprecation policy and may be subject to backward-incompatible changes.  Cloud Shell is your command line environment in the Cloud.", 
+    "is_article": "1", 
     "image": {
       "item_id": "1027356707", 
-      "src": "https://cloud.google.com/cloud-shell/images/shell_icon.png", 
+      "src": "https://cloud.google.com/cloud-shell/docs/images/used-console.png", 
       "height": "0", 
       "width": "100"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "1743", 
+    "excerpt": "Google Cloud Shell provides you with command-line access to computing resources hosted on Google Cloud Platform and is now available in the Google Developers Console.", 
+    "word_count": "392", 
     "images": {
       "1": {
-        "src": "https://cloud.google.com/cloud-shell/images/shell_icon.png", 
+        "src": "https://cloud.google.com/cloud-shell/docs/images/used-console.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -39959,41 +39951,39 @@
         "width": "100"
       }, 
       "2": {
-        "src": "https://cloud.google.com/cloud-shell/images/shell_window_top.png", 
+        "src": "https://cloud.google.com/cloud-shell/docs/images/shell_icon.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "1027356707", 
         "caption": "", 
         "width": "100"
-      }, 
-      "5": {
-        "src": "https://cloud.google.com/cloud-shell/images/send_feedback.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "1027356707", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "https://cloud.google.com/cloud-shell/images/gear_icon.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "1027356707", 
-        "caption": "", 
-        "width": "0"
       }
     }, 
-    "given_title": "Google Cloud Shell - Tools \u2014 Google Cloud Platform", 
-    "resolved_url": "https://cloud.google.com/cloud-shell/", 
-    "is_article": "1", 
-    "item_id": "1027356707", 
+    "has_video": "0", 
     "time_added": "1444026813", 
+    "status": "0", 
+    "sort_id": 2014, 
+    "resolved_url": "https://cloud.google.com/cloud-shell/", 
+    "authors": {
+      "40362232": {
+        "item_id": "1027356707", 
+        "url": "https://cloud.google.com/cloud-shell/docs/features#authorization", 
+        "author_id": "40362232", 
+        "name": "authorization"
+      }
+    }, 
+    "item_id": "1027356707", 
     "resolved_id": "1027356707", 
     "given_url": "https://cloud.google.com/cloud-shell/", 
-    "resolved_title": "Google Cloud Shell"
+    "resolved_title": "Google Cloud Shell", 
+    "is_index": "0", 
+    "time_updated": "1444026813", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Google Cloud Shell - Tools \u2014 Google Cloud Platform", 
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
