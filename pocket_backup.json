@@ -57351,7 +57351,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "843", 
+    "word_count": "829", 
     "images": {
       "1": {
         "src": "http://www.shubhro.com/static/kayak-mitmproxy/kayakapp.png", 
@@ -57401,7 +57401,7 @@
     }, 
     "given_title": "Reverse-engineering the Kayak app with mitmproxy | Shubhro Saha", 
     "resolved_url": "http://www.shubhro.com/2014/12/18/reverse-engineering-kayak-mitmproxy/", 
-    "is_article": "0", 
+    "is_article": "1", 
     "item_id": "795995344", 
     "time_added": "1419131286", 
     "resolved_id": "795995344", 
