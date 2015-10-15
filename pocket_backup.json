@@ -1498,6 +1498,70 @@
     }
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "1070580195", 
+      "src": "https://cdn-images-1.medium.com/max/1600/1*HumuLoReTLPXVf-UymZj6g.jpeg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "You\u2019ve been lied to by the same people that have always lied to you.  Agile is terrible. Scrum is worse.", 
+    "word_count": "1657", 
+    "images": {
+      "1": {
+        "src": "https://cdn-images-1.medium.com/max/1600/1*HumuLoReTLPXVf-UymZj6g.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1070580195", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://cdn-images-1.medium.com/max/1600/1*BRrqYckEsmr5sDdxtbZjlw.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1070580195", 
+        "caption": "Image Credit: despair.com", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://cdn-images-1.medium.com/max/1600/1*bK_7kQ7YmNhWbwHzE8XZZg.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1070580195", 
+        "caption": "Image Credit: Pawel Kuczynski", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1444875204", 
+    "status": "0", 
+    "sort_id": 2029, 
+    "resolved_url": "https://medium.com/@ayasin/agile-is-the-new-waterfall-f7baef5d026d", 
+    "authors": {
+      "28679012": {
+        "item_id": "1070580195", 
+        "url": "https://medium.com/@ayasin", 
+        "author_id": "28679012", 
+        "name": "ayasin"
+      }
+    }, 
+    "item_id": "1070580195", 
+    "resolved_id": "1070580195", 
+    "given_url": "https://medium.com/@ayasin/agile-is-the-new-waterfall-f7baef5d026d", 
+    "resolved_title": "Agile Is The New Waterfall \u2014 Startups, Wanderlust, and Life Hacking \u2014 Medium", 
+    "is_index": "0", 
+    "time_updated": "1444875204", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Agile Is The New Waterfall \u2014 Startups, Wanderlust, and Life Hacking \u2014 Mediu", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 204, 
@@ -76773,6 +76837,27 @@
     "resolved_id": "402506095", 
     "given_url": "http://augustl.com/blog/2013/zeromq_instead_of_http/", 
     "resolved_title": "ZeroMQ instead of HTTP, for internal services"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2028, 
+    "time_updated": "1444874715", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "There have been dozens of articles written comparing Python and R from a subjective standpoint. We\u2019ll add our own views at some point, but this article aims to look at the languages more objectively.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2200", 
+    "given_title": "Dataquest Blog - Writings about data science, from the makers of Dataquest.", 
+    "resolved_url": "https://www.dataquest.io/blog/python-vs-r/", 
+    "is_article": "1", 
+    "item_id": "1064933691", 
+    "time_added": "1444874715", 
+    "resolved_id": "1064933691", 
+    "given_url": "https://www.dataquest.io/blog/python-vs-r/", 
+    "resolved_title": "R vs Python: head to head data analysis"
   }, 
   {
     "status": "0", 
