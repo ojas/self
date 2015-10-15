@@ -6676,16 +6676,16 @@
   }, 
   {
     "status": "0", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 1903, 
     "time_updated": "1439473959", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Product Hunt  Login 1  Sphido CMSA rocket fast flat-file CMS written in PHP.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "209", 
+    "word_count": "0", 
     "authors": {
       "39788311": {
         "item_id": "632398772", 
@@ -6695,13 +6695,13 @@
       }
     }, 
     "given_title": "Product Hunt", 
-    "resolved_url": "http://www.producthunt.com", 
+    "resolved_url": "http://producthunt.com", 
     "is_article": "0", 
     "item_id": "632398772", 
     "time_added": "1439473959", 
     "resolved_id": "632398772", 
     "given_url": "http://www.producthunt.com/", 
-    "resolved_title": "Product Hunt"
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
