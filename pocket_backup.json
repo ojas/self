@@ -81933,7 +81933,7 @@
         "width": "0"
       }, 
       "10": {
-        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*gZx8NRS2Ljrv6gY4Zr1bsw.jpeg?q=20", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*gZx8NRS2Ljrv6gY4Zr1bsw.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "10", 
@@ -81942,7 +81942,7 @@
         "width": "0"
       }, 
       "13": {
-        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*p7z5XKhfNlK0lmbPYOyQfQ.jpeg?q=20", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*p7z5XKhfNlK0lmbPYOyQfQ.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "13", 
@@ -82023,7 +82023,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*xEJt5MJLwKz2-KXvHoKSEA.jpeg?q=20", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*xEJt5MJLwKz2-KXvHoKSEA.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -82032,7 +82032,7 @@
         "width": "0"
       }, 
       "9": {
-        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*1BKbKVgoU_5-BSua-eK66A.png?q=20", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*1BKbKVgoU_5-BSua-eK66A.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "9", 
@@ -82041,7 +82041,7 @@
         "width": "0"
       }, 
       "8": {
-        "src": "https://cdn-images-1.medium.com/freeze/max/1600/1*jYlyaAVNDKJYWYvF9Fq1rA.jpeg?q=20", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*jYlyaAVNDKJYWYvF9Fq1rA.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "8", 
@@ -109650,7 +109650,7 @@
       }
     }, 
     "given_title": "The Scientific 7-Minute Workout - NYTimes.com", 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "is_article": "1", 
     "item_id": "353401383", 
     "time_added": "1368210295", 
