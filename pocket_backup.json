@@ -59707,11 +59707,11 @@
     "sort_id": 1207, 
     "resolved_url": "http://www.nytimes.com/2014/07/20/opinion/sunday/arthur-c-brooks-love-people-not-pleasure.html", 
     "authors": {
-      "14937": {
+      "17918641": {
         "item_id": "669197592", 
-        "url": "", 
-        "author_id": "14937", 
-        "name": "ARTHUR C. BROOKS"
+        "url": "http://topics.nytimes.com/top/reference/timestopics/people/b/arthur_c_brooks/index.html", 
+        "author_id": "17918641", 
+        "name": "Arthur C. Brooks"
       }
     }, 
     "item_id": "669197592", 
@@ -88214,11 +88214,11 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/02/16/sunday-review/16GRAY/16GRAY-blog427.jpg", 
-        "credit": " Olimpia Zagnoli", 
+        "credit": "\n            \n            Olimpia Zagnoli        ", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "547859179", 
-        "caption": "", 
+        "caption": "\n            Credit\n            Olimpia Zagnoli        \n            ", 
         "width": "0"
       }
     }, 
