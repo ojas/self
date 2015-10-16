@@ -168,6 +168,8 @@
 
 ![6a00d83431352e53ef019b03c8d6d0970d-pi 500×660 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef019b03c8d6d0970d-pi)
 
+![font-infography.jpg 2,992×1,800 pixels](http://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg)
+
 ![tumblr_lwkt6qRDc61qz7aa6o1_1280.jpg (1280×720)](http://31.media.tumblr.com/tumblr_lwkt6qRDc61qz7aa6o1_1280.jpg)
 
 ![kUWMRkK.gif (320×180)](http://i.imgur.com/kUWMRkK.gif)
