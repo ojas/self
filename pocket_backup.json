@@ -17889,40 +17889,17 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "1016039504", 
-      "src": "http://static01.nyt.com/images/2015/08/23/magazine/23culture-opener/23culture-opener-articleLarge-v2.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "On July 11, 2000, in one of the more unlikely moments in the history of the Senate Judiciary Committee, Senator Orrin Hatch handed the microphone to Metallica\u2019s drummer, Lars Ulrich, to hear his thoughts on art in the age of digital reproduction.", 
-    "word_count": "5233", 
-    "images": {
-      "1": {
-        "src": "http://static01.nyt.com/images/2015/08/23/magazine/23culture-opener/23culture-opener-articleLarge-v2.jpg", 
-        "credit": " Illustration  Andrew Rae", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "1016039504", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://static01.nyt.com/images/2015/08/23/magazine/culture-digital-economy-slide-VB5P/culture-digital-economy-slide-VB5P-master495.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "1016039504", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1440167002", 
     "status": "0", 
+    "is_index": "0", 
     "sort_id": 1915, 
-    "resolved_url": "http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html", 
+    "time_updated": "1440983457", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "On July 11, 2000, in one of the more unlikely moments in the history of the Senate Judiciary Committee, Senator Orrin Hatch handed the microphone to Metallica\u2019s drummer, Lars Ulrich, to hear his thoughts on art in the age of digital reproduction.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "5233", 
     "authors": {
       "2477170": {
         "item_id": "1016039504", 
@@ -17931,17 +17908,14 @@
         "name": "STEVEN JOHNSON"
       }
     }, 
+    "given_title": "The Creative Apocalypse That Wasn\u2019t - The New York Times", 
+    "resolved_url": "http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html", 
+    "is_article": "1", 
     "item_id": "1016039504", 
+    "time_added": "1440167002", 
     "resolved_id": "1015959955", 
     "given_url": "http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html?_r=0", 
-    "resolved_title": "The Creative Apocalypse That Wasn\u2019t", 
-    "is_index": "0", 
-    "time_updated": "1440983457", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "The Creative Apocalypse That Wasn\u2019t - The New York Times", 
-    "has_image": "1"
+    "resolved_title": "The Creative Apocalypse That Wasn\u2019t"
   }, 
   {
     "status": "0", 
