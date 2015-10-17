@@ -48747,30 +48747,111 @@
     "is_article": "1", 
     "image": {
       "item_id": "811737108", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2013/06/witnesstomylife.jpg", 
+      "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
       "height": "0", 
-      "width": "176"
+      "width": "200"
     }, 
     "excerpt": "\u201cI am mastering my love for you and turning it inwards as a constituent element of myself.", 
     "word_count": "645", 
     "images": {
+      "11": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "811737108", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "10": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/10/holsteemanifesto.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "811737108", 
+        "caption": "", 
+        "width": "200"
+      }, 
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/06/witnesstomylife.jpg", 
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "811737108", 
         "caption": "", 
-        "width": "176"
+        "width": "200"
+      }, 
+      "3": {
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/06/sartredebeauvoir.jpg?w=680", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "811737108", 
+        "caption": "* Beauvoir would come to have a number of young female lovers, whom she\u2019d usually introduce to Sartre over the course of their relationship.", 
+        "width": "0"
       }, 
       "2": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/06/sartredebeauvoir.jpg", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2013/06/witnesstomylife.jpg?w=176", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "811737108", 
-        "caption": "* Beauvoir would come to have a number of young female lovers, whom she\u2019d usually introduce to Sartre over the course of their relationship.", 
-        "width": "500"
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/12/anais_debbie1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "811737108", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "4": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "811737108", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "7": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/02/sontaglove_unlimited.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "811737108", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "6": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "811737108", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "9": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/wendycamus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "811737108", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "8": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/11/sontagart.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "811737108", 
+        "caption": "", 
+        "width": "200"
       }
     }, 
     "has_video": "0", 
@@ -48779,10 +48860,10 @@
     "sort_id": 1575, 
     "resolved_url": "http://www.brainpickings.org/2013/06/21/sartre-love-letter-simone-de-beauvoir/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "811737108", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
@@ -105160,6 +105241,27 @@
     "favorite": "0", 
     "given_title": "", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 2032, 
+    "time_updated": "1445087304", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Markdeep is a technology for writing plain text documents that will look good in any web browser. It supports diagrams, common styling conventions, and equations as extensions of Markdown syntax.  Markdeep is free and easy to use. It doesn't need a plugin, or Internet connection.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1417", 
+    "given_title": "Markdeep", 
+    "resolved_url": "http://casual-effects.com/markdeep/", 
+    "is_article": "0", 
+    "item_id": "1073636063", 
+    "time_added": "1445087304", 
+    "resolved_id": "1073636063", 
+    "given_url": "http://casual-effects.com/markdeep/", 
+    "resolved_title": "Markdeep"
   }, 
   {
     "status": "0", 
