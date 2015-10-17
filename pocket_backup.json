@@ -53587,11 +53587,11 @@
     "has_video": "0", 
     "word_count": "806", 
     "authors": {
-      "2477758": {
+      "3253373": {
         "item_id": "504322081", 
-        "url": "", 
-        "author_id": "2477758", 
-        "name": "David Brooks"
+        "url": "http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/davidbrooks/index.html", 
+        "author_id": "3253373", 
+        "name": "DAVID BROOKS"
       }
     }, 
     "given_title": "The Thought Leader - NYTimes.com", 
@@ -91448,8 +91448,8 @@
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Confronting the Health Insurance Exchange\u2019s Problems: A look back at how White House advisers have tried to fix the botched health care website.  WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct.", 
-    "word_count": "911", 
+    "excerpt": "WASHINGTON \u2014 As a small coterie of grim-faced advisers shuffled into the Oval Office on the evening of Oct. 15, President Obama\u2019s chief domestic accomplishment was falling apart 24 miles away, at a bustling high-tech data center in suburban Virginia.           HealthCare.", 
+    "word_count": "832", 
     "images": {
       "1": {
         "src": "http://graphics8.nytimes.com/images/2013/11/27/us/20131130_HEALTH-slide-D83P/20131130_HEALTH-slide-D83P-articleLarge.jpg", 
@@ -91457,17 +91457,8 @@
         "height": "0", 
         "image_id": "1", 
         "item_id": "491709397", 
-        "caption": "Confronting the Health Insurance Exchange\u2019s Problems: A look back at how White House advisers have tried to fix the botched health care website.", 
+        "caption": "\nConfronting the Health Insurance Exchange\u2019s Problems: \nA look back at how White House advisers have tried to fix the botched health care website.            ", 
         "width": "0"
-      }, 
-      "2": {
-        "src": "http://graphics8.nytimes.com/images/2013/12/01/us/JP-RECONSTRUCT-1/JP-RECONSTRUCT-1-articleInline.jpg", 
-        "credit": "Gabriella Demczuk/The New York Times", 
-        "height": "127", 
-        "image_id": "2", 
-        "item_id": "491709397", 
-        "caption": "HEATED RECEPTION Kathleen Sebelius, the health secretary, faced House Republicans on Oct. 30 after weeks of problems with HealthCare.gov.", 
-        "width": "190"
       }
     }, 
     "has_video": "0", 
@@ -91481,12 +91472,6 @@
         "url": "http://topics.nytimes.com/top/reference/timestopics/people/s/sheryl_gay_stolberg/index.html", 
         "author_id": "3779984", 
         "name": "SHERYL GAY STOLBERG"
-      }, 
-      "3374038": {
-        "item_id": "491709397", 
-        "url": "http://topics.nytimes.com/top/reference/timestopics/people/s/michael_d_shear/index.html", 
-        "author_id": "3374038", 
-        "name": "MICHAEL D. SHEAR"
       }
     }, 
     "item_id": "491709397", 
