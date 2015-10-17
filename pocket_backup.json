@@ -7040,7 +7040,7 @@
       }
     }, 
     "given_title": "Backbone.js", 
-    "resolved_url": "http://backbonejs.org/#Getting-started", 
+    "resolved_url": "http://backbonejs.org/", 
     "is_article": "0", 
     "item_id": "117329770", 
     "time_added": "1368720828", 
@@ -21382,7 +21382,7 @@
         "height": "0", 
         "image_id": "1", 
         "item_id": "746148710", 
-        "caption": "Marie Kondo, shown in a client\u2019s closet, is a celebrity in Japan for her organizing method.", 
+        "caption": "Marie Kondo, shown in a client\u2019s closet,  is a celebrity in Japan for her organizing method.\n                    ", 
         "width": "0"
       }, 
       "3": {
@@ -21391,16 +21391,16 @@
         "height": "0", 
         "image_id": "3", 
         "item_id": "746148710", 
-        "caption": "Tidying, Marie Kondo says, is a dialogue with one\u2019s self. Above, a client\u2019s bedroom, before and after her ministrations.", 
+        "caption": "Tidying, Marie Kondo says, is a dialogue with one\u2019s self. Above, a client\u2019s bedroom, before and after her ministrations.\n                    ", 
         "width": "0"
       }, 
       "2": {
         "src": "http://static01.nyt.com/images/2014/10/23/garden/23TIDY2/23JPTIDY2-articleLarge.jpg", 
-        "credit": "", 
+        "credit": "\n            \n            Natsuno Ichigo        ", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "746148710", 
-        "caption": "The contents of one of Ms. Kondo\u2019s own drawers. Credit Natsuno Ichigo", 
+        "caption": "The contents of one of Ms. Kondo\u2019s own drawers.\n                        \n            Credit\n            Natsuno Ichigo        \n            ", 
         "width": "0"
       }
     }, 
@@ -21410,10 +21410,10 @@
     "sort_id": 1410, 
     "resolved_url": "http://www.nytimes.com/2014/10/23/garden/home-organization-advice-from-marie-kondo.html", 
     "authors": {
-      "2777414": {
+      "3468172": {
         "item_id": "746148710", 
-        "url": "", 
-        "author_id": "2777414", 
+        "url": "http://topics.nytimes.com/top/reference/timestopics/people/g/penelope_green/index.html", 
+        "author_id": "3468172", 
         "name": "PENELOPE GREEN"
       }
     }, 
