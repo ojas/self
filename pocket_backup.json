@@ -59669,20 +59669,20 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720COVER/0720COVER-blog427.jpg", 
-        "credit": " Andrew DeGraff", 
+        "credit": "\n            \n            Andrew DeGraff        ", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "669197592", 
-        "caption": "", 
+        "caption": "\n            Credit\n            Andrew DeGraff        \n            ", 
         "width": "0"
       }, 
       "2": {
         "src": "http://static01.nyt.com/images/2014/07/20/sunday-review/0720unhappinessJUMP/0720unhappinessJUMP-blog427.jpg", 
-        "credit": " Andrew DeGraff", 
+        "credit": "\n            \n            Andrew DeGraff        ", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "669197592", 
-        "caption": "", 
+        "caption": "\n            Credit\n            Andrew DeGraff        \n            ", 
         "width": "0"
       }
     }, 
@@ -78042,11 +78042,11 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2011/09/06/science/06ANNO/06ANNO-popup.jpg", 
-        "credit": " Daniel Bejar", 
+        "credit": "\n            \n            Daniel Bejar        ", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "305488778", 
-        "caption": "", 
+        "caption": "\n            Credit\n            Daniel Bejar        \n            ", 
         "width": "0"
       }
     }, 
@@ -78056,11 +78056,11 @@
     "sort_id": 1309, 
     "resolved_url": "http://www.nytimes.com/2011/09/06/health/06annoy.html", 
     "authors": {
-      "2665814": {
+      "3377256": {
         "item_id": "305488778", 
-        "url": "", 
-        "author_id": "2665814", 
-        "name": "Joyce Cohen"
+        "url": "http://topics.nytimes.com/top/reference/timestopics/people/c/joyce_cohen/index.html", 
+        "author_id": "3377256", 
+        "name": "JOYCE COHEN"
       }
     }, 
     "item_id": "305488778", 
