@@ -37852,11 +37852,11 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2015/06/07/opinion/sunday/07GRAY/07GRAY-blog427.jpg", 
-        "credit": " G\u00e9rard DuBois", 
+        "credit": "\n            \n            G\u00e9rard DuBois        ", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "945105496", 
-        "caption": "", 
+        "caption": "\n            Credit\n            G\u00e9rard DuBois        \n            ", 
         "width": "0"
       }
     }, 
@@ -37866,12 +37866,6 @@
     "sort_id": 1811, 
     "resolved_url": "http://www.nytimes.com/2015/06/07/opinion/a-crisis-at-the-edge-of-physics.html", 
     "authors": {
-      "65264": {
-        "item_id": "945105496", 
-        "url": "", 
-        "author_id": "65264", 
-        "name": "Marcelo Gleiser"
-      }, 
       "12155": {
         "item_id": "945105496", 
         "url": "", 
