@@ -32149,47 +32149,47 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/26counterclockwise2/26counterclockwise2-master1050-v11.jpg", 
-        "credit": " Photo illustrations  Zachary Scott for The New York Times. Hair and Makeup: Bruce Spaulding Fuller, Aimee Macabeo, Stephanie Daniel. Wardobe: Gillean McLeod. Set and Props: Patrick Muller. Retouching: Electric Art, Amy Dresser", 
+        "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "746094749", 
-        "caption": "", 
+        "caption": "\n            Credit\n            Photo illustrations by Zachary Scott for The New York Times. Hair and Makeup: Bruce Spaulding Fuller, Aimee Macabeo, Stephanie Daniel. Wardobe: Gillean McLeod. Set and Props: Patrick Muller. Retouching: Electric Art, Amy Dresser.        ", 
         "width": "0"
       }, 
       "3": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/26CounterClockwise-slide-DHKA/26CounterClockwise-slide-DHKA-blog427.jpg", 
-        "credit": " Photo illustration  Zachary Scott for The New York Times", 
+        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.         ", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "746094749", 
-        "caption": "", 
+        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.         \n            ", 
         "width": "0"
       }, 
       "2": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-8IGX/2626counterclockwise-slide-8IGX-blog427.jpg", 
-        "credit": " Photo illustration  Zachary Scott for The New York Times", 
+        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.        ", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "746094749", 
-        "caption": "", 
+        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.        \n            ", 
         "width": "0"
       }, 
       "5": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-TNNM/2626counterclockwise-slide-TNNM-blog427.jpg", 
-        "credit": " Photo illustration  Zachary Scott for The New York Times", 
+        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.        ", 
         "height": "0", 
         "image_id": "5", 
         "item_id": "746094749", 
-        "caption": "", 
+        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.        \n            ", 
         "width": "0"
       }, 
       "4": {
         "src": "http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-2PGC/2626counterclockwise-slide-2PGC-blog427.jpg", 
-        "credit": " Photo illustration  Zachary Scott for The New York Times", 
+        "credit": "\n            \n            Photo illustration  Zachary Scott for The New York Times.        ", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "746094749", 
-        "caption": "", 
+        "caption": "\n            Credit\n            Photo illustration by Zachary Scott for The New York Times.        \n            ", 
         "width": "0"
       }
     }, 
@@ -94688,42 +94688,51 @@
       "width": "0"
     }, 
     "excerpt": "Before the collapse of the U.S. financial system in 2008, Brad Katsuyama could tell himself that he bore no responsibility for that system. He worked for the Royal Bank of Canada, for a start.", 
-    "word_count": "3873", 
+    "word_count": "10264", 
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash1/06flash1-blog427.jpg", 
-        "credit": " Stefan Ruiz for The New York Times", 
+        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "582301218", 
-        "caption": "From left: Rob Park, Brad Katsuyama and Ronan Ryan. Credit Stefan Ruiz for The New York Times", 
+        "caption": "From left: Rob Park, Brad Katsuyama and Ronan Ryan.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
         "width": "0"
       }, 
       "3": {
         "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash3/06flash3-blog427.jpg", 
-        "credit": "", 
+        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "582301218", 
-        "caption": "This box kept at the facility in Secaucus, N.J., contains a 38-mile coil of fiber-optic cable that creates a slight delay in the processing of orders, which levels the playing field among traders. Credit Stefan Ruiz for The New York Times", 
+        "caption": "This box kept at the facility in Secaucus, N.J., contains a 38-mile coil of fiber-optic cable that creates a slight delay in the processing of orders, which levels the playing field among traders.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
         "width": "0"
       }, 
       "2": {
         "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash2/06flash2-blog427-v2.jpg", 
-        "credit": "", 
+        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "582301218", 
-        "caption": "A facility in Secaucus, N.J., is home to some IEX servers. Credit Stefan Ruiz for The New York Times", 
+        "caption": "A facility in Secaucus, N.J., is home to some IEX servers.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash4/06flash4-articleLarge.jpg", 
+        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "582301218", 
+        "caption": "The IEX office in Manhattan.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
         "width": "0"
       }, 
       "4": {
         "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash5/06flash5-articleLarge.jpg", 
-        "credit": "", 
+        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "582301218", 
-        "caption": "Brad Katsuyama and his team at IEX. Credit Stefan Ruiz for The New York Times", 
+        "caption": "Brad Katsuyama and his team at IEX.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
         "width": "0"
       }
     }, 
@@ -94733,11 +94742,11 @@
     "sort_id": 1048, 
     "resolved_url": "http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html", 
     "authors": {
-      "2484686": {
+      "17962393": {
         "item_id": "582301218", 
-        "url": "", 
-        "author_id": "2484686", 
-        "name": "Michael Lewis"
+        "url": "http://topics.nytimes.com/top/reference/timestopics/people/l/michael_lewis/index.html", 
+        "author_id": "17962393", 
+        "name": "MICHAEL LEWIS"
       }
     }, 
     "item_id": "582301218", 
