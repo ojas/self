@@ -1646,19 +1646,36 @@
     "time_updated": "1394727555", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
+    "excerpt": "This value controls when a produce request is considered completed. Specifically, how many other brokers must have committed the data to their log and acknowledged this to the leader? Typical values are", 
+    "image": {
+      "item_id": "418064385", 
+      "src": "http://kafka.apache.org/images/consumer-groups.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
+    "word_count": "32", 
+    "images": {
+      "1": {
+        "src": "http://kafka.apache.org/images/consumer-groups.png", 
+        "credit": "P0-P3", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "418064385", 
+        "caption": "A two server Kafka cluster hosting four partitions", 
+        "width": "0"
+      }
+    }, 
     "given_title": "Apache Kafka", 
-    "resolved_url": "http://kafka.apache.org/documentation.html#introduction", 
-    "is_article": "0", 
+    "resolved_url": "http://kafka.apache.org/documentation.html", 
+    "is_article": "1", 
     "item_id": "418064385", 
     "time_added": "1394727555", 
     "resolved_id": "418064385", 
     "given_url": "https://kafka.apache.org/documentation.html#introduction", 
-    "resolved_title": ""
+    "resolved_title": "Kafka 0.8.2 Documentation"
   }, 
   {
     "status": "0", 
