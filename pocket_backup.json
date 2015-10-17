@@ -19066,11 +19066,11 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2014/03/13/business/retirementspecial/13WISDOM/13WISDOM-master180-v2.jpg", 
-        "credit": "", 
+        "credit": "\n            \n            Sarah Putnam        ", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "570682603", 
-        "caption": "INFLUENTIAL Joan and Erik Erikson devised a theory on human development. Credit Sarah Putnam", 
+        "caption": "INFLUENTIAL Joan and Erik Erikson devised a theory on human development.\n                        \n            Credit\n            Sarah Putnam        \n            ", 
         "width": "0"
       }
     }, 
