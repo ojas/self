@@ -4944,62 +4944,80 @@
     "excerpt": "Cordova command-line runs on Node.js and is available on NPM. Follow platform specific guides to install additional platform dependencies. Open a command prompt or Terminal, and type npm install -g cordova.  Create a blank Cordova project using the command-line tool.", 
     "image": {
       "item_id": "262693069", 
-      "src": "http://cordova.apache.org/static/img/cordova_bot.png", 
+      "src": "https://cordova.apache.org/static/img/cordova_bot.png", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "564", 
+    "word_count": "881", 
     "images": {
-      "11": {
-        "src": "http://cordova.apache.org/static/img/showcase-apps/Pacifica.png", 
+      "24": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/Buildr.png", 
         "credit": "", 
         "height": "0", 
-        "image_id": "11", 
+        "image_id": "24", 
         "item_id": "262693069", 
         "caption": "", 
         "width": "0"
       }, 
-      "10": {
-        "src": "http://cordova.apache.org/static/img/showcase-apps/NewVo.png", 
+      "25": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/ReactEurope.png", 
         "credit": "", 
         "height": "0", 
-        "image_id": "10", 
+        "image_id": "25", 
         "item_id": "262693069", 
         "caption": "", 
         "width": "0"
       }, 
-      "13": {
-        "src": "http://cordova.apache.org/static/img/showcase-apps/FanReact.png", 
+      "26": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/Graded.png", 
         "credit": "", 
         "height": "0", 
-        "image_id": "13", 
+        "image_id": "26", 
         "item_id": "262693069", 
         "caption": "", 
         "width": "0"
       }, 
-      "12": {
-        "src": "http://cordova.apache.org/static/img/showcase-apps/Sworkit.png", 
+      "20": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/Gudog.png", 
         "credit": "", 
         "height": "0", 
-        "image_id": "12", 
+        "image_id": "20", 
         "item_id": "262693069", 
         "caption": "", 
         "width": "0"
       }, 
-      "14": {
-        "src": "http://cordova.apache.org/static/img/showcase-apps/JustWatch.png", 
+      "21": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/SeriesSeven.png", 
         "credit": "", 
         "height": "0", 
-        "image_id": "14", 
+        "image_id": "21", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "22": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/Keepe.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "22", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "23": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/CleverBaby.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "23", 
         "item_id": "262693069", 
         "caption": "", 
         "width": "0"
       }, 
       "1": {
-        "src": "http://cordova.apache.org/static/img/cordova_bot.png", 
+        "src": "https://cordova.apache.org/static/img/cordova_bot.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -5008,7 +5026,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "http://cordova.apache.org/static/img/tools/phonegap.svg", 
+        "src": "https://cordova.apache.org/static/img/tools/phonegap.svg", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -5017,7 +5035,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "http://cordova.apache.org/static/img/logo_text.svg", 
+        "src": "https://cordova.apache.org/static/img/cordova-logo-newbrand-textonly.svg", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -5026,7 +5044,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "http://cordova.apache.org/static/img/tools/monaca.png", 
+        "src": "https://cordova.apache.org/static/img/tools/monaca.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -5035,7 +5053,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "http://cordova.apache.org/static/img/tools/ionic.png", 
+        "src": "https://cordova.apache.org/static/img/tools/ionic.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -5044,7 +5062,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "http://cordova.apache.org/static/img/tools/visual_studio_white.png", 
+        "src": "https://cordova.apache.org/static/img/tools/visual_studio_white.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -5053,7 +5071,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "http://cordova.apache.org/static/img/tools/onsen.png", 
+        "src": "https://cordova.apache.org/static/img/tools/onsen.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -5062,7 +5080,7 @@
         "width": "0"
       }, 
       "9": {
-        "src": "http://cordova.apache.org/static/img/tools/telerik.png", 
+        "src": "https://cordova.apache.org/static/img/tools/telerik.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "9", 
@@ -5071,17 +5089,107 @@
         "width": "0"
       }, 
       "8": {
-        "src": "http://cordova.apache.org/static/img/tools/TACO_105px.png", 
+        "src": "https://cordova.apache.org/static/img/tools/TACO_105px.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "8", 
         "item_id": "262693069", 
         "caption": "", 
         "width": "0"
+      }, 
+      "11": {
+        "src": "https://cordova.apache.org/static/img/tools/appbuilder.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "https://cordova.apache.org/static/img/tools/gapdebug-logo100.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "https://cordova.apache.org/static/img/tools/cocoon.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "https://cordova.apache.org/static/img/tools/intel-xdk-art.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/NewVo.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "https://cordova.apache.org/static/img/tools/framework7.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "17": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/Sworkit.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "17", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "16": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/Pacifica.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "16", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "19": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/JustWatch.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "19", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "18": {
+        "src": "https://cordova.apache.org/static/img/showcase-apps/FanReact.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "18", 
+        "item_id": "262693069", 
+        "caption": "", 
+        "width": "0"
       }
     }, 
     "given_title": "Apache Cordova", 
-    "resolved_url": "http://cordova.apache.org", 
+    "resolved_url": "https://cordova.apache.org/", 
     "is_article": "0", 
     "item_id": "262693069", 
     "time_added": "1392932838", 
