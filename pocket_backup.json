@@ -23874,11 +23874,11 @@
     "images": {
       "1": {
         "src": "http://static01.nyt.com/images/2011/01/26/us/26guns_337/jp-GUNS-popup.jpg", 
-        "credit": "", 
+        "credit": "\n            \n            Rich Addicks for The New York Times        ", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "266538469", 
-        "caption": "Mark Rosenberg, former director of the National Center for Injury Control and Prevention, in his office in Decatur, Ga. Credit Rich Addicks for The New York Times", 
+        "caption": "Mark Rosenberg, former director of the National Center for Injury Control and Prevention, in his office in Decatur, Ga.\n                        \n            Credit\n            Rich Addicks for The New York Times        \n            ", 
         "width": "0"
       }
     }, 
@@ -23888,10 +23888,10 @@
     "sort_id": 241, 
     "resolved_url": "http://www.nytimes.com/2011/01/26/us/26guns.html", 
     "authors": {
-      "3033441": {
+      "3711312": {
         "item_id": "266538469", 
-        "url": "", 
-        "author_id": "3033441", 
+        "url": "http://topics.nytimes.com/top/reference/timestopics/people/l/michael_luo/index.html", 
+        "author_id": "3711312", 
         "name": "MICHAEL LUO"
       }
     }, 
@@ -91821,6 +91821,27 @@
     "favorite": "0", 
     "given_title": "to be: determined | making a practice of trying", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2033, 
+    "time_updated": "1445177332", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "You can use arrow keys to navigate in the map.  How do we determine that the Universe is a simulation, within the Universe itself?", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1129", 
+    "given_title": "The universe is a simulation.", 
+    "resolved_url": "http://en.arguman.org/the-universe-is-a-simulation", 
+    "is_article": "0", 
+    "item_id": "1075142599", 
+    "time_added": "1445177332", 
+    "resolved_id": "1075142599", 
+    "given_url": "http://en.arguman.org/the-universe-is-a-simulation", 
+    "resolved_title": "The universe is a simulation."
   }, 
   {
     "is_article": "1", 
