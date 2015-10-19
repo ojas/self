@@ -70057,7 +70057,7 @@
       }
     }, 
     "sort_id": 910, 
-    "resolved_url": "http://www.diygenius.com/mind-expanding-documentaries", 
+    "resolved_url": "http://www.diygenius.com/mind-expanding-documentaries/", 
     "authors": {
       "2577284": {
         "item_id": "520787440", 
@@ -89645,7 +89645,7 @@
   }, 
   {
     "status": "1", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 44, 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
