@@ -29640,7 +29640,7 @@
       "width": "0"
     }, 
     "excerpt": "This is a warning. Please read carefully.  By now you've probably seen a Predictor; millions of them have been sold by the time you're reading this. For those who haven't seen one, it's a small device, like a remote for opening your car door. Its only features are a button and a big green LED.", 
-    "word_count": "875", 
+    "word_count": "877", 
     "images": {
       "1": {
         "src": "http://www.nature.com/nature/journal/v436/n7047/images/436150a-i1.0.jpg", 
@@ -29658,11 +29658,11 @@
     "sort_id": 921, 
     "resolved_url": "http://www.nature.com/nature/journal/v436/n7047/full/436150a.html", 
     "authors": {
-      "2485036": {
+      "10503352": {
         "item_id": "63506144", 
-        "url": "http://www.nature.com/nature/authors/", 
-        "author_id": "2485036", 
-        "name": "For"
+        "url": "", 
+        "author_id": "10503352", 
+        "name": "Pan Macmillan."
       }
     }, 
     "item_id": "63506144", 
