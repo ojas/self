@@ -90467,7 +90467,7 @@
     "word_count": "369", 
     "images": {
       "10": {
-        "src": "http://harpjs.com/images/icons/cordova-logo.png", 
+        "src": "http://harpjs.com/images/icons/firefox-os-logo.svg", 
         "credit": "", 
         "height": "0", 
         "image_id": "10", 
@@ -90539,7 +90539,7 @@
         "width": "0"
       }, 
       "9": {
-        "src": "http://harpjs.com/images/icons/nodejitsu-logo.svg", 
+        "src": "http://harpjs.com/images/icons/cordova-logo.svg", 
         "credit": "", 
         "height": "0", 
         "image_id": "9", 
