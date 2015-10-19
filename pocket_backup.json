@@ -7229,22 +7229,14 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 892, 
-    "time_updated": "1394123408", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "Back in July we wrote a post on 5 steps to $5,000 in monthly recurring revenue (MRR) and promised we would write follow up posts for $25k, and $100k in MRR. We're excited to announce we've reached $25,000 per month! Here are 6 things that helped out.", 
+    "is_article": "1", 
     "image": {
       "item_id": "515109569", 
       "src": "http://statuspage-blog.s3.amazonaws.com/5000-to-25000-in-5-months/activity-log.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
+    "excerpt": "Back in July we wrote a post on 5 steps to $5,000 in monthly recurring revenue (MRR) and promised we would write follow up posts for $25k, and $100k in MRR. We're excited to announce we've reached $25,000 per month! Here are 6 things that helped out.", 
     "word_count": "1497", 
     "images": {
       "10": {
@@ -7338,14 +7330,30 @@
         "width": "0"
       }
     }, 
-    "given_title": "StatusPage.io Blog - Growing From $5,000 to $25,000 in MRR", 
-    "resolved_url": "http://blog.statuspage.io/growing-from-5000-to-25000-in-mrr", 
-    "is_article": "1", 
-    "item_id": "515109569", 
+    "has_video": "0", 
     "time_added": "1388792145", 
+    "status": "0", 
+    "sort_id": 892, 
+    "resolved_url": "http://blog.statuspage.io/growing-from-5000-to-25000-in-mrr", 
+    "authors": {
+      "33055961": {
+        "item_id": "515109569", 
+        "url": "http://twitter.com/dannyolinsky", 
+        "author_id": "33055961", 
+        "name": "Danny Olinsky"
+      }
+    }, 
+    "item_id": "515109569", 
     "resolved_id": "515109569", 
     "given_url": "http://blog.statuspage.io/growing-from-5000-to-25000-in-mrr", 
-    "resolved_title": "Growing From $5,000 to $25,000 in MRR"
+    "resolved_title": "Growing From $5,000 to $25,000 in MRR", 
+    "is_index": "0", 
+    "time_updated": "1394123408", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "StatusPage.io Blog - Growing From $5,000 to $25,000 in MRR", 
+    "has_image": "1"
   }, 
   {
     "videos": {
