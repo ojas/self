@@ -105437,7 +105437,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1558", 
+    "word_count": "1604", 
     "images": {
       "1": {
         "src": "http://casual-effects.com/markdeep/tentacles.png", 
@@ -105450,7 +105450,7 @@
       }
     }, 
     "given_title": "Markdeep", 
-    "resolved_url": "http://casual-effects.com/markdeep/", 
+    "resolved_url": "http://casual-effects.com/markdeep", 
     "is_article": "0", 
     "item_id": "1073636063", 
     "time_added": "1445087304", 
