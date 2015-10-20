@@ -14757,7 +14757,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3252", 
+    "word_count": "3249", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -41464,21 +41464,21 @@
     "time_updated": "1443455465", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Transsaccadic memory is the term used to describe the neural process that allows us to perceive our surroundings as a seamless, unified image despite rapid changes in fixation points.", 
+    "excerpt": "Transsaccadic memory is the neural process that allows humans to perceive their surroundings as a seamless, unified image despite rapid changes in fixation points. The human eyes move rapidly and repeatedly, focusing on a single point for only a short period of time before moving to the next point.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3771", 
+    "word_count": "3792", 
     "authors": {
-      "2494248": {
+      "7331684": {
         "item_id": "154096706", 
-        "url": "http://en.wikipedia.org/wiki/Autobiographical_memory", 
-        "author_id": "2494248", 
-        "name": "Autobiographical"
+        "url": "", 
+        "author_id": "7331684", 
+        "name": "From Wikipedia, the free"
       }
     }, 
     "given_title": "Transsaccadic memory - Wikipedia, the free encyclopedia", 
-    "resolved_url": "http://en.wikipedia.org/wiki/Transsaccadic_memory", 
+    "resolved_url": "https://en.wikipedia.org/wiki/Transsaccadic_memory", 
     "is_article": "1", 
     "item_id": "154096706", 
     "time_added": "1443455465", 
