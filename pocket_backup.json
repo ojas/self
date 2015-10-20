@@ -43943,6 +43943,116 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 2037, 
+    "time_updated": "1445365005", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Perched above a mountain cataract on a rocky hillside deep in the rugged forest of Southwestern Pennsylvania, some 90 minutes from Pittsburgh, is America\u2019s most famous house.", 
+    "image": {
+      "item_id": "990548446", 
+      "src": "https://ka-perseus-images.s3.amazonaws.com/aa98fb22d93b8cff9720d12f1798ea1f2bd27ef1.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1544", 
+    "images": {
+      "1": {
+        "src": "https://ka-perseus-images.s3.amazonaws.com/aa98fb22d93b8cff9720d12f1798ea1f2bd27ef1.jpg", 
+        "credit": "Edgar J. Kaufmann House", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "990548446", 
+        "caption": "Frank Lloyd Wright, Fallingwater", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://ka-perseus-images.s3.amazonaws.com/132a4e85195f3cd6d10864fa602d1b32a2c30d9e.jpg", 
+        "credit": "Edgar J. Kaufmann House", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "990548446", 
+        "caption": "Frank Lloyd Wright, Fallingwater, steps to stream", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://ka-perseus-images.s3.amazonaws.com/38f0d062753624790e1b849fd39688dae2515354.jpg", 
+        "credit": "diagram: Arsenalbubs: CC0 1.0", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "990548446", 
+        "caption": "Fallingwater floorplan", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://ka-perseus-images.s3.amazonaws.com/b7db38d3dee718368051e0047d0ee3a573421508.jpg", 
+        "credit": "Edgar J. Kaufmann House", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "990548446", 
+        "caption": "Frank Lloyd Wright, Fallingwater", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://ka-perseus-images.s3.amazonaws.com/3d446e3a03d31609731c67ab23cb2e3841672b82.jpg", 
+        "credit": "Edgar J. Kaufmann House", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "990548446", 
+        "caption": "Frank Lloyd Wright, Fallingwater", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://ka-perseus-images.s3.amazonaws.com/b86e81b7af84f26d841284f81e981e5285fa7fd2.jpg", 
+        "credit": "Harvard Art Museums", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "990548446", 
+        "caption": "Walter Gropius and Adolf Meyer, competition entry for the Chicago Tribune Tower, 1922, perspective drawing, 22.5 x 13.3cm, gelatin silver print sheet", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://ka-perseus-images.s3.amazonaws.com/3d5192a7201493738e84e2bb82d6e960f317ca2a.jpg", 
+        "credit": "Edgar J. Kaufmann House", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "990548446", 
+        "caption": "Frank Lloyd Wright, Fallingwater, detail with tree", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "https://ka-perseus-images.s3.amazonaws.com/e2f01f2c2deb7307b2ae6975f343050d7846fba7.jpg", 
+        "credit": "Edgar J. Kaufmann House", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "990548446", 
+        "caption": "Frank Lloyd Wright, Fallingwater, steps to stream", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://ka-perseus-images.s3.amazonaws.com/16af31abaef69e592c45865588451f2078f0c770.jpg", 
+        "credit": "Library of Congress HABS ILL,16-CHIG,33--3", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "990548446", 
+        "caption": "Frank Lloyd Wright, Frederick C. Robie House, Historic American Buildings Survey, Cervin Robinson, Photographer, 18 August 1963, exterior from southwest, 5757 Woodlawn Avenue, Chicago, Cook County, IL 5 x 7 inches", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Frank Lloyd Wright, Fallingwater | Architecture and design | Khan Academy", 
+    "resolved_url": "https://www.khanacademy.org/humanities/art-1010/architecture-20c/a/frank-lloyd-wright-fallingwater", 
+    "is_article": "1", 
+    "item_id": "990548446", 
+    "time_added": "1445365005", 
+    "resolved_id": "990548446", 
+    "given_url": "https://www.khanacademy.org/humanities/art-1010/architecture-20c/a/frank-lloyd-wright-fallingwater", 
+    "resolved_title": "Frank Lloyd Wright, Fallingwater"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 1725, 
     "time_updated": "1431028469", 
     "time_favorited": "0", 
