@@ -57138,11 +57138,163 @@
     "time_updated": "1358642635", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Cruise the Mississippi in comfort aboard American Cruise Lines' Queen of the Mississippi, the newest and finest authentic paddlewheeler to grace the Mississippi River.", 
-    "has_image": "0", 
+    "excerpt": "Queen of the Mississippi delivers an experience unlike any other riverboat. Launched in 2012 and modeled after traditional Victorian-style riverboats, she was the first paddlewheeler built for the Mississippi River in nearly 20 years.", 
+    "image": {
+      "item_id": "284986606", 
+      "src": "http://www.americancruiselines.com/images/ship-library-queen-of-the-mississippi/queen-of-the-mississippi-river-cruises.jpg?sfvrsn=4&size=235", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "138", 
+    "word_count": "520", 
+    "images": {
+      "11": {
+        "src": "http://www.americancruiselines.com/images/shore-excursions/qofm-aar.tmb-small.jpg?sfvrsn=1", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "http://www.americancruiselines.com/images/shore-excursions/qofm-aal.tmb-small.jpg?sfvrsn=1", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "http://www.americancruiselines.com/images/shore-excursions/single-_balcony.tmb-small.jpg?sfvrsn=1", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "http://www.americancruiselines.com/images/shore-excursions/qofm-a.tmb-small.jpg?sfvrsn=1", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "http://www.americancruiselines.com/images/assets/qom-poster.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "http://www.americancruiselines.com/images/shore-excursions/single_a.tmb-small.jpg?sfvrsn=1", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "16": {
+        "src": "http://www.americancruiselines.com/images/assets/american-cruise-lines-intro-video.jpg?sfvrsn=2", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "16", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "220"
+      }, 
+      "1": {
+        "src": "http://www.americancruiselines.com/images/ship-library-queen-of-the-mississippi/queen-of-the-mississippi-river-cruises.jpg?sfvrsn=4&size=235", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://www.americancruiselines.com/images/ship-library-queen-of-the-mississippi/mississippi-paddlewheel-riverboat-lounge.jpg?sfvrsn=6", 
+        "credit": "", 
+        "height": "50", 
+        "image_id": "3", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.americancruiselines.com/images/ship-library-queen-of-the-mississippi/mississippi-paddlewheel-riverboat.jpg?sfvrsn=8", 
+        "credit": "", 
+        "height": "50", 
+        "image_id": "2", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://www.americancruiselines.com/images/deck-plans/queen-of-the-mississippi-deck-plan-oct-2014-small.jpg?sfvrsn=12", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://www.americancruiselines.com/images/ship-library-queen-of-the-mississippi/queen-of-the-mississippi-dining-room.jpg?sfvrsn=4", 
+        "credit": "", 
+        "height": "50", 
+        "image_id": "4", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://www.americancruiselines.com/images/shore-excursions/qom-stateroom-os-outside-models-2-cropped.tmb-small.jpg?sfvrsn=1", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://www.americancruiselines.com/images/deck-plans/queen-of-the-mississippi-deck-plan-oct-2014.jpg?sfvrsn=6", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://www.americancruiselines.com/images/shore-excursions/qofm-aac.tmb-small.jpg?sfvrsn=1", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://www.americancruiselines.com/images/shore-excursions/qom-owner4d337f386a4d6ee8970aff0000b4ef53.tmb-small.jpg?sfvrsn=1", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "284986606", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
     "given_title": "Mississippi River Paddlewheel Cruises on the Queen of the Mississippi", 
     "resolved_url": "http://www.americancruiselines.com/small-riverboat-cruise-ships/Queen-of-the-Mississippi", 
     "is_article": "1", 
