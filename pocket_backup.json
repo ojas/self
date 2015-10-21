@@ -14818,7 +14818,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3161", 
+    "word_count": "3256", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -89936,7 +89936,7 @@
   }, 
   {
     "status": "1", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 44, 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
