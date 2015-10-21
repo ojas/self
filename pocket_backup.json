@@ -58471,6 +58471,35 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2038, 
+    "time_updated": "1445433484", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "I have an idea. (No, it was not beginner\u2019s luck.) The idea came to me while listening to University of Chicago evolutionary geneticist Jerry A. Coyne give a talk on a cruise ship in early March.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1317", 
+    "authors": {
+      "15745088": {
+        "item_id": "552562904", 
+        "url": "http://www.scientificamerican.com/author/steve-mirsky", 
+        "author_id": "15745088", 
+        "name": "Steve Mirsky"
+      }
+    }, 
+    "given_title": "Are Dog Breeds Actually Different Species? - Scientific American", 
+    "resolved_url": "http://www.scientificamerican.com/article/an-immodest-proposal/", 
+    "is_article": "1", 
+    "item_id": "552562904", 
+    "time_added": "1445433484", 
+    "resolved_id": "552562904", 
+    "given_url": "http://www.scientificamerican.com/article/an-immodest-proposal/", 
+    "resolved_title": "Are Dog Breeds Actually Different Species?"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 792, 
     "time_updated": "1383098924", 
