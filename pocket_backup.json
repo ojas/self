@@ -105904,26 +105904,26 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "1604", 
+    "word_count": "2345", 
     "images": {
       "1": {
         "src": "http://casual-effects.com/markdeep/tentacles.png", 
-        "credit": "aka \"Github\"", 
+        "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "1073636063", 
-        "caption": "Origin and Credits\nI created Markdeep because I was no longer willing to choose between design documents that looked good and those that worked well with programming tools. I liked what Markdown did on web servers, so I used that as a starting point and added more styling features and a way to directly view the documents client side in a browser.\nHTML is \"markup\" that extends plain text with formatting. Unfortunately, the formatting tags often make original document source hard to read and write. This is slow and annoying, especially for those of us who use programming tools for document editing or want formatting in documentation files.\nJohn Gruber invented Markdown to address HTML's editing problems. The name \"markdown\" conveys styling in the opposite direction of the \"markup\" tag syntax. Markdown beautifies text without explicit tags, based on common practices from ASCII e-mail and plain-text documents.\n\"Markdeep\" is farther \"down\" from \"markdown\" on the autostyling and beautification path. Markdeep combines an easy-to-use and browser-friendly packaging with new unique features for diagrams. The code includes some of the best previous Javascript document formatting libraries and links to MathJax for equation typesetting.\nMarkdeep was created by Morgan McGuire. It extends the work of:\nJohn Gruber's original Markdown concept and specification\nBen Hollis' Maruku", 
+        "caption": "", 
         "width": "0"
       }
     }, 
     "given_title": "Markdeep", 
-    "resolved_url": "http://casual-effects.com/markdeep", 
+    "resolved_url": "http://casual-effects.com/markdeep/", 
     "is_article": "0", 
     "item_id": "1073636063", 
     "time_added": "1445087304", 
     "resolved_id": "1073636063", 
     "given_url": "http://casual-effects.com/markdeep/", 
-    "resolved_title": "Markdeep"
+    "resolved_title": "Markdeep with Doxygen"
   }, 
   {
     "status": "0", 
