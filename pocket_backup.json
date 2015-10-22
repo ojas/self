@@ -31685,6 +31685,79 @@
     "resolved_title": "Filenames and Pathnames in Shell: How to do it Correctly"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "1079547639", 
+      "src": "http://static01.nyt.com/images/2015/10/25/realestate/25LIVING-WOODHAVEN-slide-SCG6/25LIVING-WOODHAVEN-slide-SCG6-articleLarge.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Across generations and ethnicities, Woodhaven residents have much the same to say about their working-class neighborhood in central Queens. They like its affordability, its access to the subway and Forest Park and its lively business district.", 
+    "word_count": "1212", 
+    "images": {
+      "1": {
+        "src": "http://static01.nyt.com/images/2015/10/25/realestate/25LIVING-WOODHAVEN-slide-SCG6/25LIVING-WOODHAVEN-slide-SCG6-articleLarge.jpg", 
+        "credit": "Yeong-Ung Yang for The New York Times", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1079547639", 
+        "caption": "Slide Show | Living In Woodhaven, Queens Reasonably priced housing, easy subway access, Forest Park and a lively business district make this working-class neighborhood in central Queens appealing.", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://static01.nyt.com/images/2015/10/25/realestate/25GAZ2/25GAZ2-articleLarge.jpg", 
+        "credit": "Yeong-Ung Yang for The New York Times", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1079547639", 
+        "caption": "91-60 96TH\u00a0STREET A four-bedroom two-bath townhouse built around 1920, listed at $499,000.", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://static01.nyt.com/images/2015/10/25/realestate/25GAZ1/25GAZ1-articleLarge.jpg", 
+        "credit": "Yeong-Ung Yang for The New York Times", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1079547639", 
+        "caption": "94-39 85TH\u00a0AVENUE A three-story house with an apartment on each floor and a driveway, listed at $969,000.", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://static01.nyt.com/images/2015/10/25/realestate/25GAZ3/25GAZ3-articleLarge.jpg", 
+        "credit": "Yeong-Ung Yang for The New York Times", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "1079547639", 
+        "caption": "83-85 WOODHAVEN BOULEVARD, #3K\u00a0A one-bedroom one-bath co-op in a building near Forest Park, listed at $132,888.", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1445478746", 
+    "status": "0", 
+    "sort_id": 2041, 
+    "resolved_url": "http://mobile.nytimes.com/2015/10/25/realestate/woodhaven-queens-subway-stops-and-hiking-trails.html", 
+    "authors": {
+      "4883713": {
+        "item_id": "1079547639", 
+        "url": "", 
+        "author_id": "4883713", 
+        "name": "VERA HALLER"
+      }
+    }, 
+    "item_id": "1079547639", 
+    "resolved_id": "1079064317", 
+    "given_url": "http://mobile.nytimes.com/2015/10/25/realestate/woodhaven-queens-subway-stops-and-hiking-trails.html?smid=tw-nytimes&smtyp=cur&referer=https://t.co/DVASzPLhCp", 
+    "resolved_title": "Woodhaven, Queens: Subway Stops and Hiking Trails", 
+    "is_index": "0", 
+    "time_updated": "1445478753", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 1884, 
@@ -110634,7 +110707,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
