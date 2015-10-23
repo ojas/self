@@ -90514,33 +90514,29 @@
     "has_image": "1"
   }, 
   {
-    "status": "1", 
-    "is_index": "0", 
-    "sort_id": 1084, 
-    "time_updated": "1404449133", 
-    "time_favorited": "0", 
-    "time_read": "1404449133", 
+    "is_article": "1", 
+    "image": {
+      "item_id": "590276663", 
+      "src": "http://cdn.theatlantic.com/assets/media/img/mt/2014/04/6089061390_e8f3abaa21_b_copy/lead_large.jpg?1430157726", 
+      "height": "0", 
+      "width": "0"
+    }, 
     "excerpt": "Corn-flake capitalism has come to Sweden.  In 1930, in the throes of the Great Depression, cereal magnate W.K. Kellogg decided to conduct an experiment. He replaced the three daily eight-hour shifts at his plant in Battle Creek, Michigan with four six-hour shifts.", 
-    "has_image": "0", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "323", 
-    "authors": {
-      "32910143": {
+    "word_count": "773", 
+    "images": {
+      "1": {
+        "src": "http://cdn.theatlantic.com/assets/media/img/mt/2014/04/6089061390_e8f3abaa21_b_copy/lead_large.jpg?1430157726", 
+        "credit": "Arjan Richter/Flickr", 
+        "height": "0", 
+        "image_id": "1", 
         "item_id": "590276663", 
-        "url": "http://www.theatlantic.com/author/uri-friedman/", 
-        "author_id": "32910143", 
-        "name": "Uri Friedman"
+        "caption": "", 
+        "width": "0"
       }
     }, 
-    "given_title": "Sweden: The New Laboratory for a Six-Hour Work Day - Uri Friedman - The Atl", 
-    "resolved_url": "http://www.theatlantic.com/international/archive/2014/04/sweden-the-new-laboratory-for-a-six-hour-work-day/360402/", 
-    "is_article": "1", 
-    "item_id": "590276663", 
+    "has_video": "0", 
     "time_added": "1398718021", 
-    "resolved_id": "590276663", 
-    "given_url": "http://www.theatlantic.com/international/archive/2014/04/sweden-the-new-laboratory-for-a-six-hour-work-day/360402/", 
-    "resolved_title": "Sweden: The New Laboratory for a Six-Hour Work Day", 
+    "status": "1", 
     "tags": {
       "work": {
         "item_id": "590276663", 
@@ -90550,7 +90546,28 @@
         "item_id": "590276663", 
         "tag": "employment"
       }
-    }
+    }, 
+    "sort_id": 1084, 
+    "resolved_url": "http://www.theatlantic.com/international/archive/2014/04/sweden-the-new-laboratory-for-a-six-hour-work-day/360402/", 
+    "authors": {
+      "32910143": {
+        "item_id": "590276663", 
+        "url": "http://www.theatlantic.com/author/uri-friedman/", 
+        "author_id": "32910143", 
+        "name": "Uri Friedman"
+      }
+    }, 
+    "item_id": "590276663", 
+    "resolved_id": "590276663", 
+    "given_url": "http://www.theatlantic.com/international/archive/2014/04/sweden-the-new-laboratory-for-a-six-hour-work-day/360402/", 
+    "resolved_title": "Sweden: The New Laboratory for a Six-Hour Work Day", 
+    "is_index": "0", 
+    "time_updated": "1404449133", 
+    "time_favorited": "0", 
+    "time_read": "1404449133", 
+    "favorite": "0", 
+    "given_title": "Sweden: The New Laboratory for a Six-Hour Work Day - Uri Friedman - The Atl", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
