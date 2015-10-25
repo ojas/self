@@ -2655,7 +2655,7 @@
     "time_favorited": "0", 
     "videos": {
       "1": {
-        "src": "https://videos.teamtreehouse.com/videos/TH-Joy-Of-Marketing-720p.mp4?token=55e9c101_f6be1775e34047277db61fc1efce456e40fd1d5e", 
+        "src": "https://videos.teamtreehouse.com/videos/TH-Joy-Of-Marketing-720p.mp4?token=562fd182_1525b974f6d7e9ed97593a77eb9681a8e10e65b1", 
         "vid": "", 
         "video_id": "1", 
         "height": "0", 
@@ -8803,7 +8803,7 @@
     "time_added": "1389205774", 
     "status": "0", 
     "sort_id": 900, 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036#printMode", 
     "authors": {
       "9969180": {
         "item_id": "518589471", 
