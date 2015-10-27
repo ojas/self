@@ -111780,7 +111780,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "5081", 
+    "word_count": "5284", 
     "images": {
       "1": {
         "src": "http://www.vinaysahni.com/images/201305-xml-vs-json-api.png", 
@@ -111794,7 +111794,7 @@
     }, 
     "given_title": "Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni", 
     "resolved_url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api", 
-    "is_article": "0", 
+    "is_article": "1", 
     "item_id": "368052398", 
     "time_added": "1382935205", 
     "resolved_id": "368052398", 
