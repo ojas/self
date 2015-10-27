@@ -12300,9 +12300,9 @@
     "excerpt": "Quality happens only when someone is responsible for it.", 
     "image": {
       "item_id": "209815553", 
-      "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
-      "height": "45", 
-      "width": "26"
+      "src": "http://queue.acm.org/app/app_cover.png", 
+      "height": "0", 
+      "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
@@ -12310,17 +12310,35 @@
     "word_count": "4007", 
     "images": {
       "1": {
-        "src": "https://queue.acm.org/img/q%20stamp_small.jpg", 
+        "src": "http://queue.acm.org/app/app_cover.png", 
         "credit": "", 
-        "height": "45", 
+        "height": "0", 
         "image_id": "1", 
         "item_id": "209815553", 
         "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://queue.acm.org/img/q%20stamp_small.jpg", 
+        "credit": "", 
+        "height": "45", 
+        "image_id": "3", 
+        "item_id": "209815553", 
+        "caption": "", 
         "width": "26"
+      }, 
+      "2": {
+        "src": "http://queue.acm.org/img/icon_pdf.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "209815553", 
+        "caption": "", 
+        "width": "0"
       }
     }, 
     "given_title": "A Generation Lost in the Bazaar - ACM Queue", 
-    "resolved_url": "https://queue.acm.org/detail.cfm?id=2349257", 
+    "resolved_url": "http://queue.acm.org/detail.cfm?id=2349257", 
     "is_article": "1", 
     "item_id": "209815553", 
     "time_added": "1429478017", 
@@ -111775,7 +111793,7 @@
       }
     }, 
     "given_title": "Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni", 
-    "resolved_url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api", 
+    "resolved_url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#autoloading", 
     "is_article": "0", 
     "item_id": "368052398", 
     "time_added": "1382935205", 
