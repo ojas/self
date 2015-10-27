@@ -95532,86 +95532,25 @@
     "resolved_title": "IF Archives : Father's Stories"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "582301218", 
-      "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash1/06flash1-blog427.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "Before the collapse of the U.S. financial system in 2008, Brad Katsuyama could tell himself that he bore no responsibility for that system. He worked for the Royal Bank of Canada, for a start.", 
-    "word_count": "10264", 
-    "images": {
-      "1": {
-        "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash1/06flash1-blog427.jpg", 
-        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "582301218", 
-        "caption": "From left: Rob Park, Brad Katsuyama and Ronan Ryan.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash3/06flash3-blog427.jpg", 
-        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "582301218", 
-        "caption": "This box kept at the facility in Secaucus, N.J., contains a 38-mile coil of fiber-optic cable that creates a slight delay in the processing of orders, which levels the playing field among traders.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash2/06flash2-blog427-v2.jpg", 
-        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "582301218", 
-        "caption": "A facility in Secaucus, N.J., is home to some IEX servers.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash4/06flash4-articleLarge.jpg", 
-        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "582301218", 
-        "caption": "The IEX office in Manhattan.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://static01.nyt.com/images/2014/04/06/magazine/06flash5/06flash5-articleLarge.jpg", 
-        "credit": "\n            \n            Stefan Ruiz for The New York Times        ", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "582301218", 
-        "caption": "Brad Katsuyama and his team at IEX.\n                        \n            Credit\n            Stefan Ruiz for The New York Times        \n            ", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1396276288", 
     "status": "1", 
-    "sort_id": 1048, 
-    "resolved_url": "http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html", 
-    "authors": {
-      "17962393": {
-        "item_id": "582301218", 
-        "url": "http://topics.nytimes.com/top/reference/timestopics/people/l/michael_lewis/index.html", 
-        "author_id": "17962393", 
-        "name": "MICHAEL LEWIS"
-      }
-    }, 
-    "item_id": "582301218", 
-    "resolved_id": "582271152", 
-    "given_url": "http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html?_r=0", 
-    "resolved_title": "An Adaptation From \u2018Flash Boys: A Wall Street Revolt,\u2019 by Michael Lewis", 
     "is_index": "0", 
+    "sort_id": 1048, 
     "time_updated": "1404449228", 
     "time_favorited": "0", 
     "time_read": "1404449228", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "An Adaptation From \u2018Flash Boys: A Wall Street Revolt,\u2019 by Michael Lewis - N", 
-    "has_image": "1"
+    "resolved_url": "http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html", 
+    "is_article": "0", 
+    "item_id": "582301218", 
+    "time_added": "1396276288", 
+    "resolved_id": "582271152", 
+    "given_url": "http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html?_r=0", 
+    "resolved_title": ""
   }, 
   {
     "is_article": "1", 
