@@ -83530,6 +83530,44 @@
     "resolved_title": "Cms1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2046, 
+    "time_updated": "1446069046", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Can't find what you're looking for? Please call us:", 
+    "image": {
+      "item_id": "1086613783", 
+      "src": "http://www.homedepot.com/hdus/en_US/DTCCOM/common/PLP/Images/citi-banner.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "10", 
+    "images": {
+      "1": {
+        "src": "http://www.homedepot.com/hdus/en_US/DTCCOM/common/PLP/Images/citi-banner.jpg", 
+        "credit": " ", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1086613783", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "LEXAN Thermoclear 48 in. x 96 in. x 1/4 in. Clear Multiwall Polycarbonate S", 
+    "resolved_url": "http://www.homedepot.com/p/LEXAN-Thermoclear-48-in-x-96-in-x-1-4-in-Clear-Multiwall-Polycarbonate-Sheet-PCTW4896-6MMCL/205202473?cm_mmc=Shopping%7CTHD%7CG%7C0%7CG-BASE-PLA-D30-Doors%7C&gclid=CPzs5d2S5sgCFYM-aQodZCQO5Q&gclsrc=aw.ds", 
+    "is_article": "1", 
+    "item_id": "1086613783", 
+    "time_added": "1446069044", 
+    "resolved_id": "1086613783", 
+    "given_url": "http://www.homedepot.com/p/LEXAN-Thermoclear-48-in-x-96-in-x-1-4-in-Clear-Multiwall-Polycarbonate-Sheet-PCTW4896-6MMCL/205202473?cm_mmc=Shopping%7CTHD%7CG%7C0%7CG-BASE-PLA-D30-Doors%7C&gclid=CPzs5d2S5sgCFYM-aQodZCQO5Q&gclsrc=aw.ds", 
+    "resolved_title": "Thermoclear 48 in. x 96 in. x 1/4 in. Clear Multiwall Polycarbonate Sheet"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/v/iwVvqwLDsJo", 
