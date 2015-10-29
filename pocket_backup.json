@@ -102492,6 +102492,97 @@
     "resolved_title": "Dome Zero (1978)"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "60630660", 
+      "src": "https://upload.wikimedia.org/math/3/a/0/3a09506d7db5d15e26b41daa08136887.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "The Kardashev scale is a method of measuring a civilization's level of technological advancement, based on the amount of energy a civilization is able to utilize.[1] The scale has three designated categories called Type\u00a0I, II, and III.", 
+    "word_count": "3865", 
+    "images": {
+      "1": {
+        "src": "https://upload.wikimedia.org/math/3/a/0/3a09506d7db5d15e26b41daa08136887.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "60630660", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png", 
+        "credit": "", 
+        "height": "20", 
+        "image_id": "3", 
+        "item_id": "60630660", 
+        "caption": "", 
+        "width": "32"
+      }, 
+      "2": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dyson_Swarm_-_2.png/220px-Dyson_Swarm_-_2.png", 
+        "credit": "", 
+        "height": "165", 
+        "image_id": "2", 
+        "item_id": "60630660", 
+        "caption": "\n\nFigure of a Dyson swarm surrounding a star", 
+        "width": "220"
+      }, 
+      "5": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png", 
+        "credit": "", 
+        "height": "28", 
+        "image_id": "5", 
+        "item_id": "60630660", 
+        "caption": "", 
+        "width": "29"
+      }, 
+      "4": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/28px-Telecom-icon.svg.png", 
+        "credit": "", 
+        "height": "28", 
+        "image_id": "4", 
+        "item_id": "60630660", 
+        "caption": "", 
+        "width": "28"
+      }, 
+      "6": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/28px-Nuvola_apps_kcmsystem.svg.png", 
+        "credit": "", 
+        "height": "28", 
+        "image_id": "6", 
+        "item_id": "60630660", 
+        "caption": "", 
+        "width": "28"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1446091609", 
+    "status": "0", 
+    "sort_id": 2050, 
+    "resolved_url": "https://en.m.wikipedia.org/wiki/Kardashev_scale", 
+    "authors": {
+      "2492766": {
+        "item_id": "60630660", 
+        "url": "", 
+        "author_id": "2492766", 
+        "name": "editor"
+      }
+    }, 
+    "item_id": "60630660", 
+    "resolved_id": "60630660", 
+    "given_url": "https://en.m.wikipedia.org/wiki/Kardashev_scale", 
+    "resolved_title": "Kardashev scale", 
+    "is_index": "0", 
+    "time_updated": "1446091609", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Kardashev scale - Wikipedia, the free encyclopedia", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 479, 
@@ -112922,6 +113013,52 @@
     "resolved_id": "514516512", 
     "given_url": "http://randsinrepose.com/archives/the-builders-high/#HN", 
     "resolved_title": "The Builder\u2019s High \u2013 Rands in Repose"
+  }, 
+  {
+    "is_article": "0", 
+    "image": {
+      "item_id": "299155085", 
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Steam-electric_power_plant.PNG/220px-Steam-electric_power_plant.PNG", 
+      "height": "132", 
+      "width": "220"
+    }, 
+    "excerpt": "This page lists examples of the power in watts produced by various sources of energy. They are grouped by orders of magnitude, and each section covers three orders of magnitude, or a factor of one thousand.", 
+    "word_count": "1992", 
+    "images": {
+      "1": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Steam-electric_power_plant.PNG/220px-Steam-electric_power_plant.PNG", 
+        "credit": "", 
+        "height": "132", 
+        "image_id": "1", 
+        "item_id": "299155085", 
+        "caption": "A thermal power plant transforms thermal energy into electric energy", 
+        "width": "220"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1446091612", 
+    "status": "0", 
+    "sort_id": 2051, 
+    "resolved_url": "http://en.m.wikipedia.org/wiki/Orders_of_magnitude_(power)", 
+    "authors": {
+      "2516728": {
+        "item_id": "299155085", 
+        "url": "http://en.m.wikipedia.org/wiki/Cell_(biology)", 
+        "author_id": "2516728", 
+        "name": "cell"
+      }
+    }, 
+    "item_id": "299155085", 
+    "resolved_id": "299155085", 
+    "given_url": "https://en.m.wikipedia.org/wiki/Orders_of_magnitude_(power)#gigawatt_.28109_watts.29", 
+    "resolved_title": "Orders of magnitude (power)", 
+    "is_index": "0", 
+    "time_updated": "1446091612", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Orders of magnitude (power) - Wikipedia, the free encyclopedia", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
