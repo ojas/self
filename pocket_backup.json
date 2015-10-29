@@ -12442,14 +12442,10 @@
     "resolved_title": "A Generation Lost in the Bazaar"
   }, 
   {
-    "status": "0", 
-    "sort_id": 979, 
-    "time_updated": "1392011623", 
-    "time_favorited": "0", 
     "videos": {
       "1": {
-        "src": "http://www.youtube.com/v/XnMY44Ij7j4", 
-        "vid": "XnMY44Ij7j4", 
+        "src": "http://www.youtube.com/v/mZNw9Elc204", 
+        "vid": "mZNw9Elc204", 
         "video_id": "1", 
         "height": "0", 
         "width": "0", 
@@ -12457,30 +12453,42 @@
         "type": "1"
       }
     }, 
-    "time_read": "0", 
+    "is_article": "0", 
     "image": {
       "item_id": "543401182", 
-      "src": "http:2", 
-      "height": "0", 
-      "width": "0"
+      "src": "http://img.youtube.com/vi/mZNw9Elc204/0.jpg", 
+      "height": "360", 
+      "width": "480"
     }, 
-    "favorite": "0", 
+    "excerpt": "Adventure caravanner Andrew Ditton takes a trip to Scotland and the Outer Hebrides in January 2013 for a spot of off-grid wild camping. Also snippets of the Skerryvore concert in Tarbert, supported by talented young musicians Beacon Hill. Plenty of GoPro camera footage and using the new BioLite stov", 
+    "word_count": "0", 
     "images": {
       "1": {
-        "src": "http:2", 
+        "src": "http://img.youtube.com/vi/mZNw9Elc204/0.jpg", 
         "credit": "", 
-        "height": "0", 
+        "height": "360", 
         "image_id": "1", 
         "item_id": "543401182", 
         "caption": "", 
-        "width": "0"
+        "width": "480"
       }
     }, 
-    "given_title": "Winter Caravanning in the Outer Hebrides - YouTube", 
-    "item_id": "543401182", 
+    "has_video": "2", 
     "time_added": "1392011623", 
-    "resolved_id": "0", 
-    "given_url": "http://www.youtube.com/watch?v=mZNw9Elc204&utm_campaign=Live%2520Riveted&utm_source=facebook&utm_medium=social&utm_content=3680624"
+    "status": "0", 
+    "sort_id": 979, 
+    "resolved_url": "http://www.youtube.com/watch?v=mZNw9Elc204&utm_campaign=Live%2520Riveted&utm_source=facebook&utm_medium=social&utm_content=3680624", 
+    "item_id": "543401182", 
+    "resolved_id": "543401182", 
+    "given_url": "http://www.youtube.com/watch?v=mZNw9Elc204&utm_campaign=Live%2520Riveted&utm_source=facebook&utm_medium=social&utm_content=3680624", 
+    "resolved_title": "Winter Caravanning in the Outer Hebrides", 
+    "is_index": "0", 
+    "time_updated": "1446093252", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Winter Caravanning in the Outer Hebrides - YouTube", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
@@ -14931,7 +14939,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3267", 
+    "word_count": "3268", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -39453,45 +39461,61 @@
     "resolved_title": "On the Great Filter, existential threats, and griefers"
   }, 
   {
-    "status": "0", 
-    "sort_id": 841, 
-    "time_updated": "1386722087", 
-    "time_favorited": "0", 
     "videos": {
       "1": {
-        "src": "http://www.youtube.com/v/XnMY44Ij7j4", 
-        "vid": "XnMY44Ij7j4", 
+        "src": "//www.youtube.com/embed/3ynA92x8WQo", 
+        "vid": "3ynA92x8WQo", 
         "video_id": "1", 
-        "height": "0", 
-        "width": "0", 
+        "height": "370", 
+        "width": "100", 
         "item_id": "499206072", 
         "type": "1"
       }
     }, 
-    "time_read": "0", 
+    "is_article": "1", 
     "image": {
       "item_id": "499206072", 
-      "src": "http:2", 
-      "height": "0", 
-      "width": "0"
+      "src": "http://img.youtube.com/vi/3ynA92x8WQo/0.jpg", 
+      "height": "360", 
+      "width": "480"
     }, 
-    "favorite": "0", 
+    "excerpt": "Due to Android\u2019s use of Java as the primary development language and environment, many developers believe the only way to support high-performance mathematics for items such as highly computational 3D graphics is to develop most of their applications in native code (C/C++) using the Android NDK.", 
+    "word_count": "183", 
     "images": {
       "1": {
-        "src": "http:2", 
+        "src": "http://img.youtube.com/vi/3ynA92x8WQo/0.jpg", 
         "credit": "", 
-        "height": "0", 
+        "height": "360", 
         "image_id": "1", 
         "item_id": "499206072", 
         "caption": "", 
-        "width": "0"
+        "width": "480"
       }
     }, 
-    "given_title": "AnDevCon: A Deep Dive into RenderScript - NewCircle", 
-    "item_id": "499206072", 
+    "has_video": "1", 
     "time_added": "1386722087", 
-    "resolved_id": "0", 
-    "given_url": "https://thenewcircle.com/s/post/1557/a_deep_dive_into_renderscript_andevcon?utm_campaign=Ycombinator_channel&utm_source=ycombinator&utm_medium=social&utm_content=A%20Deep%20Dive%20into%20RenderScript"
+    "status": "0", 
+    "sort_id": 841, 
+    "resolved_url": "https://newcircle.com/s/post/1557/a_deep_dive_into_renderscript_andevcon?utm_campaign=Ycombinator_channel&utm_source=ycombinator&utm_medium=social&utm_content=A%2520Deep%2520Dive%2520into%2520RenderScript", 
+    "authors": {
+      "36883527": {
+        "item_id": "499206072", 
+        "url": "https://newcircle.com/s/author/25019/larry-schiefer", 
+        "author_id": "36883527", 
+        "name": "Larry Schiefer"
+      }
+    }, 
+    "item_id": "499206072", 
+    "resolved_id": "1086899934", 
+    "given_url": "https://thenewcircle.com/s/post/1557/a_deep_dive_into_renderscript_andevcon?utm_campaign=Ycombinator_channel&utm_source=ycombinator&utm_medium=social&utm_content=A%20Deep%20Dive%20into%20RenderScript", 
+    "resolved_title": "AnDevCon: A Deep Dive into RenderScript", 
+    "is_index": "0", 
+    "time_updated": "1446093389", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "AnDevCon: A Deep Dive into RenderScript - NewCircle", 
+    "has_image": "1"
   }, 
   {
     "videos": {
@@ -90253,44 +90277,24 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
     "sort_id": 1024, 
-    "time_updated": "1394042379", 
+    "time_updated": "1446093216", 
     "time_favorited": "0", 
-    "videos": {
-      "1": {
-        "src": "http://www.youtube.com/v/XnMY44Ij7j4", 
-        "vid": "XnMY44Ij7j4", 
-        "video_id": "1", 
-        "height": "0", 
-        "width": "0", 
-        "item_id": "562021906", 
-        "type": "1"
-      }
-    }, 
     "time_read": "0", 
-    "image": {
-      "item_id": "562021906", 
-      "src": "http:2", 
-      "height": "0", 
-      "width": "0"
-    }, 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
-    "images": {
-      "1": {
-        "src": "http:2", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "562021906", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "it not the end of the world it just the start of me and you lyrics - Google", 
+    "resolved_url": "https://www.google.com/search?q=it+not+the+end+of+the+world+it+just+the+start+of+me+and+you+lyrics&oq=it%27s+not+the+end+of+the+world+its+just+the+start&aqs=chrome.2.69i57j0l2.8446j0j7&sourceid=chrome&espv=210&es_sm=119&ie=UTF-8", 
+    "is_article": "0", 
     "item_id": "562021906", 
     "time_added": "1394042379", 
-    "resolved_id": "0", 
-    "given_url": "https://www.google.com/search?q=it+not+the+end+of+the+world+it+just+the+start+of+me+and+you+lyrics&oq=it%27s+not+the+end+of+the+world+its+just+the+start&aqs=chrome.2.69i57j0l2.8446j0j7&sourceid=chrome&espv=210&es_sm=119&ie=UTF-8"
+    "resolved_id": "562021906", 
+    "given_url": "https://www.google.com/search?q=it+not+the+end+of+the+world+it+just+the+start+of+me+and+you+lyrics&oq=it%27s+not+the+end+of+the+world+its+just+the+start&aqs=chrome.2.69i57j0l2.8446j0j7&sourceid=chrome&espv=210&es_sm=119&ie=UTF-8", 
+    "resolved_title": "it not the end of the world it just the start of me and you lyrics"
   }, 
   {
     "status": "1", 
@@ -112254,44 +112258,24 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
     "sort_id": 1002, 
-    "time_updated": "1393164940", 
+    "time_updated": "1446093236", 
     "time_favorited": "0", 
-    "videos": {
-      "1": {
-        "src": "http://www.youtube.com/v/XnMY44Ij7j4", 
-        "vid": "XnMY44Ij7j4", 
-        "video_id": "1", 
-        "height": "0", 
-        "width": "0", 
-        "item_id": "553800303", 
-        "type": "1"
-      }
-    }, 
     "time_read": "0", 
-    "image": {
-      "item_id": "553800303", 
-      "src": "http:2", 
-      "height": "0", 
-      "width": "0"
-    }, 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
-    "images": {
-      "1": {
-        "src": "http:2", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "553800303", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "Rohit Sharma", 
+    "resolved_url": "https://www.facebook.com/rnsharma/app_soundcloud?collection_token=718148966%3A19507961798%3A10151549409496799", 
+    "is_article": "0", 
     "item_id": "553800303", 
     "time_added": "1393164940", 
-    "resolved_id": "0", 
-    "given_url": "https://www.facebook.com/rnsharma/app_soundcloud?collection_token=718148966%3A19507961798%3A10151549409496799"
+    "resolved_id": "553800303", 
+    "given_url": "https://www.facebook.com/rnsharma/app_soundcloud?collection_token=718148966%3A19507961798%3A10151549409496799", 
+    "resolved_title": "Facebook"
   }, 
   {
     "status": "0", 
