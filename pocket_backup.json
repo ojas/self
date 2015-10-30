@@ -4106,7 +4106,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 2054, 
+    "sort_id": 2053, 
     "time_updated": "1446149001", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -4903,7 +4903,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 2047, 
+    "sort_id": 2046, 
     "time_updated": "1446088901", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -7078,32 +7078,24 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 1903, 
     "time_updated": "1439473959", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
+    "excerpt": "19      The Book SeerEnter a recently read book & its author for recommendations Web   H       18      The Ion BeltSleek, safe and stylish portable charging from your belt   H       14      HappijarShake up your happiness for life iPhone   H       9      InspirizoneA curated selecti", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "0", 
-    "authors": {
-      "39788311": {
-        "item_id": "632398772", 
-        "url": "http://www.producthunt.com/tech/facebook-mobile-profiles", 
-        "author_id": "39788311", 
-        "name": "Facebook Mobile Profiles"
-      }
-    }, 
+    "word_count": "273", 
     "given_title": "Product Hunt", 
-    "resolved_url": "http://producthunt.com", 
+    "resolved_url": "https://www.producthunt.com/", 
     "is_article": "0", 
     "item_id": "632398772", 
     "time_added": "1439473959", 
     "resolved_id": "632398772", 
     "given_url": "http://www.producthunt.com/", 
-    "resolved_title": ""
+    "resolved_title": "Product Hunt"
   }, 
   {
     "status": "0", 
@@ -17328,7 +17320,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 2049, 
+    "sort_id": 2048, 
     "time_updated": "1446088947", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -27444,7 +27436,7 @@
   {
     "status": "0", 
     "is_index": "1", 
-    "sort_id": 2052, 
+    "sort_id": 2051, 
     "time_updated": "1446124513", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -45808,7 +45800,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 2055, 
+    "sort_id": 2054, 
     "time_updated": "1446169774", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -56001,8 +55993,8 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 2045, 
-    "time_updated": "1445960395", 
+    "sort_id": 2055, 
+    "time_updated": "1446205270", 
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "\u00a92015-2016 SXSW, LLC. SXSW\u00ae, SXSWedu\u00ae, SXSW Eco\u00ae, and SXSW V2V\u00ae and South By Southwest\u00ae are trademarks owned by SXSW, LLC. Any unauthorized use of these names, or variations of these names, is a violation of state, federal, and international trademark laws.", 
@@ -56014,7 +56006,7 @@
     "resolved_url": "http://www.sxsw.com/attend/registration-information#badge", 
     "is_article": "0", 
     "item_id": "990456654", 
-    "time_added": "1445960395", 
+    "time_added": "1446205270", 
     "resolved_id": "990456654", 
     "given_url": "http://www.sxsw.com/attend/registration-information", 
     "resolved_title": "Registration Information"
@@ -60558,7 +60550,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 2048, 
+    "sort_id": 2047, 
     "time_updated": "1446088918", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -65611,7 +65603,7 @@
     "has_video": "0", 
     "time_added": "1446139417", 
     "status": "0", 
-    "sort_id": 2053, 
+    "sort_id": 2052, 
     "resolved_url": "http://www.automobilemag.com/reviews/driven/1602-driving-the-original-acura-nsx-at-25-even-better-than-you-remember/", 
     "authors": {
       "2597999": {
@@ -84132,7 +84124,7 @@
   {
     "status": "0", 
     "is_index": "0", 
-    "sort_id": 2046, 
+    "sort_id": 2045, 
     "time_updated": "1446069046", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -102968,7 +102960,7 @@
     "has_video": "0", 
     "time_added": "1446091609", 
     "status": "0", 
-    "sort_id": 2050, 
+    "sort_id": 2049, 
     "resolved_url": "https://en.m.wikipedia.org/wiki/Kardashev_scale", 
     "authors": {
       "2492766": {
@@ -113426,7 +113418,7 @@
     "has_video": "0", 
     "time_added": "1446091612", 
     "status": "0", 
-    "sort_id": 2051, 
+    "sort_id": 2050, 
     "resolved_url": "http://en.m.wikipedia.org/wiki/Orders_of_magnitude_(power)", 
     "authors": {
       "2516728": {
