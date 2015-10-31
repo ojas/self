@@ -82842,29 +82842,29 @@
     "is_article": "1", 
     "image": {
       "item_id": "598826420", 
-      "src": "http://media.npr.org/assets/bakertaylor/covers/i/infinitesimal/9780374176815_custom-a1e8ea25e83e7e66127ab32f95aa00edfc593202-s6-c30.jpg", 
+      "src": "http://media.npr.org/assets/bakertaylor/covers/i/infinitesimal/9780374176815_custom-a1e8ea25e83e7e66127ab32f95aa00edfc593202-s1200-c15.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "Here's a stumper: How many parts can you divide a line into?  It seems like a simple question. You can cut it in half. Then you can cut those lines in half, then cut those lines in half again. Just how many parts can you make? A hundred? A billion? Why not more?", 
-    "word_count": "860", 
+    "excerpt": "Your purchase helps support NPR Programming. How?  Here's a stumper: How many parts can you divide a line into?", 
+    "word_count": "884", 
     "images": {
       "1": {
-        "src": "http://media.npr.org/assets/bakertaylor/covers/i/infinitesimal/9780374176815_custom-a1e8ea25e83e7e66127ab32f95aa00edfc593202-s6-c30.jpg", 
-        "credit": "", 
+        "src": "http://media.npr.org/assets/bakertaylor/covers/i/infinitesimal/9780374176815_custom-a1e8ea25e83e7e66127ab32f95aa00edfc593202-s1200-c15.jpg", 
+        "credit": "\n\n", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "598826420", 
-        "caption": "", 
+        "caption": "\n\n", 
         "width": "0"
       }, 
       "2": {
-        "src": "http://media.npr.org/assets/img/2014/04/17/hobbes-wallis_wide-a9b7bfbede2b6c4b4175cfcc86c19b8ee0680c2b-s6-c30.jpg", 
-        "credit": "Hulton Archive/Getty Images", 
+        "src": "http://media.npr.org/assets/img/2014/04/17/hobbes-wallis_wide-a9b7bfbede2b6c4b4175cfcc86c19b8ee0680c2b-s800-c15.jpg", 
+        "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "598826420", 
-        "caption": "", 
+        "caption": "\n\nThe 17th-century rivalry between English philosopher Thomas Hobbes, left, and English mathematician John Wallis lasted decades. Hulton Archive/Getty Images hide caption\n\nitoggle caption Hulton Archive/Getty Images", 
         "width": "0"
       }
     }, 
@@ -82874,17 +82874,17 @@
     "sort_id": 1081, 
     "resolved_url": "http://www.npr.org/2014/04/20/303716795/far-from-infinitesimal-a-mathematical-paradoxs-role-in-history", 
     "authors": {
-      "17139075": {
+      "41178283": {
         "item_id": "598826420", 
-        "url": "http://www.npr.org/people/125167196/npr-staff/archive", 
-        "author_id": "17139075", 
-        "name": "NPR Staff"
+        "url": "http://www.npr.org/books/authors/304147746/amir-alexander", 
+        "author_id": "41178283", 
+        "name": "Amir Alexander"
       }
     }, 
     "item_id": "598826420", 
     "resolved_id": "598826420", 
     "given_url": "http://www.npr.org/2014/04/20/303716795/far-from-infinitesimal-a-mathematical-paradoxs-role-in-history", 
-    "resolved_title": "Author Interviews", 
+    "resolved_title": "More From Author Interviews", 
     "is_index": "0", 
     "time_updated": "1398659011", 
     "time_favorited": "0", 
