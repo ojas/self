@@ -72029,86 +72029,87 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1886, 
+    "time_updated": "1438741236", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Daily Status Reports are available in the Road Map at the link below. Also, miss our breakout session @ RE:INVENT 2015? Watch it here  JAWS is a 100% free and open-source framework for building serverless applications (web, mobile, IoT) using Amazon Web Services' Lambda, API Gateway, and more.", 
     "image": {
       "item_id": "993357133", 
-      "src": "https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667", 
+      "src": "https://github.com/jaws-framework/JAWS/raw/master/img/jaws_gitter_chatroom.png", 
       "height": "0", 
-      "width": "0"
+      "width": "300"
     }, 
-    "excerpt": "This stack uses new tools from Amazon Web Services to completely redefine how to build massively scalable (and cheap) web applications.  There are no servers included in this stack. The entire back-end is comprised of Lambda functions which are organized in the api folder.", 
-    "word_count": "571", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "385", 
     "images": {
       "1": {
-        "src": "https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667", 
+        "src": "https://github.com/jaws-framework/JAWS/raw/master/img/jaws_gitter_chatroom.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "993357133", 
         "caption": "", 
-        "width": "0"
+        "width": "300"
       }, 
       "3": {
-        "src": "https://camo.githubusercontent.com/39954ededcf8d69064fc918f3e6feb503fed7115/68747470733a2f2f73657276616e742d6173736574732e73332e616d617a6f6e6177732e636f6d2f696d672f6a6177735f7371756172655f656d61696c5f6c6973745f312e706e67", 
+        "src": "https://github.com/jaws-framework/JAWS/raw/master/img/jaws_roadmap.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "993357133", 
         "caption": "", 
-        "width": "0"
+        "width": "300"
       }, 
       "2": {
-        "src": "https://camo.githubusercontent.com/e7c6ea239ba3011cf5281d8b79e937a9c2d72e27/68747470733a2f2f73657276616e742d6173736574732e73332e616d617a6f6e6177732e636f6d2f696d672f6a6177735f7371756172655f696e7374616c6c6174696f6e5f67756964655f322e706e67", 
+        "src": "https://github.com/jaws-framework/JAWS/raw/master/img/jaws_email_list.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "993357133", 
         "caption": "", 
-        "width": "0"
+        "width": "300"
       }, 
       "5": {
-        "src": "https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_diagram_javascript_aws.png", 
+        "src": "https://github.com/jaws-framework/JAWS/raw/master/img/jaws_livecoding_channel.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
         "item_id": "993357133", 
         "caption": "", 
-        "width": "0"
+        "width": "300"
       }, 
       "4": {
-        "src": "https://camo.githubusercontent.com/37e5cf01fac2e3d710b60eb827a0e10b94b5523a/68747470733a2f2f73657276616e742d6173736574732e73332e616d617a6f6e6177732e636f6d2f696d672f6a6177735f7371756172655f76315f636f6d696e675f736f6f6e5f322e706e67", 
+        "src": "https://github.com/jaws-framework/JAWS/raw/master/img/jaws_shirts.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "993357133", 
         "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1438741236", 
-    "status": "0", 
-    "sort_id": 1886, 
-    "resolved_url": "https://github.com/servant-app/JAWS", 
-    "authors": {
-      "26025328": {
+        "width": "300"
+      }, 
+      "6": {
+        "src": "https://github.com/jaws-framework/JAWS/raw/master/img/jaws_stackoverflow_tag.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
         "item_id": "993357133", 
-        "url": "https://github.com/ac360", 
-        "author_id": "26025328", 
-        "name": "ac360"
+        "caption": "", 
+        "width": "300"
       }
     }, 
+    "given_title": "servant-app/JAWS", 
+    "resolved_url": "https://github.com/servant-app/JAWS", 
+    "is_article": "1", 
     "item_id": "993357133", 
+    "time_added": "1438741236", 
     "resolved_id": "993357133", 
     "given_url": "https://github.com/servant-app/JAWS", 
-    "resolved_title": "jaws-stack/JAWS", 
-    "is_index": "0", 
-    "time_updated": "1438741236", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "servant-app/JAWS", 
-    "has_image": "1"
+    "resolved_title": "jaws-framework/JAWS"
   }, 
   {
     "status": "0", 
