@@ -45590,57 +45590,57 @@
     "is_article": "1", 
     "image": {
       "item_id": "783380261", 
-      "src": "http://i.kinja-img.com/gawker-media/image/upload/s--YtaGMLkd--/c_fit,fl_progressive,q_80,w_636/eajtontndbkuorgufdry.png", 
-      "height": "375", 
-      "width": "636"
+      "src": "http://i.kinja-img.com/gawker-media/image/upload/s--JiGV5TiM--/eajtontndbkuorgufdry.png", 
+      "height": "461", 
+      "width": "781"
     }, 
     "excerpt": "There's residential design, and then there's jigsaw puzzle design. This elegant project by the San Francisco architect Christi Azevedo, who wedged a full guest house into a laundry and boiler room from 1916, falls somewhere in between the two.", 
-    "word_count": "243", 
+    "word_count": "245", 
     "images": {
       "1": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--YtaGMLkd--/c_fit,fl_progressive,q_80,w_636/eajtontndbkuorgufdry.png", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--JiGV5TiM--/eajtontndbkuorgufdry.png", 
         "credit": "", 
-        "height": "375", 
+        "height": "461", 
         "image_id": "1", 
         "item_id": "783380261", 
         "caption": "", 
-        "width": "636"
+        "width": "781"
       }, 
       "3": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--rAHVQX87--/c_fit,fl_progressive,q_80,w_636/itbl65lts2myjqg1cta3.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--8GDILQ7x--/itbl65lts2myjqg1cta3.jpg", 
         "credit": "", 
-        "height": "847", 
+        "height": "873", 
         "image_id": "3", 
         "item_id": "783380261", 
         "caption": "", 
-        "width": "636"
+        "width": "655"
       }, 
       "2": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--nC28BrzF--/c_fit,fl_progressive,q_80,w_636/ypj8govxc7jetnhzwwdp.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--7lyIjcfo--/c_scale,fl_progressive,q_80,w_800/ypj8govxc7jetnhzwwdp.jpg", 
         "credit": "", 
-        "height": "422", 
+        "height": "531", 
         "image_id": "2", 
         "item_id": "783380261", 
         "caption": "", 
-        "width": "636"
+        "width": "800"
       }, 
       "5": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--_iXxZcZs--/c_fit,fl_progressive,q_80,w_636/pawx2urardiz5vovke9x.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--m03GCO9V--/c_scale,fl_progressive,q_80,w_800/pawx2urardiz5vovke9x.jpg", 
         "credit": "", 
-        "height": "874", 
+        "height": "1099", 
         "image_id": "5", 
         "item_id": "783380261", 
         "caption": "", 
-        "width": "636"
+        "width": "800"
       }, 
       "4": {
-        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--IAhM-eWV--/c_fit,fl_progressive,q_80,w_636/nqtvq7jcpep6dqw7fxj6.jpg", 
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--12Gj0jvh--/nqtvq7jcpep6dqw7fxj6.jpg", 
         "credit": "", 
-        "height": "847", 
+        "height": "873", 
         "image_id": "4", 
         "item_id": "783380261", 
         "caption": "", 
-        "width": "636"
+        "width": "655"
       }
     }, 
     "has_video": "0", 
@@ -90659,7 +90659,7 @@
   }, 
   {
     "status": "1", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 44, 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
