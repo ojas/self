@@ -3049,42 +3049,50 @@
     "has_image": "1"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 391, 
-    "time_updated": "1367238626", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "As I wrote in the introduction to Lying, Ronald A. Howard was one of my favorite professors in college, and his courses on ethics, social systems, and decision making did much to shape my views on these topics. Last week, he was kind enough to speak with me at length about the ethics of lying.", 
+    "is_article": "1", 
     "image": {
       "item_id": "340474437", 
-      "src": "http://www.samharris.org/images/uploads/straightpath.jpeg", 
-      "height": "377", 
-      "width": "600"
+      "src": "http://www.samharris.org/images/made/images/uploads/6341843_55531e7437_o_762_479_60_s@1x.jpg", 
+      "height": "0", 
+      "width": "0"
     }, 
-    "has_image": "1", 
-    "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "6306", 
+    "excerpt": "As I wrote in the introduction to Lying, Ronald A. Howard was one of my favorite professors in college, and his courses on ethics, social systems, and decision making did much to shape my views on these topics. Last week, he was kind enough to speak with me at length about the ethics of lying.", 
+    "word_count": "6303", 
     "images": {
       "1": {
-        "src": "http://www.samharris.org/images/uploads/straightpath.jpeg", 
-        "credit": "", 
-        "height": "377", 
+        "src": "http://www.samharris.org/images/made/images/uploads/6341843_55531e7437_o_762_479_60_s@1x.jpg", 
+        "credit": "( )", 
+        "height": "0", 
         "image_id": "1", 
         "item_id": "340474437", 
         "caption": "", 
-        "width": "600"
+        "width": "0"
       }
     }, 
-    "given_title": "The Straight Path : A Conversation with Ronald A. Howard : Sam Harris", 
-    "resolved_url": "http://www.samharris.org/blog/item/the-path-of-honesty", 
-    "is_article": "1", 
-    "item_id": "340474437", 
+    "has_video": "0", 
     "time_added": "1366600308", 
+    "status": "0", 
+    "sort_id": 391, 
+    "resolved_url": "http://www.samharris.org/blog/item/the-path-of-honesty", 
+    "authors": {
+      "41346605": {
+        "item_id": "340474437", 
+        "url": "https://secure.flickr.com/photos/flissphil/6341843/", 
+        "author_id": "41346605", 
+        "name": "PhillipC"
+      }
+    }, 
+    "item_id": "340474437", 
     "resolved_id": "340474437", 
     "given_url": "http://www.samharris.org/blog/item/the-path-of-honesty/", 
-    "resolved_title": "The Straight Path"
+    "resolved_title": "The Straight Path A Conversation with Ronald A. Howard", 
+    "is_index": "0", 
+    "time_updated": "1367238626", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "The Straight Path : A Conversation with Ronald A. Howard : Sam Harris", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
