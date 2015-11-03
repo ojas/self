@@ -25554,6 +25554,14 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "775", 
+    "authors": {
+      "41309648": {
+        "item_id": "336552174", 
+        "url": "https://www.quora.com/profile/Derrick-Fung", 
+        "author_id": "41309648", 
+        "name": "Derrick Fung"
+      }
+    }, 
     "given_title": "50 Ways Ordinary People Reached World-Class (Ro... - Musings of a Start-up ", 
     "resolved_url": "http://startuplife.quora.com/50-Ways-Ordinary-People-Reached-World-Class-Robin-Sharma", 
     "is_article": "1", 
