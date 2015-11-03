@@ -53699,57 +53699,48 @@
     "is_article": "1", 
     "image": {
       "item_id": "732004736", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/dianeackerman_thehumanage.jpg", 
+      "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2014/01/aliceinquantumland1.jpg?w=480", 
       "height": "0", 
-      "width": "195"
+      "width": "0"
     }, 
     "excerpt": "To tell humanity its own story is a task no less herculean, and at last we have a poet \u2014 Sagan\u2019s favorite poet, no less \u2014 to marry science and wonder.", 
-    "word_count": "3094", 
+    "word_count": "3093", 
     "images": {
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/dianeackerman_thehumanage.jpg", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2014/01/aliceinquantumland1.jpg?w=480", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "732004736", 
-        "caption": "Illustration from 'Alice in Quantumland' by Robert Gilmore. Click image for more.", 
-        "width": "195"
+        "caption": "Illustration from \u2018Alice in Quantumland\u2019 by Robert Gilmore. Click image for more.", 
+        "width": "0"
       }, 
       "3": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/icub.jpg", 
-        "credit": "Photograph: Sharingame CC-BY-NC-ND", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2014/01/aliceinquantumland7.jpg?w=480", 
+        "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "732004736", 
-        "caption": "The iCub humanoid robot", 
-        "width": "480"
+        "caption": "Illustration from \u2018Alice in Quantumland\u2019 by Robert Gilmore. Click image for more.", 
+        "width": "0"
       }, 
       "2": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2014/01/aliceinquantumland1.jpg", 
-        "credit": "", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2014/10/icub.jpg?w=480", 
+        "credit": "Photograph: Sharingame CC-BY-NC-ND", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "732004736", 
-        "caption": "Illustration from 'Alice in Quantumland' by Robert Gilmore. Click image for more.", 
-        "width": "480"
-      }, 
-      "5": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2014/08/taschen_bookofmiracles9.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "732004736", 
-        "caption": "Illustration from 'The Book of Miracles,' 1552. Click image for more.", 
-        "width": "480"
+        "caption": "The iCub humanoid robot", 
+        "width": "0"
       }, 
       "4": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2014/01/aliceinquantumland7.jpg", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2014/08/taschen_bookofmiracles9.jpg?w=480", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "732004736", 
-        "caption": "Illustration from 'Alice in Quantumland' by Robert Gilmore. Click image for more.", 
-        "width": "480"
+        "caption": "Illustration from \u2018The Book of Miracles,\u2019 1552. Click image for more.", 
+        "width": "0"
       }
     }, 
     "has_video": "0", 
@@ -53758,10 +53749,10 @@
     "sort_id": 1384, 
     "resolved_url": "http://www.brainpickings.org/2014/10/06/diane-ackerman-human-age/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "732004736", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
