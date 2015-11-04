@@ -6144,36 +6144,10 @@
     "time_favorited": "0", 
     "time_read": "0", 
     "excerpt": "During the first presidential campaign Michelle Obama was worried her husband's schedule allowed him \"no time to think.\" You hear the same from business executives who traverse impossibly packed days.  But how many people budget serious thinking time on their calendar? Few.", 
-    "image": {
-      "item_id": "314776971", 
-      "src": "http://m.c.lnkd.licdn.com/mpr/mpr/p/5/000/21b/3e6/183a82a.jpg", 
-      "height": "395", 
-      "width": "590"
-    }, 
-    "has_image": "1", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "474", 
-    "images": {
-      "1": {
-        "src": "http://m.c.lnkd.licdn.com/mpr/mpr/p/5/000/21b/3e6/183a82a.jpg", 
-        "credit": "", 
-        "height": "395", 
-        "image_id": "1", 
-        "item_id": "314776971", 
-        "caption": "", 
-        "width": "590"
-      }, 
-      "2": {
-        "src": "http://m.c.lnkd.licdn.com/mpr/mpr/p/7/000/21b/3de/3c0d20b.png", 
-        "credit": "", 
-        "height": "206", 
-        "image_id": "2", 
-        "item_id": "314776971", 
-        "caption": "", 
-        "width": "288"
-      }
-    }, 
     "given_title": "How Busy People Find Time to Think Deeply | LinkedIn", 
     "resolved_url": "http://www.linkedin.com/today/post/article/20130312012437-659753-how-busy-people-find-time-to-think-deeply", 
     "is_article": "1", 
@@ -15121,7 +15095,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3258", 
+    "word_count": "3260", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
