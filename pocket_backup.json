@@ -18758,6 +18758,116 @@
     "resolved_title": "dining tables shopping and more from CB2"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2058, 
+    "time_updated": "1446836607", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Also see Xiph.Org's new video, Digital Show & Tell, for detailed demonstrations of digital sampling in action on real equipment!  Articles last month revealed that musician Neil Young and Apple's Steve Jobs discussed offering digital music downloads of 'uncompromised studio quality'.", 
+    "image": {
+      "item_id": "143333677", 
+      "src": "http://people.xiph.org/~xiphmont/demo/players2-small.jpg", 
+      "height": "105", 
+      "width": "676"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "6139", 
+    "images": {
+      "1": {
+        "src": "http://people.xiph.org/~xiphmont/demo/players2-small.jpg", 
+        "credit": "", 
+        "height": "105", 
+        "image_id": "1", 
+        "item_id": "143333677", 
+        "caption": "", 
+        "width": "676"
+      }, 
+      "3": {
+        "src": "http://people.xiph.org/~xiphmont/demo/apple-ir.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "143333677", 
+        "caption": "\nAbove: Apple IR remote photographed using a digital camera. Though the emitter is quite bright and the frequency emitted is not far past the red portion of the visible spectrum, it's completely invisible to the eye.\n", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://people.xiph.org/~xiphmont/demo/visspec.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "143333677", 
+        "caption": "\nAbove: The approximate log scale response of the human eye's rods and cones, superimposed on the visible spectrum. These sensory organs respond to light in overlapping spectral bands, just as the ear's hair cells are tuned to respond to overlapping bands of sound frequencies.\n", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://people.xiph.org/~xiphmont/demo/jaggy2.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "143333677", 
+        "caption": "added 2013-04-04:", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://people.xiph.org/~xiphmont/demo/jaggy.png", 
+        "credit": "red", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "143333677", 
+        "caption": "Above: Sampled signals are often depicted as a rough stairstep", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://people.xiph.org/~xiphmont/demo/-105dB.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "143333677", 
+        "caption": "\nAbove: Spectral analysis of a -105dB tone encoded as 16 bit / 48kHz PCM. 16 bit PCM is clearly deeper than 96dB, else a -105dB tone could not be represented, nor would it be audible.\n", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://people.xiph.org/~xiphmont/demo/filters.png", 
+        "credit": "left", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "143333677", 
+        "caption": "Above: Whiteboard diagram from A Digital Media Primer for Geeks illustrating the transition band width available for a 48kHz ADC/DAC", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://people.xiph.org/~xiphmont/demo/et.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "143333677", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://people.xiph.org/~xiphmont/demo/squishyball.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "143333677", 
+        "caption": "\nAbove: Squishyball, a simple command-line ABX tool, running in an xterm.\n", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "24/192 Music Downloads are Very Silly Indeed", 
+    "resolved_url": "http://people.xiph.org/~xiphmont/demo/neil-young.html", 
+    "is_article": "1", 
+    "item_id": "143333677", 
+    "time_added": "1446836607", 
+    "resolved_id": "143333677", 
+    "given_url": "http://people.xiph.org/~xiphmont/demo/neil-young.html", 
+    "resolved_title": "24/192 Music Downloads"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "484003748", 
