@@ -33046,34 +33046,97 @@
     "time_updated": "1437662496", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Simple to update, publish and update your books easily using Git or the web book editor.  Version Control, GitBook is based on GIT scm. A simple \"git push\" is enough to publish a new version.", 
+    "excerpt": "GitBook is a modern publishing toolchain. Making both writing and collaboration easy.  Simple to update, publish and update your books easily using Git or the web book editor.", 
     "image": {
       "item_id": "773323493", 
-      "src": "https://sm3lir.cloudimage.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/marketplaces.png?v=7.1.1", 
+      "src": "https://ek8whxe.cloudimg.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/cern.jpg?v=10.2.2", 
       "height": "0", 
       "width": "0"
     }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "237", 
+    "word_count": "165", 
     "images": {
       "1": {
-        "src": "https://sm3lir.cloudimage.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/marketplaces.png?v=7.1.1", 
-        "credit": "", 
+        "src": "https://ek8whxe.cloudimg.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/cern.jpg?v=10.2.2", 
+        "credit": "European Organization for Nuclear Research", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "773323493", 
-        "caption": "", 
+        "caption": "Cern", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://ek8whxe.cloudimg.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/djangogirl.jpg?v=10.2.2", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "773323493", 
+        "caption": "DjangoGirls uses GitBook to teach girls how to code with great tutorials and manuals. -- ", 
         "width": "0"
       }, 
       "2": {
-        "src": "https://sm3lir.cloudimage.io/s/width/1000/https:/www.gitbook.com/assets/images/backgrounds/preview.jpg?v=7.1.1", 
+        "src": "https://ek8whxe.cloudimg.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/cloudfoundry.jpg?v=10.2.2", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "773323493", 
+        "caption": "Joshua McKenty, OpenStack's co-author, uses GitBook to write about CloudFoundry. -- ", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://ek8whxe.cloudimg.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/jan.jpg?v=10.2.2", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "773323493", 
+        "caption": "In 1994, Jan signed a contract to publish a new book. 20 years later, he self-published it with GitBook. -- ", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://ek8whxe.cloudimg.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/google-developers.jpg?v=10.2.2", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "773323493", 
+        "caption": "Google Developer Groups write guides helping GDG organizers run and manage their community & events. -- ", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://ek8whxe.cloudimg.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/kowen.jpg?v=10.2.2", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "773323493", 
+        "caption": "Taipei\u2019s new mayor, Ko Wen-Je, published his election manifesto. Read by more than 500,000 people. -- ", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "https://ek8whxe.cloudimg.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/columbia.jpg?v=10.2.2", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "773323493", 
+        "caption": "TowCenter, from Columbia's School of Journalism, publish papers about modern and digital journalism. -- ", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "https://ek8whxe.cloudimg.io/s/width/1000/https:/www.gitbook.com/assets/images/backgrounds/preview.jpg?v=10.2.2", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "773323493", 
         "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "https://ek8whxe.cloudimg.io/s/cdn/x/https:/www.gitbook.com/assets/images/homepage/dale.jpg?v=10.2.2", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "773323493", 
+        "caption": "Dale used GitBook to publish a series of technical books educating developers on web design. -- ", 
         "width": "0"
       }
     }, 
@@ -33084,7 +33147,7 @@
     "time_added": "1437662496", 
     "resolved_id": "773323493", 
     "given_url": "https://www.gitbook.com/", 
-    "resolved_title": "GitBook \u00b7 Write & Publish Books"
+    "resolved_title": "GitBook \u00b7 Writing made easy"
   }, 
   {
     "is_article": "1", 
