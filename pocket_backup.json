@@ -15095,7 +15095,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3272", 
+    "word_count": "3161", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -59792,19 +59792,19 @@
     "time_updated": "1430703541", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "A JSON API document MAY include information about its implementation under a top level jsonapi member. If present, the value of the jsonapi member MUST be an object (a \"jsonapi object\").", 
+    "excerpt": "This page represents the latest published version of JSON API, which is currently version 1.0. New versions of JSON API will always be backwards compatible using a never remove, only add strategy. Additions can be proposed in our discussion forum.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "5655", 
+    "word_count": "7978", 
     "given_title": "JSON API :: Format", 
-    "resolved_url": "http://jsonapi.org/format/", 
+    "resolved_url": "http://jsonapi.org/format/#document-links", 
     "is_article": "1", 
     "item_id": "361012878", 
     "time_added": "1427475207", 
     "resolved_id": "361012878", 
     "given_url": "http://jsonapi.org/format/", 
-    "resolved_title": "JSON API Object", 
+    "resolved_title": "Latest Specification (v1.0)", 
     "tags": {
       "api": {
         "item_id": "361012878", 
