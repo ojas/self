@@ -36470,15 +36470,15 @@
     "resolved_title": "1994 Panoz for Sale"
   }, 
   {
-    "is_article": "0", 
+    "is_article": "1", 
     "image": {
       "item_id": "823279599", 
       "src": "http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge1.png", 
       "height": "355", 
       "width": "499"
     }, 
-    "excerpt": "", 
-    "word_count": "0", 
+    "excerpt": "Note: The reason this post took three weeks to finish is that as I dug into research on Artificial Intelligence, I could not believe what I was reading.", 
+    "word_count": "6977", 
     "images": {
       "11": {
         "src": "http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Intelligence2.png", 
@@ -36596,14 +36596,14 @@
     "item_id": "823279599", 
     "resolved_id": "823279599", 
     "given_url": "http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html", 
-    "resolved_title": "Redirecting", 
-    "is_index": "1", 
+    "resolved_title": "The AI Revolution: The Road to Superintelligence", 
+    "is_index": "0", 
     "time_updated": "1436023347", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "The AI Revolution: Road to Superintelligence - Wait But Why", 
-    "has_image": "0"
+    "has_image": "1"
   }, 
   {
     "is_article": "1", 
