@@ -29308,30 +29308,30 @@
     "is_article": "1", 
     "image": {
       "item_id": "227629296", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2012/09/williamjames_habit.jpg", 
+      "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2012/09/williamjames_habit.jpg?w=165", 
       "height": "0", 
-      "width": "165"
+      "width": "0"
     }, 
     "excerpt": "\u201cWe are spinning our own fates, good or evil, and never to be undone. Every smallest stroke of virtue or of vice leaves its never so little scar.\u201d \u201cWe are what we repeatedly do,\u201d Aristotle famously proclaimed. \u201cExcellence, then, is not an act, but a habit.", 
     "word_count": "1912", 
     "images": {
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/09/williamjames_habit.jpg", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2012/09/williamjames_habit.jpg?w=165", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "227629296", 
         "caption": "", 
-        "width": "165"
+        "width": "0"
       }, 
       "2": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2012/09/williamjames.jpg", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2012/09/williamjames.jpg?w=500", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "227629296", 
         "caption": "", 
-        "width": "500"
+        "width": "0"
       }
     }, 
     "has_video": "0", 
@@ -29340,10 +29340,10 @@
     "sort_id": 73, 
     "resolved_url": "http://www.brainpickings.org/index.php/2012/09/25/william-james-on-habit/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "227629296", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
