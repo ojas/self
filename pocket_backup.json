@@ -9993,6 +9993,14 @@
     "favorite": "0", 
     "has_video": "0", 
     "word_count": "739", 
+    "authors": {
+      "40146983": {
+        "item_id": "803107064", 
+        "url": "http://lemire.me/blog/author/lemire/", 
+        "author_id": "40146983", 
+        "name": "Daniel Lemire"
+      }
+    }, 
     "given_title": "How to learn efficiently", 
     "resolved_url": "http://lemire.me/blog/archives/2014/12/30/how-to-learn-efficiently/", 
     "is_article": "1", 
