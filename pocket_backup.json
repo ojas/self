@@ -62768,6 +62768,55 @@
   {
     "videos": {
       "1": {
+        "src": "http://www.youtube.com/v/U_ZHsk0-eF0", 
+        "vid": "U_ZHsk0-eF0", 
+        "video_id": "1", 
+        "height": "0", 
+        "width": "0", 
+        "item_id": "358071409", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "0", 
+    "image": {
+      "item_id": "358071409", 
+      "src": "http://img.youtube.com/vi/U_ZHsk0-eF0/0.jpg", 
+      "height": "360", 
+      "width": "480"
+    }, 
+    "excerpt": "Donald discovers the everyday opportunities of math and why math is useful.Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by cop", 
+    "word_count": "0", 
+    "images": {
+      "1": {
+        "src": "http://img.youtube.com/vi/U_ZHsk0-eF0/0.jpg", 
+        "credit": "", 
+        "height": "360", 
+        "image_id": "1", 
+        "item_id": "358071409", 
+        "caption": "", 
+        "width": "480"
+      }
+    }, 
+    "has_video": "2", 
+    "time_added": "1447113874", 
+    "status": "0", 
+    "sort_id": 2059, 
+    "resolved_url": "http://www.youtube.com/watch?v=U_ZHsk0-eF0", 
+    "item_id": "358071409", 
+    "resolved_id": "358071409", 
+    "given_url": "https://www.youtube.com/watch?v=U_ZHsk0-eF0", 
+    "resolved_title": "Donald Duck - Mathmagic Land", 
+    "is_index": "0", 
+    "time_updated": "1447113874", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Donald Duck - Mathmagic Land - YouTube", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
         "src": "//player.vimeo.com/video/88206434", 
         "vid": "88206434", 
         "video_id": "1", 
