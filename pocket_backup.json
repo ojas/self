@@ -7572,6 +7572,52 @@
     "has_image": "1"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "1093486046", 
+      "src": "http://www.slate.com/content/dam/slate/articles/arts/television/2015/11/151102_TV_master-of-none.jpg.CROP.promo-xlarge2.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Master of None begins with sex gone awry. Dev Shah (Aziz Ansari), a working actor, is humping and pumping over a woman named Rachel (No\u00ebl Wells), whom he has just met, when the condom breaks.", 
+    "word_count": "2447", 
+    "images": {
+      "1": {
+        "src": "http://www.slate.com/content/dam/slate/articles/arts/television/2015/11/151102_TV_master-of-none.jpg.CROP.promo-xlarge2.jpg", 
+        "credit": "Photo courtesy Netflix", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1093486046", 
+        "caption": "Aziz Ansari and No\u00ebl Wells in Master of None.", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1447255472", 
+    "status": "0", 
+    "sort_id": 2063, 
+    "resolved_url": "http://www.slate.com/articles/arts/television/2015/11/aziz_ansari_s_master_of_none_on_netflix_reviewed_a_truly_great_sitcom.html", 
+    "authors": {
+      "6203288": {
+        "item_id": "1093486046", 
+        "url": "http://www.slate.com/authors.willa_paskin.html", 
+        "author_id": "6203288", 
+        "name": "Willa Paskin"
+      }
+    }, 
+    "item_id": "1093486046", 
+    "resolved_id": "1093486046", 
+    "given_url": "http://www.slate.com/articles/arts/television/2015/11/aziz_ansari_s_master_of_none_on_netflix_reviewed_a_truly_great_sitcom.html", 
+    "resolved_title": "Master of None", 
+    "is_index": "0", 
+    "time_updated": "1447255473", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Aziz Ansari\u2019s Master of None on Netflix, reviewed: A truly great sitcom.", 
+    "has_image": "1"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/8aufuwMiKmE?feature=oembed", 
