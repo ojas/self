@@ -88830,14 +88830,22 @@
     "resolved_title": "Kurt Vonnegut explains drama"
   }, 
   {
-    "is_article": "1", 
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 1027, 
+    "time_updated": "1407344634", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Sebastian Garcia made a mistake but he couldn\u2019t figure it out. At the 2011 National Junior High Chess Championship he was looking strong and heading towards a victory. Then he made a mistake, squandering his advantage. A few moves later the collapse was complete.", 
     "image": {
       "item_id": "550722021", 
       "src": "https://www.farnamstreetblog.com/wp-content/uploads/2014/02/chess.jpg", 
       "height": "434", 
       "width": "640"
     }, 
-    "excerpt": "Sebastian Garcia made a mistake but he couldn\u2019t figure it out. At the 2011 National Junior High Chess Championship he was looking strong and heading towards a victory. Then he made a mistake, squandering his advantage. A few moves later the collapse was complete.", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
     "word_count": "2475", 
     "images": {
       "1": {
@@ -88850,30 +88858,14 @@
         "width": "640"
       }
     }, 
-    "has_video": "0", 
-    "time_added": "1394374546", 
-    "status": "0", 
-    "sort_id": 1027, 
+    "given_title": "How To Think", 
     "resolved_url": "http://www.farnamstreetblog.com/2014/02/how-to-think/", 
-    "authors": {
-      "15092360": {
-        "item_id": "550722021", 
-        "url": "https://www.farnamstreetblog.com/author/shane-parrish/", 
-        "author_id": "15092360", 
-        "name": "Shane Parrish"
-      }
-    }, 
+    "is_article": "1", 
     "item_id": "550722021", 
+    "time_added": "1394374546", 
     "resolved_id": "550722021", 
     "given_url": "http://www.farnamstreetblog.com/2014/02/how-to-think/", 
-    "resolved_title": "How To Think", 
-    "is_index": "0", 
-    "time_updated": "1407344634", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "favorite": "0", 
-    "given_title": "How To Think", 
-    "has_image": "1"
+    "resolved_title": "How To Think"
   }, 
   {
     "status": "0", 
