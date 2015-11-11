@@ -95029,6 +95029,38 @@
     "resolved_title": "Python Best Practice Patterns by Vladimir Keleshev (Notes)"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2062, 
+    "time_updated": "1447217100", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "< > (google map)  2000 saab 9-3 viggen condition: goodcylinders: 4 cylindersdrive: fwdfuel: gasodometer: 268234paint color: blacktitle status: cleantransmission: manualtype: hatchback 2000 Saab 9-3 Viggen for sale. 268,234 miles (I put roughly 11,000 miles a year since purchase).", 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "175", 
+    "images": {
+      "2": {
+        "src": "http://images.craigslist.org/00P0P_7bMfsqdJttc_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1100222927", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "2000 Saab 9-3 Viggen", 
+    "resolved_url": "http://detroit.craigslist.org/okl/cto/5277475816.html", 
+    "is_article": "1", 
+    "item_id": "1100222927", 
+    "time_added": "1447217097", 
+    "resolved_id": "1100222927", 
+    "given_url": "http://detroit.craigslist.org/okl/cto/5277475816.html", 
+    "resolved_title": "2000 Saab 9-3 Viggen - $2200 (Ferndale)"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "730231342", 
