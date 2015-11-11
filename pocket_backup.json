@@ -15114,7 +15114,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3264", 
+    "word_count": "3256", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -112382,7 +112382,7 @@
     "resolved_id": "353364816", 
     "given_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?smid=fb-share", 
     "resolved_title": "The Scientific 7-Minute Workout", 
-    "is_index": "0", 
+    "is_index": "1", 
     "time_updated": "1368210295", 
     "time_favorited": "0", 
     "time_read": "0", 
@@ -114382,48 +114382,111 @@
     "is_article": "1", 
     "image": {
       "item_id": "864568046", 
-      "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/diaryofsorenkierkegaard.jpg", 
+      "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
       "height": "0", 
-      "width": "185"
+      "width": "200"
     }, 
-    "excerpt": "\u201cTruth always rests with the minority \u2026 because the minority is generally formed by those who really have an opinion, while the strength of a majority is illusory, formed by the gangs who have no opinion.", 
+    "excerpt": "A century earlier, the great Danish writer and thinker S\u00f8ren Kierkegaard, celebrated as the first true existentialist philosopher and an active proponent of the benefits of keeping a diary, contemplated this eternal tension between the individual and the crowd.", 
     "word_count": "1367", 
     "images": {
+      "11": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "864568046", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "10": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/10/holsteemanifesto.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "864568046", 
+        "caption": "", 
+        "width": "200"
+      }, 
       "1": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2014/10/diaryofsorenkierkegaard.jpg", 
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "864568046", 
-        "caption": "Illustration from 'How to Be a Nonconformist,' a 1968 satire of conformity-culture written and illustrated by a high school girl. Click image for more.", 
-        "width": "185"
+        "caption": "", 
+        "width": "200"
       }, 
       "3": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/09/howtobeanonconformist4.jpg", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/06/kierkegaard_stamp.jpg?w=500", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
         "item_id": "864568046", 
-        "caption": "Illustration from 'How to Be a Nonconformist,' a 1968 satire of conformity-culture written and illustrated by a high school girl. Click image for more.", 
-        "width": "480"
+        "caption": "Illustration from \u2018How to Be a Nonconformist,\u2019 a 1968 satire of conformity-culture written and illustrated by a high school girl. Click image for more.", 
+        "width": "0"
       }, 
       "2": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2013/06/kierkegaard_stamp.jpg", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2014/10/diaryofsorenkierkegaard.jpg?w=185", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "864568046", 
-        "caption": "Illustration from 'How to Be a Nonconformist,' a 1968 satire of conformity-culture written and illustrated by a high school girl. Click image for more.", 
-        "width": "500"
+        "caption": "Photographs from \u2018Exactitudes,\u2019 a global project highlighting the implicit conformity of subcultures. Click image for more.", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/12/anais_debbie1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "864568046", 
+        "caption": "", 
+        "width": "200"
       }, 
       "4": {
-        "src": "http://www.brainpickings.org/wp-content/uploads/2009/04/exactitudes1.png", 
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "864568046", 
-        "caption": "Photographs from 'Exactitudes,' a global project highlighting the implicit conformity of subcultures. Click image for more.", 
-        "width": "480"
+        "caption": "", 
+        "width": "200"
+      }, 
+      "7": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/02/sontaglove_unlimited.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "864568046", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "6": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "864568046", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "9": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/wendycamus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "864568046", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "8": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/11/sontagart.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "864568046", 
+        "caption": "", 
+        "width": "200"
       }
     }, 
     "has_video": "0", 
@@ -114432,10 +114495,10 @@
     "sort_id": 1665, 
     "resolved_url": "http://www.brainpickings.org/2014/11/26/kierkegaard-individual-crowd-conformity-minority/", 
     "authors": {
-      "23602465": {
+      "2475265": {
         "item_id": "864568046", 
-        "url": "http://www.brainpickings.org/author/mpopova/", 
-        "author_id": "23602465", 
+        "url": "", 
+        "author_id": "2475265", 
         "name": "Maria Popova"
       }
     }, 
