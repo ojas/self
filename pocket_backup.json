@@ -15114,7 +15114,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3249", 
+    "word_count": "3248", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -56823,7 +56823,7 @@
     "has_video": "0", 
     "word_count": "1171", 
     "given_title": "Sigma js", 
-    "resolved_url": "http://sigmajs.org/", 
+    "resolved_url": "http://sigmajs.org", 
     "is_article": "0", 
     "item_id": "147870759", 
     "time_added": "1391538152", 
