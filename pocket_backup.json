@@ -62613,16 +62613,16 @@
   }, 
   {
     "status": "1", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 14, 
     "time_updated": "1346846900", 
     "time_favorited": "0", 
     "time_read": "1346846898", 
-    "excerpt": "The Stripe API is organized around REST. Our API is designed to have predictable, resource-oriented URLS, to use HTTP response codes to indicate API errors, and to use built-in HTTP features, like HTTP authentication and HTTP verbs, which can be understood by off-the-shelf HTTP clients.", 
+    "excerpt": "", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "6917", 
+    "word_count": "0", 
     "given_title": "Stripe API Documentation", 
     "resolved_url": "https://stripe.com/docs/api?lang=curl", 
     "is_article": "0", 
@@ -62630,7 +62630,7 @@
     "time_added": "1346270058", 
     "resolved_id": "121612521", 
     "given_url": "https://stripe.com/docs/api?lang=curl#top", 
-    "resolved_title": "Stripe API Documentation", 
+    "resolved_title": "", 
     "tags": {
       "api": {
         "item_id": "121612521", 
