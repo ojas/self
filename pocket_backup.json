@@ -4113,7 +4113,7 @@
   }, 
   {
     "status": "0", 
-    "is_index": "0", 
+    "is_index": "1", 
     "sort_id": 2053, 
     "time_updated": "1446149001", 
     "time_favorited": "0", 
@@ -4131,7 +4131,7 @@
     "word_count": "684", 
     "images": {
       "11": {
-        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/QuickSight_Answers-Fast.png", 
+        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/QuickSight_Partner-BI-Solutions_newTableauLogo.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "11", 
@@ -4140,16 +4140,16 @@
         "width": "0"
       }, 
       "10": {
-        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/line-chart-big.png", 
+        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/QuickSight_Easy-to-Use1.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "10", 
         "item_id": "1064819888", 
-        "caption": " \n                   \n                     \n                 Dynamically Optimized Graphics \n                 ", 
+        "caption": "", 
         "width": "0"
       }, 
       "13": {
-        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/QuickSight_Partner-BI-Solutions_newTableauLogo.png", 
+        "src": "http://d0.awsstatic.com/Test%20Images/sharing-and-collaboration.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "13", 
@@ -4158,7 +4158,7 @@
         "width": "0"
       }, 
       "12": {
-        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/QuickSight_Easy-to-Use1.png", 
+        "src": "http://d0.awsstatic.com/Test%20Images/calculation-engine.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "12", 
@@ -4167,7 +4167,7 @@
         "width": "0"
       }, 
       "15": {
-        "src": "http://d0.awsstatic.com/Test%20Images/sharing-and-collaboration.png", 
+        "src": "http://d0.awsstatic.com/Test%20Images/smart-visualization.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "15", 
@@ -4176,28 +4176,10 @@
         "width": "0"
       }, 
       "14": {
-        "src": "http://d0.awsstatic.com/Test%20Images/calculation-engine.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "14", 
-        "item_id": "1064819888", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "17": {
-        "src": "http://d0.awsstatic.com/Test%20Images/smart-visualization.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "17", 
-        "item_id": "1064819888", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "16": {
         "src": "http://d0.awsstatic.com/Test%20Images/native-access.png", 
         "credit": "", 
         "height": "0", 
-        "image_id": "16", 
+        "image_id": "14", 
         "item_id": "1064819888", 
         "caption": "", 
         "width": "0"
@@ -4248,12 +4230,12 @@
         "width": "0"
       }, 
       "7": {
-        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/bar-chart.png", 
+        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/bar-big.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
         "item_id": "1064819888", 
-        "caption": "", 
+        "caption": " \n                   \n                     \n                 Smart Visualizations \n                 ", 
         "width": "0"
       }, 
       "6": {
@@ -4266,7 +4248,7 @@
         "width": "0"
       }, 
       "9": {
-        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/line-chart.png", 
+        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/QuickSight_Answers-Fast.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "9", 
@@ -4275,12 +4257,12 @@
         "width": "0"
       }, 
       "8": {
-        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/bar-big.png", 
+        "src": "http://d0.awsstatic.com/product-marketing/QuickSight/line-chart-big.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "8", 
         "item_id": "1064819888", 
-        "caption": " \n                   \n                     \n                 Smart Visualizations \n                 ", 
+        "caption": " \n                   \n                     \n                 Dynamically Optimized Graphics \n                 ", 
         "width": "0"
       }
     }, 
