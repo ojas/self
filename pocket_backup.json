@@ -113372,7 +113372,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "723865118", 
-      "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*48SgGL6Pe4z6XdRpb_eFvw.jpeg", 
+      "src": "https://cdn-images-1.medium.com/max/2000/1*48SgGL6Pe4z6XdRpb_eFvw.jpeg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -113380,7 +113380,7 @@
     "word_count": "1161", 
     "images": {
       "1": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/2000/1*48SgGL6Pe4z6XdRpb_eFvw.jpeg", 
+        "src": "https://cdn-images-1.medium.com/max/2000/1*48SgGL6Pe4z6XdRpb_eFvw.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -113389,7 +113389,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "https://d262ilb51hltx0.cloudfront.net/max/600/1*3aI5rYwgcCWkra7COc37WQ.jpeg", 
+        "src": "https://cdn-images-1.medium.com/max/1600/1*3aI5rYwgcCWkra7COc37WQ.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -113404,11 +113404,11 @@
     "sort_id": 1350, 
     "resolved_url": "https://medium.com/@benhuh/i-have-46-thanksgiving-dinners-left-with-my-family-after-that-ill-be-dead-ab4cb249eadf", 
     "authors": {
-      "25946410": {
+      "29465657": {
         "item_id": "723865118", 
         "url": "https://medium.com/@benhuh", 
-        "author_id": "25946410", 
-        "name": "benhuh"
+        "author_id": "29465657", 
+        "name": "Ben Huh"
       }
     }, 
     "item_id": "723865118", 
