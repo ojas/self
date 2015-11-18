@@ -104452,59 +104452,25 @@
     "resolved_title": "0bin - encrypted pastebin"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "595597100", 
-      "src": "http://media2.policymic.com/42d0f1cf03d8c82290e7ef1aff5df558.png", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "The news: A new scientific study from Princeton researcher Martin Gilens and Northwestern researcher Benjamin I. Page has finally put some science behind the recently popular argument that\u00a0the United States isn't a democracy any more.", 
-    "word_count": "732", 
-    "images": {
-      "1": {
-        "src": "http://media2.policymic.com/42d0f1cf03d8c82290e7ef1aff5df558.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "595597100", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://media2.policymic.com/3f9db8084af2e243bc97fd1dfcaceb64.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "595597100", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1397923193", 
     "status": "0", 
-    "sort_id": 1064, 
-    "resolved_url": "http://www.policymic.com/articles/87719/princeton-concludes-what-kind-of-government-america-really-has-and-it-s-not-a-democracy", 
-    "authors": {
-      "6323237": {
-        "item_id": "595597100", 
-        "url": "http://www.policymic.com/profiles/1514/tom-mckay", 
-        "author_id": "6323237", 
-        "name": "Tom McKay"
-      }
-    }, 
-    "item_id": "595597100", 
-    "resolved_id": "595597100", 
-    "given_url": "http://www.policymic.com/articles/87719/princeton-concludes-what-kind-of-government-america-really-has-and-it-s-not-a-democracy", 
-    "resolved_title": "Princeton Concludes What Kind of Government America Really Has, and It's Not a Democracy", 
     "is_index": "0", 
+    "sort_id": 1064, 
     "time_updated": "1399999148", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "Princeton Concludes What Kind of Government America Really Has, and It's No", 
-    "has_image": "1"
+    "resolved_url": "http://www.policymic.com/articles/87719/princeton-concludes-what-kind-of-government-america-really-has-and-it-s-not-a-democracy", 
+    "is_article": "0", 
+    "item_id": "595597100", 
+    "time_added": "1397923193", 
+    "resolved_id": "595597100", 
+    "given_url": "http://www.policymic.com/articles/87719/princeton-concludes-what-kind-of-government-america-really-has-and-it-s-not-a-democracy", 
+    "resolved_title": ""
   }, 
   {
     "is_article": "1", 
