@@ -3744,6 +3744,27 @@
     "resolved_title": "Timeline Photos"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2069, 
+    "time_updated": "1447967542", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "It is difficult to imagine counting without numbers, but there was a time when written numbers did not exist. The earliest counting device was the human hand and its fingers.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "608", 
+    "given_title": "Abacus training, learn abacus in simple way, online Abacus learning, unlimi", 
+    "resolved_url": "http://www.abacusmaster.com/Mypage.aspx?p=why-abacus.htm", 
+    "is_article": "1", 
+    "item_id": "771015099", 
+    "time_added": "1447967542", 
+    "resolved_id": "771015099", 
+    "given_url": "http://www.abacusmaster.com/Mypage.aspx?p=why-abacus.htm", 
+    "resolved_title": "Abacus training, learn abacus in simple way, online Abacus learning, unlimited abacus worksheets, abacus tutorial, Mental Abacus"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/jg3XF1-DrdU?feature=player_detailpage&vq=hd720", 
@@ -112553,7 +112574,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
