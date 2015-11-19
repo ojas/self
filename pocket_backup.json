@@ -29926,25 +29926,95 @@
     "resolved_title": "I'm still someplace"
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "691682143", 
+      "src": "https://images.newrepublic.com/7bed2a896afa436558b2e652a18afef794f7a427.jpeg?w=1000&q=65&dpi=1&fm=pjpg&h=414", 
+      "height": "0", 
+      "width": "1000"
+    }, 
+    "excerpt": "Sometime in the late \u201950s, Frieda Fromm-Reichmann sat down to write an essay about a subject that had been mostly overlooked by other psychoanalysts up to that point. Even Freud had only touched on it in passing.", 
+    "word_count": "5121", 
+    "images": {
+      "1": {
+        "src": "https://images.newrepublic.com/7bed2a896afa436558b2e652a18afef794f7a427.jpeg?w=1000&q=65&dpi=1&fm=pjpg&h=414", 
+        "credit": "Darren Braun", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "691682143", 
+        "caption": "", 
+        "width": "1000"
+      }, 
+      "3": {
+        "src": "https://images.newrepublic.com/ff5a042dac18ee065a8f9c05dc0276235883378f.jpeg?w=514", 
+        "credit": "Ariel Lee", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "691682143", 
+        "caption": "", 
+        "width": "514"
+      }, 
+      "2": {
+        "src": "https://images.newrepublic.com/0b9e5bd2a6f0f6445d1ea9326bbbaabad280203f.jpeg?w=514", 
+        "credit": "Ariel Lee", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "691682143", 
+        "caption": "", 
+        "width": "514"
+      }, 
+      "5": {
+        "src": "https://images.newrepublic.com/c70de2d487eb375988ffbcee853b0dc4b3e059a4.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "691682143", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "https://images.newrepublic.com/4de41ffe3f04bf4e4618bea15f99618dcd456ae7.jpeg?w=514", 
+        "credit": "Ariel Lee", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "691682143", 
+        "caption": "", 
+        "width": "514"
+      }, 
+      "6": {
+        "src": "https://images.newrepublic.com/42eab1c52f911c932884bbd66aa2e68f0a20c2c9.jpeg?w=514", 
+        "credit": "Ariel Lee", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "691682143", 
+        "caption": "", 
+        "width": "514"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1408333516", 
     "status": "0", 
-    "is_index": "0", 
     "sort_id": 1257, 
+    "resolved_url": "https://newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you", 
+    "authors": {
+      "41835487": {
+        "item_id": "691682143", 
+        "url": "https://newrepublic.com/authors/judith-shulevitz", 
+        "author_id": "41835487", 
+        "name": "Judith Shulevitz"
+      }
+    }, 
+    "item_id": "691682143", 
+    "resolved_id": "356491090", 
+    "given_url": "http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you?src=longreads", 
+    "resolved_title": "The Lethality of Loneliness", 
+    "is_index": "0", 
     "time_updated": "1410041511", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
     "favorite": "0", 
-    "has_video": "0", 
-    "word_count": "0", 
     "given_title": "The Science of Loneliness: How Isolation Can Kill You | New Republic", 
-    "resolved_url": "http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you#", 
-    "is_article": "0", 
-    "item_id": "691682143", 
-    "time_added": "1408333516", 
-    "resolved_id": "356491090", 
-    "given_url": "http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you?src=longreads", 
-    "resolved_title": ""
+    "has_image": "1"
   }, 
   {
     "status": "0", 
