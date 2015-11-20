@@ -5659,7 +5659,7 @@
     "time_updated": "1372743851", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "input[type=text]::-webkit-input-placeholder{color:#999}input[type=password]:focus{border-color:#2b6dad}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block", 
+    "excerpt": "html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio{display:inline-block;vertical-align:baseline}.", 
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
