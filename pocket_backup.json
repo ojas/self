@@ -115910,24 +115910,51 @@
     "is_article": "1", 
     "image": {
       "item_id": "364368755", 
-      "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/theexaminedlife.jpg?w=190", 
+      "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
       "height": "0", 
-      "width": "0"
+      "width": "200"
     }, 
     "excerpt": "Why instilling admiration for hard work rather than raw talent is the key to fostering a well-adjusted mind.", 
     "word_count": "980", 
     "images": {
+      "11": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/10/holsteemanifesto.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "364368755", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "10": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/wendycamus.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "364368755", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "12": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "364368755", 
+        "caption": "", 
+        "width": "200"
+      }, 
       "1": {
-        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/theexaminedlife.jpg?w=190", 
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "364368755", 
         "caption": "", 
-        "width": "0"
+        "width": "200"
       }, 
       "3": {
-        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/theexaminedlife1.jpg?w=680", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool7.jpg?w=500", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -115936,13 +115963,67 @@
         "width": "0"
       }, 
       "2": {
-        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/dontgobacktoschool7.jpg?w=500", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/theexaminedlife.jpg?w=190", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "364368755", 
         "caption": "", 
         "width": "0"
+      }, 
+      "5": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "364368755", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "4": {
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/05/theexaminedlife1.jpg?w=680", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "364368755", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "364368755", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "6": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/12/anais_debbie1.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "364368755", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "9": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2012/11/sontagart.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "364368755", 
+        "caption": "", 
+        "width": "200"
+      }, 
+      "8": {
+        "src": "https://www.brainpickings.org/wp-content/uploads/2014/02/sontaglove_unlimited.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "364368755", 
+        "caption": "", 
+        "width": "200"
       }
     }, 
     "has_video": "0", 
