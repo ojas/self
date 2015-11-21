@@ -91845,31 +91845,876 @@
     "resolved_title": "The web of names, hashes and UUIDs"
   }, 
   {
-    "status": "0", 
-    "is_index": "0", 
-    "sort_id": 1312, 
-    "time_updated": "1410363460", 
-    "time_favorited": "0", 
-    "time_read": "0", 
-    "excerpt": "", 
-    "has_image": "0", 
-    "favorite": "0", 
+    "is_article": "1", 
+    "image": {
+      "item_id": "427060249", 
+      "src": "http://www.solebicycles.com/wp-content/uploads/2015/11/Fixtape-42-The-River-Tiber-186x186.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "Sol\u00e9 Fixtape Vol. 42  Sol\u00e9 Fixtape Vol. 42River Tiber Sol\u00e9 Fixtape Vol. 41  Sol\u00e9 Fixtape Vol. 41BASECAMP  Loading...  Red Bull Sound Select  Red Bull Sound Select  Loading...  Sol\u00e9 Fixtape Vol. 40  Sol\u00e9 Fixtape Vol. 40The Flavr Blue  Loading...", 
+    "word_count": "814", 
+    "images": {
+      "24": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/10/Cut-Snake-Fixtape-Vol.-29-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "24", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "25": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/10/HQ-Launch1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "25", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "26": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/09/Might-Mouse-TBD-Fixtape-28-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "26", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "27": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/09/SoneCloth-Insta-FB-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "27", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "20": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-10-at-9.38.08-AM-186x186.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "20", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "21": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/02/Fixtape-32-SNBRN-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "21", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "22": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/01/Fixtape-Vol.-31-Figgy-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "22", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "23": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/12/Fixtape-Vol.-30-Indian-Summer-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "23", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "28": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/08/Fixtape-Vol.-27-Chela-X-Splash-House-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "28", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "29": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/07/IMG_1332_logo-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "29", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "4": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/11/RBSS-Collab-1200x1200-1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "4", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "8": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/07/Fixtape-38-Lightyear-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "8", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "59": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/09/artworks-000058525294-5cp39e-t500x500-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "59", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "58": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/09/ocktoberfest11x17_2-1-1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "58", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "55": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/10/Prozac-Maniac-Art-Bike-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "55", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "54": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/10/Sun-Cycle-LA-Final-Insta-graphic-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "54", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "57": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/10/Fixtape-Vol.18-Anna-Lunnoe-2-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "57", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "56": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/10/COEDYPARTY-SOCIAL-B-fbinsta-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "56", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "51": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/11/bixel-art-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "51", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "50": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-27-at-9.48.35-AM-186x186.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "50", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "53": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/10/Fixtape-Vol.-19-BREAKBOT-FINAL-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "53", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "52": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/11/DSC-Collab-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "52", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "88": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/FIXTAPE-5-GIGAMESH-1_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "88", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "89": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/FixTape-4-The-Knocks_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "89", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "82": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/tumblr_max1md6JMg1qev5wyo1_1280-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "82", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "83": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/10/v-lounge-3.2-186x186.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "83", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "80": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/FIXTAPE-8-OLIVER-2FACECHICK_1_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "80", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "81": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/Fixtape-7-GOLDROOM_large-1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "81", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "86": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/12/Movember-Collab-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "86", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "87": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/FIXTAPE-6-VICEROY_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "87", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "84": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/05/SOLE-V-LOUNGE-INSTAFLYER-1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "84", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "85": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/NYC-2-186x186.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "85", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/11/RBSS-FIXTAPE-41-BASECAMP-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "7": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/09/FIXTAPE-VOL.39-Toyboy-Robbin-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "7", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "39": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/03/Sole.City-90-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "39", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "38": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/03/Fixtape-Vol.-24-Chrome-Sparks-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "38", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "33": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/04/Sole-x-Zanerobe-x-The-Jaunt-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "33", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "32": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/05/Alex-Mijares-Insta-2-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "32", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "31": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/06/Fixtape-Vol.26-TENSNAKE-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "31", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "30": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/07/Zanerobe-X-Sole-V-Lounge-INSTA-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "30", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "37": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/04/brian-on-bike-copy-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "37", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "36": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/04/artworks-000075966072-fov9f3-t500x500-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "36", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "35": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/04/Knocks-AboveTheBars-1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "35", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "34": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/04/Aeroplane-Bike-Collab-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "34", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "60": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/11/Beats-Collab-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "60", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "61": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/09/1185914_581577145231902_1709097158_n-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "61", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "62": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/08/FIXTAPE-VOL.16-TWELVES-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "62", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "63": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/10/party-3-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "63", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "64": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/08/SUMMER-CYCLE-iNSTAGRAM-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "64", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "65": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/08/Brian_Johnson_Insta_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "65", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "66": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/08/artworks-000053789141-qjea8a-t500x500-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "66", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "67": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/08/SOLE_S_S-1_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "67", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "68": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/12/Zico-Collab-1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "68", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "69": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/07/zimmer_album_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "69", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "6": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/10/038A1165-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "6", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "91": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/fixtape_vol3_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "91", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "90": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/12/Ezekiel-Collab-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "90", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "93": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/07/bagraiders-flyer-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "93", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "92": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/FIX-TAPE-2-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "92", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "94": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/FIX-TAPE-1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "94", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "11": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/07/Fixtape-37-Louis-the-Child-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "11", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "10": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-19-at-9.53.55-AM-186x186.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "10", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "13": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/06/soleCAroadtrip-1171-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "13", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "12": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/06/ART-CRAWL-6.18-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "12", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "15": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/05/Rag-+-Bone-Collab-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "15", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "14": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/06/Fixtape-Vol.-36-Dr.-Fresch-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "14", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "17": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/04/Fixtape-34-Bit-Funk-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "17", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "16": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/04/Fixtape-Vol.35-Mysterylant-+-Nora-En-Pure-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "16", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "19": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/03/Fixtape-Vol.-33-Satin-Jackets-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "19", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "18": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/03/art-crawl-square-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "18", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "48": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-05-at-11.29.02-AM-186x186.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "48", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "49": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/12/ML-6-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "49", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "46": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/12/1312_MENS_SKINNY_EVENT_INVITE_03_SOCIAL1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "46", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "47": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-05-at-11.40.48-AM-186x186.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "47", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "44": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/12/Snowglobe-collab-1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "44", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "45": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/12/Fixtape-Vol.21-Dirtybird-Players-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "45", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "42": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/01/Miami-Horror-Fixtape-Vol.-22-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "42", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "43": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/01/BEN-FOCUS-FB-INSTA-GRAPHIC-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "43", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "40": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/03/Jammy-Art-Bike-Square-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "40", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "41": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2014/02/Fixtape-Vol.-23-GRAFF-v2-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "41", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "1": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/11/Fixtape-42-The-River-Tiber-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "5": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/10/Fixtape-Vol.-40-RBSS-Flavr-Blue-1-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "5", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "9": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2015/08/BICYCLE-SAFARI-3-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "9", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "77": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/FIXTAPE-10-PLASTIC_PLATES-1_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "77", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "76": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/FIXTAPE-VOL.11-CLASSIXX-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "76", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "75": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/05/sole-artist-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "75", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "74": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/Fixtape-12-Cassian-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "74", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "73": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/Fixtape-Vol.-13-Touch-Sensitive-Soundcload-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "73", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "72": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/08/V-Lounge-6.15-Insta-Flyer-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "72", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "71": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/08/Mike_Parillo_-_Full_Bike_grande-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "71", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "70": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/10/V-lounge-1-186x186.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "70", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "79": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/Jeff-Weins-186x186.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "79", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "78": {
+        "src": "http://www.solebicycles.com/wp-content/uploads/2013/06/fixtape_le_youth_artwork_grande-186x186.jpeg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "78", 
+        "item_id": "427060249", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
     "has_video": "0", 
-    "word_count": "0", 
-    "given_title": "Lifestyle | Sol\u00e9 Bicycles - Single Speed & Fixed Gear Bikes", 
-    "resolved_url": "http://www.solebicycles.com/lifestyle/#/fixtape/sole-fixtape-vol-16", 
-    "is_article": "0", 
-    "item_id": "427060249", 
     "time_added": "1410363450", 
-    "resolved_id": "427060249", 
-    "given_url": "http://www.solebicycles.com/lifestyle/#/fixtape/sole-fixtape-vol-16", 
-    "resolved_title": "", 
+    "status": "0", 
     "tags": {
       "music": {
         "item_id": "427060249", 
         "tag": "music"
       }
-    }
+    }, 
+    "sort_id": 1312, 
+    "resolved_url": "http://www.solebicycles.com/lifestyle/#/fixtape/sole-fixtape-vol-16", 
+    "item_id": "427060249", 
+    "resolved_id": "427060249", 
+    "given_url": "http://www.solebicycles.com/lifestyle/#/fixtape/sole-fixtape-vol-16", 
+    "resolved_title": "Lifestyle", 
+    "is_index": "1", 
+    "time_updated": "1410363460", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Lifestyle | Sol\u00e9 Bicycles - Single Speed & Fixed Gear Bikes", 
+    "has_image": "1"
   }, 
   {
     "status": "0", 
