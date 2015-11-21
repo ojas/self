@@ -1669,7 +1669,7 @@
       }
     }, 
     "given_title": "Apache Kafka", 
-    "resolved_url": "http://kafka.apache.org/documentation.html#design", 
+    "resolved_url": "http://kafka.apache.org/documentation.html", 
     "is_article": "1", 
     "item_id": "418064385", 
     "time_added": "1394727555", 
@@ -23124,48 +23124,21 @@
     "is_article": "1", 
     "image": {
       "item_id": "934215665", 
-      "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
+      "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/04/fulfillingwork.jpg?w=190", 
       "height": "0", 
-      "width": "200"
+      "width": "0"
     }, 
     "excerpt": "\u201cIf one wanted to crush and destroy a man entirely, to mete out to him the most terrible punishment,\u201d wrote Dostoevsky, \u201call one would have to do would be to make him do work that was completely and utterly devoid of usefulness and meaning.", 
     "word_count": "2300", 
     "images": {
-      "11": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2012/10/holsteemanifesto.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "11", 
-        "item_id": "934215665", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "10": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/wendycamus.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "10", 
-        "item_id": "934215665", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "12": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "12", 
-        "item_id": "934215665", 
-        "caption": "", 
-        "width": "200"
-      }, 
       "1": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/04/fulfillingwork.jpg?w=190", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "934215665", 
         "caption": "", 
-        "width": "200"
+        "width": "0"
       }, 
       "3": {
         "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2012/02/vitruvianman.jpg?w=480", 
@@ -23177,22 +23150,13 @@
         "width": "0"
       }, 
       "2": {
-        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/04/fulfillingwork.jpg?w=190", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2012/06/boredom1.jpg?w=480", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "934215665", 
         "caption": "\u2018Never have so many people felt so unfulfilled in their career roles, and been so unsure what to do about it.\u2019", 
         "width": "0"
-      }, 
-      "5": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "934215665", 
-        "caption": "", 
-        "width": "200"
       }, 
       "4": {
         "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2013/04/mariecurie.jpg?w=480", 
@@ -23202,42 +23166,6 @@
         "item_id": "934215665", 
         "caption": "Marie Curie didn\u2019t find her vocation. She grew it.", 
         "width": "0"
-      }, 
-      "7": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "934215665", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "6": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2012/12/anais_debbie1.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "934215665", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "9": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2012/11/sontagart.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "9", 
-        "item_id": "934215665", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "8": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2014/02/sontaglove_unlimited.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "934215665", 
-        "caption": "", 
-        "width": "200"
       }
     }, 
     "has_video": "0", 
@@ -24026,7 +23954,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "454062107", 
-      "src": "http://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/10/7/1381162025738/Joe-and-Pip-in-2012s-film-010.jpg?w=300&q=85&auto=format&sharp=10&s=04b2d0d703d96a7dbcda1941d6988565", 
+      "src": "https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/10/7/1381162025738/Joe-and-Pip-in-2012s-film-010.jpg?w=300&q=85&auto=format&sharp=10&s=04b2d0d703d96a7dbcda1941d6988565", 
       "height": "0", 
       "width": "0"
     }, 
@@ -24034,7 +23962,7 @@
     "word_count": "702", 
     "images": {
       "1": {
-        "src": "http://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/10/7/1381162025738/Joe-and-Pip-in-2012s-film-010.jpg?w=300&q=85&auto=format&sharp=10&s=04b2d0d703d96a7dbcda1941d6988565", 
+        "src": "https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/10/7/1381162025738/Joe-and-Pip-in-2012s-film-010.jpg?w=300&q=85&auto=format&sharp=10&s=04b2d0d703d96a7dbcda1941d6988565", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -108468,7 +108396,7 @@
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "2352", 
+    "word_count": "2376", 
     "images": {
       "1": {
         "src": "http://casual-effects.com/markdeep/tentacles.png", 
