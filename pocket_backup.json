@@ -91587,7 +91587,7 @@
   }, 
   {
     "status": "1", 
-    "is_index": "1", 
+    "is_index": "0", 
     "sort_id": 44, 
     "time_updated": "1348063457", 
     "time_favorited": "0", 
@@ -115293,42 +115293,24 @@
     "is_article": "1", 
     "image": {
       "item_id": "864568046", 
-      "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
+      "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2014/10/diaryofsorenkierkegaard.jpg?w=185", 
       "height": "0", 
-      "width": "200"
+      "width": "0"
     }, 
     "excerpt": "A century earlier, the great Danish writer and thinker S\u00f8ren Kierkegaard, celebrated as the first true existentialist philosopher and an active proponent of the benefits of keeping a diary, contemplated this eternal tension between the individual and the crowd.", 
     "word_count": "1367", 
     "images": {
-      "11": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "11", 
-        "item_id": "864568046", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "10": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2012/10/holsteemanifesto.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "10", 
-        "item_id": "864568046", 
-        "caption": "", 
-        "width": "200"
-      }, 
       "1": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2014/10/diaryofsorenkierkegaard.jpg?w=185", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "864568046", 
         "caption": "", 
-        "width": "200"
+        "width": "0"
       }, 
       "3": {
-        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/06/kierkegaard_stamp.jpg?w=500", 
+        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2013/09/howtobeanonconformist4.jpg?w=480", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -115337,67 +115319,22 @@
         "width": "0"
       }, 
       "2": {
-        "src": "https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2014/10/diaryofsorenkierkegaard.jpg?w=185", 
+        "src": "https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2013/06/kierkegaard_stamp.jpg?w=500", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "864568046", 
-        "caption": "Photographs from \u2018Exactitudes,\u2019 a global project highlighting the implicit conformity of subcultures. Click image for more.", 
+        "caption": "", 
         "width": "0"
       }, 
-      "5": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2012/12/anais_debbie1.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "864568046", 
-        "caption": "", 
-        "width": "200"
-      }, 
       "4": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/holstee_7things.jpg", 
+        "src": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2009/04/exactitudes1.png?w=480", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
         "item_id": "864568046", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "7": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2014/02/sontaglove_unlimited.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "864568046", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "6": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "864568046", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "9": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2014/06/wendycamus.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "9", 
-        "item_id": "864568046", 
-        "caption": "", 
-        "width": "200"
-      }, 
-      "8": {
-        "src": "https://www.brainpickings.org/wp-content/uploads/2012/11/sontagart.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "864568046", 
-        "caption": "", 
-        "width": "200"
+        "caption": "Photographs from \u2018Exactitudes,\u2019 a global project highlighting the implicit conformity of subcultures. Click image for more.", 
+        "width": "0"
       }
     }, 
     "has_video": "0", 
