@@ -79622,24 +79622,24 @@
     "is_article": "1", 
     "image": {
       "item_id": "10281748", 
-      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/1986ChryslerLeBaronTownCountryStationWagon.jpg/250px-1986ChryslerLeBaronTownCountryStationWagon.jpg", 
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/1986ChryslerLeBaronTownCountryStationWagon.jpg/250px-1986ChryslerLeBaronTownCountryStationWagon.jpg", 
       "height": "188", 
       "width": "250"
     }, 
     "excerpt": "The term 'skeuomorph' is compounded from the Greek: sk\u00e9uos, \u03c3\u03ba\u03b5\u1fe6\u03bf\u03c2 (container or tool), and morph\u1e17, \u03bc\u03bf\u03c1\u03c6\u03ae (shape). It has been applied to material objects since 1890[4] and is now also used to describe computer and mobile interfaces.[5]", 
-    "word_count": "1252", 
+    "word_count": "1053", 
     "images": {
       "1": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/1986ChryslerLeBaronTownCountryStationWagon.jpg/250px-1986ChryslerLeBaronTownCountryStationWagon.jpg", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/1986ChryslerLeBaronTownCountryStationWagon.jpg/250px-1986ChryslerLeBaronTownCountryStationWagon.jpg", 
         "credit": "", 
         "height": "188", 
         "image_id": "1", 
         "item_id": "10281748", 
-        "caption": "\n\nSimulated woodgrain on automobiles, such as on this woodie-style station wagon, is a skeuomorph, as no actual wood is used.", 
+        "caption": "\n\nSimulated woodgrain on automobiles, such as on this woodie-style station wagon, is a skeuomorph, as the woodgrain is not part of the chassis structure.", 
         "width": "250"
       }, 
       "3": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aeg_peter-behrens03.jpg/120px-Aeg_peter-behrens03.jpg", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aeg_peter-behrens03.jpg/120px-Aeg_peter-behrens03.jpg", 
         "credit": "", 
         "height": "120", 
         "image_id": "3", 
@@ -79648,7 +79648,7 @@
         "width": "120"
       }, 
       "2": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Redstair_GEARcompressor.png/220px-Redstair_GEARcompressor.png", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Redstair_GEARcompressor.png/220px-Redstair_GEARcompressor.png", 
         "credit": "", 
         "height": "121", 
         "image_id": "2", 
@@ -79657,7 +79657,7 @@
         "width": "220"
       }, 
       "5": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skeuomorphism_-_Loopr_Live_Loop_Composer.png/80px-Skeuomorphism_-_Loopr_Live_Loop_Composer.png", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skeuomorphism_-_Loopr_Live_Loop_Composer.png/80px-Skeuomorphism_-_Loopr_Live_Loop_Composer.png", 
         "credit": "", 
         "height": "120", 
         "image_id": "5", 
@@ -79666,7 +79666,7 @@
         "width": "80"
       }, 
       "4": {
-        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chrysler_Town_%26_Country_Convertible_%28Centropolis_Laval_%2710%29.jpg/120px-Chrysler_Town_%26_Country_Convertible_%28Centropolis_Laval_%2710%29.jpg", 
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chrysler_Town_%26_Country_Convertible_%28Centropolis_Laval_%2710%29.jpg/120px-Chrysler_Town_%26_Country_Convertible_%28Centropolis_Laval_%2710%29.jpg", 
         "credit": "", 
         "height": "55", 
         "image_id": "4", 
@@ -79675,7 +79675,7 @@
         "width": "120"
       }, 
       "6": {
-        "src": "http://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Digital_safe.jpg/120px-Digital_safe.jpg", 
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Digital_safe.jpg/120px-Digital_safe.jpg", 
         "credit": "", 
         "height": "90", 
         "image_id": "6", 
@@ -79688,7 +79688,7 @@
     "time_added": "1351602343", 
     "status": "0", 
     "sort_id": 140, 
-    "resolved_url": "http://en.wikipedia.org/wiki/Skeuomorph", 
+    "resolved_url": "https://en.wikipedia.org/wiki/Skeuomorph#Definition_and_purpose", 
     "authors": {
       "7331684": {
         "item_id": "10281748", 
