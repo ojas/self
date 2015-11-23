@@ -113280,7 +113280,7 @@
     "time_added": "1368210295", 
     "status": "0", 
     "sort_id": 449, 
-    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/", 
+    "resolved_url": "http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/?", 
     "authors": {
       "2476517": {
         "item_id": "353401383", 
@@ -116394,55 +116394,11 @@
     "time_updated": "1430691722", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Given a set of cities and the distances between each pair of cities, what is the shortest possible tour that visits each city exactly once, and returns to the starting city?", 
-    "image": {
-      "item_id": "914058387", 
-      "src": "http://norvig.com/ipython/best-road-trip-major-landmarks.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "has_image": "1", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "14039", 
-    "images": {
-      "1": {
-        "src": "http://norvig.com/ipython/best-road-trip-major-landmarks.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "914058387", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://archive.computerhistory.org/resources/still-image/IBM/IBM_People/IBM.3_mathematicians_Held_Shareshian_Karp.ca1964.102650390.lg.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "914058387", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://graphics8.nytimes.com/images/2007/01/13/us/13kruskal.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "914058387", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://imgs.xkcd.com/comics/travelling_salesman_problem.png", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "914058387", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
+    "word_count": "0", 
     "given_title": "Dan Nguyen: This epic iPython notebook is one of the best lessons I've read", 
     "resolved_url": "http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb", 
     "is_article": "0", 
@@ -116450,7 +116406,7 @@
     "time_added": "1430691722", 
     "resolved_id": "439182023", 
     "given_url": "http://t.co/giQJLztWz6", 
-    "resolved_title": "Jupyter Notebook Viewer"
+    "resolved_title": ""
   }, 
   {
     "status": "0", 
