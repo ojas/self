@@ -86548,15 +86548,15 @@
     "is_article": "1", 
     "image": {
       "item_id": "398052507", 
-      "src": "https://camo.githubusercontent.com/9e9260ea69b3059a3d8cb511e50b0962a6df1a6e/68747470733a2f2f7261772e6769746875622e636f6d2f6d616d652f7175696e652d72656c61792f6d61737465722f6c616e67732e706e67", 
+      "src": "https://github.com/mame/quine-relay/blob/master/langs.png", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "This is a Ruby program that generates Scala program that generates Scheme program that generates ...(through 100 languages in total)... REXX program that generates the original Ruby code again.  First, you have to type the following apt-get command to install all of them.", 
-    "word_count": "620", 
+    "excerpt": "This is a Ruby program that generates Scala program that generates Scheme program that generates ...(through 100 languages in total)... REXX program that generates the original Ruby code again.  If you are using Ubuntu 15.10 \"Wily Werewolf\", you can perform the following steps.", 
+    "word_count": "903", 
     "images": {
       "1": {
-        "src": "https://camo.githubusercontent.com/9e9260ea69b3059a3d8cb511e50b0962a6df1a6e/68747470733a2f2f7261772e6769746875622e636f6d2f6d616d652f7175696e652d72656c61792f6d61737465722f6c616e67732e706e67", 
+        "src": "https://github.com/mame/quine-relay/blob/master/langs.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -86576,14 +86576,6 @@
     }, 
     "sort_id": 644, 
     "resolved_url": "https://github.com/mame/quine-relay", 
-    "authors": {
-      "26414211": {
-        "item_id": "398052507", 
-        "url": "https://github.com/mame", 
-        "author_id": "26414211", 
-        "name": "mame"
-      }
-    }, 
     "item_id": "398052507", 
     "resolved_id": "397773988", 
     "given_url": "https://t.co/IoWtoGd6By", 
