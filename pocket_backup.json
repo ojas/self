@@ -61196,6 +61196,35 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2071, 
+    "time_updated": "1448334443", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "When Michael Valentine was in grade school he lived in the suburbs of Vandalia Ohio. He was overweight and very self-conscious. Being picked on in school didn\u2019t stop him from being independent and pursuing his hobbies such as playing the sousaphone and tinkering with ham radios.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2207", 
+    "authors": {
+      "22006650": {
+        "item_id": "986404214", 
+        "url": "http://www.rdforum.org/content/author/pwrpuma/", 
+        "author_id": "22006650", 
+        "name": "pwrpuma"
+      }
+    }, 
+    "given_title": "Radar Detector & Laser Jammer Forum \u00bb Michael Valentine \u2013 A True Entreprene", 
+    "resolved_url": "http://www.rdforum.org/content/michael-valentine-a-true-entrepreneur/", 
+    "is_article": "1", 
+    "item_id": "986404214", 
+    "time_added": "1448334443", 
+    "resolved_id": "986404214", 
+    "given_url": "https://www.rdforum.org/content/michael-valentine-a-true-entrepreneur/", 
+    "resolved_title": "Michael Valentine \u2013 A True Entrepreneur"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 1720, 
     "time_updated": "1429538993", 
