@@ -15100,7 +15100,7 @@
     "has_image": "0", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "3275", 
+    "word_count": "3161", 
     "authors": {
       "327280": {
         "item_id": "528571482", 
@@ -101952,7 +101952,7 @@
     "has_video": "0", 
     "word_count": "169", 
     "given_title": "interagent/http-api-design", 
-    "resolved_url": "https://github.com/interagent/http-api-design#contents", 
+    "resolved_url": "https://github.com/interagent/http-api-design", 
     "is_article": "1", 
     "item_id": "612772219", 
     "time_added": "1417024065", 
