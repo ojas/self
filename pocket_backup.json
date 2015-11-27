@@ -67334,6 +67334,71 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2083, 
+    "time_updated": "1448662516", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "'; if (google_ads[0].bidtype == 'CPC') { /* insert this snippet for each ad call */ google_adnum = google_adnum + google_ads.length; } document.", 
+    "image": {
+      "item_id": "1116978595", 
+      "src": "http://i.kinja-img.com/gawker-media/image/upload/s--78WS5KVu--/c_scale,fl_progressive,q_80,w_800/18imoiihrz0t8jpg.jpg", 
+      "height": "450", 
+      "width": "800"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "2732", 
+    "images": {
+      "1": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--78WS5KVu--/c_scale,fl_progressive,q_80,w_800/18imoiihrz0t8jpg.jpg", 
+        "credit": "", 
+        "height": "450", 
+        "image_id": "1", 
+        "item_id": "1116978595", 
+        "caption": "", 
+        "width": "800"
+      }, 
+      "3": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--22pV2G77--/c_scale,fl_progressive,q_80,w_800/18imkv50pkk35png.png", 
+        "credit": "", 
+        "height": "353", 
+        "image_id": "3", 
+        "item_id": "1116978595", 
+        "caption": "", 
+        "width": "800"
+      }, 
+      "2": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--nGuGlQZz--/c_scale,fl_progressive,q_80,w_800/18iml3iwghjcrpng.png", 
+        "credit": "", 
+        "height": "316", 
+        "image_id": "2", 
+        "item_id": "1116978595", 
+        "caption": "", 
+        "width": "800"
+      }, 
+      "4": {
+        "src": "http://i.kinja-img.com/gawker-media/image/upload/s--yU-GxU6P--/c_scale,fl_progressive,q_80,w_800/18iml9vs07mf6png.png", 
+        "credit": "", 
+        "height": "425", 
+        "image_id": "4", 
+        "item_id": "1116978595", 
+        "caption": "", 
+        "width": "800"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "https://jalopnik.com/this-is-the-religious-extremist-scam-artist-and-accuse-458784578?utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow#_ga=1.255602688.901381851.1379512541", 
+    "is_article": "1", 
+    "item_id": "1116978595", 
+    "time_added": "1448662515", 
+    "resolved_id": "1116978595", 
+    "given_url": "https://jalopnik.com/this-is-the-religious-extremist-scam-artist-and-accuse-458784578?utm_campaign=socialflow_jalopnik_twitter&utm_source=jalopnik_twitter&utm_medium=socialflow#_ga=1.255602688.901381851.1379512541", 
+    "resolved_title": "This Is The Religious Extremist, Scam Artist And Accused Pedophile Behind Super Replicas"
+  }, 
+  {
     "is_article": "1", 
     "image": {
       "item_id": "133055359", 
