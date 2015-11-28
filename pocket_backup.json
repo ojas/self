@@ -27810,6 +27810,81 @@
     "resolved_title": "Shop : Cuvee CoffeeCuvee Coffee"
   }, 
   {
+    "videos": {
+      "1": {
+        "src": "//www.youtube.com/embed/cGuy2DOZEcY?list=PL5b0hZQBbi3bAuJDkWIqPs-kcqOCddI9-", 
+        "vid": "cGuy2DOZEcY", 
+        "video_id": "1", 
+        "height": "394", 
+        "width": "700", 
+        "item_id": "304474633", 
+        "type": "1"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "304474633", 
+      "src": "http://media.treehugger.com/assets/images/2013/02/walipini-2.jpg.662x0_q70_crop-scale.jpg", 
+      "height": "0", 
+      "width": "662"
+    }, 
+    "excerpt": "Growers in colder climates often utilize various approaches to extend the growing season or to give their crops a boost, whether it's coldframes, hoop houses or greenhouses.  Greenhouses are usually glazed structures, but are typically expensive to construct and heat throughout the winter.", 
+    "word_count": "464", 
+    "images": {
+      "1": {
+        "src": "http://media.treehugger.com/assets/images/2013/02/walipini-2.jpg.662x0_q70_crop-scale.jpg", 
+        "credit": "\u00a9 Neo-farms", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "304474633", 
+        "caption": "", 
+        "width": "662"
+      }, 
+      "3": {
+        "src": "http://media.treehugger.com/assets/images/2013/02/walipini.jpeg.650x0_q70_crop-smart.jpg", 
+        "credit": "SilverThunder/via", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "304474633", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://media.treehugger.com/assets/images/2013/02/walipini3.jpg.650x0_q70_crop-smart.jpg", 
+        "credit": "\u00a9 Benson Institute", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "304474633", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1448729324", 
+    "status": "0", 
+    "sort_id": 2085, 
+    "resolved_url": "http://www.treehugger.com/green-architecture/build-underground-greenhouse-garden-year-round.html", 
+    "authors": {
+      "2598508": {
+        "item_id": "304474633", 
+        "url": "http://www.treehugger.com/author/kimberley-mok/", 
+        "author_id": "2598508", 
+        "name": "Kimberley Mok"
+      }
+    }, 
+    "item_id": "304474633", 
+    "resolved_id": "304474633", 
+    "given_url": "http://www.treehugger.com/green-architecture/build-underground-greenhouse-garden-year-round.html", 
+    "resolved_title": "Build a $300 underground greenhouse for year-round gardening (Video)", 
+    "is_index": "0", 
+    "time_updated": "1448729324", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Build a $300 underground greenhouse for year-round gardening (Video) : Tree", 
+    "has_image": "1"
+  }, 
+  {
     "status": "0", 
     "is_index": "0", 
     "sort_id": 569, 
