@@ -113958,6 +113958,53 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 2084, 
+    "time_updated": "1448679624", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "{\"targetDiv\":\"gpt-ad-d20f1965-0045-48ca-ae35-b59d4d664202\",\"slot\":\"zillow/property_details/buy_agent/t_nhood_p1\",\"network\":\"7449\",\"sizes\":\"[560,25]\",\"targets\":{\"aamgnrc1\":\"1204 Maple Ave\",\"aamgnrc4\":\"78702 Chestnut Austin Travis TXTexas\",\"bd\":\"0\",\"aamgnrc3\":\"TX\",\"fsbid\":\"13404\",\"city\":\"Aust", 
+    "image": {
+      "item_id": "1117141662", 
+      "src": "http://photos2.zillowstatic.com/p_h/IS5i5ilv4njgum1000000000.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "120", 
+    "images": {
+      "1": {
+        "src": "http://photos2.zillowstatic.com/p_h/IS5i5ilv4njgum1000000000.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1117141662", 
+        "caption": "View larger", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "http://photos3.zillowstatic.com/p_h/ISlaifjw4lyiim1000000000.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1117141662", 
+        "caption": "View larger", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "1204 Maple Ave, Austin, TX 78702 - Zillow", 
+    "resolved_url": "http://www.zillow.com/homes/for_sale/land_type/2104899546_zpid/pricea_sort/30.282733,-97.696373,30.256343,-97.741435_rect/14_zm/0_mmm/", 
+    "is_article": "1", 
+    "item_id": "1117141662", 
+    "time_added": "1448679621", 
+    "resolved_id": "1117141662", 
+    "given_url": "http://www.zillow.com/homes/for_sale/land_type/2104899546_zpid/pricea_sort/30.282733,-97.696373,30.256343,-97.741435_rect/14_zm/0_mmm/", 
+    "resolved_title": "1204 Maple Ave, Austin, TX 78702"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 925, 
     "time_updated": "1389891375", 
     "time_favorited": "0", 
