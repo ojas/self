@@ -12354,15 +12354,15 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
+    "is_article": "0", 
     "image": {
       "item_id": "9458425", 
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Droste.jpg/220px-Droste.jpg", 
       "height": "337", 
       "width": "220"
     }, 
-    "excerpt": "The Droste effect \u2014 known as mise en abyme in art \u2014 is the effect of a picture appearing within itself, in a place where a similar picture would realistically be expected to appear.[1] The appearance is recursive: the smaller version contains an even smaller version of the picture, and so on.", 
-    "word_count": "696", 
+    "excerpt": "", 
+    "word_count": "0", 
     "images": {
       "1": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Droste.jpg/220px-Droste.jpg", 
@@ -12396,7 +12396,7 @@
     "time_added": "1438781915", 
     "status": "0", 
     "sort_id": 1890, 
-    "resolved_url": "http://en.wikipedia.org/wiki/Droste_effect", 
+    "resolved_url": "https://en.wikipedia.org/wiki/Droste_effect", 
     "authors": {
       "7331684": {
         "item_id": "9458425", 
@@ -12408,14 +12408,14 @@
     "item_id": "9458425", 
     "resolved_id": "9458425", 
     "given_url": "https://en.wikipedia.org/wiki/Droste_effect", 
-    "resolved_title": "Droste effect", 
+    "resolved_title": "Redirecting", 
     "is_index": "0", 
     "time_updated": "1438781915", 
     "time_favorited": "0", 
     "time_read": "0", 
     "favorite": "0", 
     "given_title": "Droste effect - Wikipedia, the free encyclopedia", 
-    "has_image": "1"
+    "has_image": "0"
   }, 
   {
     "status": "0", 
