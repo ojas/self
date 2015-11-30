@@ -43422,6 +43422,27 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 2086, 
+    "time_updated": "1448858337", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "This is on my mind because someone asked about it in IRC yesterday and I was surprised at how coherently I was able to explain it on the spur of the moment. There are several versions of this paradox. My favorite version goes like this: you're going to play a game with an adversary.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "1375", 
+    "given_title": "The Universe of Discourse : The envelope paradox", 
+    "resolved_url": "http://blog.plover.com/math/envelope.html", 
+    "is_article": "1", 
+    "item_id": "507458495", 
+    "time_added": "1448858337", 
+    "resolved_id": "507458495", 
+    "given_url": "http://blog.plover.com/math/envelope.html", 
+    "resolved_title": "The envelope paradox"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 743, 
     "time_updated": "1380773724", 
     "time_favorited": "0", 
@@ -115460,6 +115481,153 @@
     "time_read": "1412367417", 
     "favorite": "0", 
     "given_title": "I have 46 Thanksgiving dinners left with my family. After that, I\u2019ll be dea", 
+    "has_image": "1"
+  }, 
+  {
+    "videos": {
+      "1": {
+        "src": "/media/bcf22417c8536b132e863f73eff2ec4e?maxWidth=700", 
+        "vid": "", 
+        "video_id": "1", 
+        "height": "250", 
+        "width": "700", 
+        "item_id": "1117030626", 
+        "type": "7"
+      }, 
+      "3": {
+        "src": "/media/590abb142d92a45b393d2fbe2fd959ab?maxWidth=700", 
+        "vid": "", 
+        "video_id": "3", 
+        "height": "393", 
+        "width": "700", 
+        "item_id": "1117030626", 
+        "type": "7"
+      }, 
+      "2": {
+        "src": "/media/e41c924519a007cbb7756b3566080467?maxWidth=700", 
+        "vid": "", 
+        "video_id": "2", 
+        "height": "393", 
+        "width": "700", 
+        "item_id": "1117030626", 
+        "type": "7"
+      }, 
+      "5": {
+        "src": "/media/b68dc5f127eb52fa5513278e13ff76d0?maxWidth=640", 
+        "vid": "", 
+        "video_id": "5", 
+        "height": "480", 
+        "width": "640", 
+        "item_id": "1117030626", 
+        "type": "7"
+      }, 
+      "4": {
+        "src": "/media/96f9a22db9762e8dd83dbd91409e0fcc?maxWidth=700", 
+        "vid": "", 
+        "video_id": "4", 
+        "height": "393", 
+        "width": "700", 
+        "item_id": "1117030626", 
+        "type": "7"
+      }, 
+      "7": {
+        "src": "/media/0b69dbc5580b35bd73912d057eadc688?maxWidth=640", 
+        "vid": "", 
+        "video_id": "7", 
+        "height": "480", 
+        "width": "640", 
+        "item_id": "1117030626", 
+        "type": "7"
+      }, 
+      "6": {
+        "src": "/media/1482ef6cea34cc9a20ce0f98345b2ffe?maxWidth=700", 
+        "vid": "", 
+        "video_id": "6", 
+        "height": "393", 
+        "width": "700", 
+        "item_id": "1117030626", 
+        "type": "7"
+      }, 
+      "9": {
+        "src": "/media/7b2c203f1d3933690dde31a814265781?maxWidth=700", 
+        "vid": "", 
+        "video_id": "9", 
+        "height": "393", 
+        "width": "700", 
+        "item_id": "1117030626", 
+        "type": "7"
+      }, 
+      "8": {
+        "src": "/media/13b373517ecb49243036ffefb9c20f7f?maxWidth=700", 
+        "vid": "", 
+        "video_id": "8", 
+        "height": "393", 
+        "width": "700", 
+        "item_id": "1117030626", 
+        "type": "7"
+      }
+    }, 
+    "is_article": "1", 
+    "image": {
+      "item_id": "1117030626", 
+      "src": "https://cdn-images-1.medium.com/max/2000/1*Bt3zWqi9MBUJll193KeOXA.jpeg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "excerpt": "When I got into JavaScript, there was only one browser that mattered: NetScape. It dominated completely until Microsoft started shipping IE with the OS. In those days, the argument that JavaScript\u2019s developer tools were weak was actually true.", 
+    "word_count": "2211", 
+    "images": {
+      "1": {
+        "src": "https://cdn-images-1.medium.com/max/2000/1*Bt3zWqi9MBUJll193KeOXA.jpeg", 
+        "credit": "CC BY 2.0", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1117030626", 
+        "caption": "Tools\u200a\u2014\u200aJosep Ma. Rosell", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://cdn-images-1.medium.com/max/1600/1*BTRxlHu8WuCF4Iep4R44lA.gif", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1117030626", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://cdn-images-1.medium.com/max/1600/1*lAp8ZAk5uNFTuxjhx4GTdw.gif", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1117030626", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "has_video": "1", 
+    "time_added": "1448858586", 
+    "status": "0", 
+    "sort_id": 2087, 
+    "resolved_url": "https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925", 
+    "authors": {
+      "22686262": {
+        "item_id": "1117030626", 
+        "url": "https://medium.com/@_ericelliott", 
+        "author_id": "22686262", 
+        "name": "Eric Elliott"
+      }
+    }, 
+    "item_id": "1117030626", 
+    "resolved_id": "1117030626", 
+    "given_url": "https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.rqufi1oif", 
+    "resolved_title": "Must See JavaScript Dev Tools That Put Other Dev Tools to Shame \u2014 JavaScript Scene \u2014 Medium", 
+    "is_index": "0", 
+    "time_updated": "1448858586", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "Must See JavaScript Dev Tools That Put Other Dev Tools to Shame \u2014 JavaScrip", 
     "has_image": "1"
   }, 
   {
