@@ -57142,7 +57142,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "780164461", 
-      "src": "https://cdn-images-1.medium.com/max/2000/1*VZWtxfF46wdn_zZC5MXtOQ.jpeg", 
+      "src": "https://cdn-images-2.medium.com/max/2000/1*VZWtxfF46wdn_zZC5MXtOQ.jpeg", 
       "height": "0", 
       "width": "0"
     }, 
@@ -57150,7 +57150,7 @@
     "word_count": "992", 
     "images": {
       "1": {
-        "src": "https://cdn-images-1.medium.com/max/2000/1*VZWtxfF46wdn_zZC5MXtOQ.jpeg", 
+        "src": "https://cdn-images-2.medium.com/max/2000/1*VZWtxfF46wdn_zZC5MXtOQ.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
@@ -57159,7 +57159,7 @@
         "width": "0"
       }, 
       "3": {
-        "src": "https://cdn-images-1.medium.com/max/2000/1*wnmYjQ02i5Lu5Va83N9gVw.jpeg", 
+        "src": "https://cdn-images-2.medium.com/max/2000/1*wnmYjQ02i5Lu5Va83N9gVw.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "3", 
@@ -57168,7 +57168,7 @@
         "width": "0"
       }, 
       "2": {
-        "src": "https://cdn-images-1.medium.com/max/1600/1*GGzZc4sH8SkfnUsIKzojHw@2x.png", 
+        "src": "https://cdn-images-2.medium.com/max/1600/1*GGzZc4sH8SkfnUsIKzojHw@2x.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "2", 
@@ -57177,7 +57177,7 @@
         "width": "0"
       }, 
       "5": {
-        "src": "https://cdn-images-1.medium.com/max/2000/1*69mRQ6VCBF_UdvUMBa7DNg.jpeg", 
+        "src": "https://cdn-images-2.medium.com/max/2000/1*69mRQ6VCBF_UdvUMBa7DNg.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "5", 
@@ -57186,7 +57186,7 @@
         "width": "0"
       }, 
       "4": {
-        "src": "https://cdn-images-1.medium.com/max/2000/1*T315c5rh1N7CosbGtyFw8Q.jpeg", 
+        "src": "https://cdn-images-2.medium.com/max/2000/1*T315c5rh1N7CosbGtyFw8Q.jpeg", 
         "credit": "", 
         "height": "0", 
         "image_id": "4", 
@@ -57195,7 +57195,7 @@
         "width": "0"
       }, 
       "7": {
-        "src": "https://cdn-images-1.medium.com/max/1600/1*hpLuDJ6U3HB9S1zTZQ4Bdw@2x.png", 
+        "src": "https://cdn-images-2.medium.com/max/1600/1*hpLuDJ6U3HB9S1zTZQ4Bdw@2x.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "7", 
@@ -57204,7 +57204,7 @@
         "width": "0"
       }, 
       "6": {
-        "src": "https://cdn-images-1.medium.com/max/1600/1*1bozaEVkxIlM8sAM8miSUw@2x.png", 
+        "src": "https://cdn-images-2.medium.com/max/1600/1*1bozaEVkxIlM8sAM8miSUw@2x.png", 
         "credit": "", 
         "height": "0", 
         "image_id": "6", 
@@ -64201,7 +64201,7 @@
       "width": "640"
     }, 
     "excerpt": "October is typically the time of year when people break out the popcorn and settle in for a few scary movies\u2014ones usually involving a scream queen and a bloodthirsty killer on the loose. But the more frightening movie genre is one that hardly gets any play around Halloween: documentaries.", 
-    "word_count": "1825", 
+    "word_count": "1828", 
     "images": {
       "1": {
         "src": "http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/grizzly.jpg", 
@@ -64225,11 +64225,11 @@
     "sort_id": 2022, 
     "resolved_url": "http://mentalfloss.com/article/69723/10-haunting-documentaries-are-stranger-fiction", 
     "authors": {
-      "217107": {
+      "40262704": {
         "item_id": "1068664471", 
-        "url": "", 
-        "author_id": "217107", 
-        "name": "Their Own Inventions"
+        "url": "http://mentalfloss.com/authors/sarah-watts", 
+        "author_id": "40262704", 
+        "name": "Sarah Watts"
       }
     }, 
     "item_id": "1068664471", 
