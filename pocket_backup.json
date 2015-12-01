@@ -61459,6 +61459,27 @@
     "resolved_title": "Automating automated testing \u2014 Medium"
   }, 
   {
+    "status": "0", 
+    "is_index": "1", 
+    "sort_id": 2091, 
+    "time_updated": "1449000243", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "SIMPLE MONTHLY CALCULATOR Need Help? Watch the Videos or Read 'How AWS Pricing Works' Whitepaper We are currently Beta testing the AWS Simple Monthly Calculator. This Calculator provides an estimate of usage charges for AWS services based on certain information you provide.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "89", 
+    "given_title": "Amazon Web Services Simple Monthly Calculator", 
+    "resolved_url": "http://calculator.s3.amazonaws.com/index.html", 
+    "is_article": "0", 
+    "item_id": "546714139", 
+    "time_added": "1449000243", 
+    "resolved_id": "546714139", 
+    "given_url": "http://calculator.s3.amazonaws.com/index.html#r=IAD&s=EC2&key=calc-F830681D-685E-4D7E-8440-4DCEE32E9902", 
+    "resolved_title": "Amazon Web Services Simple Monthly Calculator"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/nEldNmBgIF0", 
