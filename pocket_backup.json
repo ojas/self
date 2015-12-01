@@ -52896,6 +52896,62 @@
     "has_image": "1"
   }, 
   {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2089, 
+    "time_updated": "1448952786", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "In this tutorial we\u2019ll be using py2app to create a standalone OSX application from a Python 2 or 3 source code with a simple Tkinter user interface.  This guide is loosely based on the official tutorial. Based on a Python file called Sandwich.py, we\u2019ll create an application called Sandwich.app.", 
+    "image": {
+      "item_id": "1117107661", 
+      "src": "https://www.metachris.com/images/posts/py2app/app_finder.png", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "793", 
+    "images": {
+      "1": {
+        "src": "https://www.metachris.com/images/posts/py2app/app_finder.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1117107661", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "https://www.metachris.com/images/posts/py2app/get_info.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "1117107661", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "2": {
+        "src": "https://www.metachris.com/images/posts/py2app/app_screen.png", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "2", 
+        "item_id": "1117107661", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "Creating standalone Mac OS X applications with Python and py2app | Chris Ha", 
+    "resolved_url": "https://www.metachris.com/2015/11/create-standalone-mac-os-x-applications-with-python-and-py2app/", 
+    "is_article": "1", 
+    "item_id": "1117107661", 
+    "time_added": "1448952786", 
+    "resolved_id": "1117107661", 
+    "given_url": "https://www.metachris.com/2015/11/create-standalone-mac-os-x-applications-with-python-and-py2app/", 
+    "resolved_title": "Creating standalone Mac OS X applications with Python and py2app"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/embed/9vRUxbzJZ9Y?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0", 
