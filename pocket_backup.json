@@ -94600,50 +94600,25 @@
     "has_image": "1"
   }, 
   {
-    "is_article": "1", 
-    "image": {
-      "item_id": "1114080589", 
-      "src": "http://static01.nyt.com/images/2015/11/29/books/review/29POPOVA/1129-BKS-Popova-articleLarge.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "A good theory is an act of the informed imagination \u2014 it reaches toward the unknown while grounded in the firmest foundations of the known.", 
-    "word_count": "1305", 
-    "images": {
-      "1": {
-        "src": "http://static01.nyt.com/images/2015/11/29/books/review/29POPOVA/1129-BKS-Popova-articleLarge.jpg", 
-        "credit": "Luke Ramsey", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "1114080589", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "0", 
-    "time_added": "1448508251", 
     "status": "0", 
-    "sort_id": 2076, 
-    "resolved_url": "http://mobile.nytimes.com/2015/11/29/books/review/dark-matter-and-the-dinosaurs-by-lisa-randall.html", 
-    "authors": {
-      "2475265": {
-        "item_id": "1114080589", 
-        "url": "", 
-        "author_id": "2475265", 
-        "name": "Maria Popova"
-      }
-    }, 
-    "item_id": "1114080589", 
-    "resolved_id": "1114045815", 
-    "given_url": "http://mobile.nytimes.com/2015/11/29/books/review/dark-matter-and-the-dinosaurs-by-lisa-randall.html?smid=tw-share&referer=", 
-    "resolved_title": "\u2018Dark Matter and the Dinosaurs,\u2019 by Lisa Randall", 
     "is_index": "0", 
+    "sort_id": 2076, 
     "time_updated": "1448508252", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "", 
-    "has_image": "1"
+    "resolved_url": "http://mobile.nytimes.com/2015/11/29/books/review/dark-matter-and-the-dinosaurs-by-lisa-randall.html", 
+    "is_article": "0", 
+    "item_id": "1114080589", 
+    "time_added": "1448508251", 
+    "resolved_id": "1114045815", 
+    "given_url": "http://mobile.nytimes.com/2015/11/29/books/review/dark-matter-and-the-dinosaurs-by-lisa-randall.html?smid=tw-share&referer=", 
+    "resolved_title": "Log In"
   }, 
   {
     "status": "0", 
