@@ -13775,17 +13775,6 @@
     }
   }, 
   {
-    "videos": {
-      "1": {
-        "src": "https://www.youtube.com/embed/V4IuXZOIf7E?rel=0&showinfo=0", 
-        "vid": "V4IuXZOIf7E", 
-        "video_id": "1", 
-        "height": "248", 
-        "width": "440", 
-        "item_id": "735594013", 
-        "type": "1"
-      }
-    }, 
     "is_article": "1", 
     "image": {
       "item_id": "735594013", 
@@ -13798,7 +13787,7 @@
     "images": {
       "1": {
         "src": "http://fhww.files.wordpress.com/2013/07/5481288261_042f8f6e2b.jpg?quality=80&strip=all&w=640", 
-        "credit": "", 
+        "credit": "Photo credit: Moyan Brenn", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "735594013", 
@@ -13807,7 +13796,7 @@
       }, 
       "2": {
         "src": "http://fhww.files.wordpress.com/2013/07/5015699055_341d243f21.jpg?quality=80&strip=all&w=640", 
-        "credit": "", 
+        "credit": "Photo: Mike Hedge", 
         "height": "0", 
         "image_id": "2", 
         "item_id": "735594013", 
@@ -13815,7 +13804,7 @@
         "width": "0"
       }
     }, 
-    "has_video": "1", 
+    "has_video": "0", 
     "time_added": "1412965675", 
     "status": "0", 
     "tags": {
@@ -26560,6 +26549,35 @@
     "resolved_id": "337982938", 
     "given_url": "http://www.jacook.name/discovery/discoverysteardrop.html", 
     "resolved_title": "She has a tear in her eye"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2090, 
+    "time_updated": "1448987545", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Simple, lightweight Flat Surface Shader written in JavaScript for rendering lit Triangles to a number of contexts. Currently there is support for WebGL, Canvas 2D and SVG. Check out this demo to see it in action.", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "579", 
+    "authors": {
+      "25261531": {
+        "item_id": "325080546", 
+        "url": "https://github.com/wagerfield", 
+        "author_id": "25261531", 
+        "name": "wagerfield"
+      }
+    }, 
+    "given_title": "wagerfield/flat-surface-shader", 
+    "resolved_url": "https://github.com/wagerfield/flat-surface-shader", 
+    "is_article": "1", 
+    "item_id": "325080546", 
+    "time_added": "1448987545", 
+    "resolved_id": "325080546", 
+    "given_url": "https://github.com/wagerfield/flat-surface-shader", 
+    "resolved_title": "wagerfield/flat-surface-shader"
   }, 
   {
     "videos": {
