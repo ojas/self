@@ -41416,8 +41416,8 @@
       "height": "0", 
       "width": "100"
     }, 
-    "excerpt": "Google Cloud Shell provides you with command-line access to computing resources hosted on Google Cloud Platform and is now available in the Google Developers Console.", 
-    "word_count": "392", 
+    "excerpt": "Google Cloud Shell provides you with command-line access to computing resources hosted on Google Cloud Platform and is available now in the Google Cloud Platform Console.", 
+    "word_count": "393", 
     "images": {
       "1": {
         "src": "https://cloud.google.com/cloud-shell/docs/images/used-console.png", 
