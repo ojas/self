@@ -112902,191 +112902,323 @@
     "time_updated": "1402246183", 
     "time_favorited": "0", 
     "time_read": "0", 
-    "excerpt": "Simple ingredients. Elegant dishes.", 
+    "excerpt": "Juicy crisp-tender pork chops served with the most heavenly cream sauce. Made in <30 min. You can\u2019t beat that! Cream sauce. Yes, lemon basil...  Chili\u2019s copycat recipe made at home with an amazingly creamy melt-in-your-mouth alfredo sauce.", 
+    "image": {
+      "item_id": "364625382", 
+      "src": "http://damndelicious.net/wp-content/uploads/2015/06/IMG_9309edit-220x330.jpg", 
+      "height": "330", 
+      "width": "220"
+    }, 
     "has_image": "1", 
     "favorite": "0", 
     "has_video": "0", 
-    "word_count": "22", 
+    "word_count": "181", 
     "images": {
-      "11": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/06/IMG_0616edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "11", 
-        "item_id": "364625382", 
-        "caption": "One Pan Honey Garlic Chicken and Veggies\n", 
-        "width": "650"
-      }, 
-      "10": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/07/IMG_1309edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "10", 
-        "item_id": "364625382", 
-        "caption": "Honey Balsamic Chicken Breasts and Veggies\n", 
-        "width": "650"
-      }, 
-      "13": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/05/IMG_7289edit-logo-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "13", 
-        "item_id": "364625382", 
-        "caption": "One Pan Salmon and Veggies\n", 
-        "width": "650"
-      }, 
-      "12": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/06/IMG_0067edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "12", 
-        "item_id": "364625382", 
-        "caption": "One Pan Lemon Herb Salmon and Zucchini\n", 
-        "width": "650"
-      }, 
-      "15": {
-        "src": "http://damndelicious.net/wp-content/uploads/2014/09/IMG_7950edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "15", 
-        "item_id": "364625382", 
-        "caption": "Easy Burrito Bowls\n", 
-        "width": "650"
-      }, 
-      "14": {
-        "src": "http://damndelicious.net/wp-content/uploads/2014/10/IMG_7543edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "14", 
-        "item_id": "364625382", 
-        "caption": "Asian Quinoa Meatballs\n", 
-        "width": "650"
-      }, 
-      "17": {
-        "src": "http://damndelicious.net/wp-content/uploads/2014/06/IMG_2595edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "17", 
-        "item_id": "364625382", 
-        "caption": "Quinoa Chicken Parmesan\n", 
-        "width": "650"
-      }, 
-      "16": {
-        "src": "http://damndelicious.net/wp-content/uploads/2014/07/IMG_2646edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "16", 
-        "item_id": "364625382", 
-        "caption": "Quinoa Enchilada Casserole\n", 
-        "width": "650"
-      }, 
-      "19": {
-        "src": "http://damndelicious.net/wp-content/uploads/2014/05/IMG_0562edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "19", 
-        "item_id": "364625382", 
-        "caption": "Black Bean Quinoa Salad\n", 
-        "width": "650"
-      }, 
-      "18": {
-        "src": "http://damndelicious.net/wp-content/uploads/2014/06/IMG_1821edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "18", 
-        "item_id": "364625382", 
-        "caption": "", 
-        "width": "650"
-      }, 
-      "22": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/07/IMG_1188edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "22", 
-        "item_id": "364625382", 
-        "caption": "Perfect Iced Coffee\n", 
-        "width": "650"
-      }, 
-      "23": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/06/IMG_0236edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "23", 
-        "item_id": "364625382", 
-        "caption": "Watermelon Pineapple Lemonade\n", 
-        "width": "650"
-      }, 
-      "20": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/08/IMG_2802edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "20", 
-        "item_id": "364625382", 
-        "caption": "Pineapple Mint Spritzer\n", 
-        "width": "650"
-      }, 
-      "3": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/07/IMG_2331edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "3", 
-        "item_id": "364625382", 
-        "caption": "Cilantro Jalapeno Sauce\n", 
-        "width": "650"
-      }, 
-      "25": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/05/IMG_7641edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "25", 
-        "item_id": "364625382", 
-        "caption": "Strawberry Pineapple Kale Smoothie\n", 
-        "width": "650"
-      }, 
-      "7": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/08/IMG_2502edit-650x650.jpg", 
-        "credit": "", 
-        "height": "650", 
-        "image_id": "7", 
-        "item_id": "364625382", 
-        "caption": "Hawaiian Chicken and Pineapple\n", 
-        "width": "650"
-      }, 
       "24": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/05/IMG_8880edit-650x650.jpg", 
+        "src": "http://damndelicious.net/wp-content/uploads/2015/10/IMG_6801edit1-220x330.jpg", 
         "credit": "", 
-        "height": "650", 
+        "height": "330", 
         "image_id": "24", 
         "item_id": "364625382", 
-        "caption": "Frozen Peach Bellini\n", 
-        "width": "650"
+        "caption": "Slow Cooker Balsamic Brussels Sprouts", 
+        "width": "220"
       }, 
-      "9": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/07/IMG_2146edit-650x650.jpg", 
+      "25": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/10/IMG_6616edit-220x330.jpg", 
         "credit": "", 
-        "height": "650", 
-        "image_id": "9", 
+        "height": "330", 
+        "image_id": "25", 
         "item_id": "364625382", 
-        "caption": "One Pan Ranch Pork Chops and Veggies\n", 
-        "width": "650"
+        "caption": "Slow Cooker Maple Dijon Chicken and Broccoli", 
+        "width": "220"
       }, 
-      "8": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/06/IMG_9150edit-650x650.jpg", 
+      "26": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/10/IMG_6278edit-220x330.jpg", 
         "credit": "", 
-        "height": "650", 
-        "image_id": "8", 
+        "height": "330", 
+        "image_id": "26", 
         "item_id": "364625382", 
-        "caption": "Easy Thai Chicken\n", 
-        "width": "650"
+        "caption": "Pumpkin Pie Oatmeal", 
+        "width": "220"
+      }, 
+      "27": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/10/IMG_5577edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "27", 
+        "item_id": "364625382", 
+        "caption": "Pumpkin Churro Waffles", 
+        "width": "220"
+      }, 
+      "20": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_7105edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "20", 
+        "item_id": "364625382", 
+        "caption": "Homemade Hamburger Helper", 
+        "width": "220"
       }, 
       "21": {
-        "src": "http://damndelicious.net/wp-content/uploads/2015/07/IMG_1937edit-650x650.jpg", 
+        "src": "http://damndelicious.net/wp-content/uploads/2015/09/IMG_4421edit-220x330.jpg", 
         "credit": "", 
-        "height": "650", 
+        "height": "330", 
         "image_id": "21", 
         "item_id": "364625382", 
-        "caption": "Grapefruit Mimosas\n", 
-        "width": "650"
+        "caption": "One Pan Roasted Chicken with Fall Vegetables", 
+        "width": "220"
+      }, 
+      "22": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/07/IMG_2146edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "22", 
+        "item_id": "364625382", 
+        "caption": "One Pan Ranch Pork Chops and Veggies", 
+        "width": "220"
+      }, 
+      "23": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_6859edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "23", 
+        "item_id": "364625382", 
+        "caption": "Slow Cooker Ham and White Bean Soup", 
+        "width": "220"
+      }, 
+      "28": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/09/IMG_5291edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "28", 
+        "item_id": "364625382", 
+        "caption": "Ham and Cheese Hashbrown Waffles", 
+        "width": "220"
+      }, 
+      "29": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/09/IMG_5464edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "29", 
+        "item_id": "364625382", 
+        "caption": "Pumpkin Apple Doggie Mint Treats", 
+        "width": "220"
+      }, 
+      "1": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/06/IMG_9309edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "1", 
+        "item_id": "364625382", 
+        "caption": "Slow Cooker Honey Garlic Chicken and Veggies", 
+        "width": "220"
+      }, 
+      "3": {
+        "src": "http://damndelicious.net/wp-content/uploads/2014/07/IMG_2646edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "3", 
+        "item_id": "364625382", 
+        "caption": "Quinoa Enchilada Casserole", 
+        "width": "220"
+      }, 
+      "2": {
+        "src": "http://damndelicious.net/wp-content/uploads/2014/12/IMG_5229edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "2", 
+        "item_id": "364625382", 
+        "caption": "Lemon Butter Chicken", 
+        "width": "220"
+      }, 
+      "5": {
+        "src": "http://damndelicious.net/wp-content/uploads/2014/06/IMG_1858edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "5", 
+        "item_id": "364625382", 
+        "caption": "One Pot Zucchini Mushroom Pasta", 
+        "width": "220"
+      }, 
+      "4": {
+        "src": "http://damndelicious.net/wp-content/uploads/2014/06/IMG_2270edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "4", 
+        "item_id": "364625382", 
+        "caption": "Baked Parmesan Zucchini", 
+        "width": "220"
+      }, 
+      "7": {
+        "src": "http://damndelicious.net/wp-content/uploads/2014/04/IMG_5386edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "7", 
+        "item_id": "364625382", 
+        "caption": "One Pan Mexican Quinoa", 
+        "width": "220"
+      }, 
+      "6": {
+        "src": "http://damndelicious.net/wp-content/uploads/2014/05/IMG_0501edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "6", 
+        "item_id": "364625382", 
+        "caption": "", 
+        "width": "220"
+      }, 
+      "9": {
+        "src": "http://damndelicious.net/wp-content/uploads/2014/02/IMG_7821edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "9", 
+        "item_id": "364625382", 
+        "caption": "One Pot Chili Mac and Cheese", 
+        "width": "220"
+      }, 
+      "8": {
+        "src": "http://damndelicious.net/wp-content/uploads/2014/03/IMG_2626edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "8", 
+        "item_id": "364625382", 
+        "caption": "Spaghetti Carbonara", 
+        "width": "220"
+      }, 
+      "11": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/12/IMG_8714edit-340x510.jpg", 
+        "credit": "", 
+        "height": "510", 
+        "image_id": "11", 
+        "item_id": "364625382", 
+        "caption": "", 
+        "width": "340"
+      }, 
+      "10": {
+        "src": "http://damndelicious.net/wp-content/uploads/2014/02/IMG_4498edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "10", 
+        "item_id": "364625382", 
+        "caption": "Zucchini Parmesan Crisps", 
+        "width": "220"
+      }, 
+      "13": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_8630edit-340x510.jpg", 
+        "credit": "", 
+        "height": "510", 
+        "image_id": "13", 
+        "item_id": "364625382", 
+        "caption": "", 
+        "width": "340"
+      }, 
+      "12": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_8700edit-340x510.jpg", 
+        "credit": "", 
+        "height": "510", 
+        "image_id": "12", 
+        "item_id": "364625382", 
+        "caption": "", 
+        "width": "340"
+      }, 
+      "15": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_8399-340x510.jpg", 
+        "credit": "", 
+        "height": "510", 
+        "image_id": "15", 
+        "item_id": "364625382", 
+        "caption": "", 
+        "width": "340"
+      }, 
+      "14": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_8460edit-340x510.jpg", 
+        "credit": "", 
+        "height": "510", 
+        "image_id": "14", 
+        "item_id": "364625382", 
+        "caption": "", 
+        "width": "340"
+      }, 
+      "17": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/12/IMG_8714edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "17", 
+        "item_id": "364625382", 
+        "caption": "Pork Chops with Lemon Basil Cream Sauce", 
+        "width": "220"
+      }, 
+      "16": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_8293edit-340x510.jpg", 
+        "credit": "", 
+        "height": "510", 
+        "image_id": "16", 
+        "item_id": "364625382", 
+        "caption": "", 
+        "width": "340"
+      }, 
+      "19": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_8460edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "19", 
+        "item_id": "364625382", 
+        "caption": "Turkey Cranberry Grilled Cheese", 
+        "width": "220"
+      }, 
+      "18": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_8700edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "18", 
+        "item_id": "364625382", 
+        "caption": "Cajun Chicken Pasta", 
+        "width": "220"
+      }, 
+      "31": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/06/IMG_5451edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "31", 
+        "item_id": "364625382", 
+        "caption": "Spinach, Carrot and Zucchini Dog Treats", 
+        "width": "220"
+      }, 
+      "30": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/09/IMG_4576edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "30", 
+        "item_id": "364625382", 
+        "caption": "Healthy Pumpkin Puppuccinos", 
+        "width": "220"
+      }, 
+      "34": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_7252edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "34", 
+        "item_id": "364625382", 
+        "caption": "", 
+        "width": "220"
+      }, 
+      "33": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_8293edit-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "33", 
+        "item_id": "364625382", 
+        "caption": "Cranberry Pecan Baked Brie", 
+        "width": "220"
+      }, 
+      "32": {
+        "src": "http://damndelicious.net/wp-content/uploads/2015/11/IMG_8399-220x330.jpg", 
+        "credit": "", 
+        "height": "330", 
+        "image_id": "32", 
+        "item_id": "364625382", 
+        "caption": "Sweet Corn Spoonbread", 
+        "width": "220"
       }
     }, 
     "given_title": "Damn Delicious - Simple ingredients. Elegant dishes.", 
@@ -113096,7 +113228,7 @@
     "time_added": "1402246183", 
     "resolved_id": "364625382", 
     "given_url": "http://damndelicious.net/", 
-    "resolved_title": "Simple ingredients. Elegant dishes."
+    "resolved_title": "Damn Delicious - Simple ingredients. Elegant dishes."
   }, 
   {
     "status": "0", 
