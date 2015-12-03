@@ -41632,7 +41632,7 @@
     "is_article": "1", 
     "image": {
       "item_id": "812441789", 
-      "src": "https://nyoobserver.files.wordpress.com/2015/01/52442832.jpg", 
+      "src": "https://nyoobserver.files.wordpress.com/2015/01/52442832.jpg?quality=80", 
       "height": "300", 
       "width": "228"
     }, 
@@ -41640,7 +41640,7 @@
     "word_count": "1991", 
     "images": {
       "1": {
-        "src": "https://nyoobserver.files.wordpress.com/2015/01/52442832.jpg", 
+        "src": "https://nyoobserver.files.wordpress.com/2015/01/52442832.jpg?quality=80", 
         "credit": "Photo by David Westing/Getty Images", 
         "height": "300", 
         "image_id": "1", 
@@ -41649,7 +41649,7 @@
         "width": "228"
       }, 
       "2": {
-        "src": "https://nyoobserver.files.wordpress.com/2015/01/91219245.jpg", 
+        "src": "https://nyoobserver.files.wordpress.com/2015/01/91219245.jpg?quality=80", 
         "credit": "La Genese", 
         "height": "300", 
         "image_id": "2", 
