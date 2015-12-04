@@ -54119,6 +54119,35 @@
   {
     "status": "0", 
     "is_index": "0", 
+    "sort_id": 2094, 
+    "time_updated": "1449265946", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "Lee Fang, reporting for The Intercept:     Last year, Tommy Millner, the chief executive of Cabela\u2019s, a retailer that sells guns, boasted at an investor conference in Nebraska that his company made a \u201cconscious decision\u201d to stock additional weapons merchandise before the 2012 election, hoping", 
+    "has_image": "0", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "180", 
+    "authors": {
+      "49131": {
+        "item_id": "1124031429", 
+        "url": "", 
+        "author_id": "49131", 
+        "name": "John Gruber"
+      }
+    }, 
+    "given_title": "", 
+    "resolved_url": "http://daringfireball.net/linked/2015/12/04/gun-industry", 
+    "is_article": "1", 
+    "item_id": "1124031429", 
+    "time_added": "1449265945", 
+    "resolved_id": "1124031429", 
+    "given_url": "http://daringfireball.net/linked/2015/12/04/gun-industry", 
+    "resolved_title": "Gun Industry Executives : Mass Shootings Are Good for Business"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
     "sort_id": 2060, 
     "time_updated": "1447212986", 
     "time_favorited": "0", 
