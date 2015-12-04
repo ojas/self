@@ -57741,6 +57741,44 @@
   }, 
   {
     "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2093, 
+    "time_updated": "1449205738", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "< > (google map)  1988 toyota pickup condition: excellentfuel: gaspaint color: redtitle status: cleantransmission: manualtype: pickup THIS IS A REALLY GOOD PICK UP. IS A 2.4L 4 CYLINDERS 5 SPEEDS MANUAL TRANSMISSION, A/C AND HEAT WORKS PERFECT, HAS NO RUST AND LOOKS GREAT.", 
+    "image": {
+      "item_id": "1123295564", 
+      "src": "http://images.craigslist.org/00303_cNjihCInw3c_600x450.jpg", 
+      "height": "0", 
+      "width": "0"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "60", 
+    "images": {
+      "1": {
+        "src": "http://images.craigslist.org/00303_cNjihCInw3c_600x450.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "1", 
+        "item_id": "1123295564", 
+        "caption": "", 
+        "width": "0"
+      }
+    }, 
+    "given_title": "1988 toyota pickup outstanding clean original", 
+    "resolved_url": "https://killeen.craigslist.org/cto/5343817091.html", 
+    "is_article": "1", 
+    "item_id": "1123295564", 
+    "time_added": "1449205722", 
+    "resolved_id": "1123295564", 
+    "given_url": "https://killeen.craigslist.org/cto/5343817091.html", 
+    "resolved_title": "1988 toyota pickup outstanding clean original - $1800 (Belton)"
+  }, 
+  {
+    "status": "0", 
     "is_index": "1", 
     "sort_id": 934, 
     "time_updated": "1390325540", 
