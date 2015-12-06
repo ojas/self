@@ -2183,287 +2183,25 @@
     "resolved_title": "1991 ZR-1 Corvette Low Mileage ZR1 - $17500 (Lantana)"
   }, 
   {
-    "videos": {
-      "1": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/1.empty-to-partial.mov", 
-        "vid": "", 
-        "video_id": "1", 
-        "height": "888", 
-        "width": "500", 
-        "item_id": "1015845778", 
-        "type": "5"
-      }, 
-      "3": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/1.empty-to-partial.mov", 
-        "vid": "", 
-        "video_id": "3", 
-        "height": "888", 
-        "width": "500", 
-        "item_id": "1015845778", 
-        "type": "5"
-      }, 
-      "2": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/1.empty-to-partial.mov", 
-        "vid": "", 
-        "video_id": "2", 
-        "height": "888", 
-        "width": "500", 
-        "item_id": "1015845778", 
-        "type": "5"
-      }, 
-      "4": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/1.empty-to-partial.mov", 
-        "vid": "", 
-        "video_id": "4", 
-        "height": "888", 
-        "width": "500", 
-        "item_id": "1015845778", 
-        "type": "5"
-      }
-    }, 
-    "is_article": "1", 
-    "image": {
-      "item_id": "1015845778", 
-      "src": "http://scotthurff.com/images/posts/ui-stack/appletv-1.jpg", 
-      "height": "0", 
-      "width": "0"
-    }, 
-    "excerpt": "Hey! This is an excerpt from my book Designing Products People Love, which will be published by O'Reilly in December. Learn more about the book and the 20+ product designers from Facebook, Twitter, Slack, etc. who were interviewed about how they work.", 
-    "word_count": "4518", 
-    "images": {
-      "24": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/20.insta.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "24", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "20": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/16.linkedin.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "20", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "21": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/17.dbx.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "21", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "22": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/18.polar.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "22", 
-        "item_id": "1015845778", 
-        "caption": "\ufffc Luke Wroblewski\u2019s app, Polar, and its skeleton loading screens.", 
-        "width": "0"
-      }, 
-      "23": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/19.paper.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "23", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "1": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/appletv-1.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "1", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "3": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/ui-stack.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "3", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "2": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/appletv-2.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "2", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "5": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/1.skype.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "5", 
-        "item_id": "1015845778", 
-        "caption": "Ah, how picturesque. So data. Much photos.", 
-        "width": "0"
-      }, 
-      "4": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/screens-compressed.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "4", 
-        "item_id": "1015845778", 
-        "caption": "A real-life UI Stack for a messaging app. Each screen transitions seamlessly between each other.", 
-        "width": "0"
-      }, 
-      "7": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/3.coach.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "7", 
-        "item_id": "1015845778", 
-        "caption": "As George Takei would say: \u201cOh, my\u2026\u201d", 
-        "width": "0"
-      }, 
-      "6": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/2.tinder.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "6", 
-        "item_id": "1015845778", 
-        "caption": "Tinder has one of the best ideal states on the market.", 
-        "width": "0"
-      }, 
-      "9": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/5.hipchat.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "9", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "8": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/4.hero.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "8", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "11": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/7.basecamp.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "11", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "10": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/6.paper.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "10", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "13": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/9.mailbox.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "13", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "12": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/8.airbnb.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "12", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "15": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/11.pinterest.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "15", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "14": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/10.amazon.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "14", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "17": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/13.wp.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "17", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "16": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/12.aa.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "16", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "19": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/15.bsod.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "19", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }, 
-      "18": {
-        "src": "http://scotthurff.com/images/posts/ui-stack/14.basecamp.jpg", 
-        "credit": "", 
-        "height": "0", 
-        "image_id": "18", 
-        "item_id": "1015845778", 
-        "caption": "", 
-        "width": "0"
-      }
-    }, 
-    "has_video": "1", 
-    "time_added": "1448647106", 
     "status": "0", 
-    "sort_id": 2080, 
-    "resolved_url": "http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack", 
-    "item_id": "1015845778", 
-    "resolved_id": "1015845778", 
-    "given_url": "http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack", 
-    "resolved_title": "How to fix a bad user interface", 
     "is_index": "0", 
+    "sort_id": 2080, 
     "time_updated": "1448647106", 
     "time_favorited": "0", 
     "time_read": "0", 
+    "excerpt": "", 
+    "has_image": "0", 
     "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "0", 
     "given_title": "How to fix a bad user interface - Scott Hurff", 
-    "has_image": "1"
+    "resolved_url": "http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack", 
+    "is_article": "0", 
+    "item_id": "1015845778", 
+    "time_added": "1448647106", 
+    "resolved_id": "1015845778", 
+    "given_url": "http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack", 
+    "resolved_title": ""
   }, 
   {
     "is_article": "1", 
@@ -9351,7 +9089,7 @@
     "time_added": "1389205774", 
     "status": "0", 
     "sort_id": 900, 
-    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036", 
+    "resolved_url": "http://online.wsj.com/news/articles/SB10001424052702303933104579306664120892036#!", 
     "authors": {
       "9969180": {
         "item_id": "518589471", 
