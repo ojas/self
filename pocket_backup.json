@@ -72280,21 +72280,39 @@
     "is_article": "1", 
     "image": {
       "item_id": "349566026", 
-      "src": "http://i0.huffpost.com/gen/1120300/images/s-RAED-JASER-large.jpg", 
+      "src": "http://s.huffpost.com/contributors/ali-a-rizvi/headshot.jpg", 
       "height": "0", 
       "width": "0"
     }, 
-    "excerpt": "The ambassador answered us that [their right] was founded on the Laws of the Prophet, that it was written in their Koran, that all nations who should not have answered their authority were sinners, that it was their right and duty to make war upon them wherever they could be found, and to make", 
+    "excerpt": "The ambassador answered us that [their right] was founded on the Laws of the Prophet, that it was written in their Koran, that all nations who should not have answered their authority were sinners, that it was their right and duty to make war upon them wherever they could be found, an", 
     "word_count": "2074", 
     "images": {
       "1": {
-        "src": "http://i0.huffpost.com/gen/1120300/images/s-RAED-JASER-large.jpg", 
+        "src": "http://s.huffpost.com/contributors/ali-a-rizvi/headshot.jpg", 
         "credit": "", 
         "height": "0", 
         "image_id": "1", 
         "item_id": "349566026", 
+        "caption": "", 
+        "width": "0"
+      }, 
+      "3": {
+        "src": "http://i0.huffpost.com/gen/1120300/images/s-RAED-JASER-large.jpg", 
+        "credit": "", 
+        "height": "0", 
+        "image_id": "3", 
+        "item_id": "349566026", 
         "caption": "AP Photo/The Canadian Press, Chris Young", 
         "width": "0"
+      }, 
+      "2": {
+        "src": "http://www.huffingtonpost.com/images/v/print_icon.png", 
+        "credit": "", 
+        "height": "17", 
+        "image_id": "2", 
+        "item_id": "349566026", 
+        "caption": "", 
+        "width": "20"
       }
     }, 
     "has_video": "0", 
