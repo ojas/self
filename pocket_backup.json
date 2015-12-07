@@ -26685,6 +26685,322 @@
     "resolved_title": ""
   }, 
   {
+    "is_article": "1", 
+    "image": {
+      "item_id": "760125756", 
+      "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-1.jpg", 
+      "height": "506", 
+      "width": "601"
+    }, 
+    "excerpt": "Today we gathered 30 cheap and clever home decor hacks to liven up your home d\u00e9cor. Most of these clever ways are inexpensive and can be easily to complete.  Buy here.", 
+    "word_count": "203", 
+    "images": {
+      "24": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-23.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "24", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "25": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-24.jpg", 
+        "credit": "", 
+        "height": "803", 
+        "image_id": "25", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "26": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-25.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "26", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "27": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-26.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "27", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "20": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-19.jpg", 
+        "credit": "", 
+        "height": "394", 
+        "image_id": "20", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "21": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-20.jpg", 
+        "credit": "", 
+        "height": "717", 
+        "image_id": "21", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "22": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-21.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "22", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "23": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-22.jpg", 
+        "credit": "", 
+        "height": "591", 
+        "image_id": "23", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "28": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-27.jpg", 
+        "credit": "", 
+        "height": "1255", 
+        "image_id": "28", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "29": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-28.jpg", 
+        "credit": "", 
+        "height": "829", 
+        "image_id": "29", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "1": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-1.jpg", 
+        "credit": "", 
+        "height": "506", 
+        "image_id": "1", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "601"
+      }, 
+      "3": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-3.jpg", 
+        "credit": "", 
+        "height": "763", 
+        "image_id": "3", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "2": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-2.jpg", 
+        "credit": "", 
+        "height": "455", 
+        "image_id": "2", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "5": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-4-2.jpg", 
+        "credit": "", 
+        "height": "406", 
+        "image_id": "5", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "4": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-4.jpg", 
+        "credit": "", 
+        "height": "400", 
+        "image_id": "4", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "7": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-6.jpg", 
+        "credit": "", 
+        "height": "949", 
+        "image_id": "7", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "6": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-5.jpg", 
+        "credit": "", 
+        "height": "452", 
+        "image_id": "6", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "9": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-8.jpg", 
+        "credit": "", 
+        "height": "784", 
+        "image_id": "9", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "8": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-7.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "8", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "11": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-10.jpg", 
+        "credit": "", 
+        "height": "687", 
+        "image_id": "11", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "10": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-9.jpg", 
+        "credit": "", 
+        "height": "752", 
+        "image_id": "10", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "13": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-12.jpg", 
+        "credit": "", 
+        "height": "795", 
+        "image_id": "13", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "12": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-11.jpg", 
+        "credit": "", 
+        "height": "828", 
+        "image_id": "12", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "15": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-14.jpg", 
+        "credit": "", 
+        "height": "448", 
+        "image_id": "15", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "14": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-13.jpg", 
+        "credit": "", 
+        "height": "369", 
+        "image_id": "14", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "17": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-16.jpg", 
+        "credit": "", 
+        "height": "870", 
+        "image_id": "17", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "16": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-15.jpg", 
+        "credit": "", 
+        "height": "800", 
+        "image_id": "16", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "19": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-18.jpg", 
+        "credit": "", 
+        "height": "900", 
+        "image_id": "19", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "18": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-17.jpg", 
+        "credit": "", 
+        "height": "600", 
+        "image_id": "18", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "31": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-30.jpg", 
+        "credit": "", 
+        "height": "821", 
+        "image_id": "31", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }, 
+      "30": {
+        "src": "http://cdn.architecturendesign.net/wp-content/uploads/2014/11/Genius-home-decor-ideas-29.jpg", 
+        "credit": "", 
+        "height": "412", 
+        "image_id": "30", 
+        "item_id": "760125756", 
+        "caption": "", 
+        "width": "600"
+      }
+    }, 
+    "has_video": "0", 
+    "time_added": "1449448416", 
+    "status": "0", 
+    "sort_id": 2095, 
+    "resolved_url": "http://www.architecturendesign.net/30-cheap-and-easy-home-decor-hacks-are-borderline-genius/", 
+    "authors": {
+      "20997694": {
+        "item_id": "760125756", 
+        "url": "http://www.architecturendesign.net/author/khyber-alikhail/", 
+        "author_id": "20997694", 
+        "name": "MMK"
+      }
+    }, 
+    "item_id": "760125756", 
+    "resolved_id": "760125756", 
+    "given_url": "http://www.architecturendesign.net/30-cheap-and-easy-home-decor-hacks-are-borderline-genius/", 
+    "resolved_title": "30 Cheap and Easy Home Decor Hacks Are Borderline Genius", 
+    "is_index": "0", 
+    "time_updated": "1449448416", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "favorite": "0", 
+    "given_title": "30 Cheap and Easy Home Decor Hacks Are Borderline Genius | Architecture & D", 
+    "has_image": "1"
+  }, 
+  {
     "videos": {
       "1": {
         "src": "http://www.youtube.com/v/eIho2S0ZahI", 
@@ -38330,6 +38646,107 @@
     "favorite": "0", 
     "given_title": "A Canadian City Once Eliminated Poverty And Nearly Everyone Forgot About It", 
     "has_image": "1"
+  }, 
+  {
+    "status": "0", 
+    "is_index": "0", 
+    "sort_id": 2096, 
+    "time_updated": "1449448424", 
+    "time_favorited": "0", 
+    "time_read": "0", 
+    "excerpt": "The BMW i8, first introduced as the BMW Concept Vision Efficient Dynamics, is a plug-in hybrid under development by BMW. The initial concept car was unveiled at the 2009 Frankfurt Motor Show,[3] and the BMW i8 concept car destined for production was unveiled at the 2011 Frankfurt Motor Show.", 
+    "image": {
+      "item_id": "94323680", 
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BMW_i8_Concept_IAA.jpg/280px-BMW_i8_Concept_IAA.jpg", 
+      "height": "187", 
+      "width": "280"
+    }, 
+    "has_image": "1", 
+    "favorite": "0", 
+    "has_video": "0", 
+    "word_count": "854", 
+    "images": {
+      "1": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BMW_i8_Concept_IAA.jpg/280px-BMW_i8_Concept_IAA.jpg", 
+        "credit": "", 
+        "height": "187", 
+        "image_id": "1", 
+        "item_id": "94323680", 
+        "caption": "", 
+        "width": "280"
+      }, 
+      "3": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BMW_i8_Concept_IAA_front.jpg/120px-BMW_i8_Concept_IAA_front.jpg", 
+        "credit": "", 
+        "height": "80", 
+        "image_id": "3", 
+        "item_id": "94323680", 
+        "caption": "", 
+        "width": "120"
+      }, 
+      "2": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BMW_Concept_Vision_Efficient_Dynamics_Front.JPG/200px-BMW_Concept_Vision_Efficient_Dynamics_Front.JPG", 
+        "credit": "", 
+        "height": "150", 
+        "image_id": "2", 
+        "item_id": "94323680", 
+        "caption": "\n\nVision Efficient Dynamics concept vehicle unveiled at the 2009 Frankfurt Motor Show.", 
+        "width": "200"
+      }, 
+      "5": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/11-09-04-iaa-by-RalfR-248.jpg/120px-11-09-04-iaa-by-RalfR-248.jpg", 
+        "credit": "", 
+        "height": "80", 
+        "image_id": "5", 
+        "item_id": "94323680", 
+        "caption": "", 
+        "width": "120"
+      }, 
+      "4": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/BMW_i8_Concept_IAA_side.jpg/120px-BMW_i8_Concept_IAA_side.jpg", 
+        "credit": "", 
+        "height": "80", 
+        "image_id": "4", 
+        "item_id": "94323680", 
+        "caption": "", 
+        "width": "120"
+      }, 
+      "7": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BMW_i8_Concept.jpg/120px-BMW_i8_Concept.jpg", 
+        "credit": "", 
+        "height": "80", 
+        "image_id": "7", 
+        "item_id": "94323680", 
+        "caption": "", 
+        "width": "120"
+      }, 
+      "6": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11-09-04-iaa-by-RalfR-246.jpg/120px-11-09-04-iaa-by-RalfR-246.jpg", 
+        "credit": "", 
+        "height": "80", 
+        "image_id": "6", 
+        "item_id": "94323680", 
+        "caption": "", 
+        "width": "120"
+      }, 
+      "8": {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BMW_i8_Concept_rear.jpg/120px-BMW_i8_Concept_rear.jpg", 
+        "credit": "", 
+        "height": "80", 
+        "image_id": "8", 
+        "item_id": "94323680", 
+        "caption": "", 
+        "width": "120"
+      }
+    }, 
+    "given_title": "BMW i8 - Wikipedia, the free encyclopedia", 
+    "resolved_url": "http://en.wikipedia.org/wiki/BMW_i8", 
+    "is_article": "1", 
+    "item_id": "94323680", 
+    "time_added": "1449448424", 
+    "resolved_id": "94323680", 
+    "given_url": "https://en.wikipedia.org/wiki/BMW_i8", 
+    "resolved_title": "BMW i8"
   }, 
   {
     "status": "0", 
