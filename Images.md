@@ -42,6 +42,8 @@
 
 ![6a00d83431352e53ef01a73d6160a8970d-pi 500×375 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73d6160a8970d-pi)
 
+![12310666_442466802621040_6281449340186433080_n.jpg 604×550 pixels](https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/12310666_442466802621040_6281449340186433080_n.jpg?oh=1b3927ca7043847df1ad2e9629541d2a&oe=56E3FB09)
+
 ![6a00d83431352e53ef01a510b566c3970c-pi 400×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a510b566c3970c-pi)
 
 ![So you want to visit Tasmania? - Imgur](http://imgur.com/a/QkPso)
