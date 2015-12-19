@@ -130,6 +130,8 @@
 
 ![10468202_10152231114630025_1255164168361320872_n.jpg 605×785 pixels](https://scontent-b-iad.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10468202_10152231114630025_1255164168361320872_n.jpg)
 
+![giphy.gif 600×800 pixels](https://media.giphy.com/media/d2ZbxnD6YpUsYheU/giphy.gif)
+
 ![6a00d83431352e53ef01a511f31c1d970c-pi 500×667 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31c1d970c-pi)
 
 ![Taylor Swift quotes by @SwiftOnSecurity - Imgur](https://imgur.com/a/1PDRJ)
