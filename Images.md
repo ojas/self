@@ -32,6 +32,8 @@
 
 ![5zpJkvd.jpg 500×505 pixels](http://i.imgur.com/5zpJkvd.jpg)
 
+![6a00d83431352e53ef01b7c7fc28bd970b-pi 576×864 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c7fc28bd970b-pi)
+
 ![6a00d83431352e53ef017ee7e66d4a970d-pi (500×386)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee7e66d4a970d-pi)
 
 ![6a00d83431352e53ef01a3fd2b61b3970b-pi 347×260 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a3fd2b61b3970b-pi)
