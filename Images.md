@@ -136,8 +136,6 @@
 
 ![6a00d83431352e53ef01a511f31c1d970c-pi 500×667 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511f31c1d970c-pi)
 
-![Taylor Swift quotes by @SwiftOnSecurity - Imgur](https://imgur.com/a/1PDRJ)
-
 ![6a00d83431352e53ef017eeb468312970d-pi (499×490)](http://www.summerofdan.net/.a/6a00d83431352e53ef017eeb468312970d-pi)
 
 ![6a00d83431352e53ef017616fe8479970c-pi (720×540)](http://www.summerofdan.net/.a/6a00d83431352e53ef017616fe8479970c-pi)
