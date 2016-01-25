@@ -122,6 +122,8 @@
 
 ![6a00d83431352e53ef01901c86bec3970b-pi (500×362)](http://www.summerofdan.net/.a/6a00d83431352e53ef01901c86bec3970b-pi)
 
+![](https://instagram.com/p/BA8X8cBi1qK/)
+
 ![6a00d83431352e53ef017ee7e66ad4970d-pi (400×300)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee7e66ad4970d-pi)
 
 ![Lesser known films that just need some more attention. - Imgur](http://imgur.com/a/wOt5l)
@@ -158,7 +160,7 @@
 
 ![6a00d83431352e53ef01a73dfe6c74970d-pi 500×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73dfe6c74970d-pi)
 
-![6a00d83431352e53ef01a73d9ca316970d-pi 400×224 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73d9ca316970d-pi)
+![kUWMRkK.gif (320×180)](http://i.imgur.com/kUWMRkK.gif)
 
 ![8kT0ioL.gif 350×197 pixels](http://i.imgur.com/8kT0ioL.gif)
 
@@ -180,7 +182,7 @@
 
 ![tumblr_lwkt6qRDc61qz7aa6o1_1280.jpg (1280×720)](http://31.media.tumblr.com/tumblr_lwkt6qRDc61qz7aa6o1_1280.jpg)
 
-![kUWMRkK.gif (320×180)](http://i.imgur.com/kUWMRkK.gif)
+![6a00d83431352e53ef01a73d9ca316970d-pi 400×224 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73d9ca316970d-pi)
 
 ![](https://instagram.com/p/54ojf5oGox/)
 
