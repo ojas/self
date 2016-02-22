@@ -3,6 +3,7 @@
 - [](http://roseynews.com/top-27-places-u-s-foreigners-crazy/) - 
 - [Ibiza Vacations, Tourism and Ibiza, Spain Travel Reviews - TripAdvisor](http://www.tripadvisor.com/Tourism-g187460-Ibiza_Balearic_Islands-Vacations.html) - We noticed that you're using an unsupported browser. The TripAdvisor website may not display properly. We support the following browsers: Windows: Internet Explorer, Mozilla Firefox, Google Chrome. Mac: Safari.
 - [Lessons Learned From A Year Living In A Van](http://indefinitelywild.gizmodo.com/lessons-learned-from-a-year-living-in-a-van-1695536542/+travis) - I've been living on the road for more than a year. Seattle, Los Angeles, San Diego, Baja, Las Vegas, Tempe. Something like 20,000 miles. Let me break down a few of the things I've learned along the way.  Prepare to be judged: By your friends, your family, co-workers. Both past and present.
+- [hotel husafell](https://www.google.com/search?q=hotel+husafell&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari) - 
 - [Trolltunga](http://en.wikipedia.org/wiki/Trolltunga) - Trolltunga is a piece of rock that stands horizontally out of the mountain above Skjeggedal in Odda, Norway. The name translated to English is The Troll's tongue.
 - [Hueco Tanks State Park & Historic Site Map](http://tpwd.texas.gov/state-parks/hueco-tanks/map) - Travel 32 miles northeast of El Paso on U.S. Highway 62/180, then turn north on Ranch Road 2775.  Current conditions can vary from day to day. For more details, contact the park.
 - [polerstuff's photo on Instagram](http://instagram.com/p/t55n4VkMUe/) - 
