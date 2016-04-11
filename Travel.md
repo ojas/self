@@ -2,6 +2,7 @@
 
 - [](http://roseynews.com/top-27-places-u-s-foreigners-crazy/) - 
 - [So you want to visit Tasmania?](http://imgur.com/a/QkPso) - 
+- [stovetop wells death valley](https://www.google.com/search?q=stovetop+wells+death+valley&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#hl=en-us&q=stovepipe+wells+death+valley) - 
 - [Lessons Learned From A Year Living In A Van](http://indefinitelywild.gizmodo.com/lessons-learned-from-a-year-living-in-a-van-1695536542/+travis) - I've been living on the road for more than a year. Seattle, Los Angeles, San Diego, Baja, Las Vegas, Tempe. Something like 20,000 miles. Let me break down a few of the things I've learned along the way.  Prepare to be judged: By your friends, your family, co-workers. Both past and present.
 - [hotel husafell](https://www.google.com/search?q=hotel+husafell&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari) - 
 - [Trolltunga](http://en.wikipedia.org/wiki/Trolltunga) - Trolltunga is a piece of rock that stands horizontally out of the mountain above Skjeggedal in Odda, Norway. The name translated to English is The Troll's tongue.
