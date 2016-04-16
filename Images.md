@@ -50,8 +50,6 @@
 
 ![6a00d83431352e53ef01a510b566c3970c-pi 400×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a510b566c3970c-pi)
 
-![So you want to visit Tasmania? - Imgur](http://imgur.com/a/QkPso)
-
 ![www.summerofdan.net/.a/6a00d83431352e53ef017c376f393d970b-pi](http://www.summerofdan.net/.a/6a00d83431352e53ef017c376f393d970b-pi)
 
 ![6a00d83431352e53ef01b7c7510f62970b-pi 500×750 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c7510f62970b-pi)
