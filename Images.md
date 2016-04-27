@@ -22,9 +22,11 @@
 
 ![6a00d83431352e53ef01901c86b3ee970b-pi (500×526)](http://www.summerofdan.net/.a/6a00d83431352e53ef01901c86b3ee970b-pi)
 
-![6a00d83431352e53ef017ee8d74917970d-pi (500×749)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8d74917970d-pi)
+![6a00d83431352e53ef01bb078d877f970d-pi 500×625 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01bb078d877f970d-pi)
 
 ![6a00d83431352e53ef01a73d6be1b1970d-pi 1,280×1,280 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73d6be1b1970d-pi)
+
+![6a00d83431352e53ef01b8d1ce8d9e970c-pi 500×499 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b8d1ce8d9e970c-pi)
 
 ![tumblr_llcmrfhG4P1qcnqszo1_400.gif 400×170 pixels](http://33.media.tumblr.com/tumblr_llcmrfhG4P1qcnqszo1_400.gif)
 
@@ -86,7 +88,7 @@
 
 ![6a00d83431352e53ef01b7c776d1c7970b-pi 900×600 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c776d1c7970b-pi)
 
-![6a00d83431352e53ef017ee8acc4e6970d-pi (800×600)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8acc4e6970d-pi)
+![6a00d83431352e53ef017c373459c3970b-pi (1280×724)](http://www.summerofdan.net/.a/6a00d83431352e53ef017c373459c3970b-pi)
 
 ![e8a5w9s.gif 400×300 pixels](http://i.imgur.com/e8a5w9s.gif)
 
@@ -116,7 +118,7 @@
 
 ![](http://instagram.com/p/t55n4VkMUe/)
 
-![6a00d83431352e53ef01bb078d877f970d-pi 500×625 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01bb078d877f970d-pi)
+![6a00d83431352e53ef017ee8d74917970d-pi (500×749)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8d74917970d-pi)
 
 ![Something we'd all do well to remember - Imgur](http://imgur.com/a/mNDXo)
 
@@ -126,13 +128,15 @@
 
 ![](https://instagram.com/p/BA8X8cBi1qK/)
 
+![6a00d83431352e53ef01b7c84447d6970b-pi 1,080×1,077 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c84447d6970b-pi)
+
 ![6a00d83431352e53ef017ee7e66ad4970d-pi (400×300)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee7e66ad4970d-pi)
 
 ![Lesser known films that just need some more attention. - Imgur](http://imgur.com/a/wOt5l)
 
 ![Congress](http://xkcd.com/1127/)
 
-![6a00d83431352e53ef017c373459c3970b-pi (1280×724)](http://www.summerofdan.net/.a/6a00d83431352e53ef017c373459c3970b-pi)
+![6a00d83431352e53ef017ee8acc4e6970d-pi (800×600)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8acc4e6970d-pi)
 
 ![10468202_10152231114630025_1255164168361320872_n.jpg 605×785 pixels](https://scontent-b-iad.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10468202_10152231114630025_1255164168361320872_n.jpg)
 
@@ -155,6 +159,8 @@
 ![10891014_402256033275650_914073331_n.jpg 306×306 pixels](http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/s306x306/e15/10891014_402256033275650_914073331_n.jpg)
 
 ![6a00d83431352e53ef017d40723774970c-pi (720×540)](http://www.summerofdan.net/.a/6a00d83431352e53ef017d40723774970c-pi)
+
+![6a00d83431352e53ef01b7c8444573970b-pi 416×960 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c8444573970b-pi)
 
 ![omdtmc181ds0sl.jpg 420×566 pixels](http://file.vintageadbrowser.com/omdtmc181ds0sl.jpg)
 
