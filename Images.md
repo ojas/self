@@ -132,6 +132,8 @@
 
 ![6a00d83431352e53ef017ee7e66ad4970d-pi (400×300)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee7e66ad4970d-pi)
 
+![600_9696-copy.jpg 1,500×1,001 pixels](http://ccmeets.com/wp-content/uploads/2015/12/600_9696-copy.jpg)
+
 ![Lesser known films that just need some more attention. - Imgur](http://imgur.com/a/wOt5l)
 
 ![Congress](http://xkcd.com/1127/)
