@@ -46,6 +46,8 @@
 
 ![6a00d83431352e53ef01a511dafe5e970c-pi 346×260 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511dafe5e970c-pi)
 
+![8kT0ioL.gif 350×197 pixels](http://i.imgur.com/8kT0ioL.gif)
+
 ![](http://instagram.com/p/twPX49EMeQ/)
 
 ![6a00d83431352e53ef01a73d6160a8970d-pi 500×375 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73d6160a8970d-pi)
@@ -182,7 +184,7 @@
 
 ![kUWMRkK.gif (320×180)](http://i.imgur.com/kUWMRkK.gif)
 
-![8kT0ioL.gif 350×197 pixels](http://i.imgur.com/8kT0ioL.gif)
+![](https://instagram.com/p/BJUgh8uhKVd/)
 
 ![tumblr_mlyjajupvK1ql2603o1_500.jpg (500×573)](http://25.media.tumblr.com/b8d728e80e0a362a4cb742b0b4edb295/tumblr_mlyjajupvK1ql2603o1_500.jpg)
 
