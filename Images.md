@@ -48,7 +48,7 @@
 
 ![6a00d83431352e53ef01a511dafe5e970c-pi 346×260 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a511dafe5e970c-pi)
 
-![8kT0ioL.gif 350×197 pixels](http://i.imgur.com/8kT0ioL.gif)
+![](https://instagram.com/p/BJUgh8uhKVd/)
 
 ![](http://instagram.com/p/twPX49EMeQ/)
 
@@ -57,6 +57,8 @@
 ![12310666_442466802621040_6281449340186433080_n.jpg 604×550 pixels](https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/12310666_442466802621040_6281449340186433080_n.jpg?oh=1b3927ca7043847df1ad2e9629541d2a&oe=56E3FB09)
 
 ![6a00d83431352e53ef01a510b566c3970c-pi 400×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a510b566c3970c-pi)
+
+![6a00d83431352e53ef01bb092fc57b970d-pi 500×750 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01bb092fc57b970d-pi)
 
 ![www.summerofdan.net/.a/6a00d83431352e53ef017c376f393d970b-pi](http://www.summerofdan.net/.a/6a00d83431352e53ef017c376f393d970b-pi)
 
@@ -140,6 +142,8 @@
 
 ![6a00d83431352e53ef01b7c84447d6970b-pi 1,080×1,077 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c84447d6970b-pi)
 
+![Untitled](http://www.summerofdan.net/.a/6a00d83431352e53ef01bb092c4270970d-pi)
+
 ![6a00d83431352e53ef017ee7e66ad4970d-pi (400×300)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee7e66ad4970d-pi)
 
 ![600_9696-copy.jpg 1,500×1,001 pixels](http://ccmeets.com/wp-content/uploads/2015/12/600_9696-copy.jpg)
@@ -186,7 +190,7 @@
 
 ![kUWMRkK.gif (320×180)](http://i.imgur.com/kUWMRkK.gif)
 
-![](https://instagram.com/p/BJUgh8uhKVd/)
+![8kT0ioL.gif 350×197 pixels](http://i.imgur.com/8kT0ioL.gif)
 
 ![tumblr_mlyjajupvK1ql2603o1_500.jpg (500×573)](http://25.media.tumblr.com/b8d728e80e0a362a4cb742b0b4edb295/tumblr_mlyjajupvK1ql2603o1_500.jpg)
 
