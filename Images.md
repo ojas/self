@@ -28,6 +28,8 @@
 
 ![6a00d83431352e53ef01b8d1ce8d9e970c-pi 500×499 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01b8d1ce8d9e970c-pi)
 
+![6a00d83431352e53ef01bb09321ad9970d-pi 423×750 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01bb09321ad9970d-pi)
+
 ![13041104_10154802277467571_2383367787304108119_o.jpg 2,048×1,367 pixels](https://scontent-atl3-1.xx.fbcdn.net/t31.0-8/13041104_10154802277467571_2383367787304108119_o.jpg)
 
 ![tumblr_llcmrfhG4P1qcnqszo1_400.gif 400×170 pixels](http://33.media.tumblr.com/tumblr_llcmrfhG4P1qcnqszo1_400.gif)
