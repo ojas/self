@@ -136,11 +136,11 @@
 
 ![6a00d83431352e53ef017ee8d74917970d-pi (500×749)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8d74917970d-pi)
 
-![Something we'd all do well to remember - Imgur](http://imgur.com/a/mNDXo)
+![6a00d83431352e53ef01901c86bec3970b-pi (500×362)](http://www.summerofdan.net/.a/6a00d83431352e53ef01901c86bec3970b-pi)
 
 ![6a00d83431352e53ef0192abe335f7970d-pi (500×690)](http://www.summerofdan.net/.a/6a00d83431352e53ef0192abe335f7970d-pi)
 
-![6a00d83431352e53ef01901c86bec3970b-pi (500×362)](http://www.summerofdan.net/.a/6a00d83431352e53ef01901c86bec3970b-pi)
+![Something we'd all do well to remember - Imgur](http://imgur.com/a/mNDXo)
 
 ![](https://instagram.com/p/BA8X8cBi1qK/)
 
@@ -197,6 +197,8 @@
 ![6a00d83431352e53ef01a73dfe6c74970d-pi 500×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73dfe6c74970d-pi)
 
 ![6a00d83431352e53ef01a73d9ca316970d-pi 400×224 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73d9ca316970d-pi)
+
+![](https://instagram.com/p/BMMB3cuBtrc/)
 
 ![8kT0ioL.gif 350×197 pixels](http://i.imgur.com/8kT0ioL.gif)
 
