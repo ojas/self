@@ -134,7 +134,7 @@
 
 ![6a00d83431352e53ef017ee8591af8970d-pi (403×403)](http://www.summerofdan.net/.a/6a00d83431352e53ef017ee8591af8970d-pi)
 
-![1424360_10152111622646275_7872616177428780741_n.png (403×402)](https://scontent-a.xx.fbcdn.net/hphotos-ash3/t1.0-9/1424360_10152111622646275_7872616177428780741_n.png)
+![6a00d83431352e53ef0192abe335f7970d-pi (500×690)](http://www.summerofdan.net/.a/6a00d83431352e53ef0192abe335f7970d-pi)
 
 ![Birds and Dinosaurs](http://xkcd.com/1211/)
 
@@ -144,7 +144,7 @@
 
 ![6a00d83431352e53ef01901c86bec3970b-pi (500×362)](http://www.summerofdan.net/.a/6a00d83431352e53ef01901c86bec3970b-pi)
 
-![6a00d83431352e53ef0192abe335f7970d-pi (500×690)](http://www.summerofdan.net/.a/6a00d83431352e53ef0192abe335f7970d-pi)
+![1424360_10152111622646275_7872616177428780741_n.png (403×402)](https://scontent-a.xx.fbcdn.net/hphotos-ash3/t1.0-9/1424360_10152111622646275_7872616177428780741_n.png)
 
 ![Something we'd all do well to remember - Imgur](http://imgur.com/a/mNDXo)
 
@@ -203,6 +203,8 @@
 ![Ride North - Imgur](http://imgur.com/a/RPa0L)
 
 ![6a00d83431352e53ef01a73dfe6c74970d-pi 500×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73dfe6c74970d-pi)
+
+![](https://instagram.com/p/BMrHpcjgm_d/)
 
 ![kUWMRkK.gif (320×180)](http://i.imgur.com/kUWMRkK.gif)
 
