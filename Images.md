@@ -60,6 +60,8 @@
 
 ![6a00d83431352e53ef01a510b566c3970c-pi 400×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a510b566c3970c-pi)
 
+![](http://www.summerofdan.net/.a/6a00d83431352e53ef01b7c8b13615970b-pi)
+
 ![6a00d83431352e53ef01bb092fc57b970d-pi 500×750 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01bb092fc57b970d-pi)
 
 ![www.summerofdan.net/.a/6a00d83431352e53ef017c376f393d970b-pi](http://www.summerofdan.net/.a/6a00d83431352e53ef017c376f393d970b-pi)
