@@ -162,6 +162,8 @@
 
 ![Something we'd all do well to remember - Imgur](http://imgur.com/a/mNDXo)
 
+![](https://instagram.com/p/BNiK8tjAMex/)
+
 ![](https://instagram.com/p/BA8X8cBi1qK/)
 
 ![Untitled](http://www.summerofdan.net/.a/6a00d83431352e53ef01bb092c4270970d-pi)
