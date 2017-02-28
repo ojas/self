@@ -1,5 +1,6 @@
 # Travel
 
+- [Escape to Baja: Three Blissed-Out Days Touring Mexico on a Harley-Davidson](http://blog.caranddriver.com/escape-to-baja-three-blissed-out-days-touring-mexico-on-a-harley-davidson/) - Germans. It was always Germans. Germans on Harleys in the desert. A platoon of friendly dudes taking a break from the Fatherland to explore the arid expanses of the American Southwest on big old Yankee bikes, V-twins shimmering in the heat. To a man, they’d be swaddled in EagleRider jackets.
 - [](http://roseynews.com/top-27-places-u-s-foreigners-crazy/) - 
 - [So you want to visit Tasmania?](http://imgur.com/a/QkPso) - 
 - [stovetop wells death valley](https://www.google.com/search?q=stovetop+wells+death+valley&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#hl=en-us&q=stovepipe+wells+death+valley) - 
