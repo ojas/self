@@ -6,7 +6,7 @@
 - [stovetop wells death valley](https://www.google.com/search?q=stovetop+wells+death+valley&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#hl=en-us&q=stovepipe+wells+death+valley) - 
 - [Hawaiian Cruises](http://www.princess.com/learn/cruise-destinations/hawaii-cruises/index.html) - Join Princess on a magical Hawaii cruise and explore the islands of Maui, Oahu, Kauai and the Big Island – continually rated among the world's top islands by experts like Condé Nast Traveler, Travel & Leisure and Frommer's.
 - [hotel husafell](https://www.google.com/search?q=hotel+husafell&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari) - 
-- [Trolltunga](http://en.wikipedia.org/wiki/Trolltunga) - Trolltunga is a piece of rock that stands horizontally out of the mountain above Skjeggedal in Odda, Norway. The name translated to English is The Troll's tongue.
+- [Trolltunga](https://en.wikipedia.org/wiki/Trolltunga) - Trolltunga (Troll tongue) is a piece of rock jutting horizontally out of a mountain about 700 metres (2,300 ft) above the north side of the lake Ringedalsvatnet[1] in the municipality of Odda in Hordaland county, Norway. The cliff is located east of the Skjeggedal area, about 10 kilometres (6.
 - [Hueco Tanks State Park & Historic Site Map](http://tpwd.texas.gov/state-parks/hueco-tanks/map) - Travel 32 miles northeast of El Paso on U.S. Highway 62/180, then turn north on Ranch Road 2775.  Current conditions can vary from day to day. For more details, contact the park.
 - [Switzerland's Mountain Coaster Lets You Slide Down the Alps](http://www.cntraveler.com/stories/2016-03-09/switzerland-mountain-coaster-lets-you-slide-down-the-alps) - 
 - [polerstuff's photo on Instagram](http://instagram.com/p/t55n4VkMUe/) - 
