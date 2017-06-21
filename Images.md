@@ -248,8 +248,6 @@
 
 ![omdtmc181ds0sl.jpg 420×566 pixels](http://file.vintageadbrowser.com/omdtmc181ds0sl.jpg)
 
-![10 lesser known movies to check out in 2014 - Imgur](https://imgur.com/a/oo5p0)
-
 ![Ride North - Imgur](http://imgur.com/a/RPa0L)
 
 ![6a00d83431352e53ef01a73dfe6c74970d-pi 500×400 pixels](http://www.summerofdan.net/.a/6a00d83431352e53ef01a73dfe6c74970d-pi)
