@@ -1,1 +1,1 @@
-/Users/ojas/Library/Mobile\ Documents/74ZAFF46HB\~jp\~informationarchitects\~Writer/Documents/NOW.md
+/Users/ojas/Library/Mobile Documents/74ZAFF46HB~jp~informationarchitects~Writer/Documents/NOW.md
