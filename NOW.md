@@ -2,21 +2,9 @@
 
 Put times next to each one. Find tasks with long lead times. do those now.
 
-- [ ] Get SV ready for the weekend, fix toilet paper holder, broken pot, fire-pit
-- [X] J&Y housesitting
-- [X] Install router at #Patchwork
-- [X] AC repair at #Patchwork
-- [X] #SLD Airstream - Window unit AC
-- [X] #SLD Airstream - shower rod, secure.
-- [X] #SLD Airstream - Replace mirror
-- [X] #SLD House - Fix chairs - brackets are bent
-- [X] #SLD House - Towel rack in master bathroom is loose
-- [X] #SLD House - Bottom gate hinge
-- [X] #SLD House - Install new router
-- [X] #SLD Airstream - level it
 - [ ] #SLD Tiny Home - Sand, stain, secure stairs
 - [ ] #SLD Tiny Home - Secure kitchenette
-- [X] #SLD Outside - Lock for storage box
+- [ ] Get SV ready for the weekend, fix toilet paper holder, broken pot, fire-pit
 - [ ] Taco blower motor resistor
 - [ ] July11? JGil bday?
 
@@ -87,6 +75,18 @@ It must be in this list before going to bed prior night. If you don’t want to 
 
 # Done
 
+- [X] J&Y housesitting
+- [X] Install router at #Patchwork
+- [X] AC repair at #Patchwork
+- [X] #SLD Airstream - Window unit AC
+- [X] #SLD Airstream - shower rod, secure.
+- [X] #SLD Airstream - Replace mirror
+- [X] #SLD House - Fix chairs - brackets are bent
+- [X] #SLD House - Towel rack in master bathroom is loose
+- [X] #SLD House - Bottom gate hinge
+- [X] #SLD House - Install new router
+- [X] #SLD Airstream - level it
+- [X] #SLD Outside - Lock for storage box
 - [X] Portable AC at #Patchwork
 - [X] Review chase CC charges (>$12K)
 - [X] Pickup routers
