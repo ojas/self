@@ -1,1 +1,330 @@
-/Users/ojas/Library/Mobile Documents/74ZAFF46HB~jp~informationarchitects~Writer/Documents/NOW.md
+# Today
+
+Put times next to each one. Find tasks with long lead times. do those now.
+
+- [ ] Get SV ready for the weekend, fix toilet paper holder, broken pot, fire-pit
+- [X] J&Y housesitting
+- [X] Install router at #Patchwork
+- [X] AC repair at #Patchwork
+- [X] #SLD Airstream - Window unit AC
+- [X] #SLD Airstream - shower rod, secure.
+- [X] #SLD Airstream - Replace mirror
+- [X] #SLD House - Fix chairs - brackets are bent
+- [X] #SLD House - Towel rack in master bathroom is loose
+- [X] #SLD House - Bottom gate hinge
+- [X] #SLD House - Install new router
+- [X] #SLD Airstream - level it
+- [ ] #SLD Tiny Home - Sand, stain, secure stairs
+- [ ] #SLD Tiny Home - Secure kitchenette
+- [X] #SLD Outside - Lock for storage box
+- [ ] Taco blower motor resistor
+- [ ] July11? JGil bday?
+
+# WTT
+
+It must be in this list before going to bed prior night. If you don’t want to do it at home. It must go here before you leave work. Separate work from home.
+
+- [ ] #Patchwork members
+- [ ] 11:30 Follow up with #Patchwork Trials
+- [ ] 11:00 Clean up #Patchwork Members
+- [ ] Straighten out Ojas Properties / Patchwork / personal accounts
+- [X] #FollowUp Airbnb expenses
+- [X] Tiny home expenses
+
+# This Week
+
+- [ ] Start putting stuff on my pinterest
+- [ ] UHCU Mortgage docs, need access
+- [ ] UHCU mortgage docs: 2016-present P&L/Balance Sheet
+- [ ] Stratfor: Ken & Preston
+- [ ] Work on Aristocrat
+- [ ] #TheSV craigslist add / Sublet
+- [ ] Setup Wave for #Patchwork incl create initial deposit and actual expenses
+- [ ] #SageIQ #Accel Braintree vs. Stripe (managed vs. standalone)
+- [ ] #SageIQ #Accel Ledger spec
+- [X] Julian SV cleaning
+- [ ] Message JGill
+- [ ] Grande Internet
+- [ ] Sat #SageIQ Drop-off Sreeni’s badge at Twyla
+- [ ] Sat #SageIQ Get chairs from Twyla
+- [ ] Thurs Settle up Auto Dojo expenses
+- [ ] Thurs Talk AutoDojo plan with José
+- [ ] Wed #AutoDojo Bills - check on Auto Dojo internet
+- [ ] #FollowUp 16:30 Return #Patchwork Cable modem
+- [ ] Tues #Olga check propane
+- [ ] <https://www.coursera.org/learn/machine-learning>
+- [ ] 13:00 #SageIQ #Stratfor Podcast <https://changelog.com/podcast/185>
+- [X] #Patchwork ensure internet stays up next week
+- [ ] Sat Treat for Remi
+- [ ] 20:00 Treat for Scott
+- [ ] Message Jacob Gostylo
+
+# June 26
+
+- [ ] Schedule time with Lee Ha to look at prelude for wrap <https://www.facebook.com/messages/t/haleewood>
+
+
+
+
+# Tracks
+
+- [ ] Rent SV
+	- Fix sofa / get new sofa
+  - Firepit
+- [ ] Refi Loan / consolidation
+
+# Next
+
+- [ ] Setup Waveapp for Auto Dojo
+- [ ] Setup Waveapp for Patchwork
+- [ ] 16:00 SV - Get art for #Patchwork
+- [ ] #Followup McGrew CPA tax status
+- [ ] Sell: Moto
+- [ ] Search PoC for eCommission
+- [ ] #Patchwork Amazon business account, (don’t pay prime fee)
+- [ ] Send Stratfor Invoice
+- [ ] July-5 #AutoDojo contact Ahmed & Jensen
+
+# Done
+
+- [X] Portable AC at #Patchwork
+- [X] Review chase CC charges (>$12K)
+- [X] Pickup routers
+- [X] Send thank you note to Connor
+- [X] #SLD Get bigger water heater (find capacity of water heater)
+- [X] #SLD Get closet paint (get shelf for paint sample)
+- [X] #TheSV - schedule Julian
+- [X] #Followup Taco radio
+- [X] July 4 Pool Party invite
+- [X] July 4 Rooftop invite
+- [X] #Followup Taco mirror
+- [X] AWS Free tier - #046607407560
+- [X] #Followup Steve… call sewer line
+- [X] #Followup Janet… Bigger water heater, Shower drain, Paint closet
+- [X] UHCU mortgage docs: W-2s/1099s - Last 2 years
+- [X] Buy routers
+- [X] Oil 5W50 for LFA, 5W30 for Taco
+- [X] #SV Refi - schedule E.
+- [X] #SLD Update
+- [X] #UHCU bank statement for Ojas Properties
+- [X] pay @ nextdoorlawncare02@gmail.com
+- [X] #AutoDojo get portable AC
+- [X] key-based services module <https://www.drupal.org/project/services_api_key_auth> use services 3 (aka Drupal 1.7)
+- [X] Add dates in Asana for Ken
+- [X] Fix CSRF issue in API proxy
+- [X] Setup Stratfor DB
+- [X] Send SLD statement & tiny home update
+- [X] Create code for Jamie
+- [X] UHCU mortgage docs: Copy of SS Card
+- [X] UHCU mortgage - do i want to do the 30 or 15?
+- [X] #Patchwork dish soap dispenser
+- [X] Call Brad McGrew CPA
+- [X] #SageIQ Complete SAP Fieldglass for D&B
+- [X] Friday, Jenson & Ahmed timeslots
+- [X] #SageIQ #Accel Manvir staging access
+- [X] 17:00 #FollowUp w/ atty re: Burton JP4, 979-289-2921
+- [X] #SageIQ #Accel Get update on bug fixes
+- [X] Intro Matt Randall & Weston - I need Matt’s email address.
+- [X] Send Suite964 update to the film people
+- [X] Insurance for Segovia
+- [X] Refund for Cassie’s stay
+- [X] 10:00 UHCU call about mortgage
+- [X] Order sofa for tiny home
+- [X] Manvir Bid & Book workflow
+- [X] 10:30 #Stratfor Send link to Ken
+- [X] 11:00 #Stratfor Get Ubuntu spec from Michael Moore
+- [X] 11:00 #Stratfor API meeting w/ Matt
+- [X] 14:30 #Stratfor API meeting w/ Ken
+- [X] 16:00 #SageIQ eCommission Facebook
+- [X] 09:00 Spectrum internet issue for Patchwork
+- [X] Chicago parking ticket
+- [X] Austin parking ticket (2x)
+- [X] preston call site conversion
+- [X] #Stratfor next week sync up w/ Matt & Ken
+- [X] Schedule meeting invite w/ Matt on Tues
+- [X] Explore network for eClinicalWorks EMR/EHR dev resource
+- [X] 18:00 #AutoDojo Get VX Hitch
+- [X] 18:00 #AutoDojo: get glasses, clippers, litter scoop, shoes, put cord
+- [X] 18:00 #AutoDojo: bucket
+- [X] 18:30 #AutoDojo Sell: VX Hitch
+- [X] 19:00 Cameo at Sreeni’s citizenship GTG
+- [X] 21:00 Pack for trip
+- [X] 22:00 Get cash
+- [X] 08:00 Put TV & AppleTV in tiny home
+- [X] 08:00 #Airstream - mirror
+- [X] 08:00 #Airstream - look at shower
+- [X] 08:30 #Airstream - key duplicate
+- [X] 09:00 SV - Get Nick’s packages ready for him
+- [X] 09:00 #Network - Weston Woodward
+- [X] 10:00 #Network - @dylanbenjam
+- [X] 12:00 Find catsitter for #TNN & get them access to tiny home
+- [X] 12:00 Talk to atty re: Burton JP4, 979-289-2921
+- [X] 12:00 Figure out evening plans w/ Roman
+- [X] 12:00 Setup Roman as host for HomeAway guest Andrea
+- [X] 12:00 Ping McGrew CPA tax status
+- [X] 13:00 #Airstream - put key back
+- [X] 14:30 #Stratfor Sync
+- [X] 16:00 SV - Towels, make sure place is solid
+- [X] Best buy - pick up TV & Apple TV
+- [X] Patchwork - Justyna backup while I’m away
+- [X] #SageIQ Get Sreeni’s badge
+- [X] Get hoverboard, scooter, my stuff from Twyla
+- [X] 05.10 Sync up with Alex
+- [X] Setup Skip a payment for LFA loan for June 2017
+- [X] #Airbnb Nick resolution on days when they were working inside
+- [X] #Airbnb post-Nick SV Cleaning Julian
+- [X] Patchwork Wire xfer
+- [X] #Patchwork Open bank account for Sage IQ Spaces
+- [X] #Stratfor schedule time w/ Matt & Larry re API
+- [X] #Stratfor AWS?
+- [X] Fix fence at SLD
+- [X] Meet Roman 8:30AM, fence
+- [X] CBR title transfer
+- [X] #FollowUp Get MacBook back from Daniel
+- [X] 05.10 Condo inspection
+- [X] 05.10 Stratfor Meeting
+- [X] 05.10 #Patchwork Get back with Emilie
+- [X] 05.10 #Patchwork Register LLC for Sage IQ Spaces
+- [X] 05.10 #Accel #Bidandbook Sync up with Manvir
+- [X] #Accel #Bidandbook Task list for BnB Phase 2
+- [X] #Patchwork Excel spreadsheet model to determine min viability
+- [X] #Patchwork atty Bogdan Rentea 5124726291 brentea@rentealaw.com
+- [X] Go to: <https://www.facebook.com/theweirdcone/photos/a.500322126808845.1073741828.498699200304471/794742004033521/?type=3&theater>
+- [X] Matt API Friday brownbag
+- [X] #Accel #Stratfor D3 dude, go nuts, sky’s the limit - https://flowingdata.com/tag/new-york-times/
+- [X] #Stratfor Other data pyramids
+- [X] #Patchwork 2 years of personal tax returns
+- [X] #Patchwork personal financial statement
+- [X] #Patchwork bio/ resume.
+- [X] #Accel #Strafor D3 homework for developers, 2 devs, data-get ready
+- [X] D3 Stratfor - I met with him this morning and challenged him to a more “skys-the-limit” visualization.
+- [X] Followup Anand
+- [X] Pick out tiles, shower fixtures, bath sink, toilet, kitchen sink, counter.
+- [X] Daniel MacBook get back
+- [X] Bid & Book task list & estimate
+- [X] Review D3 video, get code, next steps
+- [X] Order Trailer Valet XL 2.5" Ball
+- [X] High-res SV pics for Airbnb
+- [X] Upwork D3 developer for Stratfor $30, bill at $50
+- [X] Upload high-res SV pics to Homeaway & complete listing
+- [X] Jenny shoe donation for SAFE
+- [x] Ken update map microapp
+- [X] ask Kevin Shaw about VIP tix for WHT
+- [X] #AutoDojo create WaveApp (accounting) profile
+- [X] #AutoDojo list extra dry ice for sale on CL
+- [X] #AutoDojo broadband internet (non hotspot)
+- [X] #Accel #Stratfor D3 task list
+- [X] Schedule Julian for Euphoria days
+- [X] #FollowUp Anand: follow up w/ rate after talking w/ Sreeni
+- [X] #AutoDojo jose@ & ojas@ emails
+- [X] #AutoDojo Biz cards
+- [X] Taco windshield, inspection, registration
+- [X] Send James LFA Video (front camera)
+- [X] #Airbnb List on Homeaway & VRBO, ensure high-res pics
+- [X] #BCW Timeslots for David, Umar financials walk thru w/ Justin
+- [X] #Autodojo settle up
+- [X] #Airbnb view passwords and change as needed
+- [X] #Create Get Aristocrat to Auto Dojo
+- [X] Goodwill, pick up record players
+- [X] Ensure we protest these prop taxes 1802 Kafka Circle, Round Rock, TX 78664 & 12316 Timber Heights, Austin, TX 78754
+- [X] #Grind #Stratfor “Best Value” overlaps on checkout page on tablet size
+- [X] #Grind #Stratfor Hubspot tracking for Tarun
+- [X] Airbnb Cohosting Services
+- [X] #Accel #Bidandbook Task list for Jijoy / upwork developer
+- [X] Airbnb Q1 overview
+- [X] Ensure Euphoria wristband arrives
+- [X] #Bidandbook 
+- [X] Mystic Quarry Feedback
+- [X] #FollowUp on chairs
+- [X] #Grind Bidandbook: fixes 3-8-17 from DanZ
+- [X] #Grind Bidandbook: image import (https://www.homeaway.com/vacation-rental/p4266365)
+- [X] #BCW: send out 2017.03.13 Notes
+- [X] Personal tax docs
+- [X] Mail postcards for Victoria
+- [X] Nah #Accel Sreeni ecommission disk to server
+- [X] InGauge - Point *.inguagueminerlas.com to elb except www.ingaugeminerals.com
+- [X] InGauge Migrate database to private network
+- [X] InGauge SSL cert on ELB
+- [X] #Grind #Stratfor Hubspot ECOMM template make hero skinner 
+- [X] Talk to Matt about Jessica visit
+- [X] #Grind #Stratfor API productization steps/slide for Ken
+- [X] InGauge - ELB
+- [X] ticket
+- [X] LFA inspection - 3PM
+- [X] AirSV - Set payout prefs in Airbnb app
+- [X] Find a place to stay Mar 12 - 16
+- [X] Twyla rent
+- [X] FOLLOWUP Msg: MikeP Stratfor demo app styling
+- [X] 7PM Drop of TNN
+- [X] AirSV - Meet w/ Roman
+- [X] AirSV - Clean
+- [X] Daniel $500
+- [X] Justy paper
+- [X] AirSV - Welcome doc, code 4052
+- [X] AirSV - set code 4052 for guests
+- [X] Msg: JGill re: sms
+- [X] FOLLOWUP: Sreeni - Daniel severance
+- [X] Meet Jijoy
+- [X] Msg: Reply back to Allison re: TNN
+- [X] Blake: Walden, who did the deck?
+- [X] Deploy e-commission app to rackspace
+- [X] ecommission rackspace deploy app with Postgres
+- [X] Anand, Thu rate
+- [X] Boxcar Willie intro
+- [X] StratAPI: Logo
+- [X] StratAPI: IA
+- [X] StratAPI: Sketch file, Thinktiv - N/A
+- [X] StratAPI: IT Person
+- [X] StratAPI: Get rid of Success Stories, find Use Cases & Personas; Bruce mobile personas, etc - N/A
+- [X] StratAPI: Font - Aaron
+- [X] SR-22 ins
+- [X] Bnb: forgot password
+- [X] Bnb: Home preview page
+- [X] Bnb: BETA in header
+- [X] Bnb: chatio
+- [X] Bnb: help text, in CMS
+- [X] Database, clean-ups home
+- [X] Google Analytics
+- [X] Bnb: make nav CMS editable and non-angular
+- [X] Bnb: spend all day on cleanup
+- [X] Stratfor: widget
+- [X] Stratfor: swagger, more
+- [X] Stratfor: API app deploy site
+- [X] Stratfor: whitelist
+- [X] Bnb: import fix & testing
+- [X] Bnb: image thumbnail aspect ratio
+- [X] Bnb: Carousel fix for Bid and book
+- [X] Bnb: mobile/iPhone test
+- [X] Checkin on upwork. Get Sreeni to be point-person.
+- [X] Follow-up w/ Rob re: Honda Accord
+- [X] Stratfor: non-prod public account access
+- [X] Stratfor: API site sync up w/ MikeP
+- [X] Stratfor: Jenkins build
+- [X] 1098 int for SL Davis Mortgage
+- [X] Sage IQ Consulting, invite to Brad
+- [X] Portal; frank@mcgrewcpa.com for access
+- [X] Follow-up w/ Beth re: Taco
+- [X] Ping Dan & Britt
+- [X] Call ins bicycle accident
+- [X] CMA Lease from Jamie, Lease & Sales
+- [X] Get docs needed for OL (<http://roadmanlaw.com/odl>)
+- [X] Bnb: setup guide, get Jijoy setup
+- [X] Sage IQ, Jason’s bro
+- [X] contact atty
+- [X] get new homeowner ins
+- [X] write bio for DWI
+- [X] Summarize meeting from yday
+- [X] Ping José
+- [X] Auto Dojo brochure, monica
+- [X] Sage IQ Django App spec
+- [X] data hosting 
+- [X] prep for 7pm meeting
+- [X] Send veronica message re: shirt / print / art
+- [X] #Grind: MikeP, Stratfor API, access
+- [X] #Grind: Stratfor API deploy
+- [X] #Grind: API site
+- [X] #Grind: Abstraction layer
+- [X] #Grind: Get account on hosted non-prod instance
+- [X] #Grind: AWS API Gateway?
+- [X] #Grind: Ojas, widget
+
