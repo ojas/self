@@ -2,22 +2,32 @@
 
 Put times next to each one. Find tasks with long lead times. do those now.
 
-- [ ] #SLD Tiny Home - Sand, stain, secure stairs
-- [ ] #SLD Tiny Home - Secure kitchenette
-- [ ] Get SV ready for the weekend, fix toilet paper holder, broken pot, fire-pit
-- [ ] Taco blower motor resistor
+
+- [ ] #SV fix toilet paper holder
 - [ ] July11? JGil bday?
+- [X] Fix lock at #Patchwork
+- [X] Get SV ready for the weekend, broken pot, fire-pit, get my junk out of living room, put up sheets
+- [X] Bid and book to Manvir… username: dan@bidandbook.com, password is: W3lc0m3!@#, use Sandbox for now
+- [X] Taco radio
+- [X] #Followup Janet… Bigger water heater, Shower drain, Paint closet
+- [X] Airbnb expenses
+- [X] Tiny home expenses
+- [X] Taco blower motor resistor
+- [X] Taco passenger mirror
 
 # WTT
 
 It must be in this list before going to bed prior night. If you don’t want to do it at home. It must go here before you leave work. Separate work from home.
 
+- [ ] #Jeff marketing - connect to Ken & Francois
+- [ ] #Jeff marketing - connect to TCG
+- [ ] #SLD Tiny Home - Sand, stain, secure stairs
+- [ ] #SLD Tiny Home - Secure kitchenette
 - [ ] #Patchwork members
+- [ ] #Patchwork Kevin
 - [ ] 11:30 Follow up with #Patchwork Trials
 - [ ] 11:00 Clean up #Patchwork Members
 - [ ] Straighten out Ojas Properties / Patchwork / personal accounts
-- [X] #FollowUp Airbnb expenses
-- [X] Tiny home expenses
 
 # This Week
 
@@ -94,13 +104,11 @@ It must be in this list before going to bed prior night. If you don’t want to 
 - [X] #SLD Get bigger water heater (find capacity of water heater)
 - [X] #SLD Get closet paint (get shelf for paint sample)
 - [X] #TheSV - schedule Julian
-- [X] #Followup Taco radio
 - [X] July 4 Pool Party invite
 - [X] July 4 Rooftop invite
-- [X] #Followup Taco mirror
+- [X] Taco mirror
 - [X] AWS Free tier - #046607407560
 - [X] #Followup Steve… call sewer line
-- [X] #Followup Janet… Bigger water heater, Shower drain, Paint closet
 - [X] UHCU mortgage docs: W-2s/1099s - Last 2 years
 - [X] Buy routers
 - [X] Oil 5W50 for LFA, 5W30 for Taco
